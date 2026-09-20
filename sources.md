@@ -1,4 +1,8 @@
 # GPSE Sources
+https://doc.rust-lang.org/rust-by-example/fn/methods.html
+
+https://www.bible.com/
+
 https://www.kingjamesbibleonline.org/1611-Bible/
 
 https://pml.nist.gov/cuu/Constants/Table/allascii.txt

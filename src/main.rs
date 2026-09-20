@@ -6,8 +6,8 @@ use gpse::mathematical::geometry::area_square;
 use gpse::mathematical::geometry::formula_area;
 use gpse::mathematical::geometry::formula_volume;
 use gpse::physical::equations::gravitational_force;
-use gpse::theory::test_theory::carter_constant;
-use gpse::theory::test_theory::volume_sphere;
+
+
 fn main() {
     test_bible();
 
@@ -23,14 +23,12 @@ fn main() {
 
     area_square(8.0);
 
-    volume_sphere(33.0);
+    //for n in 0..=1 {
+    //    let n = n as f64;
+    //    let result = carter_constant(n);
+    //    println!("n = {n}, CT = {result}");
+    //}
 
-    for n in 0..=1 {
-        let n = n as f64;
-        let result = carter_constant(n);
-        println!("n = {n}, CT = {result}");
-    }
-
-    println!("Type \"help\" for commands.")
+    println!("Type \"help\" for commands.");
     cli_commands();
 }

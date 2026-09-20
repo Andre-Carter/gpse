@@ -31,8 +31,8 @@ pub fn volume_sphere(radius: f64) {
 //    ct_input_7
 //}
 
-pub fn carter_constant(n: f64) -> f64 {
-    let carter_constant = 1.0 - (PI / 4.0);
-    let cc_1 = n.powi(2) - carter_constant;
-    cc_1
-}
+//pub fn carter_constant(n: f64) -> f64 {
+  //  let carter_constant = 1.0 - (PI / 4.0);
+   // let cc_1 = n.powi(2) - carter_constant;
+  //  cc_1
+//}
