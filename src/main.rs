@@ -6,6 +6,8 @@ use gpse::mathematical::geometry::area_square;
 use gpse::mathematical::geometry::formula_area;
 use gpse::mathematical::geometry::formula_volume;
 use gpse::physical::equations::gravitational_force;
+//use gpse::mathematical::carter_family::test_carter;
+use gpse::mathematical::carter_family::carter_formula;
 
 
 fn main() {
@@ -23,11 +25,12 @@ fn main() {
 
     area_square(8.0);
 
-    //for n in 0..=1 {
-    //    let n = n as f64;
-    //    let result = carter_constant(n);
-    //    println!("n = {n}, CT = {result}");
-    //}
+    for h in 1..=100 {
+        let h = h as f64;
+        carter_formula(h);
+    }
+
+    //test_carter();
 
     println!("Type \"help\" for commands.");
     cli_commands();
