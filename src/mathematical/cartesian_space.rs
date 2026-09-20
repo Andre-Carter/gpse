@@ -1,10 +1,10 @@
 //need cartesian grid builder file
-// need naming distiction between xyz xyz.. abc? the mathematical terminology i think is like "k", something something 
+// need naming distiction between xyz xyz.. abc? the mathematical terminology i think is like "k", something something
 /*
 pub struct Point {
     x: f64,
     y: f64,
-    z: f64, 
+    z: f64,
 }
 
 impl Point {

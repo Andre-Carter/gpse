@@ -9,7 +9,6 @@ use gpse::physical::equations::gravitational_force;
 //use gpse::mathematical::carter_family::test_carter;
 use gpse::mathematical::carter_family::carter_formula;
 
-
 fn main() {
     test_bible();
 

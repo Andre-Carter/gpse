@@ -2,7 +2,7 @@ use std::f64::consts::PI;
 
 pub const PI_SQ: f64 = PI * PI;
 //sequencial mathematics vs individal math """"
-//pub const CC_ONE: f64: = 
+//pub const CC_ONE: f64: =
 
 //CC: Carter Constant
 //SQ: squared
@@ -60,19 +60,52 @@ pub fn carter_formula(h: f64) -> f64 {
     let ca: f64 = PI * ds2;
     println!("Circle Area: {ca}");
 
-    let sp: f64 = h + h + h + h + h + h + h + h;
+    let sp: f64 = ds + ds + ds + ds;
     println!("Square Perimeter: {sp}");
 
     let cc: f64 = (2.0 * PI) * h;
     println!("Circle Circumfrence: {cc}");
 
-    let gap: f64 = sa - ca;
-    println!("Gap: {gap}");
+    let agap: f64 = sa - ca;
+    println!("Area Gap: {agap}");
 
-    gap
+    //let cc_agap: f64 = (sa - ca) / sa;
+    let agap_eq: f64 = agap / sa;
+    println!("CARTER-CONSTANT: {agap_eq}");
+
+    let cc_eq: f64 = (agap / sa) - CC;
+    println!("CC CHECK: {cc_eq}");
+
+    //CC
+    let agap_eq: f64 = sa * CC;
+    println!("A-Gap Formula: {agap_eq}");
+
+    let pgap: f64 = sp - cc;
+    println!("Perimeter Gap: {pgap}");
+
+    let pgap_sp_ratio: f64 = pgap / sp;
+    println!("Perimeter-Gap / Square-Area Ratio: {pgap_sp_ratio}");
+
+    let sa_ca_ratio: f64 = sa / ca;
+    println!("Square/Circle Area Ratio: {sa_ca_ratio}");
+
+    let ca_sa_ratio: f64 = ca / sa;
+    println!("Circle/Square Area Ratio: {ca_sa_ratio}");
+
+    //CC RADIAN
+    let ca_sa_ratio_eq: f64 = ca_sa_ratio - CC_RADIAN;
+    println!("Circle/Square Area Ratio Equation: {ca_sa_ratio_eq}");
+
+    let sp_cc_ratio: f64 = sp / cc;
+    println!("Square/Circle Perimeter Ratio: {sp_cc_ratio}");
+
+    let cc_sp_ratio: f64 = cc / sp;
+    println!("Circle/Square Perimeter Ratio: {cc_sp_ratio}");
+
+    cc_sp_ratio
 }
 
-//pub const CARTER_RATIO: f64 = 
+//pub const CARTER_RATIO: f64 =
 pub fn carter_ratio(n: f64) -> f64 {
     n / (n + PI_SQ)
 }
