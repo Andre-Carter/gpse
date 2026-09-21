@@ -25,6 +25,9 @@ pub fn cli_calc() {
         }
     };
 
+    //MATCH OPERAND 1
+    //CHECK FOR CONSTANT, DO MATH WITH CONSTANTS
+
     print!(
         "Enter Operator | (+)(-)(*)(/)(^)(%) or \"add\", \"subtract\", \"multiply\", \"divide\", \"power\", \"modulo\":"
     );
@@ -41,6 +44,8 @@ pub fn cli_calc() {
             return;
         }
     };
+
+    //MATCH OPERAND 2
 
     let operator = operator.trim().to_lowercase();
 

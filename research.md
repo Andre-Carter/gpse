@@ -2061,3 +2061,7 @@ The Carter Ratio and related mathematical experiments should remain documented s
 **GPSE remains an evolving system.**
 
 **Architecture follows evidence.**
+
+- NEW CARTESIAN SYSTEM?
+
+- chess program

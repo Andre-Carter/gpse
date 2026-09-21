@@ -9,8 +9,11 @@ pub const PI_SQ: f64 = PI * PI;
 //COMPL: COMPLEMENT
 //RECIP: RECIPROCAL
 
-pub const CC_KEY: f64 = 4.0;
+pub const CC_2D: f64 = 4.0;
+pub const CC_3D: f64 = 6.0;
+
 pub const CC_RADIAN: f64 = PI / 4.0;
+pub const CC_RADIAN_CUBED: f64 = PI / 6.0;
 
 pub const CC_ONE: f64 = 1.0 - PI;
 pub const CC_FOUR: f64 = 4.0 - PI;
@@ -51,20 +54,49 @@ pub fn carter_formula(h: f64) -> f64 {
     let ds: f64 = h + h;
     println!("Diameter/Side: {ds}");
 
-    let ds2: f64 = h * h;
-    println!("Radius Squared: {ds2}");
+    let qa: f64 = h * h;
+    println!("Quarter Area: {qa}");
 
     let sa: f64 = ds * ds;
     println!("Square Area: {sa}");
 
-    let ca: f64 = PI * ds2;
+    //SQUARE-ROOT or QUARTER AREA
+    let qa_eq: f64 = sa / 4.0;
+    println!("Square-Root/Quarter-Area: {qa_eq}");
+
+    let qa2: f64 = qa + qa;
+    let corner_length: f64 = qa2.sqrt();
+    println!("Corner Length: {corner_length}");
+
+    let corner_ratio: f64 = h / corner_length;
+    println!("Corner-Ratio: {corner_ratio}");
+
+    let ca: f64 = PI * qa;
     println!("Circle Area: {ca}");
 
     let sp: f64 = ds + ds + ds + ds;
     println!("Square Perimeter: {sp}");
 
+    //let sp: f64 = ds * 4.0;
+    //println!("Square Perimeter: {sp}");
+
     let cc: f64 = (2.0 * PI) * h;
     println!("Circle Circumfrence: {cc}");
+
+    let cc_pi: f64 = ds * PI;
+    println!("Circle Circumfrence From PI: {cc_pi}");
+
+    let d: f64 = cc / PI;
+    println!("Diameter From Circumfrence: {d}");
+
+    let qtr_c: f64 = cc / 4.0;
+    println!("Quarter-Circumfrence: {qtr_c}");
+
+    let qtr_c_fraction: f64 = 1.0 / qtr_c;
+    println!("Quarter-Circumfrence Fraction {qtr_c_fraction}");
+    
+    let qtr_c_ratio: f64 = 1.0 / qtr_c;
+    println!("Quarter-Circumfrence Ratio {qtr_c_ratio}");
 
     let agap: f64 = sa - ca;
     println!("Area Gap: {agap}");
@@ -78,7 +110,7 @@ pub fn carter_formula(h: f64) -> f64 {
 
     //CC
     let agap_eq: f64 = sa * CC;
-    println!("A-Gap Formula: {agap_eq}");
+    println!("A-Gap Equation: {agap_eq}");
 
     let pgap: f64 = sp - cc;
     println!("Perimeter Gap: {pgap}");
@@ -102,7 +134,34 @@ pub fn carter_formula(h: f64) -> f64 {
     let cc_sp_ratio: f64 = cc / sp;
     println!("Circle/Square Perimeter Ratio: {cc_sp_ratio}");
 
-    cc_sp_ratio
+    println!("3-D");
+
+    let cube_v: f64 = ds * ds * ds;
+    println!("Cube Volume: {cube_v}");
+
+    let cube_sfa: f64 = ds * ds * 6.0;
+    println!("Cube Surface Area: {cube_sfa}");
+
+    let sphere_pi: f64 = (4.0 / 3.0) * PI;
+    let sphere_v: f64 = sphere_pi * (h * h * h);
+    println!("Sphere Volume: {sphere_v}");
+
+    let sphere_sfa: f64 = (4.0 * PI) * ds;
+    println!("Sphere Surface Area: {sphere_sfa}");
+
+    let v_gap: f64 = cube_v / sphere_v;
+    println!("Cube/Sphere Volume Gap-Ratio: {v_gap}");
+
+    let sfa_gap: f64 = cube_sfa / sphere_sfa;
+    println!("Cube/Sphere Surface-Area Gap: {sfa_gap}");
+
+    let inv_v_gap: f64 = sphere_v / cube_v;
+    println!("Inverse V-Gap, Sphere/Cube Volume: {inv_v_gap}");
+
+    let inv_sfa_gap: f64 = sphere_sfa / cube_sfa;
+    println!("Inverse SFA Gap, Sphere/Cube Surface-Area: {inv_sfa_gap}");
+
+    inv_sfa_gap
 }
 
 //pub const CARTER_RATIO: f64 =
