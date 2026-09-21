@@ -94,7 +94,7 @@ pub fn carter_formula(h: f64) -> f64 {
 
     let qtr_c_fraction: f64 = 1.0 / qtr_c;
     println!("Quarter-Circumfrence Fraction {qtr_c_fraction}");
-    
+
     let qtr_c_ratio: f64 = 1.0 / qtr_c;
     println!("Quarter-Circumfrence Ratio {qtr_c_ratio}");
 
