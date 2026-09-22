@@ -1,4 +1,4 @@
-use crate::bible::bible_cli::bible_cli;
+use crate::bible::kjv_1611_cli::kjv_1611_cli;
 use crate::cli::calculator::cli_calc;
 use crate::cli::calculator::cli_sqrt;
 use crate::cli::ledger::open_ledger;
@@ -23,21 +23,50 @@ pub fn cli_commands() {
 
         match command {
             "help" => {
-                println!("GPSE CLI COMMANDS:");
-                println!("bible");
-                println!("calc");
-                println!("sqrt");
-                println!("carter function");
-                println!("cargo");
-                println!("git");
-                println!("machine-spirit inspection ritual");
-                println!("machine-spirit debug ritual");
-                println!("end");
+                println!("GPSE COMMANDS:");
+                println!("-------------------------------------------------");
+                println!("{:<20} {}", "bible", "Open Bible.");
+                println!("{:<20} {}", "calc", "Open Calculator.");
+                println!("{:<20} {}", "sqrt", "Open Square-Root Function.");
+                println!("{:<20} {}", "carter function", "Open Carter mathematics.");
+                println!("{:<20} {}", "ledger", "Open GPSE ledger.");
+                println!("{:<20} {}", "cargo", "Cargo commands.");
+                println!("{:<20} {}", "git", "Git commands.");
+                println!("{:<20} {}", "inspection ritual", "Inspection Steps.");
+                println!("{:<20} {}", "debug ritual", "Debugging steps.");
+                println!("{:<20} {}", "exit", "Exit GPSE.");
             }
 
-            "bible" => {
-                bible_cli();
-            }
+            "read" => loop {
+                let mut command = String::new();
+
+                print!("READ> ");
+
+                read(&mut command);
+
+                let command = command.trim();
+
+                match command {
+                    "kjv 1611" => {
+                        print!("READ> KJV 1611> ");
+                        kjv_1611_cli();
+                    }
+
+                    "help" => {
+                        println!("READ commands:");
+                        println!("kjv 1611");
+                        println!("exit");
+                    }
+
+                    "exit" => {
+                        break;
+                    }
+
+                    _ => {
+                        println!("Unknown READ command.")
+                    }
+                }
+            },
 
             "calc" => {
                 cli_calc();
@@ -51,7 +80,7 @@ pub fn cli_commands() {
                 open_ledger();
             }
 
-            "carter function" => {
+            "carter" => {
                 carter_formula_cli();
             }
 
@@ -95,17 +124,17 @@ pub fn cli_commands() {
                 println!("git switch");
             }
 
-            "machine-spirit inspection ritual" => {
+            "debug" => {
+                println!(r"cargo: clean -> build -> run .\target\debug\gpse.exe")
+            }
+
+            "inspection" => {
                 println!(
                     "cargo: fmt -> check -> test -> clippy -> git: diff -> status -> commit -> push"
                 )
             }
 
-            "machine-spirit debug ritual" => {
-                println!(r"cargo: clean -> build -> run .\target\debug\gpse.exe")
-            }
-
-            "end" => {
+            "exit" => {
                 println!("Goodbye!");
                 break;
             }

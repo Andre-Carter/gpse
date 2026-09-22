@@ -11,6 +11,12 @@ impl fmt::Display for Verse {
     }
 }
 
-pub static GENESIS_001_001: Verse = Verse {
-    content: "In the beginning God created the Heauen, and the Earth.",
-};
+pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
+    match (book, chapter, verse) {
+        ("genesis", 1, 1) => Some(Verse {
+            content: "In the beginning God created the heaven and the earth.",
+        }),
+
+        _ => None,
+    }
+}

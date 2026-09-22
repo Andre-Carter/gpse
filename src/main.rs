@@ -4,7 +4,7 @@ use gpse::physical::equations::gravitational_force;
 
 fn main() {
     println!("WELCOME TO GPSE!");
-    println!("DATE/TIME");
+    println!("[DATE/TIME]");
     println!("Type \"help\" for commands.");
     cli_commands();
 
