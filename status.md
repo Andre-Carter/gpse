@@ -26,3 +26,5 @@ not a final API commitment.
 - bible.rs cli commands test
 
 - implement sqrt function to cli 
+
+- clean dead code, optimize carter function organization/naming/terminology/apperance, work on more cli features

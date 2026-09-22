@@ -1,5 +1,7 @@
+use crate::bible::bible_cli::bible_cli;
 use crate::cli::calculator::cli_calc;
 use crate::cli::calculator::cli_sqrt;
+use crate::cli::ledger::open_ledger;
 use crate::mathematical::carter_family::carter_formula_cli;
 use std::io::{Write, stdin, stdout};
 
@@ -22,12 +24,19 @@ pub fn cli_commands() {
         match command {
             "help" => {
                 println!("GPSE CLI COMMANDS:");
+                println!("bible");
                 println!("calc");
+                println!("sqrt");
+                println!("carter function");
                 println!("cargo");
                 println!("git");
                 println!("machine-spirit inspection ritual");
                 println!("machine-spirit debug ritual");
                 println!("end");
+            }
+
+            "bible" => {
+                bible_cli();
             }
 
             "calc" => {
@@ -36,6 +45,10 @@ pub fn cli_commands() {
 
             "sqrt" => {
                 cli_sqrt();
+            }
+
+            "ledger" => {
+                open_ledger();
             }
 
             "carter function" => {
