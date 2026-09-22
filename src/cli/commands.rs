@@ -1,4 +1,5 @@
 use crate::cli::calculator::cli_calc;
+use crate::cli::calculator::cli_sqrt;
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -30,6 +31,10 @@ pub fn cli_commands() {
 
             "calc" => {
                 cli_calc();
+            }
+
+            "sqrt" => {
+                cli_sqrt();
             }
 
             "cargo" => {

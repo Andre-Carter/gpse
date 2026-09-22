@@ -12,6 +12,8 @@ pub const PI_SQ: f64 = PI * PI;
 pub const CC_2D: f64 = 4.0;
 pub const CC_3D: f64 = 6.0;
 
+pub const CC_ANGLE: f64 = 90.0 / PI;
+
 pub const CC_RADIAN: f64 = PI / 4.0;
 pub const CC_RADIAN_CUBED: f64 = PI / 6.0;
 
@@ -53,9 +55,9 @@ pub fn carter_formula(h: f64) -> f64 {
 
     let ds: f64 = h + h;
     println!("Diameter/Side: {ds}");
-
-    let qa: f64 = h * h;
-    println!("Quarter Area: {qa}");
+    
+    let h2: f64 = h * h;
+    println!("H-Squared: {h2}");
 
     let sa: f64 = ds * ds;
     println!("Square Area: {sa}");
@@ -64,14 +66,16 @@ pub fn carter_formula(h: f64) -> f64 {
     let qa_eq: f64 = sa / 4.0;
     println!("Square-Root/Quarter-Area: {qa_eq}");
 
-    let qa2: f64 = qa + qa;
-    let corner_length: f64 = qa2.sqrt();
+    let a2b2: f64 = h2 + h2;
+    println!("A-Squared + B-Squared: {a2b2}");
+
+    let corner_length: f64 = a2b2.sqrt();
     println!("Corner Length: {corner_length}");
 
     let corner_ratio: f64 = h / corner_length;
     println!("Corner-Ratio: {corner_ratio}");
 
-    let ca: f64 = PI * qa;
+    let ca: f64 = PI * h2;
     println!("Circle Area: {ca}");
 
     let sp: f64 = ds + ds + ds + ds;

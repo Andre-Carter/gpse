@@ -67,3 +67,24 @@ pub fn cli_calc() {
         operand_1, operator, operand_2, solution
     );
 }
+
+pub fn cli_sqrt() {
+    print!("Find the square-root of: ");
+
+    let mut sqrt_input: String = String::new();
+    read(&mut sqrt_input);
+
+    let sqrt_input = sqrt_input.trim().replace('_', "").replace(',', "");
+
+    let sqrt_input: f64 = match sqrt_input.parse() {
+        Ok(value) => value,
+        Err(_) => {
+            println!("Invalid Input");
+            return;
+        }
+    };
+
+    let sqrt_output: f64 = sqrt_input.sqrt();
+
+    print!(" = {sqrt_output}");
+}

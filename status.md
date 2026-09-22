@@ -24,3 +24,5 @@ not a final API commitment.
 - bible pub mod
 
 - bible.rs cli commands test
+
+- implement sqrt function to cli 
