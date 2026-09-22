@@ -15,7 +15,7 @@ pub fn cli_calc() {
     print!("Operand 1: ");
     read(&mut operand_1);
 
-    let operand_1 = operand_1.trim().replace('_', "").replace(',', "");
+    let operand_1 = operand_1.trim().replace(['_', ','], "");
 
     let operand_1: f64 = match operand_1.parse() {
         Ok(value) => value,
@@ -36,7 +36,7 @@ pub fn cli_calc() {
     print!("Operand 2: ");
     read(&mut operand_2);
 
-    let operand_2 = operand_2.trim().replace('_', "").replace(',', "");
+    let operand_2 = operand_2.trim().replace(['_', ','], "");
     let operand_2: f64 = match operand_2.parse() {
         Ok(value) => value,
         Err(_) => {
@@ -74,7 +74,7 @@ pub fn cli_sqrt() {
     let mut sqrt_input: String = String::new();
     read(&mut sqrt_input);
 
-    let sqrt_input = sqrt_input.trim().replace('_', "").replace(',', "");
+    let sqrt_input = sqrt_input.trim().replace(['_', ','], "");
 
     let sqrt_input: f64 = match sqrt_input.parse() {
         Ok(value) => value,

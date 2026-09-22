@@ -5,5 +5,5 @@ pub fn gravitational_force(mass_1: f64, mass_2: f64, distance: f64) -> f64 {
 
     let g_force = _g * mass_1 * mass_2 / distance.powi(2);
 
-    return g_force;
+    g_force
 }

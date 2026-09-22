@@ -51,7 +51,7 @@ pub static ALPHA_PARTICLE_MASS_ENERGY_EQUIVALENT: Constant = Constant {
     name: "alpha particle mass energy equivalent",
     value: 5.971_920_199_7e-10,
     si_base_units: Some("J"),
-    uncertainty: Some(0.000_000_0019e-10),
+    uncertainty: Some(0.000_000_001_9e-10),
 };
 //4
 pub static ALPHA_PARTICLE_MASS_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
@@ -518,7 +518,7 @@ pub static DEUTERON_ELECTRON_MAGNETIC_MOMENT_RATIO: Constant = Constant {
 //68
 pub static DEUTERON_ELECTRON_MASS_RATIO: Constant = Constant {
     name: "deuteron-electron mass ratio",
-    value: 367_0.482_967_655,
+    value: 3_670.482_967_655,
     si_base_units: None,
     uncertainty: Some(0.000_000_063),
 };
@@ -567,7 +567,7 @@ pub static DEUTERON_MASS_ENERGY_EQUIVALENT: Constant = Constant {
 //75
 pub static DEUTERON_MASS_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
     name: "deuteron mass energy equivalent in MeV",
-    value: 187_5.612_945,
+    value: 1_875.612_945,
     si_base_units: Some("MeV"),
     uncertainty: Some(0.000_000_58),
 };
@@ -891,7 +891,7 @@ pub static FERMI_COUPLING_CONSTANT: Constant = Constant {
     name: "Fermi coupling constant",
     value: 1.166_378_7e-5,
     si_base_units: Some("GeV^-2"),
-    uncertainty: Some(0.000_0006e-5),
+    uncertainty: Some(0.000_000_6e-5),
 };
 //122
 pub static FINE_STRUCTURE_CONSTANT: Constant = Constant {
@@ -1029,7 +1029,7 @@ pub static HELION_MASS_ENERGY_EQUIVALENT: Constant = Constant {
 //140
 pub static HELION_MASS_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
     name: "helion mass energy equivalent in MeV",
-    value: 2808.391_611_12,
+    value: 2_808.391_611_12,
     si_base_units: Some("MeV"),
     uncertainty: Some(0.000_000_88),
 };
@@ -1496,7 +1496,7 @@ pub static MUON_MASS: Constant = Constant {
     name: "muon mass",
     value: 1.883_531_627e-28,
     si_base_units: Some("kg"),
-    uncertainty: Some(0.00_000_042e-28),
+    uncertainty: Some(0.000_000_42e-28),
 };
 //208
 pub static MUON_MASS_ENERGY_EQUIVALENT: Constant = Constant {
@@ -1634,7 +1634,7 @@ pub static NEUTRON_ELECTRON_MAGNETIC_MOMENT_RATIO: Constant = Constant {
 //227
 pub static NEUTRON_ELECTRON_MASS_RATIO: Constant = Constant {
     name: "neutron-electron mass ratio",
-    value: 1838.683_662,
+    value: 1_838.683_662,
     si_base_units: None,
     uncertainty: Some(0.000_000_74),
 };
@@ -1900,7 +1900,7 @@ pub static PROTON_COMPTON_WAVELENGTH: Constant = Constant {
 //265
 pub static PROTON_ELECTRON_MASS_RATIO: Constant = Constant {
     name: "proton-electron mass ratio",
-    value: 1836.152_673_426,
+    value: 1_836.152_673_426,
     si_base_units: None,
     uncertainty: Some(0.000_000_032),
 };

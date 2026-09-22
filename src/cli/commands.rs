@@ -25,16 +25,16 @@ pub fn cli_commands() {
             "help" => {
                 println!("GPSE COMMANDS:");
                 println!("-------------------------------------------------");
-                println!("{:<20} {}", "bible", "Open Bible.");
-                println!("{:<20} {}", "calc", "Open Calculator.");
-                println!("{:<20} {}", "sqrt", "Open Square-Root Function.");
-                println!("{:<20} {}", "carter function", "Open Carter mathematics.");
-                println!("{:<20} {}", "ledger", "Open GPSE ledger.");
-                println!("{:<20} {}", "cargo", "Cargo commands.");
-                println!("{:<20} {}", "git", "Git commands.");
-                println!("{:<20} {}", "inspection ritual", "Inspection Steps.");
-                println!("{:<20} {}", "debug ritual", "Debugging steps.");
-                println!("{:<20} {}", "exit", "Exit GPSE.");
+                println!("{:<20} Open Bible.", "bible");
+                println!("{:<20} Open Calculator.", "calc");
+                println!("{:<20} Open square-root function.", "sqrt");
+                println!("{:<20} Open Carter mathematics.", "carter");
+                println!("{:<20} Open Ledger.", "ledger");
+                println!("{:<20} Cargo commands.", "cargo");
+                println!("{:<20} Git commands", "git");
+                println!("{:<20} Inspection steps.", "inspection ritual");
+                println!("{:<20} Debugging steps", "debugging ritual");
+                println!("{:<20} Exit GPSE.", "exit");
             }
 
             "read" => loop {

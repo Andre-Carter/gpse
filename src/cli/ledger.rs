@@ -21,8 +21,18 @@ impl Ledger {
     }
 }
 
+impl Default for Ledger {
+    fn default() -> Self {
+        Self {
+            entries: Vec::new(),
+        }
+    }
+}
+
 pub fn open_ledger() {
     let mut ledger = Ledger::new();
+
+    ledger.add(String::from("GPSE milestone."));
 
     loop {
         let mut command = String::new();

@@ -36,7 +36,6 @@ pub const CC_B: f64 = (1.0 + PI) / 4.0;
 //CC OPERATIONS
 
 pub const CC_CC: f64 = CC + CC;
-pub const CC_EQ_ZERO: f64 = CC - CC;
 pub const CC_SQ: f64 = CC * CC;
 
 pub const CC_COMPL: f64 = 1.0 - CC;
