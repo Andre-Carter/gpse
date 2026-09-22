@@ -1,4 +1,5 @@
 use std::f64::consts::PI;
+use std::io::{Write, stdin, stdout};
 
 pub const PI_SQ: f64 = PI * PI;
 //sequencial mathematics vs individal math """"
@@ -50,12 +51,43 @@ pub const CC_TO_COMPL_RATIO_EQ: f64 = CC_FOUR / PI;
 pub const COMPL_TO_CC_RATIO: f64 = CC_COMPL / CC;
 pub const COMPL_TO_CC_RATIO_EQ: f64 = PI / CC_FOUR;
 
+fn read(input: &mut String) {
+    stdout().flush().expect("failed to flush");
+    stdin().read_line(input).expect("failed to read");
+}
+
+pub fn carter_formula_cli() {
+    print!("Enter h-input: ");
+
+    let mut h_input: String = String::new();
+    read(&mut h_input);
+
+    let h_input: f64 = match h_input.trim().parse::<f64>() {
+        Ok(value) => value,
+        Err(_) => {
+            println!("Invalid Input");
+            return;
+        }
+    };
+
+    carter_formula(h_input);
+}
+
+pub fn carter_formula_repeat() {
+    let iterations = 100;
+
+    for h in 1..=iterations {
+        let h = h as f64;
+        carter_formula(h);
+    }
+}
+
 pub fn carter_formula(h: f64) -> f64 {
     println!("h = {h}");
 
     let ds: f64 = h + h;
     println!("Diameter/Side: {ds}");
-    
+
     let h2: f64 = h * h;
     println!("H-Squared: {h2}");
 
@@ -175,8 +207,4 @@ pub fn carter_ratio(n: f64) -> f64 {
 //CIRCLE SQUARE FOUNDATION
 pub fn carter_gap_area(side: f64) -> f64 {
     CC * side.powi(2)
-}
-
-pub fn test_carter() {
-    println!("{}", CC_EQ_ZERO);
 }

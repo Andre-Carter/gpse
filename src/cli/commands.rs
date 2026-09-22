@@ -1,5 +1,6 @@
 use crate::cli::calculator::cli_calc;
 use crate::cli::calculator::cli_sqrt;
+use crate::mathematical::carter_family::carter_formula_cli;
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -35,6 +36,10 @@ pub fn cli_commands() {
 
             "sqrt" => {
                 cli_sqrt();
+            }
+
+            "carter function" => {
+                carter_formula_cli();
             }
 
             "cargo" => {
