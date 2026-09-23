@@ -1,4 +1,4 @@
-pub mod bible;
+pub mod archive;
 pub mod chemical;
 pub mod cli;
 pub mod entities;

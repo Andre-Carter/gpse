@@ -1,4 +1,4 @@
-use crate::bible::kjv_1611::lookup;
+use crate::archive::bible::kjv_1611::kjv_1611::lookup;
 
 use std::io::{Write, stdin, stdout};
 
@@ -7,7 +7,7 @@ fn read(input: &mut String) {
     stdin().read_line(input).expect("failed to read");
 }
 
-pub fn kjv_1611_cli() {
+pub fn kjv_1611_cli_funk() {
     loop {
         let mut command = String::new();
 

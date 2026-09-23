@@ -1,7 +1,7 @@
-use crate::bible::kjv_1611_cli::kjv_1611_cli;
+use crate::archive::bible::kjv_1611::kjv_1611_cli::kjv_1611_cli_funk;
 use crate::cli::calculator::cli_calc;
 use crate::cli::calculator::cli_sqrt;
-use crate::cli::ledger::open_ledger;
+use crate::archive::ledger::ledger_cli::open_ledger;
 use crate::mathematical::carter_family::carter_formula_cli;
 use std::io::{Write, stdin, stdout};
 
@@ -32,8 +32,8 @@ pub fn cli_commands() {
                 println!("{:<20} Open Ledger.", "ledger");
                 println!("{:<20} Cargo commands.", "cargo");
                 println!("{:<20} Git commands", "git");
-                println!("{:<20} Inspection steps.", "inspection ritual");
-                println!("{:<20} Debugging steps", "debugging ritual");
+                println!("{:<20} Debugging steps", "debug");
+                println!("{:<20} Inspection steps.", "inspection");
                 println!("{:<20} Exit GPSE.", "exit");
             }
 
@@ -49,7 +49,7 @@ pub fn cli_commands() {
                 match command {
                     "kjv 1611" => {
                         print!("READ> KJV 1611> ");
-                        kjv_1611_cli();
+                        kjv_1611_cli_funk();
                     }
 
                     "help" => {
