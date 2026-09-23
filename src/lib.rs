@@ -1,6 +1,9 @@
 pub mod archive;
 pub mod cli;
-pub mod entities;
+pub mod date_time;
 pub mod mathematical;
+pub mod programs;
 pub mod science;
+pub mod simulation;
+pub mod systems;
 pub mod theory;
