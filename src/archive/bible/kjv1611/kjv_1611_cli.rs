@@ -1,4 +1,4 @@
-use crate::archive::bible::kjv_1611::kjv_1611::lookup;
+use crate::archive::bible::kjv1611::kjv_1611::lookup;
 
 use std::io::{Write, stdin, stdout};
 

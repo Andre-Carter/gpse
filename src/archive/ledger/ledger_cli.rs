@@ -5,6 +5,7 @@ fn read(input: &mut String) {
     stdin().read_line(input).expect("failed to read");
 }
 
+//#[derive(Default)]
 pub struct Ledger {
     pub entries: Vec<String>,
 }
