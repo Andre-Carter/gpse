@@ -12,8 +12,9 @@
 //canonical distance = meter
 //canonical time = second
 
-//DIMENSIONS
+//DIMENSIONLESS
 
+//DIMENSIONS
 pub struct Dimensions {
     pub mass: i8,
     pub distance: i8,

@@ -17,6 +17,11 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "In the beginning God created the heaven and the earth.",
         }),
 
+        ("genesis", 1, 2) => Some(Verse {
+            content: "And the earth was without forme, and voyd, and darkenesse was vpon the face of the deepe: and the Spirit of God mooued vpon the face of the waters.",
+        }),
+
         _ => None,
     }
 }
+
