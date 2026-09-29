@@ -39,8 +39,7 @@ pub fn volume_sphere(radius: f64) {
 
 pub fn arith() {
     let x = 1;
-    loop{
+    loop {
         x * x;
     }
-    
 }

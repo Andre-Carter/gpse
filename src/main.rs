@@ -18,8 +18,6 @@ fn main() {
 
     println!("{}", physical_time(EARTH.velocity_m));
 
-    
-
     println!("Type \"help\" for commands.");
     cli_commands();
 

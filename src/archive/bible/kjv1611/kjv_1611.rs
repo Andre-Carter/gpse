@@ -3344,7 +3344,7 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("genesis", 30, 2) => Some(Verse {
             content: "And Iacobs anger was kindled against Rachel, and he said, Am I in Gods stead, who hath withheld from thee the fruit of the wombe?",
         }),
-        
+
         ("genesis", 30, 3) => Some(Verse {
             content: "And she said, Behold my mayde Bilhah: goe in vnto her, and she shall beare vpon my knees, that I may also have children by her.",
         }),
@@ -6145,4947 +6145,4857 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("exodus", 1, 1) => Some(Verse {
-            content: "",
+            content: "Nowe these are the names of the children of Israel, which came into Egypt, euery man & his household, came with Iacob.",
         }),
 
         ("exodus", 1, 2) => Some(Verse {
-            content: "",
+            content: "Reuben, Simeon, Leui, and Iudah,",
         }),
 
         ("exodus", 1, 3) => Some(Verse {
-            content: "",
+            content: "Issachar, Zebulun and Beniamin,",
         }),
 
         ("exodus", 1, 4) => Some(Verse {
-            content: "",
+            content: "Dan, and Naphtali, Gad, and Asher.",
         }),
 
         ("exodus", 1, 5) => Some(Verse {
-            content: "",
+            content: "And all the soules that came out of the loynes of Iacob, were seuentie soules: for Ioseph was in Egypt already.",
         }),
 
         ("exodus", 1, 6) => Some(Verse {
-            content: "",
+            content: "And Ioseph died, and all his brethren, and all that generation.",
         }),
 
         ("exodus", 1, 7) => Some(Verse {
-            content: "",
+            content: "And the children of Israel were fruitfull, and increased aboundantly, and multiplied, and waxed exceeding mighty, and the land was filled with them.",
         }),
 
         ("exodus", 1, 8) => Some(Verse {
-            content: "",
+            content: "Now there arose vp a new King ouer Egypt, which knew not Ioseph.",
         }),
 
         ("exodus", 1, 9) => Some(Verse {
-            content: "",
+            content: "And he said vnto his people, Behold, the people of the children of Israel are moe and mightier then we.",
         }),
 
         ("exodus", 1, 10) => Some(Verse {
-            content: "",
+            content: "Come on, let vs deale wisely with them, lest they multiply, and it come to passe that when there falleth out any warre, they ioyne also vnto our enemies, and fight against vs, and so get them vp out of the land.",
         }),
 
         ("exodus", 1, 11) => Some(Verse {
-            content: "",
+            content: "Therefore they did set ouer them task-masters, to afflict them with their burdens: And they built for Pharaoh treasure-cities, Pithom and Raamses.",
         }),
 
         ("exodus", 1, 12) => Some(Verse {
-            content: "",
+            content: "But the more they afflicted them, the more they multiplied and grew: and they were grieued because of the children of Israel.",
         }),
 
         ("exodus", 1, 13) => Some(Verse {
-            content: "",
+            content: "And the Egyptians made the children of Israel to serue with rigour.",
         }),
 
         ("exodus", 1, 14) => Some(Verse {
-            content: "",
+            content: "And they made their liues bitter, with hard bondage, in morter and in bricke, and in all maner of seruice in the fielde: all their seruice wherein they made them serue, was with rigour.",
         }),
 
         ("exodus", 1, 15) => Some(Verse {
-            content: "",
+            content: "And the King of Egypt spake to the Hebrew midwiues, (of which the name of one was Shiphrah, and the name of the other Puah.)",
         }),
 
         ("exodus", 1, 16) => Some(Verse {
-            content: "",
+            content: "And he said, When ye do the office of a midwife to the Hebrew-women, and see them vpon the stooles, if it be a sonne, then ye shall kill him: but if it be a daughter, then shee shall liue.",
         }),
 
         ("exodus", 1, 17) => Some(Verse {
-            content: "",
+            content: "But the midwiues feared God, and did not as the King of Egypt commanded them, but saued the men children aliue.",
         }),
 
         ("exodus", 1, 18) => Some(Verse {
-            content: "",
+            content: "And the King of Egypt called for the midwiues, & said vnto them, Why haue ye done this thing, and haue saued the men children aliue?",
         }),
 
         ("exodus", 1, 19) => Some(Verse {
-            content: "",
+            content: "And the midwiues said vnto Pharaoh, Because the Hebrew women are not as the Egyptian women: for they are liuely, and are deliuered ere the midwiues come in vnto them.",
         }),
 
         ("exodus", 1, 20) => Some(Verse {
-            content: "",
+            content: "Therefore God dealt well with the midwiues: and the people multiplied and waxed very mighty.",
         }),
 
         ("exodus", 1, 21) => Some(Verse {
-            content: "",
+            content: "And it came to passe, because the midwiues feared God, that hee made them houses.",
         }),
 
         ("exodus", 1, 22) => Some(Verse {
-            content: "",
+            content: "And Pharaoh charged all his people, saying, Euery sonne that is borne, yee shall cast into the riuer, and euery daughter ye shall saue aliue.",
         }),
 
         ("exodus", 2, 1) => Some(Verse {
-            content: "",
+            content: "And there went a man of the house of Leui, & tooke to wife a daughter of Leui.",
         }),
 
         ("exodus", 2, 2) => Some(Verse {
-            content: "",
+            content: "And the woman conceiued, and bare a sonne: and when shee saw him that hee was a goodly childe, shee hid him three moneths.",
         }),
 
         ("exodus", 2, 3) => Some(Verse {
-            content: "",
+            content: "And when shee could not longer hide him, she tooke for him an arke of bul-rushes, and daubed it with slime, and with pitch, and put the childe therein, and shee layd it in the flags by the riuers brinke.",
         }),
 
         ("exodus", 2, 4) => Some(Verse {
-            content: "",
+            content: "And his sister stood afarre off, to wit what would be done to him.",
         }),
 
         ("exodus", 2, 5) => Some(Verse {
-            content: "",
+            content: "And the daughter of Pharaoh came downe to wash her selfe at the riuer, and her maydens walked along by the riuer side: and when shee saw the arke among the flags, she sent her maid to fetch it.",
         }),
 
         ("exodus", 2, 6) => Some(Verse {
-            content: "",
+            content: "And when she had opened it, she saw the childe: and beholde, the babe wept. And she had compassion on him, and said, This is one of the Hebrewes children.",
         }),
 
         ("exodus", 2, 7) => Some(Verse {
-            content: "",
+            content: "Then said his sister to Pharaohs daughter, Shall I goe, and call to thee a nurse of the Hebrew-women, that she may nurse the childe for thee?",
         }),
 
         ("exodus", 2, 8) => Some(Verse {
-            content: "",
+            content: "And Pharaohs daughter said to her, Goe: And the mayd went and called the childs mother.",
         }),
 
         ("exodus", 2, 9) => Some(Verse {
-            content: "",
+            content: "And Pharaohs daughter said vnto her, Take this child away, and nurse it for me, and I will giue thee thy wages. And the woman tooke the childe, and nursed it.",
         }),
 
         ("exodus", 2, 10) => Some(Verse {
-            content: "",
+            content: "And the childe grew, and shee brought him vnto Pharaohs daughter, and he became her sonne. And she called his name Moses: And she said, Because I drew him out of the water.",
         }),
 
         ("exodus", 2, 11) => Some(Verse {
-            content: "",
+            content: "And it came to passe in those dayes, when Moses was growen, that he went out vnto his brethren, and looked on their burdens, and he spied an Egyptian smiting an Hebrew, one of his brethren.",
         }),
 
         ("exodus", 2, 12) => Some(Verse {
-            content: "",
+            content: "And he looked this way and that way, and when he saw that there was no man, he slew the Egyptian, and hid him in the sand.",
         }),
 
         ("exodus", 2, 13) => Some(Verse {
-            content: "",
+            content: "And when he went out the second day, behold, two men of the Hebrewes stroue together: And hee said to him that did the wrong, Wherefore smitest thou thy fellow?",
         }),
 
         ("exodus", 2, 14) => Some(Verse {
-            content: "",
+            content: "And he said, Who made thee a Prince and a iudge ouer vs? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is knowen.",
         }),
 
         ("exodus", 2, 15) => Some(Verse {
-            content: "",
+            content: "Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from the face of Pharaoh, and dwelt in the land of Midian: and he sate downe by a well.",
         }),
 
         ("exodus", 2, 16) => Some(Verse {
-            content: "",
+            content: "Now the Priest of Midian had seuen daughters, and they came and drew water, and filled the troughes to water their fathers flocke.",
         }),
 
         ("exodus", 2, 17) => Some(Verse {
-            content: "",
+            content: "And the shepheards came and droue them away: but Moses stood vp and helped them, & watred their flocke.",
         }),
 
         ("exodus", 2, 18) => Some(Verse {
-            content: "",
+            content: "And when they came to Reuel their father, he said, How is it that you are come so soone to day?",
         }),
 
         ("exodus", 2, 19) => Some(Verse {
-            content: "",
+            content: "And they said, An Egyptian deliuered vs out of the hand of the shepheards, and also drew water enough for vs, and watered the flocke.",
         }),
 
         ("exodus", 2, 20) => Some(Verse {
-            content: "",
+            content: "And he said vnto his daughters, And where is he? why is it that yee haue left the man? Call him, that hee may eate bread.",
         }),
 
         ("exodus", 2, 21) => Some(Verse {
-            content: "",
+            content: "And Moses was content to dwel with the man, and he gaue Moses Zipporah his daughter.",
         }),
 
         ("exodus", 2, 22) => Some(Verse {
-            content: "",
+            content: "And she bare him a sonne, and he called his name Gershom: for he said, I haue bene a stranger in a strange land.",
         }),
 
         ("exodus", 2, 23) => Some(Verse {
-            content: "",
+            content: "And it came to passe in processe of time, that the king of Egypt died, and the children of Israel sighed by reason of the bondage, and they cried, and their cry came vp vnto God, by reason of the bondage.",
         }),
 
         ("exodus", 2, 24) => Some(Verse {
-            content: "",
+            content: "And God heard their groning, and God remembred his Couenant with Abraham, with Isaac, and with Iacob.",
         }),
 
         ("exodus", 2, 25) => Some(Verse {
-            content: "",
+            content: "And God looked vpon the children of Israel, and God had respect vnto them.",
         }),
 
         ("exodus", 3, 1) => Some(Verse {
-            content: "",
+            content: "Nowe Moses kept the flocke of Iethro his father in law, the Priest of Midian: and hee led the flocke to the backeside of the desert, and came to the mountaine of God, euen to Horeb.",
         }),
 
         ("exodus", 3, 2) => Some(Verse {
-            content: "",
+            content: "And the Angel of the Lord appeared vnto him, in a flame of fire out of the midst of a bush, and he looked, and behold, the bush burned with fire, and the bush was not consumed.",
         }),
 
         ("exodus", 3, 3) => Some(Verse {
-            content: "",
+            content: "And Moses saide, I will nowe turne aside, and see this great sight, why the bush is not burnt.",
         }),
 
         ("exodus", 3, 4) => Some(Verse {
-            content: "",
+            content: "And when the Lord sawe that he turned aside to see, God called vnto him out of the midst of the bush, and said, Moses, Moses. And he saide, Here am I.",
         }),
 
         ("exodus", 3, 5) => Some(Verse {
-            content: "",
+            content: "And he said, Drawe not nigh hither: put off thy shooes from off thy feete, for the place whereon thou standest, is holy ground.",
         }),
 
         ("exodus", 3, 6) => Some(Verse {
-            content: "",
+            content: "Moreouer hee said, I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Iacob. And Moses hid his face: for he was afraid to looke vpon God.",
         }),
 
         ("exodus", 3, 7) => Some(Verse {
-            content: "",
+            content: "And the Lord said, I haue surely seene the affliction of my people which are in Egypt, and haue heard their crie, by reason of their taske-masters: for I know their sorrowes,",
         }),
 
         ("exodus", 3, 8) => Some(Verse {
-            content: "",
+            content: "And I am come downe to deliuer them out of the hand of the Egyptians, and to bring them vp out of that land, vnto a good land and a large, vnto a lande flowing with milke and hony, vnto the place of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hiuites, and the Iebusites.",
         }),
 
         ("exodus", 3, 9) => Some(Verse {
-            content: "",
+            content: "Now therefore behold, the crie of the children of Israel is come vnto me: and I haue also seene the oppression wherewith the Egyptians oppresse them.",
         }),
 
         ("exodus", 3, 10) => Some(Verse {
-            content: "",
+            content: "Come now therefore, and I will send thee vnto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt.",
         }),
 
         ("exodus", 3, 11) => Some(Verse {
-            content: "",
+            content: "And Moses saide vnto God, Who am I, that I should goe vnto Pharaoh, and that I should bring forth the children of Israel out of Egypt?",
         }),
 
         ("exodus", 3, 12) => Some(Verse {
-            content: "",
+            content: "And he said, Certainely I will be with thee, and this shall be a token vnto thee, that I haue sent thee: When thou hast brought foorth the people out of Egypt, ye shall serue God vpon this mountaine.",
         }),
 
         ("exodus", 3, 13) => Some(Verse {
-            content: "",
+            content: "And Moses saide vnto God, Behold, when I come vnto the children of Israel, and shall say vnto them, The God of your fathers hath sent me vnto you; and they shall say to me, What is his name? what shall I say vnto them?",
         }),
 
         ("exodus", 3, 14) => Some(Verse {
-            content: "",
+            content: "And God saide vnto Moses, I AM THAT I AM: And he said, Thus shalt thou say vnto the children of Israel, I AM hath sent me vnto you.",
         }),
 
         ("exodus", 3, 15) => Some(Verse {
-            content: "",
+            content: "And God said moreouer vnto Moses, Thus shalt thou say vnto the children of Israel; The Lord God of your fathers, the God of Abraham, the God of Isaac, and the God of Iacob hath sent me vnto you: this is my name for euer, and this is my memoriall vnto all generations.",
         }),
 
         ("exodus", 3, 16) => Some(Verse {
-            content: "",
+            content: "Goe and gather the Elders of Israel together, and say vnto them, The Lord God of your fathers, the God of Abraham, of Isaac, and of Iacob appeared vnto me, saying, I haue surely visited you, and seene that which is done to you in Egypt.",
         }),
 
         ("exodus", 3, 17) => Some(Verse {
-            content: "",
+            content: "And I haue said, I will bring you vp out of the affliction of Egypt, vnto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hiuites, and the Iebusites, vnto a land flowing with milke and hony.",
         }),
 
         ("exodus", 3, 18) => Some(Verse {
-            content: "",
+            content: "And they shall hearken to thy voyce: and thou shalt come, thou and the Elders of Israel vnto the King of Egypt, and you shall say vnto him, The Lord God of the Hebrewes hath met with vs: and now let vs goe, (wee beseech thee) three dayes iourney into the wildernes, that we may sacrifice to the Lord our God.",
         }),
 
         ("exodus", 3, 19) => Some(Verse {
-            content: "",
+            content: "And I am sure that the King of Egypt will not let you goe, no not by a mightie hand.",
         }),
 
         ("exodus", 3, 20) => Some(Verse {
-            content: "",
+            content: "And I will stretch out my hand, and smite Egypt with all my wonders which I will doe in the midst thereof: and after that he will let you goe.",
         }),
 
         ("exodus", 3, 21) => Some(Verse {
-            content: "",
+            content: "And I will giue this people fauour in the sight of the Egyptians, and it shall come to passe that when ye goe, ye shall not goe empty:",
         }),
 
         ("exodus", 3, 22) => Some(Verse {
-            content: "",
+            content: "But euery woman shal borrow of her neighbour, and of her that soiourneth in her house, iewels of siluer, and iewels of gold, and rayment: and ye shall put them vpon your sonnes and vpon your daughters, and yee shall spoile the Egyptians.",
         }),
 
         ("exodus", 4, 1) => Some(Verse {
-            content: "",
+            content: "And Moses answered, and said, But behold, they will not beleeue mee, nor hearken vnto my voice: for they will say, The Lord hath not appeared vnto thee.",
         }),
 
         ("exodus", 4, 2) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto him, What is that in thine hand? and hee said, A rod.",
         }),
 
         ("exodus", 4, 3) => Some(Verse {
-            content: "",
+            content: "And he said, Cast it on the ground: And he cast it on the ground, and it became a serpent: and Moses fled from before it.",
         }),
 
         ("exodus", 4, 4) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Put forth thine hand, and take it by the taile: And he put foorth his hand, and caught it, and it became a rod in his hand:",
         }),
 
         ("exodus", 4, 5) => Some(Verse {
-            content: "",
+            content: "That they may beleeue that the Lord God of their fathers, the God of Abraham, the God of Isaac, and the God of Iacob hath appeared vnto thee.",
         }),
 
         ("exodus", 4, 6) => Some(Verse {
-            content: "",
+            content: "And the Lord said furthermore vnto him, Put now thine hand into thy bosome. And he put his hand into his bosome: and when hee tooke it out, behold, his hand was leprous as snowe.",
         }),
 
         ("exodus", 4, 7) => Some(Verse {
-            content: "",
+            content: "And he said, Put thine hand into thy bosome againe. And hee put his hand into his bosome againe, and plucked it out of his bosome, and behold, it was turned againe as his other flesh.",
         }),
 
         ("exodus", 4, 8) => Some(Verse {
-            content: "",
+            content: "And it shall come to passe, if they wil not beleeue thee, neither hearken to the voice of the first signe, that they will beleeue the voice of the latter signe.",
         }),
 
         ("exodus", 4, 9) => Some(Verse {
-            content: "",
+            content: "And it shall come to passe, if they will not beleeue also these two signes, neither hearken vnto thy voice, that thou shalt take of the water of the riuer, and powre it vpon the drie land: and the water which thou takest out of the riuer, shall become blood vpon the drie land.",
         }),
 
         ("exodus", 4, 10) => Some(Verse {
-            content: "",
+            content: "And Moses saide vnto the Lord, O my lord, I am not eloquent, neither heretofore, nor since thou hast spoken vnto thy seruant: but I am slow of speach, and of a slow tongue.",
         }),
 
         ("exodus", 4, 11) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto him, Who hath made mans mouth? or who maketh the dumbe or deafe, or the seeing, or þe blind? haue not I the Lord?",
         }),
 
         ("exodus", 4, 12) => Some(Verse {
-            content: "",
+            content: "Now therefore goe, and I will be with thy mouth, and teach thee what thou shalt say.",
         }),
 
         ("exodus", 4, 13) => Some(Verse {
-            content: "",
+            content: "And he said, O my Lord, send, I pray thee, by the hand of him whom thou wilt send.",
         }),
 
         ("exodus", 4, 14) => Some(Verse {
-            content: "",
+            content: "And the anger of the Lord was kindled against Moses, and hee said, Is not Aaron the Leuite thy brother? I know that he can speake well. And also behold, he commeth foorth to meet thee: and when he seeth thee, hee will be glad in his heart.",
         }),
 
         ("exodus", 4, 15) => Some(Verse {
-            content: "",
+            content: "And thou shalt speake vnto him, and put words in his mouth, and I wil be with thy mouth, & with his mouth, and will teach you what ye shall doe.",
         }),
 
         ("exodus", 4, 16) => Some(Verse {
-            content: "",
+            content: "And he shal be thy spokesman vnto the people: and he shall be, euen hee shall be to thee in stead of a mouth, and thou shalt be to him in stead of God.",
         }),
 
         ("exodus", 4, 17) => Some(Verse {
-            content: "",
+            content: "And thou shalt take this rod in thine hand, wherewith thou shalt doe signes.",
         }),
 
         ("exodus", 4, 18) => Some(Verse {
-            content: "",
+            content: "And Moses went and returned to Iethro his father in law, and said vnto him, Let me goe, I pray thee, and returne vnto my brethren, which are in Egypt, and see whether they bee yet aliue. And Iethro said to Moses, Goe in peace.",
         }),
 
         ("exodus", 4, 19) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses in Midian, Goe, returne into Egypt: for all the men are dead which sought thy life.",
         }),
 
         ("exodus", 4, 20) => Some(Verse {
-            content: "",
+            content: "And Moses tooke his wife, and his sonnes, and set them vpon an asse, and he returned to the land of Egypt. And Moses tooke the rod of God in his hand.",
         }),
 
         ("exodus", 4, 21) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, When thou goest to returne into Egypt, see that thou doe all those wonders before Pharaoh, which I haue put in thine hand: but I wil harden his heart, that hee shall not let the people goe.",
         }),
 
         ("exodus", 4, 22) => Some(Verse {
-            content: "",
+            content: "And thou shalt say vnto Pharaoh, Thus saith the Lord, Israel is my sonne, euen my first borne.",
         }),
 
         ("exodus", 4, 23) => Some(Verse {
-            content: "",
+            content: "And I say vnto thee, let my sonne goe, that he may serue mee: and if thou refuse to let him goe, behold, I will slay thy sonne, euen thy first borne.",
         }),
 
         ("exodus", 4, 24) => Some(Verse {
-            content: "",
+            content: "And it came to passe by the way in the Inne, that the Lord met him, and sought to kill him.",
         }),
 
         ("exodus", 4, 25) => Some(Verse {
-            content: "",
+            content: "Then Zipporah tooke a sharpe stone, and cut off the foreskinne of her sonne, and cast it at his feete, and said, Surely a bloody husband art thou to mee.",
         }),
 
         ("exodus", 4, 26) => Some(Verse {
-            content: "",
+            content: "So he let him goe: then she said, A bloody husband thou art, because of the Circumcision.",
         }),
 
         ("exodus", 4, 27) => Some(Verse {
-            content: "",
+            content: "And the Lord said to Aaron, Goe into the wildernesse to meete Moses. And hee went and met him in the mount of God, and kissed him.",
         }),
 
         ("exodus", 4, 28) => Some(Verse {
-            content: "",
+            content: "And Moses tolde Aaron all the wordes of the Lord, who had sent him, and all the signes which hee had commanded him.",
         }),
 
         ("exodus", 4, 29) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron went, and gathered together all the elders of the children of Israel.",
         }),
 
         ("exodus", 4, 30) => Some(Verse {
-            content: "",
+            content: "And Aaron spake all the wordes which the Lord had spoken vnto Moses, and did the signes in the sight of the people.",
         }),
 
         ("exodus", 4, 31) => Some(Verse {
-            content: "",
+            content: "And the people beleeued: And when they heard that the Lord had visited the children of Israel, and that he had looked vpon their affliction, then they bowed their heads and worshipped.",
         }),
 
         ("exodus", 5, 1) => Some(Verse {
-            content: "",
+            content: "And afterward Moses and Aaron went in, and tolde Pharaoh, Thus saith the Lord God of Israel, Let my people goe, that they may holde a feast vnto mee in the wildernesse.",
         }),
 
         ("exodus", 5, 2) => Some(Verse {
-            content: "",
+            content: "And Pharaoh said, Who is the Lord, that I should obey his voyce to let Israel goe? I know not the Lord, neither will I let Israel goe.",
         }),
 
         ("exodus", 5, 3) => Some(Verse {
-            content: "",
+            content: "And they said, The God of the Hebrewes hath met with vs: let vs goe, we pray thee, three dayes iourney into the desert, and sacrifice vnto the Lord our God, lest hee fall vpon vs with pestilence, or with the sword.",
         }),
 
         ("exodus", 5, 4) => Some(Verse {
-            content: "",
+            content: "And the King of Egypt said vnto them, Wherfore doe ye, Moses and Aaron, let the people from their workes? get you vnto your burdens.",
         }),
 
         ("exodus", 5, 5) => Some(Verse {
-            content: "",
+            content: "And Pharaoh said, Behold, the people of the land now are many, & you make them rest from their burdens.",
         }),
 
         ("exodus", 5, 6) => Some(Verse {
-            content: "",
+            content: "And Pharaoh commanded the same day the taske-masters of the people, and their officers, saying;",
         }),
 
         ("exodus", 5, 7) => Some(Verse {
-            content: "",
+            content: "Yee shall no more giue the people straw to make bricke, as heretofore: let them goe and gather straw for themselues.",
         }),
 
         ("exodus", 5, 8) => Some(Verse {
-            content: "",
+            content: "And the tale of the brickes which they did make heretofore, you shall lay vpon them: you shall not diminish ought thereof: for they be idle; therefore they cry, saying, Let us goe and sacrifice to our God.",
         }),
 
         ("exodus", 5, 9) => Some(Verse {
-            content: "",
+            content: "Let there more worke be layde vpon the men, that they may labour therein, and let them not regard vaine wordes.",
         }),
 
         ("exodus", 5, 10) => Some(Verse {
-            content: "",
+            content: "And the taske-masters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not giue you straw.",
         }),
 
         ("exodus", 5, 11) => Some(Verse {
-            content: "",
+            content: "Goe ye, get you straw where you can find it: yet not ought of your worke shall be diminished.",
         }),
 
         ("exodus", 5, 12) => Some(Verse {
-            content: "",
+            content: "So the people were scattered abroad throughout al the land of Egypt, to gather stubble in stead of straw.",
         }),
 
         ("exodus", 5, 13) => Some(Verse {
-            content: "",
+            content: "And the taske-masters hasted them, saying; Fulfill your workes, your dayly taskes, as when there was straw.",
         }),
 
         ("exodus", 5, 14) => Some(Verse {
-            content: "",
+            content: "And the officers of the children of Israel, which Pharaohs task-masters had set ouer them, were beaten, and demanded, Wherefore haue ye not fulfilled your taske, in making bricke, both yesterday and to day, as heretofore?",
         }),
 
         ("exodus", 5, 15) => Some(Verse {
-            content: "",
+            content: "Then the officers of the children of Israel came and cryed vnto Pharaoh, saying, Wherefore dealest thou thus with thy seruants?",
         }),
 
         ("exodus", 5, 16) => Some(Verse {
-            content: "",
+            content: "There is no straw giuen vnto thy seruants, and they say to vs, Make bricke: and beholde, thy seruants are beaten; but the fault is in thine owne people.",
         }),
 
         ("exodus", 5, 17) => Some(Verse {
-            content: "",
+            content: "But he said, Ye are idle, ye are idle: therefore ye say, Let vs goe and doe sacrifice to the Lord.",
         }),
 
         ("exodus", 5, 18) => Some(Verse {
-            content: "",
+            content: "Goe therefore now and worke: for there shall no straw bee giuen you, yet shall ye deliuer the tale of brickes.",
         }),
 
         ("exodus", 5, 19) => Some(Verse {
-            content: "",
+            content: "And the officers of the children of Israel did see that they were in euill case, after it was said, Yee shall not minish ought from your brickes of your dayly taske.",
         }),
 
         ("exodus", 5, 20) => Some(Verse {
-            content: "",
+            content: "And they met Moses and Aaron, who stood in the way, as they came foorth from Pharaoh.",
         }),
 
         ("exodus", 5, 21) => Some(Verse {
-            content: "",
+            content: "And they said vnto them; The Lord looke vpon you, and iudge, because you haue made our sauour to be abhorred in the eyes of Pharaoh, and in the eyes of his seruants, to put a sword in their hand to slay vs.",
         }),
 
         ("exodus", 5, 22) => Some(Verse {
-            content: "",
+            content: "And Moses returned vnto the Lord, and said, Lord, Wherefore hast thou so euill intreated this people? Why is it that thou hast sent me?",
         }),
 
         ("exodus", 5, 23) => Some(Verse {
-            content: "",
+            content: "For since I came to Pharaoh to speake in thy Name, he hath done euill to this people, neither hast thou deliuered thy people at all.",
         }),
 
         ("exodus", 6, 1) => Some(Verse {
-            content: "",
+            content: "Then the Lord said vnto Moses, Now shalt thou see what I will doe to Pharaoh: for with a strong hand shall hee let them goe, and with a strong hand shall he driue them out of his land.",
         }),
 
         ("exodus", 6, 2) => Some(Verse {
-            content: "",
+            content: "And God spake vnto Moses, and said vnto him, I am the Lord.",
         }),
 
         ("exodus", 6, 3) => Some(Verse {
-            content: "",
+            content: "And I appeared vnto Abraham, vnto Isaac, and vnto Iacob, by the Name of God Almighty, but by my name IEHOVAH was I not knowen to them.",
         }),
 
         ("exodus", 6, 4) => Some(Verse {
-            content: "",
+            content: "And I haue also established my Couenant with them, to giue them the land of Canaan, the land of their pilgrimage, wherein they were strangers.",
         }),
 
         ("exodus", 6, 5) => Some(Verse {
-            content: "",
+            content: "And I haue also heard the groning of the children of Israel, whom the Egyptians keepe in bondage: and I haue remembred my Couenant.",
         }),
 
         ("exodus", 6, 6) => Some(Verse {
-            content: "",
+            content: "Wherefore say vnto the children of Israel, I am the Lord, and I will bring you out from vnder the burdens of the Egyptians, and I will rid you out of their bondage: and I will redeeme you with a stretched out arme, and with great iudgements.",
         }),
 
         ("exodus", 6, 7) => Some(Verse {
-            content: "",
+            content: "And I will take you to mee for a people, and I will be to you a God: and ye shall know that I am the Lord your God, which bringeth you out from vnder the burdens of the Egyptians.",
         }),
 
         ("exodus", 6, 8) => Some(Verse {
-            content: "",
+            content: "And I will bring you in vnto the lande concerning the which I did sweare to giue it, to Abraham, to Isaac, and to Iacob, and I will giue it you for an heritage, I am the Lord.",
         }),
 
         ("exodus", 6, 9) => Some(Verse {
-            content: "",
+            content: "And Moses spake so vnto the children of Israel: but they hearkened not vnto Moses, for anguish of spirit, and for cruell bondage.",
         }),
 
         ("exodus", 6, 10) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("exodus", 6, 11) => Some(Verse {
-            content: "",
+            content: "Goe in, speake vnto Pharaoh King of Egypt, that he let the children of Israel goe out of his land.",
         }),
 
         ("exodus", 6, 12) => Some(Verse {
-            content: "",
+            content: "And Moses spake before the Lord, saying, Behold, the children of Israel haue not hearkened vnto me: how then shal Pharaoh heare me, who am of vncircumcised lips?",
         }),
 
         ("exodus", 6, 13) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses and vnto Aaron, & gaue them a charge vnto the children of Israel, and vnto Pharaoh King of Egypt, to bring the children of Israel out of the land of Egypt.",
         }),
 
         ("exodus", 6, 14) => Some(Verse {
-            content: "",
+            content: "These be the heads of their fathers houses: The sonnes of Reuben the first borne of Israel, Hanoch, and Pallu, Hezron, and Carmi: these be the families of Reuben.",
         }),
 
         ("exodus", 6, 15) => Some(Verse {
-            content: "",
+            content: "And the sonnes of Simeon: Iemuel, and Iamin, and Ohad and Iachin, and Zohar, and Shaul the sonne of a Canaanitish woman: these are the families of Simeon.",
         }),
 
         ("exodus", 6, 16) => Some(Verse {
-            content: "",
+            content: "And these are the names of the sonnes of Leui, according to their generations: Gershon and Kohath and Merari: and the yeeres of the life of Leui, were an hundred, thirtie and seuen yeeres.",
         }),
 
         ("exodus", 6, 17) => Some(Verse {
-            content: "",
+            content: "The sonnes of Gershon: Libni and Shimi, according to their families.",
         }),
 
         ("exodus", 6, 18) => Some(Verse {
-            content: "",
+            content: "And the sonnes of Kohath: Amram, and Izhar, and Hebron, and Uzziel. And the yeeres of the life of Kohath, were an hundred thirtie and three yeeres.",
         }),
 
         ("exodus", 6, 19) => Some(Verse {
-            content: "",
+            content: "And the sonnes of Merari: Mahali and Mushi: these are the families of Leui, according to their generations.",
         }),
 
         ("exodus", 6, 20) => Some(Verse {
-            content: "",
+            content: "And Amram tooke him Iochebed his fathers sister to wife, and shee bare him Aaron and Moses: and the yeeres of the life of Amram were an hundred, and thirtie and seuen yeeres.",
         }),
 
         ("exodus", 6, 21) => Some(Verse {
-            content: "",
+            content: "And the sonnes of Izhar: Korah and Nepheg, and Zichri.",
         }),
 
         ("exodus", 6, 22) => Some(Verse {
-            content: "",
+            content: "And the sonnes of Uzziel: Mishael, and Elzaphan, and Zithri.",
         }),
 
         ("exodus", 6, 23) => Some(Verse {
-            content: "",
+            content: "And Aaron tooke him Elisheba daughter of Amminadab sister of Naashon to wife, and she bare him Nadab and Abihu, Eleazar and Ithamar.",
         }),
 
         ("exodus", 6, 24) => Some(Verse {
-            content: "",
+            content: "And the sonnes of Korah, Assir, and Elkanah, and Abiasaph: these are the families of the Korhites.",
         }),
 
         ("exodus", 6, 25) => Some(Verse {
-            content: "",
+            content: "And Eleazar Aarons sonne tooke him one of the daughters of Putiel to wife, and she bare him Phinehas: these are the heads of the fathers of the Leuites, according to their families.",
         }),
 
         ("exodus", 6, 26) => Some(Verse {
-            content: "",
+            content: "These are that Aaron and Moses, to whom the Lord said, Bring out the children of Israel from the land of Egypt, according to their armies.",
         }),
 
         ("exodus", 6, 27) => Some(Verse {
-            content: "",
+            content: "These are they which spake to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: These are that Moses and Aaron.",
         }),
 
         ("exodus", 6, 28) => Some(Verse {
-            content: "",
+            content: "And it came to passe on the day when the Lord spake vnto Moses in the land of Egypt,",
         }),
 
         ("exodus", 6, 29) => Some(Verse {
-            content: "",
+            content: "That the Lord spake vnto Moses, saying, I am the Lord: speake thou vnto Pharaoh king of Egypt, all that I say vnto thee.",
         }),
 
         ("exodus", 6, 30) => Some(Verse {
-            content: "",
+            content: "And Moses said before the Lord, Behold, I am of vncircumcised lips, and how shall Pharaoh hearken vnto mee?",
         }),
 
         ("exodus", 7, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, See, I haue made thee a god to Pharaoh, and Aaron thy brother shalbe thy prophet.",
         }),
 
         ("exodus", 7, 2) => Some(Verse {
-            content: "",
+            content: "Thou shalt speake all that I command thee, and Aaron thy brother shall speake vnto Pharaoh, that he send the children of Israel out of his land.",
         }),
 
         ("exodus", 7, 3) => Some(Verse {
-            content: "",
+            content: "And I will harden Pharaohs heart, and multiplie my signes and my wonders in the land of Egypt.",
         }),
 
         ("exodus", 7, 4) => Some(Verse {
-            content: "",
+            content: "But Pharaoh shall not hearken vnto you, that I may lay my hand vpon Egypt, and bring forth mine armies, and my people the children of Israel, out of the land of Egypt, by great iudgments.",
         }),
 
         ("exodus", 7, 5) => Some(Verse {
-            content: "",
+            content: "And the Egyptians shall knowe that I am the Lord, when I stretch forth mine hand vpon Egypt, and bring out the children of Israel from among them.",
         }),
 
         ("exodus", 7, 6) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron did as the Lord commanded them, so did they.",
         }),
 
         ("exodus", 7, 7) => Some(Verse {
-            content: "",
+            content: "And Moses was fourescore yeres olde, and Aaron fourescore and three yeeres old, when they spake vnto Pharaoh.",
         }),
 
         ("exodus", 7, 8) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, and vnto Aaron, saying:",
         }),
 
         ("exodus", 7, 9) => Some(Verse {
-            content: "",
+            content: "When Pharaoh shall speake vnto you, saying, Shew a miracle for you: then thou shalt say vnto Aaron, Take thy rod and cast it before Pharaoh, and it shall become a serpent.",
         }),
 
         ("exodus", 7, 10) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron went in vnto Pharaoh, and they did so as the Lord had commanded: and Aaron cast downe his rod before Pharaoh, and before his seruants, and it became a serpent.",
         }),
 
         ("exodus", 7, 11) => Some(Verse {
-            content: "",
+            content: "Then Pharaoh also called the wise men and the sorcerers; now the Magicians of Egypt, they also did in like maner with their enchantments.",
         }),
 
         ("exodus", 7, 12) => Some(Verse {
-            content: "",
+            content: "For they cast downe euery man his rod, and they became serpents: but Aarons rod swallowed vp their rods.",
         }),
 
         ("exodus", 7, 13) => Some(Verse {
-            content: "",
+            content: "And hee hardened Pharaohs heart, that hee hearkened not vnto them, as the Lord had said.",
         }),
 
         ("exodus", 7, 14) => Some(Verse {
-            content: "",
+            content: "And the Lord saide vnto Moses, Pharaohs heart is hardened: he refuseth to let the people goe.",
         }),
 
         ("exodus", 7, 15) => Some(Verse {
-            content: "",
+            content: "Get thee vnto Pharaoh in the morning, loe, he goeth out vnto the water, and thou shalt stand by the riuers brinke, against hee come: and the rod which was turned to a serpent, shalt thou take in thine hand.",
         }),
 
         ("exodus", 7, 16) => Some(Verse {
-            content: "",
+            content: "And thou shalt say vnto him, The Lord God of the Hebrewes hath sent me vnto thee, saying; Let my people goe, that they may serue mee in the wildernesse: and beholde, hitherto thou wouldest not heare.",
         }),
 
         ("exodus", 7, 17) => Some(Verse {
-            content: "",
+            content: "Thus saith the Lord, In this thou shalt know that I am the Lord: behold, I will smite with the rod that is in my hand, vpon the waters which are in the riuer, and they shalbe turned to blood.",
         }),
 
         ("exodus", 7, 18) => Some(Verse {
-            content: "",
+            content: "And the fish that is in the riuer shall die, and the riuer shall stincke, and the Egyptians shall loathe to drinke of the water of the riuer.",
         }),
 
         ("exodus", 7, 19) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, Say vnto Aaron, Take thy rod, & stretch out thine hand vpon the waters of Egypt, vpon their streames, vpon their riuers, and vpon their ponds, and vpon all their pooles of water, that they may become blood, and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone.",
         }),
 
         ("exodus", 7, 20) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron did so, as the Lord commanded: and he lift vp the rod and smote the waters that were in the riuer, in the sight of Pharaoh, and in the sight of his seruants: and all the waters that were in the riuer, were turned to blood.",
         }),
 
         ("exodus", 7, 21) => Some(Verse {
-            content: "",
+            content: "And the fish that was in the riuer died: and the riuer stunke, and the Egyptians could not drinke of the water of the riuer: and there was blood throughout all the land Egypt.",
         }),
 
         ("exodus", 7, 22) => Some(Verse {
-            content: "",
+            content: "And the Magicians of Egypt did so, with their enchantments: and Pharaohs heart was hardened, neither did he hearken vnto them, as the Lord had said.",
         }),
 
         ("exodus", 7, 23) => Some(Verse {
-            content: "",
+            content: "And Pharaoh turned and went into his house, neither did hee set his heart to this also.",
         }),
 
         ("exodus", 7, 24) => Some(Verse {
-            content: "",
+            content: "And all the Egyptians digged round about the riuer for water to drinke: for they could not drinke of the water of the riuer.",
         }),
 
         ("exodus", 7, 25) => Some(Verse {
-            content: "",
+            content: "And seuen dayes were fulfilled after that the Lord had smitten the riuer.",
         }),
 
         ("exodus", 8, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, Goe vnto Pharaoh, and say vnto him; Thus sayeth the Lord, Let my people goe, that they may serue me.",
         }),
 
         ("exodus", 8, 2) => Some(Verse {
-            content: "",
+            content: "And if thou refuse to let them goe, beholde, I will smite all thy borders with frogges.",
         }),
 
         ("exodus", 8, 3) => Some(Verse {
-            content: "",
+            content: "And the riuer shall bring foorth frogges abundantly, which shall goe vp and come into thine house, and into thy bed-chamber, and vpon thy bed, and into the house of thy seruants, and vpon thy people, and into thine ouens, and into thy kneading troughes.",
         }),
 
         ("exodus", 8, 4) => Some(Verse {
-            content: "",
+            content: "And the frogges shall come vp both on thee, and vpon thy people, and vpon all thy seruants.",
         }),
 
         ("exodus", 8, 5) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses; Say vnto Aaron, Stretch foorth thine hand with thy rodde ouer the streames, ouer the riuers, and ouer the ponds, and cause frogges to come vp vpon the land of Egypt.",
         }),
 
         ("exodus", 8, 6) => Some(Verse {
-            content: "",
+            content: "And Aaron stretched out his hand ouer the waters of Egypt, and the frogges came vp, and couered the land of Egypt.",
         }),
 
         ("exodus", 8, 7) => Some(Verse {
-            content: "",
+            content: "And the Magicians did so with their inchantments, and brought vp frogges vpon the land of Egypt.",
         }),
 
         ("exodus", 8, 8) => Some(Verse {
-            content: "",
+            content: "Then Pharaoh called for Moses, and Aaron, and said, Intreat the Lord, that hee may take away the frogges from me, and from my people: and I will let the people goe, that they may doe sacrifice vnto the Lord.",
         }),
 
         ("exodus", 8, 9) => Some(Verse {
-            content: "",
+            content: "And Moses saide vnto Pharaoh, Glory ouer mee: when shall I entreat for thee, and for thy seruants, and for thy people, to destroy the frogges from thee, and thy houses, that they may remaine in the riuer onely?",
         }),
 
         ("exodus", 8, 10) => Some(Verse {
-            content: "",
+            content: "And he said, To morrow. And hee said, Bee it according to thy word: That thou mayest know that there is none like vnto the Lord our God.",
         }),
 
         ("exodus", 8, 11) => Some(Verse {
-            content: "",
+            content: "And the frogs shall depart from thee, and from thy houses, and from thy seruants, and from thy people; they shall remaine in the riuer onely.",
         }),
 
         ("exodus", 8, 12) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron went out from Pharaoh, and Moses cried vnto the Lord because of the frogs which he had brought against Pharaoh.",
         }),
 
         ("exodus", 8, 13) => Some(Verse {
-            content: "",
+            content: "And the Lord did according to the word of Moses: and the frogges died out of the houses, out of the villages, and out of the fields.",
         }),
 
         ("exodus", 8, 14) => Some(Verse {
-            content: "",
+            content: "And they gathered them together vpon heapes, and the land stanke.",
         }),
 
         ("exodus", 8, 15) => Some(Verse {
-            content: "",
+            content: "But when Pharaoh saw that there was respit, he hardned his heart, and hearkened not vnto them, as the Lord had said.",
         }),
 
         ("exodus", 8, 16) => Some(Verse {
-            content: "",
+            content: "And the Lord saide vnto Moses, Say vnto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice, thorowout all the land of Egypt.",
         }),
 
         ("exodus", 8, 17) => Some(Verse {
-            content: "",
+            content: "And they did so: for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice, in man and in beast: all the dust of the land became lice throughout all the land of Egypt.",
         }),
 
         ("exodus", 8, 18) => Some(Verse {
-            content: "",
+            content: "And the Magicians did so with their enchantments to bring foorth lice, but they could not: so there were lice vpon man and vpon beast.",
         }),
 
         ("exodus", 8, 19) => Some(Verse {
-            content: "",
+            content: "Then the Magicians said vnto Pharaoh; This is the singer of God. And Pharaohs heart was hardned, and he hearkened not vnto them, as the Lord had said.",
         }),
 
         ("exodus", 8, 20) => Some(Verse {
-            content: "",
+            content: "And the Lord saide vnto Moses, Rise vp early in the morning, and stand before Pharaoh: loe, he commeth foorth to the water, and say vnto him; Thus saith the Lord, Let my people goe, that they may serue me.",
         }),
 
         ("exodus", 8, 21) => Some(Verse {
-            content: "",
+            content: "Els, if thou wilt not let my people goe, beholde, I will send swarmes of flies vpon thee, and vpon thy seruants, and vpon thy people, and into thy houses: and the houses of the Egyptians shall bee full of swarmes of flies, and also the ground whereon they are.",
         }),
 
         ("exodus", 8, 22) => Some(Verse {
-            content: "",
+            content: "And I will seuer in that day the lande of Goshen in which my people dwell, that no swarmes of flies shall be there, to the end thou maiest know that I am the Lord in the midst of the earth.",
         }),
 
         ("exodus", 8, 23) => Some(Verse {
-            content: "",
+            content: "And I will put a diuision betweene my people and thy people: to morrow shall this signe be.",
         }),
 
         ("exodus", 8, 24) => Some(Verse {
-            content: "",
+            content: "And the Lord did so: and there came a grieuous swarme of flies into the house of Pharaoh, and into his seruants houses, and into all the lande of Egypt: the land was corrupted by reason of the swarme of flies.",
         }),
 
         ("exodus", 8, 25) => Some(Verse {
-            content: "",
+            content: "And Pharaoh called for Moses and for Aaron, and said, Goe yee, sacrifice to your God in the land.",
         }),
 
         ("exodus", 8, 26) => Some(Verse {
-            content: "",
+            content: "And Moses said, It is not meete so to doe; for we shal sacrifice the abomination of the Egyptians, to the Lord our God: Loe, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone vs?",
         }),
 
         ("exodus", 8, 27) => Some(Verse {
-            content: "",
+            content: "We will goe three dayes iourney into the wildernesse, and sacrifice to the Lord our God, as he shall command vs.",
         }),
 
         ("exodus", 8, 28) => Some(Verse {
-            content: "",
+            content: "And Pharaoh said, I wil let you goe that ye may sacrifice to the Lord your God, in the wildernes: onely you shall not goe very farre away: intreate for me.",
         }),
 
         ("exodus", 8, 29) => Some(Verse {
-            content: "",
+            content: "And Moses said, Behold, I goe out from thee, and I will intreate the Lord that the swarmes of flies may depart from Pharaoh, from his seruants, and from his people to morrow: but let not Pharaoh deale deceitfully any more, in not letting the people goe to sacrifice to the Lord.",
         }),
 
         ("exodus", 8, 30) => Some(Verse {
-            content: "",
+            content: "And Moses went out from Pharaoh, and intreated the Lord:",
         }),
 
         ("exodus", 8, 31) => Some(Verse {
-            content: "",
+            content: "And the Lord did according to the word of Moses: and he remooued the swarmes of flies from Pharaoh, from his seruants, and from his people: there remained not one.",
         }),
 
         ("exodus", 8, 32) => Some(Verse {
-            content: "",
+            content: "And Pharaoh hardened his heart at this time also, neither would hee let the people goe.",
         }),
 
         ("exodus", 9, 1) => Some(Verse {
-            content: "",
+            content: "Then the Lord said vnto Moses, Goe in vnto Pharaoh, and tell him, Thus saith the Lord God of the Hebrewes, Let my people goe, that they may serue me.",
         }),
 
         ("exodus", 9, 2) => Some(Verse {
-            content: "",
+            content: "For if thou refuse to let them goe, and wilt hold them still,",
         }),
 
         ("exodus", 9, 3) => Some(Verse {
-            content: "",
+            content: "Behold, the hand of the Lord is vpon thy cattell which is in the field, vpon the horses, vpon the asses, vpon the camels, vpon the oxen, and vpon the sheepe: there shall be a very grieuous murraine.",
         }),
 
         ("exodus", 9, 4) => Some(Verse {
-            content: "",
+            content: "And the Lord shall seuer betweene the cattell of Israel, and the cattell of Egypt, and there shall nothing die of all that is the childrens of Israel.",
         }),
 
         ("exodus", 9, 5) => Some(Verse {
-            content: "",
+            content: "And the Lord appointed a set time, saying, To morrow the Lord shall doe this thing in the land.",
         }),
 
         ("exodus", 9, 6) => Some(Verse {
-            content: "",
+            content: "And the Lord did that thing on the morrow; and all the cattell of Egypt died, but of the cattell of the children of Israel died not one.",
         }),
 
         ("exodus", 9, 7) => Some(Verse {
-            content: "",
+            content: "And Pharaoh sent, and beholde, there was not one of the cattell of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people goe.",
         }),
 
         ("exodus", 9, 8) => Some(Verse {
-            content: "",
+            content: "And the Lord saide vnto Moses, and vnto Aaron, Take to you handfuls of ashes of the fornace, and let Moses sprinkle it towards the heauen, in the sight of Pharaoh:",
         }),
 
         ("exodus", 9, 9) => Some(Verse {
-            content: "",
+            content: "And it shall become small dust in all the land of Egypt, and shall bee a boyle breaking forth with blaines, vpon man and vpon beast, throughout all the land of Egypt.",
         }),
 
         ("exodus", 9, 10) => Some(Verse {
-            content: "",
+            content: "And they tooke ashes of the fornace, and stood before Pharaoh, and Moses sprinkled it vp toward heauen: and it became a boile breaking forth with blaines, vpon man and vpon beast.",
         }),
 
         ("exodus", 9, 11) => Some(Verse {
-            content: "",
+            content: "And the Magicians could not stand before Moses, because of the boiles: for the boile was vpon the magicians, and vpon all the Egyptians.",
         }),
 
         ("exodus", 9, 12) => Some(Verse {
-            content: "",
+            content: "And the Lord hardened the heart of Pharaoh, and hee hearkened not vnto them, as the Lord had spoken vnto Moses.",
         }),
 
         ("exodus", 9, 13) => Some(Verse {
-            content: "",
+            content: "And the Lord saide vnto Moses, Rise vp earely in the morning, and stand before Pharaoh, and say vnto him, Thus saith the Lord God of the Hebrewes, Let my people goe, that they may serue me.",
         }),
 
         ("exodus", 9, 14) => Some(Verse {
-            content: "",
+            content: "For I will at this time send all my plagues vpon thine heart, and vpon thy seruants, and vpon thy people: that thou mayest knowe that there is none like me in all the earth.",
         }),
 
         ("exodus", 9, 15) => Some(Verse {
-            content: "",
+            content: "For now I will stretch out my hand, that I may smite thee and thy people, with pestilence, and thou shalt be cut off from the earth.",
         }),
 
         ("exodus", 9, 16) => Some(Verse {
-            content: "",
+            content: "And in very deede, for this cause haue I raised thee vp, for to shewe in thee my power, and that my name may be declared throughout all the earth.",
         }),
 
         ("exodus", 9, 17) => Some(Verse {
-            content: "",
+            content: "As yet exaltest thou thy selfe against my people, that thou wilt not let them goe?",
         }),
 
         ("exodus", 9, 18) => Some(Verse {
-            content: "",
+            content: "Behold, to morrow about this time, I wil cause it to raine a very grieuous haile, such as hath not bene in Egypt, since the foundation thereof euen vntill now.",
         }),
 
         ("exodus", 9, 19) => Some(Verse {
-            content: "",
+            content: "Send therefore now, and gather thy cattell, and all that thou hast in the field: for vpon euery man and beast which shal be found in the field, and shal not bee brought home, the haile shall come downe vpon them, and they shall die.",
         }),
 
         ("exodus", 9, 20) => Some(Verse {
-            content: "",
+            content: "Hee that feared the word of the Lord amongst the seruants of Pharaoh, made his seruants and his cattell flee into the houses.",
         }),
 
         ("exodus", 9, 21) => Some(Verse {
-            content: "",
+            content: "And he that regarded not the word of the Lord, left his seruants and his cattell in the field.",
         }),
 
         ("exodus", 9, 22) => Some(Verse {
-            content: "",
+            content: "And the Lord saide vnto Moses, Stretch forth thine hand toward heauen, that there may be haile in all the land of Egypt, vpon man and vpon beast, and vpon euery herbe of the field, thorowout the land of Egypt.",
         }),
 
         ("exodus", 9, 23) => Some(Verse {
-            content: "",
+            content: "And Moses stretched foorth his rod toward heauen, and the Lord sent thunder and haile, and the fire ranne along vpon the ground, and the Lord rained haile vpon the land of Egypt.",
         }),
 
         ("exodus", 9, 24) => Some(Verse {
-            content: "",
+            content: "So there was haile, and fire mingled with the haile, very grieuous, such as there was none like it in all the land of Egypt, since it became a nation.",
         }),
 
         ("exodus", 9, 25) => Some(Verse {
-            content: "",
+            content: "And the haile smote throughout all the land of Egypt, all that was in the field, both man and beast: and the haile smote euery herbe of the fielde, and brake euery tree of the field.",
         }),
 
         ("exodus", 9, 26) => Some(Verse {
-            content: "",
+            content: "Onely in the land of Goshen where the children of Israel were, was there no haile.",
         }),
 
         ("exodus", 9, 27) => Some(Verse {
-            content: "",
+            content: "And Pharaoh sent, and called for Moses and Aaron, and said vnto them, I haue sinned this time: the Lord is righteous, and I and my people are wicked.",
         }),
 
         ("exodus", 9, 28) => Some(Verse {
-            content: "",
+            content: "Entreat the Lord, (for it is enough) that there be no more mighty thunderings and haile, and I will let you goe, and ye shall stay no longer.",
         }),
 
         ("exodus", 9, 29) => Some(Verse {
-            content: "",
+            content: "And Moses saide vnto him, Assoone as I am gone out of the citie, I will spread abroad my hands vnto the Lord, and the thunder shall cease, neither shall there be any more haile: that thou mayest know how that the earth is the Lords.",
         }),
 
         ("exodus", 9, 30) => Some(Verse {
-            content: "",
+            content: "But as for thee and thy seruants, I know that ye will not yet feare the Lord God.",
         }),
 
         ("exodus", 9, 31) => Some(Verse {
-            content: "",
+            content: "And the flaxe, and the barley was smitten: for the barley was in the eare, and the flaxe was bolled:",
         }),
 
         ("exodus", 9, 32) => Some(Verse {
-            content: "",
+            content: "But the wheat and the rye were not smitten: for they were not growen vp.",
         }),
 
         ("exodus", 9, 33) => Some(Verse {
-            content: "",
+            content: "And Moses went out of the city from Pharaoh, and spread abroad his hands vnto the Lord: and the thunders and haile ceased, and the raine was not powred vpon the earth.",
         }),
 
         ("exodus", 9, 34) => Some(Verse {
-            content: "",
+            content: "And when Pharaoh saw that the raine, and the haile and the thunders were ceased, hee sinned yet more, and hardened his heart, he and his seruants.",
         }),
 
         ("exodus", 9, 35) => Some(Verse {
-            content: "",
+            content: "And the heart of Pharaoh was hardened, neither would he let the children of Israel goe, as the Lord had spoken by Moses.",
         }),
 
         ("exodus", 10, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Goe in vnto Pharaoh: for I haue hardned his heart, and the heart of his seruants, that I might shew these my signes before him:",
         }),
 
         ("exodus", 10, 2) => Some(Verse {
-            content: "",
+            content: "And that thou mayest tell in the eares of thy sonne, and of thy sonnes sonne, what things I haue wrought in Egypt, and my signes which I haue done amongst them, that ye may know how that I am the Lord.",
         }),
 
         ("exodus", 10, 3) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron came in vnto Pharaoh, and saide vnto him, Thus saith the Lord God of the Hebrewes, How long wilt thou refuse to humble thy selfe before mee? Let my people goe, that they may serue me.",
         }),
 
         ("exodus", 10, 4) => Some(Verse {
-            content: "",
+            content: "Els, if thou refuse to let my people goe, behold, to morrow will I bring the locusts into thy coast.",
         }),
 
         ("exodus", 10, 5) => Some(Verse {
-            content: "",
+            content: "And they shall couer the face of the earth, that one cannot be able to see the earth, and they shall eate the residue of that which is escaped, which remaineth vnto you from the haile, and shall eate euery tree, which groweth for you out of the field.",
         }),
 
         ("exodus", 10, 6) => Some(Verse {
-            content: "",
+            content: "And they shall fill thy houses, and the houses of all thy seruants, and the houses of all the Egyptians, which neither thy fathers, nor thy fathers fathers haue seene, since the day that they were vpon the earth, vnto this day. And he turned himselfe, and went out from Pharaoh.",
         }),
 
         ("exodus", 10, 7) => Some(Verse {
-            content: "",
+            content: "And Pharaohs seruants said vnto him, How long shall this man be a snare vnto vs? Let the men goe, that they may serue the Lord their God: Knowest thou not yet, that Egypt is destroyed?",
         }),
 
         ("exodus", 10, 8) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron were brought againe vnto Pharaoh: and he said vnto them, Goe, serue the Lord your God: but who are they that shall goe?",
         }),
 
         ("exodus", 10, 9) => Some(Verse {
-            content: "",
+            content: "And Moses said, We wil goe with our yong, and with our old, with our sonnes and with our daughters, with our flockes and with our heards will we goe: for we must hold a feast vnto the Lord.",
         }),
 
         ("exodus", 10, 10) => Some(Verse {
-            content: "",
+            content: "And he said vnto them; Let the Lord bee so with you, as I will let you goe, and your litle ones. Looke to it, for euill is before you.",
         }),
 
         ("exodus", 10, 11) => Some(Verse {
-            content: "",
+            content: "Not so: goe now yee that are men, and serue the Lord, for that you did desire: and they were driuen out from Pharaohs presence.",
         }),
 
         ("exodus", 10, 12) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Stretch out thine hand ouer the land of Egypt for the locusts, that they may come vp vpon the land of Egypt, and eate euery herbe of the land, euen all that the haile hath left.",
         }),
 
         ("exodus", 10, 13) => Some(Verse {
-            content: "",
+            content: "And Moses stretched forth his rod ouer the land of Egypt, and the Lord brought an East wind vpon the land all that day, and all that night: and when it was morning, the East wind brought the locusts.",
         }),
 
         ("exodus", 10, 14) => Some(Verse {
-            content: "",
+            content: "And the locusts went vp ouer all the land of Egypt, and rested in all the coasts of Egypt: very grieuous were they: before them there were no such locusts as they, neither after them shall be such.",
         }),
 
         ("exodus", 10, 15) => Some(Verse {
-            content: "",
+            content: "For they couered the face of the whole earth, so that the land was darkned, and they did eate euery herbe of the land, and all the fruit of the trees, which the haile had left, and there remained not any greene thing in the trees, or in the herbes of the field, through all the land of Egypt.",
         }),
 
         ("exodus", 10, 16) => Some(Verse {
-            content: "",
+            content: "Then Pharaoh called for Moses and Aaron in haste: and he said, I haue sinned against the Lord your God, and against you.",
         }),
 
         ("exodus", 10, 17) => Some(Verse {
-            content: "",
+            content: "Now therefore forgiue, I pray thee, my sinne onely this once, and intreat the Lord your God, that hee may take away from mee this death onely.",
         }),
 
         ("exodus", 10, 18) => Some(Verse {
-            content: "",
+            content: "And he went out from Pharaoh, and intreated the Lord.",
         }),
 
         ("exodus", 10, 19) => Some(Verse {
-            content: "",
+            content: "And the Lord turned a mighty strong West wind, which tooke away the locusts, and cast them into the red sea: there remained not one locust in all the coasts of Egypt.",
         }),
 
         ("exodus", 10, 20) => Some(Verse {
-            content: "",
+            content: "But the Lord hardened Pharaohs heart, so that hee would not let the children of Israel goe.",
         }),
 
         ("exodus", 10, 21) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Stretch out thine hand toward heauen, that there may be darkenesse ouer the land of Egypt, euen darkenes which may be felt.",
         }),
 
         ("exodus", 10, 22) => Some(Verse {
-            content: "",
+            content: "And Moses stretched foorth his hand toward heauen: and there was a thicke darkenesse in all the land of Egypt three dayes.",
         }),
 
         ("exodus", 10, 23) => Some(Verse {
-            content: "",
+            content: "They saw not one another, neither rose any from his place for three dayes: but all the children of Israel had light in their dwellings.",
         }),
 
         ("exodus", 10, 24) => Some(Verse {
-            content: "",
+            content: "And Pharaoh called vnto Moses, and said, Goe ye, serue the Lord: onely let your flockes and your herds be stayed: let your litle ones also goe with you.",
         }),
 
         ("exodus", 10, 25) => Some(Verse {
-            content: "",
+            content: "And Moses saide, Thou must giue vs also sacrifices, and burnt offerings, that we may sacrifice vnto the Lord our God.",
         }),
 
         ("exodus", 10, 26) => Some(Verse {
-            content: "",
+            content: "Our cattell also shall goe with vs: there shall not an hoofe bee left behind: for thereof must we take to serue the Lord our God: and we knowe not with what wee must serue the Lord, vntill we come thither.",
         }),
 
         ("exodus", 10, 27) => Some(Verse {
-            content: "",
+            content: "But the Lord hardened Pharaohs heart, and he would not let them goe.",
         }),
 
         ("exodus", 10, 28) => Some(Verse {
-            content: "",
+            content: "And Pharaoh said vnto him, Get thee from me, take heed to thy selfe: see my face no more: for in that day thou seest my face, thou shalt die.",
         }),
 
         ("exodus", 10, 29) => Some(Verse {
-            content: "",
+            content: "And Moses said, Thou hast spoken well, I will see thy face againe no more.",
         }),
 
         ("exodus", 11, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Yet will I bring one plague more vpon Pharaoh, and vpon Egypt, afterwards hee will let you goe heuce: when hee shall let you goe, he shall surely thrust you out hence altogether.",
         }),
 
         ("exodus", 11, 2) => Some(Verse {
-            content: "",
+            content: "Speake now in the eares of the people, and let euery man borrowe of his neighbour, and euery woman of her neighbour, iewels of siluer, and iewels of gold.",
         }),
 
         ("exodus", 11, 3) => Some(Verse {
-            content: "",
+            content: "And the Lord gaue the people fauour in the sight of the Egyptians. Moreouer the man Moses was very great in the land of Egypt, in the sight of Pharaohs seruants, and in the sight of the people.",
         }),
 
         ("exodus", 11, 4) => Some(Verse {
-            content: "",
+            content: "And Moses said, Thus saith the Lord, about midnight will I goe out into the midst of Egypt.",
         }),
 
         ("exodus", 11, 5) => Some(Verse {
-            content: "",
+            content: "And all the first borne in the lande of Egypt shall die, from the first borne of Pharaoh, that sitteth vpon his throne, euen vnto the first borne of the maid seruant that is behind the mill, and all the first borne of beasts.",
         }),
 
         ("exodus", 11, 6) => Some(Verse {
-            content: "",
+            content: "And there shall bee a great crie throughout all the land of Egypt, such as there was none like it, nor shall bee like it any more.",
         }),
 
         ("exodus", 11, 7) => Some(Verse {
-            content: "",
+            content: "But against any of the children of Israel, shal not a dog moue his tongue, against man or beast: that ye may know how that the Lord doth put a difference betweene the Egyptians and Israel.",
         }),
 
         ("exodus", 11, 8) => Some(Verse {
-            content: "",
+            content: "And all these thy seruants shall come downe vnto me, and bow downe themselues vnto me, saying, Get thee out, and all the people that follow thee; and after that I wil goe out: and he went out from Pharaoh in a great anger.",
         }),
 
         ("exodus", 11, 9) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Pharaoh shall not hearken vnto you, that my wonders may be multiplied in the land of Egypt.",
         }),
 
         ("exodus", 11, 10) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron did all these wonders before Pharaoh: and the Lord hardened Pharaohs heart, so that he would not let the children of Israel goe out of his land.",
         }),
 
         ("exodus", 12, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses and Aaron in the land of Egypt, saying,",
         }),
 
         ("exodus", 12, 2) => Some(Verse {
-            content: "",
+            content: "This moneth shalbe vnto you the beginning of moneths: it shall be the first moneth of the yeere to you.",
         }),
 
         ("exodus", 12, 3) => Some(Verse {
-            content: "",
+            content: "Speake ye vnto all the Congregation of Israel, saying, In the tenth day of this moneth they shall take to them euery man a lambe, according to the house of their fathers, a lambe for an house.",
         }),
 
         ("exodus", 12, 4) => Some(Verse {
-            content: "",
+            content: "And if the houshold be too little for the lambe, let him and his neighbour next vnto his house, take it according to the number of the soules: euery man according to his eating shall make your count for the lambe.",
         }),
 
         ("exodus", 12, 5) => Some(Verse {
-            content: "",
+            content: "Your lambe shall be without blemish, a male of the first yeere: yee shall take it out from the sheepe or from the goates.",
         }),
 
         ("exodus", 12, 6) => Some(Verse {
-            content: "",
+            content: "And ye shall keepe it vp vntill the fourteenth day of the same moneth: and the whole assembly of the congregation of Israel shall kill it in the euening.",
         }),
 
         ("exodus", 12, 7) => Some(Verse {
-            content: "",
+            content: "And they shall take of the blood and strike it on the two side postes, and on the vpper doore poste, of the houses wherin they shall eate it.",
         }),
 
         ("exodus", 12, 8) => Some(Verse {
-            content: "",
+            content: "And they shall eat the flesh in that night roste with fire, and vnleauened bread, and with bitter herbes they shall eate it.",
         }),
 
         ("exodus", 12, 9) => Some(Verse {
-            content: "",
+            content: "Eate not of it raw, nor sodden at all with water, but roste with fire: his head, with his legs, and with the purtenance thereof.",
         }),
 
         ("exodus", 12, 10) => Some(Verse {
-            content: "",
+            content: "And ye shall let nothing of it remaine vntill the morning: and that which remaineth of it vntill the morning, ye shall burne with fire.",
         }),
 
         ("exodus", 12, 11) => Some(Verse {
-            content: "",
+            content: "And thus shall ye eate it: with your loines girded, your shooes on your feet, and your staffe in your hand: and ye shall eate it in haste: it is the Lords Passeouer.",
         }),
 
         ("exodus", 12, 12) => Some(Verse {
-            content: "",
+            content: "For I will passe through the land of Egypt this night, and will smite all the first borne in the land of Egypt, both man & beast, and against all the gods of Egypt I will execute iudgement: I am the Lord.",
         }),
 
         ("exodus", 12, 13) => Some(Verse {
-            content: "",
+            content: "And the blood shall be to you for a token vpon the houses where you are: and when I see the blood, I will passe ouer you, and the plague shall not bee vpon you to destroy you, when I smite the land of Egypt.",
         }),
 
         ("exodus", 12, 14) => Some(Verse {
-            content: "",
+            content: "And this day shall be vnto you for a memoriall: and you shall keepe in a feast to the Lord, throughout your generations: you shall keepe it a feast by an ordinance for euer.",
         }),
 
         ("exodus", 12, 15) => Some(Verse {
-            content: "",
+            content: "Seuen dayes shall ye eate vnleauened bread, euen the first day yee shall put away leauen out of your houses: For whosoeuer eateth leauened bread, from the first day vntil the seuenth day, that soule shall be cut off from Israel.",
         }),
 
         ("exodus", 12, 16) => Some(Verse {
-            content: "",
+            content: "And in the first day there shalbe an holy conuocation, and in the seuenth day there shall be an holy conuocation to you: no maner of worke shalbe done in them, saue that which euery man must eate, that onely may bee done of you.",
         }),
 
         ("exodus", 12, 17) => Some(Verse {
-            content: "",
+            content: "And yee shall obserue the feast of vnleauened bread: for in this selfe same day haue I brought your armies out of the land of Egypt; therefore shall ye obserue this day in your generations, by an ordinance for euer.",
         }),
 
         ("exodus", 12, 18) => Some(Verse {
-            content: "",
+            content: "In the first moneth, on the fourteenth day of the moneth at euen, ye shall eate vnleauened bread vntill the one and twentieth day of the moneth at euen.",
         }),
 
         ("exodus", 12, 19) => Some(Verse {
-            content: "",
+            content: "Seuen dayes shall there bee no leauen found in your houses: for whosoeuer eateth that which is leauened, euen that soule shall be cut off from the congregation of Israel, whether he be a stranger, or borne in the land.",
         }),
 
         ("exodus", 12, 20) => Some(Verse {
-            content: "",
+            content: "Yee shall eate nothing leauened: in all your habitations shall ye eate vnleauened bread.",
         }),
 
         ("exodus", 12, 21) => Some(Verse {
-            content: "",
+            content: "Then Moses called for all the Elders of Israel, and said vnto them; Draw out and take you a lambe, according to your families, and kill the Passeouer.",
         }),
 
         ("exodus", 12, 22) => Some(Verse {
-            content: "",
+            content: "And ye shall take a bunch of hysope, and dip it in the blood that is in the bason, and strike the lintel and the two side postes with the blood that is in the bason: and none of you shall goe out at the doore of his house, vntill the morning.",
         }),
 
         ("exodus", 12, 23) => Some(Verse {
-            content: "",
+            content: "For the Lord wil passe through to smite the Egyptians: and when hee seeth the blood vpon the lintel, and on the two side-postes, the Lord will passe ouer the doore, and will not suffer the destroyer to come in vnto your houses to smite you.",
         }),
 
         ("exodus", 12, 24) => Some(Verse {
-            content: "",
+            content: "And ye shall obserue this thing for an ordinance to thee, and to thy sonnes for euer.",
         }),
 
         ("exodus", 12, 25) => Some(Verse {
-            content: "",
+            content: "And it shall come to passe when yee bee come to the land, which the Lord will giue you, according as he hath promised, that ye shall keepe this seruice.",
         }),
 
         ("exodus", 12, 26) => Some(Verse {
-            content: "",
+            content: "And it shall come to passe, when your children shall say vnto you, What meane you by this seruice?",
         }),
 
         ("exodus", 12, 27) => Some(Verse {
-            content: "",
+            content: "That ye shall say, It is the sacrifice of the Lords Passeouer, who passed ouer the houses of the children of Israel in Egypt, when he smote the Egyptians, and deliuered our houses. And the people bowed the head, and worshipped.",
         }),
 
         ("exodus", 12, 28) => Some(Verse {
-            content: "",
+            content: "And the children of Israel went away, and did as the Lord had commanded Moses and Aaron, so did they.",
         }),
 
         ("exodus", 12, 29) => Some(Verse {
-            content: "",
+            content: "And it came to passe that at midnight the Lord smote all the first borne in the land of Egypt, from the first borne of Pharaoh that sate on his throne, vnto the first borne of the captiue that was in the dungeon, and all the first borne of cattell.",
         }),
 
         ("exodus", 12, 30) => Some(Verse {
-            content: "",
+            content: "And Pharaoh rose vp in the night, hee and all his seruants, and all the Egyptians; and there was a great cry in Egypt: for there was not a house, where there was not one dead.",
         }),
 
         ("exodus", 12, 31) => Some(Verse {
-            content: "",
+            content: "And hee called for Moses and Aaron by night, and said, Rise vp, and get you forth from amongst my people, both you and the children of Israel: and goe, serue the Lord, as ye haue said.",
         }),
 
         ("exodus", 12, 32) => Some(Verse {
-            content: "",
+            content: "Also take your flockes and your heards, as ye haue said: and bee gone, and blesse me also.",
         }),
 
         ("exodus", 12, 33) => Some(Verse {
-            content: "",
+            content: "And the Egyptians were vrgent vpon the people that they might send them out of the land in haste: for they said, We be all dead men.",
         }),
 
         ("exodus", 12, 34) => Some(Verse {
-            content: "",
+            content: "And the people tooke their dough before it was leauened, their kneading troughes beeing bound vp in their clothes vpon their shoulders.",
         }),
 
         ("exodus", 12, 35) => Some(Verse {
-            content: "",
+            content: "And the children of Israel did according to the word of Moses: and they borrowed of the Egyptians iewels of siluer, and iewels of gold, and raiment.",
         }),
 
         ("exodus", 12, 36) => Some(Verse {
-            content: "",
+            content: "And the Lord gaue the people fauour in the sight of the Egyptians, so that they lent vnto them such things as they required: and they spoiled the Egyptians.",
         }),
 
         ("exodus", 12, 37) => Some(Verse {
-            content: "",
+            content: "And the children of Israel iourneyed from Rameses to Succoth, about sixe hundred thousand on foote that were men, beside children.",
         }),
 
         ("exodus", 12, 38) => Some(Verse {
-            content: "",
+            content: "And a mixed multitude went vp also with them, and flocks and heards, euen very much cattell.",
         }),
 
         ("exodus", 12, 39) => Some(Verse {
-            content: "",
+            content: "And they baked vnleauened cakes of the dough, which they brought forth out of Egypt; for it was not leauened: because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselues any victuall.",
         }),
 
         ("exodus", 12, 40) => Some(Verse {
-            content: "",
+            content: "Now the soiourning of the children of Israel, who dwelt in Egypt, was foure hundred and thirtie yeeres.",
         }),
 
         ("exodus", 12, 41) => Some(Verse {
-            content: "",
+            content: "And it came to passe at the end of the foure hundred and thirtie yeeres, euen the selfe same day it came to passe, that all the hosts of the Lord went out from the land of Egypt.",
         }),
 
         ("exodus", 12, 42) => Some(Verse {
-            content: "",
+            content: "It is a night to be much obserued vnto the Lord, for bringing them out from the land of Egypt: This is that night of the Lord to be obserued of all the children of Israel, in their generations.",
         }),
 
         ("exodus", 12, 43) => Some(Verse {
-            content: "",
+            content: "And the Lord saide vnto Moses and Aaron, This is the ordinance of the Passeouer: there shall no stranger eate thereof.",
         }),
 
         ("exodus", 12, 44) => Some(Verse {
-            content: "",
+            content: "But euery mans seruant that is bought for money, when thou hast circumcised him, then shall he eate thereof.",
         }),
 
         ("exodus", 12, 45) => Some(Verse {
-            content: "",
+            content: "A forreiner, and an hired seruant shall not eate thereof.",
         }),
 
         ("exodus", 12, 46) => Some(Verse {
-            content: "",
+            content: "In one house shall it be eaten, thou shalt not carie foorth ought of the flesh abroad out of the house, neither shall ye breake a bone thereof.",
         }),
 
         ("exodus", 12, 47) => Some(Verse {
-            content: "",
+            content: "All the Congregation of Israel shall keepe it.",
         }),
 
         ("exodus", 12, 48) => Some(Verse {
-            content: "",
+            content: "And when a stranger shall soiourne with thee, and will keepe the Passeouer to the Lord, let all his males be circumcised, and then let him come neere, and keepe it: and he shall be as one that is borne in the land: for no vncircumcised person shall eate thereof.",
         }),
 
         ("exodus", 12, 49) => Some(Verse {
-            content: "",
+            content: "One law shall be to him that is home-borne, and vnto the stranger that soiourneth among you.",
         }),
 
         ("exodus", 12, 50) => Some(Verse {
-            content: "",
+            content: "Thus did all the children of Israel: as the Lord commanded Moses and Aaron, so did they.",
         }),
 
         ("exodus", 12, 51) => Some(Verse {
-            content: "",
+            content: "And it came to passe the selfe same day, that the Lord did bring the children of Israel out of the land of Egypt, by their armies.",
         }),
 
         ("exodus", 13, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("exodus", 13, 2) => Some(Verse {
-            content: "",
+            content: "Sanctifie vnto me all the first borne, whatsoeuer openeth the wombe, among the children of Israel, both of man and of beast: it is mine.",
         }),
 
         ("exodus", 13, 3) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto the people, Remember this day, in which yee came out from Egypt, out of the house of bondage: for by strength of hand the Lord brought you out from this place: there shall no leauened bread be eaten.",
         }),
 
         ("exodus", 13, 4) => Some(Verse {
-            content: "",
+            content: "This day came yee out, in the moneth Abib.",
         }),
 
         ("exodus", 13, 5) => Some(Verse {
-            content: "",
+            content: "And it shalbe when the Lord shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hiuites, and the Iebusites, which he sware vnto thy fathers to giue thee, a land flowing with milke and hony, that thou shalt keepe this seruice in this moneth.",
         }),
 
         ("exodus", 13, 6) => Some(Verse {
-            content: "",
+            content: "Seuen dayes thou shalt eate vnleauened bread, and in the seuenth day shall be a feast to the Lord.",
         }),
 
         ("exodus", 13, 7) => Some(Verse {
-            content: "",
+            content: "Unleauened bread shall be eaten seuen dayes: and there shall no leauened bread bee seene with thee: neither shall there be leauen seene with thee in all thy quarters.",
         }),
 
         ("exodus", 13, 8) => Some(Verse {
-            content: "",
+            content: "And thou shalt shew thy sonne in that day, saying, This is done because of that which the Lord did vnto mee, when I came forth out of Egypt.",
         }),
 
         ("exodus", 13, 9) => Some(Verse {
-            content: "",
+            content: "And it shall bee for a signe vnto thee, vpon thine hand, and for a memoriall betweene thine eyes, that the Lords law may be in thy mouth: for with a strong hande hath the Lord brought thee out of Egypt.",
         }),
 
         ("exodus", 13, 10) => Some(Verse {
-            content: "",
+            content: "Thou shalt therfore keepe this ordinance in his season from yeere to yere.",
         }),
 
         ("exodus", 13, 11) => Some(Verse {
-            content: "",
+            content: "And it shalbe when the Lord shall bring thee into the land of the Canaanites as he sware vnto thee, and to thy fathers, and shall giue it thee:",
         }),
 
         ("exodus", 13, 12) => Some(Verse {
-            content: "",
+            content: "That thou shalt set apart vnto the Lord all that openeth the matrix, and euery firstling that commeth of a beast, which thou hast, the males shall be the Lords.",
         }),
 
         ("exodus", 13, 13) => Some(Verse {
-            content: "",
+            content: "And euery firstling of an asse thou shalt redeeme with a lambe: and if thou wilt not redeeme it, then thou shalt breake his necke, and all the first borne of man amongst thy children shalt thou redeeme.",
         }),
 
         ("exodus", 13, 14) => Some(Verse {
-            content: "",
+            content: "And it shalbe when thy sonne asketh thee in time to come, saying, What is this? That thou shalt say vnto him; By strength of hand the Lord brought vs out from Egypt, from the house of bondage.",
         }),
 
         ("exodus", 13, 15) => Some(Verse {
-            content: "",
+            content: "And it came to passe when Pharaoh would hardly let vs goe, that the Lord slew all the first borne in the land of Egypt, both the first borne of man, and the first borne of beast: Therefore I sacrifice to the Lord all that openeth the matrix, being males: but all the first borne of my children I redeeme.",
         }),
 
         ("exodus", 13, 16) => Some(Verse {
-            content: "",
+            content: "And it shall be for a token vpon thine hand, and for frontlets betweene thine eyes. For by strength of hand the Lord brought vs foorth out of Egypt.",
         }),
 
         ("exodus", 13, 17) => Some(Verse {
-            content: "",
+            content: "And it came to passe when Pharaoh had let the people goe, that God led them not through the way of the land of the Philistines, although that was neere: For God saide, Lest peraduenture the people repent when they see warre, and they returne to Egypt:",
         }),
 
         ("exodus", 13, 18) => Some(Verse {
-            content: "",
+            content: "But God ledde the people about through the way of the wildernesse of the Red sea: and the children of Israel went vp harnessed out of the land of Egypt.",
         }),
 
         ("exodus", 13, 19) => Some(Verse {
-            content: "",
+            content: "And Moses tooke the bones of Ioseph with him: for hee had straitly sworne the children of Israel, saying; God will surely visite you, and ye shall cary vp my bones away hence with you.",
         }),
 
         ("exodus", 13, 20) => Some(Verse {
-            content: "",
+            content: "And they tooke their iourney from Succoth, and encamped in Etham, in the edge of the wildernesse.",
         }),
 
         ("exodus", 13, 21) => Some(Verse {
-            content: "",
+            content: "And the Lord went before them by day in a pillar of a cloud, to lead them the way, and by night in a pillar of fire, to giue them light to goe by day and night.",
         }),
 
         ("exodus", 13, 22) => Some(Verse {
-            content: "",
+            content: "He tooke not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.",
         }),
 
         ("exodus", 14, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("exodus", 14, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, that they turne and encampe before Pi-hahiroth, betweene Migdol and the sea, ouer against Baal-Zephon: before it shall ye encampe by the sea.",
         }),
 
         ("exodus", 14, 3) => Some(Verse {
-            content: "",
+            content: "For Pharaoh will say of the children of Israel, They are intangled in the land, the wildernesse hath shut them in.",
         }),
 
         ("exodus", 14, 4) => Some(Verse {
-            content: "",
+            content: "And I will harden Pharaohs heart, that he shall follow after them, and I will be honoured vpon Pharaoh, and vpon all his hoste, That the Egyptians may know that I am the Lord. And they did so.",
         }),
 
         ("exodus", 14, 5) => Some(Verse {
-            content: "",
+            content: "And it was told the King of Egypt, that the people fled: And the heart of Pharaoh and of his seruants was turned against the people, and they said, Why haue wee done this, that we haue let Israel goe from seruing vs?",
         }),
 
         ("exodus", 14, 6) => Some(Verse {
-            content: "",
+            content: "And hee made ready his charet, and tooke his people with him.",
         }),
 
         ("exodus", 14, 7) => Some(Verse {
-            content: "",
+            content: "And hee tooke sixe hundred chosen charets, and all the charets of Egypt, and captaines ouer euery one of them.",
         }),
 
         ("exodus", 14, 8) => Some(Verse {
-            content: "",
+            content: "And the Lord hardened the heart of Pharaoh King of Egypt, and he pursued after the children of Israel: and the children of Israel went out with an high hand.",
         }),
 
         ("exodus", 14, 9) => Some(Verse {
-            content: "",
+            content: "But the Egyptians pursued after them (all the horses and charets of Pharaoh, and his horsemen, and his army) and ouertooke them encamping by the sea, beside Pi-hahiroth before Baal-Zephon.",
         }),
 
         ("exodus", 14, 10) => Some(Verse {
-            content: "",
+            content: "And when Pharaoh drew nigh, the children of Israel lift vp their eyes, and behold, the Egyptians marched after them, and they were sore afraid: and the children of Israel lift vp their eyes, and beholde, the Egyptians marched after them, and they were sore afraid: and the children of Israel cried out vnto the Lord.",
         }),
 
         ("exodus", 14, 11) => Some(Verse {
-            content: "",
+            content: "And they said vnto Moses, Because there were no graues in Egypt, hast thou taken vs away to die in the wildernesse? Wherefore hast thou dealt thus with vs, to cary vs foorth out of Egypt?",
         }),
 
         ("exodus", 14, 12) => Some(Verse {
-            content: "",
+            content: "Is not this the word that wee did tell thee in Egypt, saying, Let vs alone, that we may serue the Egyptians? For it had bene better for vs to serue the Egyptians, then that wee should die in the wildernesse.",
         }),
 
         ("exodus", 14, 13) => Some(Verse {
-            content: "",
+            content: "And Moses saide vnto the people, Feare ye not, stand still, and see the saluation of the Lord, which he will shew to you to day: for the Egyptians whom ye haue seene to day, ye shall see them againe no more for euer.",
         }),
 
         ("exodus", 14, 14) => Some(Verse {
-            content: "",
+            content: "The Lord shall fight for you, and ye shall hold your peace.",
         }),
 
         ("exodus", 14, 15) => Some(Verse {
-            content: "",
+            content: "And the Lord saide vnto Moses, Wherefore criest thou vnto me? Speake vnto the children of Israel, that they goe forward.",
         }),
 
         ("exodus", 14, 16) => Some(Verse {
-            content: "",
+            content: "But lift thou vp thy rodde, and stretch out thine hand ouer the Sea, and diuide it: and the children of Israel shall goe on dry ground thorow the mids of the Sea.",
         }),
 
         ("exodus", 14, 17) => Some(Verse {
-            content: "",
+            content: "And I, beholde, I will harden the hearts of the Egyptians, and they shall follow them: and I will get mee honour vpon Pharaoh, and vpon all his hoste, vpon his charets, and vpon his horsemen.",
         }),
 
         ("exodus", 14, 18) => Some(Verse {
-            content: "",
+            content: "And the Egyptians shall know that I am the Lord, when I haue gotten me honour vpon Pharaoh, vpon his charets, and vpon his horsemen.",
         }),
 
         ("exodus", 14, 19) => Some(Verse {
-            content: "",
+            content: "And the Angel of God which went before the campe of Israel, remoued and went behind them, and the pillar of the cloud went from before their face, and stood behinde them.",
         }),
 
         ("exodus", 14, 20) => Some(Verse {
-            content: "",
+            content: "And it came betweene the campe of the Egyptians, and the campe of Israel, and it was a cloud and darkenesse to them, but it gaue light by night to these: so that the one came not neere the other all the night.",
         }),
 
         ("exodus", 14, 21) => Some(Verse {
-            content: "",
+            content: "And Moses stretched out his hand ouer the Sea, and the Lord caused the Sea to goe backe by a strong East winde all that night, and made the Sea dry land, and the waters were diuided.",
         }),
 
         ("exodus", 14, 22) => Some(Verse {
-            content: "",
+            content: "And the children of Israel went into the midst of the Sea vpon the dry ground, and the waters were a wall vnto them on their right hand, and on their left.",
         }),
-        
+
         ("exodus", 14, 23) => Some(Verse {
-            content: "",
+            content: "And the Egyptians pursued, and went in after them, to the midst of the Sea, euen all Pharaohs horses, his charets and his horsemen.",
         }),
 
         ("exodus", 14, 24) => Some(Verse {
-            content: "",
+            content: "And it came to passe, that in the morning watch the Lord looked vnto the hoste of the Egyptians, through the pillar of fire, and of the cloude, and troubled the hoste of the Egyptians,",
         }),
 
         ("exodus", 14, 25) => Some(Verse {
-            content: "",
+            content: "And tooke off their charet wheeles, that they draue them heauily: So that the Egyptians said, Let vs flee from the face of Israel: for the Lord fighteth for them, against the Egyptians.",
         }),
 
         ("exodus", 14, 26) => Some(Verse {
-            content: "",
+            content: "And the Lord saide vnto Moses, Stretch out thine hand ouer the Sea, that the waters may come againe vpon the Egyptians, vpon their charets, and vpon their horsemen.",
         }),
 
         ("exodus", 14, 27) => Some(Verse {
-            content: "",
+            content: "And Moses stretched foorth his hand ouer the sea, and the sea returned to his strength when the morning appeared: and the Egyptians fled against it: and the Lord ouerthrew the Egyptians in the midst of the sea.",
         }),
 
         ("exodus", 14, 28) => Some(Verse {
-            content: "",
+            content: "And the waters returned, and couered the charets, and the horsemen, and all the hoste of Pharaoh that came into the sea after them: there remained not so much as one of them.",
         }),
 
         ("exodus", 14, 29) => Some(Verse {
-            content: "",
+            content: "But the children of Israel walked vpon drie land, in the midst of the sea, and the waters were a wall vnto them on their right hand, and on their left.",
         }),
 
         ("exodus", 14, 30) => Some(Verse {
-            content: "",
+            content: "Thus the Lord saued Israel that day out of the hand of the Egyptians: and Israel sawe the Egyptians dead vpon the sea shore.",
         }),
 
         ("exodus", 14, 31) => Some(Verse {
-            content: "",
+            content: "And Israel saw that great worke which the Lord did vpon the Egyptians: & the people feared the Lord, and beleeued the Lord, and his seruant Moses.",
         }),
 
         ("exodus", 15, 1) => Some(Verse {
-            content: "",
+            content: "Then sang Moses and the children of Israel this song vnto the Lord, and spake, saying, I will sing vnto the Lord: for he hath triumphed gloriously, the horse and his rider hath he throwen into the Sea.",
         }),
 
         ("exodus", 15, 2) => Some(Verse {
-            content: "",
+            content: "The Lord is my strength and song, and he is become my saluation: he is my God, and I will prepare him an habitation, my fathers God, and I wil exalt him.",
         }),
 
         ("exodus", 15, 3) => Some(Verse {
-            content: "",
+            content: "The Lord is a man of warre: the Lord is his Name.",
         }),
 
         ("exodus", 15, 4) => Some(Verse {
-            content: "",
+            content: "Pharaohs charets and his hoste hath he cast into the sea: his chosen captaines also are drowned in the red Sea.",
         }),
 
         ("exodus", 15, 5) => Some(Verse {
-            content: "",
+            content: "The depths haue couered them: they sanke into the bottome as a stone.",
         }),
 
         ("exodus", 15, 6) => Some(Verse {
-            content: "",
+            content: "Thy right hand, O Lord, is become glorious in power, thy right hand, O Lord, hath dashed in pieces the enemie.",
         }),
 
         ("exodus", 15, 7) => Some(Verse {
-            content: "",
+            content: "And in the greatnesse of thine excellencie thou hast ouerthrowen them, that rose vp against thee: thou sentest forth thy wrath, which consumed them as stubble.",
         }),
 
         ("exodus", 15, 8) => Some(Verse {
-            content: "",
+            content: "And with the blast of thy nostrils the waters were gathered together: the floods stood vpright as an heape, and the depths were congealed in the heart of the Sea.",
         }),
 
         ("exodus", 15, 9) => Some(Verse {
-            content: "",
+            content: "The enemie said, I will pursue, I wil ouertake, I wil diuide the spoile: my lust shall be satisfied vpon them: I will draw my sword, mine hand shall destroy them.",
         }),
 
         ("exodus", 15, 10) => Some(Verse {
-            content: "",
+            content: "Thou didst blow with thy wind, the sea couered them, they sanke as lead in the mighty waters.",
         }),
 
         ("exodus", 15, 11) => Some(Verse {
-            content: "",
+            content: "Who is like vnto thee, O Lord, amongst the gods? who is like thee, glorious in holinesse, fearefull in praises, doing wonders!",
         }),
 
         ("exodus", 15, 12) => Some(Verse {
-            content: "",
+            content: "Thou stretchedst out thy right hand, the earth swallowed them.",
         }),
 
         ("exodus", 15, 13) => Some(Verse {
-            content: "",
+            content: "Thou in thy mercie hast led forth the people which thou hast redeemed: thou hast guided them in thy strength vnto thy holy habitation.",
         }),
 
         ("exodus", 15, 14) => Some(Verse {
-            content: "",
+            content: "The people shall heare, and be afraid: sorrow shall take hold on the inhabitants of Palestina.",
         }),
 
         ("exodus", 15, 15) => Some(Verse {
-            content: "",
+            content: "Then the dukes of Edom shal be amased: the mighty men of Moab trembling shall take hold vpon them: all the inhabitants of Canaan shal melt away.",
         }),
 
         ("exodus", 15, 16) => Some(Verse {
-            content: "",
+            content: "Feare and dread shall fall vpon them, by the greatnesse of thine arme they shall be as still as a stone, till thy people passe ouer, O Lord, till the people passe ouer which thou hast purchased.",
         }),
 
         ("exodus", 15, 17) => Some(Verse {
-            content: "",
+            content: "Thou shalt bring them in, and plant them in the mountaine of thine inheritance, in the place, O Lord, which thou hast made for thee to dwell in, in the Sanctuary, O Lord, which thy hands haue established.",
         }),
 
         ("exodus", 15, 18) => Some(Verse {
-            content: "",
+            content: "The Lord shal reigne for euer and euer.",
         }),
 
         ("exodus", 15, 19) => Some(Verse {
-            content: "",
+            content: "For the horse of Pharaoh went in with his charets and with his horsemen into the sea, and the Lord brought againe the waters of the Sea vpon them: But the children of Israel went on drie land in the mids of the sea.",
         }),
 
         ("exodus", 15, 20) => Some(Verse {
-            content: "",
+            content: "And Miriam the prophetesse the sister of Aaron, tooke a timbrell in her hand, and all the women went out after her, with timbrels & with dances.",
         }),
 
         ("exodus", 15, 21) => Some(Verse {
-            content: "",
+            content: "And Miriam answered them, Sing ye to the Lord, for he hath triumphed gloriously: the horse and his rider hath he throwen into the sea.",
         }),
 
         ("exodus", 15, 22) => Some(Verse {
-            content: "",
+            content: "So Moses brought Israel from the red sea, and they went out into the wildernesse of Shur: and they went three dayes in the wildernesse, and found no water.",
         }),
 
         ("exodus", 15, 23) => Some(Verse {
-            content: "",
+            content: "And when they came to Marah, they could not drinke of the waters of Marah, for they were bitter: therefore the name of it was called Marah.",
         }),
 
         ("exodus", 15, 24) => Some(Verse {
-            content: "",
+            content: "And the people murmured against Moses, saying, What shall wee drinke?",
         }),
 
         ("exodus", 15, 25) => Some(Verse {
-            content: "",
+            content: "And he cried vnto the Lord: and the Lord shewed him a tree, which when hee had cast into the waters, the waters were made sweete: there he made a statute & an ordinance, and there he proued them,",
         }),
 
         ("exodus", 15, 26) => Some(Verse {
-            content: "",
+            content: "And said, If thou wilt diligently hearken to the voice of the Lord thy God, and wilt doe that which is right in his sight, and wilt giue eare to his Commandements, and keepe all his Statutes, I will put none of these diseases vpon thee, which I haue brought vpon the Egyptians: for I am the Lord that healeth thee.",
         }),
 
         ("exodus", 15, 27) => Some(Verse {
-            content: "",
+            content: "And they came to Elim: where were twelue wels of water, and threescore and ten palme trees, and they encamped there by the waters.",
         }),
 
         ("exodus", 16, 1) => Some(Verse {
-            content: "",
+            content: "And they tooke their iourney from Elim, and all the Congregation of the children of Israel came vnto the wildernesse of Sin, which is betweene Elim and Sinai, on the fifteenth day of the second moneth after their departing out of the land of Egypt.",
         }),
 
         ("exodus", 16, 2) => Some(Verse {
-            content: "",
+            content: "And the whole Congregation of the children of Israel murmured against Moses and Aaron in the wildernesse.",
         }),
 
         ("exodus", 16, 3) => Some(Verse {
-            content: "",
+            content: "And the children of Israel saide vnto them, Would to God wee had died by the hand of the Lord in the land of Egypt, when wee sate by the flesh pots, and when we did eate bread to the full: for ye haue brought vs forth into this wildernesse, to kill this whole assembly with hunger.",
         }),
 
         ("exodus", 16, 4) => Some(Verse {
-            content: "",
+            content: "Then said the Lord vnto Moses, Behold, I will raine bread from heauen for you: and the people shall goe out, and gather a certaine rate euery day, that I may proue them, whether they will walke in my Law, or no.",
         }),
 
         ("exodus", 16, 5) => Some(Verse {
-            content: "",
+            content: "And it shall come to passe, that on the sixt day, they shall prepare that which they bring in, and it shall be twice as much as they gather dayly.",
         }),
 
         ("exodus", 16, 6) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron said vnto all the children of Israel, At euen, then ye shall know that the Lord hath brought you out from the land of Egypt.",
         }),
 
         ("exodus", 16, 7) => Some(Verse {
-            content: "",
+            content: "And in the morning, then ye shall see the glory of the Lord, for that he heareth your murmurings against the Lord: And what are wee, that yee murmure against vs?",
         }),
 
         ("exodus", 16, 8) => Some(Verse {
-            content: "",
+            content: "And Moses said, This shalbe when the Lord shal giue you in the euening flesh to eate, and in the morning bread to the full: for that the Lord heareth your murmurings which ye murmure against him; and what are wee? your murmurings are not against vs, but against the Lord.",
         }),
 
         ("exodus", 16, 9) => Some(Verse {
-            content: "",
+            content: "And Moses spake vnto Aaron, Say vnto all the Congregation of the children of Israel, Come neere before the Lord: for hee hath heard your murmurings.",
         }),
 
         ("exodus", 16, 10) => Some(Verse {
-            content: "",
+            content: "And it came to passe as Aaron spake vnto the whole Congregation of the children of Israel, that they looked toward the wildernesse, and behold, the glory of the Lord appeared in the cloude.",
         }),
 
         ("exodus", 16, 11) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("exodus", 16, 12) => Some(Verse {
-            content: "",
+            content: "I haue heard the murmurings of the children of Israel: Speake vnto them, saying, At euen ye shall eat flesh, and in the morning ye shalbe filled with bread: and ye shal know that I am the Lord your God.",
         }),
 
         ("exodus", 16, 13) => Some(Verse {
-            content: "",
+            content: "And it came to passe, that at euen the Quailes came vp, and couered the campe: and in the morning the dew lay round about the hoste.",
         }),
 
         ("exodus", 16, 14) => Some(Verse {
-            content: "",
+            content: "And when the dewe that lay was gone vp, behold, vpon the face of the wildernesse there lay a small round thing, as small as the hoare frost on the ground.",
         }),
 
         ("exodus", 16, 15) => Some(Verse {
-            content: "",
+            content: "And when the children of Israel saw it, they said one to another, It is Manna: for they wist not what it was. And Moses said vnto them, This is the bread which the Lord hath giuen you to eate.",
         }),
 
         ("exodus", 16, 16) => Some(Verse {
-            content: "",
+            content: "This is the thing which the Lord hath commanded: gather of it euery man according to his eating: an Omer for euery man, according to the number of your persons, take yee euery man for them which are in his tents.",
         }),
 
         ("exodus", 16, 17) => Some(Verse {
-            content: "",
+            content: "And the children of Israel did so, and gathered some more, some lesse.",
         }),
 
         ("exodus", 16, 18) => Some(Verse {
-            content: "",
+            content: "And when they did mete it with an Omer, he that gathered much, had nothing ouer, and he that gathered litle, had no lacke: they gathered euery man according to his eating.",
         }),
 
         ("exodus", 16, 19) => Some(Verse {
-            content: "",
+            content: "And Moses saide, Let no man leaue of it till the morning.",
         }),
 
         ("exodus", 16, 20) => Some(Verse {
-            content: "",
+            content: "Notwithstanding they hearkened not vnto Moses, but some of them left of it vntill the morning, and it bred wormes, and stanke: and Moses was wroth with them.",
         }),
 
         ("exodus", 16, 21) => Some(Verse {
-            content: "",
+            content: "And they gathered it euery morning, euery man according to his eating: and when the Sunne waxed hot, it melted.",
         }),
 
         ("exodus", 16, 22) => Some(Verse {
-            content: "",
+            content: "And it came to passe that on the sixt day they gathered twice as much bread, two Omers for one man: and all the rulers of the Congregation came and told Moses.",
         }),
 
         ("exodus", 16, 23) => Some(Verse {
-            content: "",
+            content: "And he said vnto them, This is that which the Lord hath said, To morrow is the rest of the holy Sabbath vnto the Lord: bake that which you will bake, to day, and seethe that ye will seethe, and that which remaineth ouer, lay vp for you to be kept vntill the morning.",
         }),
 
         ("exodus", 16, 24) => Some(Verse {
-            content: "",
+            content: "And they laid it vp till the morning, as Moses bade: and it did not stinke, neither was there any worme therein.",
         }),
 
         ("exodus", 16, 25) => Some(Verse {
-            content: "",
+            content: "And Moses saide, Eate that to day, for to day is a Sabbath vnto the Lord: to day yee shall not finde it in the field.",
         }),
 
         ("exodus", 16, 26) => Some(Verse {
-            content: "",
+            content: "Sixe dayes ye shall gather it, but on the seuenth day which is the Sabbath, in it there shall be none.",
         }),
 
         ("exodus", 16, 27) => Some(Verse {
-            content: "",
+            content: "And it came to passe, that there went out some of the people on the seuenth day for to gather, and they found none.",
         }),
 
         ("exodus", 16, 28) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, How long refuse yee to keepe my Commandements, and my Lawes?",
         }),
 
         ("exodus", 16, 29) => Some(Verse {
-            content: "",
+            content: "See, for that the Lord hath giuen you the Sabbath, therefore hee giueth you on the sixt day the bread of two dayes: abide yee euery man in his place: let no man goe out of his place on the seuenth day.",
         }),
 
         ("exodus", 16, 30) => Some(Verse {
-            content: "",
+            content: "So the people rested on the seuenth day.",
         }),
 
         ("exodus", 16, 31) => Some(Verse {
-            content: "",
+            content: "And the house of Israel called the name thereof Manna: and it was like Coriander seed, white: and the taste of it was like wafers made with hony.",
         }),
 
         ("exodus", 16, 32) => Some(Verse {
-            content: "",
+            content: "And Moses said, This is the thing which the Lord commandeth: Fill an Omer of it to bee kept for your generations, that they may see the bread wherewith I haue fed you in the wildernesse, when I brought you forth from the land of Egypt.",
         }),
 
         ("exodus", 16, 33) => Some(Verse {
-            content: "",
+            content: "And Moses sayd vnto Aaron, Take a pot, and put an Omer full of Manna therein, and lay it vp before the Lord, to be kept for your generations.",
         }),
 
         ("exodus", 16, 34) => Some(Verse {
-            content: "",
+            content: "As the Lord commaunded Moses, so Aaron layd it vp before the Testimonie, to be kept.",
         }),
 
         ("exodus", 16, 35) => Some(Verse {
-            content: "",
+            content: "And the children of Israel did eat Manna fortie yeeres, vntill they came to a land inhabited: they did eate Manna, vntill they came vnto the borders of the land of Canaan.",
         }),
 
         ("exodus", 16, 36) => Some(Verse {
-            content: "",
+            content: "Now an Omer is the tenth part of an Ephah.",
         }),
 
         ("exodus", 17, 1) => Some(Verse {
-            content: "",
+            content: "And all the Congregation of the children of Israel iourneyed from the wildernesse of Sin after their iourneys, according to the commandement of the Lord, and pitched in Rephidim: and there was no water for the people to drinke.",
         }),
 
         ("exodus", 17, 2) => Some(Verse {
-            content: "",
+            content: "Wherefore the people did chide with Moses and said, Giue vs water that wee may drinke. And Moses said vnto them, Why chide you with mee? Wherefore doe ye tempt the Lord ?", //intented space
         }),
 
         ("exodus", 17, 3) => Some(Verse {
-            content: "",
+            content: "And the people thirsted there for water, and the people murmured against Moses, and said, Wherefore is this that thou hast brought vs vp out of Egypt, to kill vs and our children, and our cattell with thirst?",
         }),
 
         ("exodus", 17, 4) => Some(Verse {
-            content: "",
+            content: "And Moses cried vnto the Lord, saying, What shall I doe vnto this people? They be almost ready to stone me.",
         }),
 
         ("exodus", 17, 5) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Goe on before the people, and take with thee of the Elders of Israel: and thy rod wherewith thou smotest the riuer, take in thine hand, and goe.",
         }),
 
         ("exodus", 17, 6) => Some(Verse {
-            content: "",
+            content: "Behold, I will stand before thee there, vpon the rocke in Horeb, and thou shalt smite the rocke, and there shall come water out of it, that the people may drinke. And Moses did so, in the sight of the Elders of Israel.",
         }),
 
         ("exodus", 17, 7) => Some(Verse {
-            content: "",
+            content: "And hee called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the Lord, saying, Is the Lord amongst vs, or not?",
         }),
 
         ("exodus", 17, 8) => Some(Verse {
-            content: "",
+            content: "Then came Amalek, & fought with Israel in Rephidim.",
         }),
 
         ("exodus", 17, 9) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto Ioshua, Choose vs out men, and goe out, fight with Amalek: to morrow I will stand on the top of the hill, with the rodde of God in mine hand.",
         }),
 
         ("exodus", 17, 10) => Some(Verse {
-            content: "",
+            content: "So Ioshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went vp to the top of the hill.",
         }),
 
         ("exodus", 17, 11) => Some(Verse {
-            content: "",
+            content: "And it came to passe when Moses held vp his hand, that Israel preuailed: and when he let downe his hand, Amalek preuailed.",
         }),
 
         ("exodus", 17, 12) => Some(Verse {
-            content: "",
+            content: "But Moses hands were heauie, and they tooke a stone, and put it vnder him, and he sate thereon: and Aaron and Hur stayed vp his hands, the one on the one side, and the other on the other side, and his handes were steady vntill the going downe of the Sunne.",
         }),
 
         ("exodus", 17, 13) => Some(Verse {
-            content: "",
+            content: "And Ioshua discomfited Amalek, and his people, with the edge of the sword.",
         }),
 
         ("exodus", 17, 14) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Write this for a memoriall in a booke, and rehearse it in the eares of Ioshua: for I will vtterly put out the remembrance of Amalek from vnder heauen.",
         }),
 
         ("exodus", 17, 15) => Some(Verse {
-            content: "",
+            content: "And Moses built an Altar, and called the name of it IEHOUAH Nissi.",
         }),
 
         ("exodus", 17, 16) => Some(Verse {
-            content: "",
+            content: "For he said, Because the Lord hath sworne that the Lord will haue warre with Amalek from generation to generation.",
         }),
 
         ("exodus", 18, 1) => Some(Verse {
-            content: "",
+            content: "When Iethro the Priest of Midian, Moses father in law, heard of all that God had done for Moses, and for Israel his people, and that the Lord had brought Israel out of Egypt:",
         }),
 
         ("exodus", 18, 2) => Some(Verse {
-            content: "",
+            content: "Then Iethro Moses father in law tooke Zipporah Moses wife, after he had sent her backe,",
         }),
 
         ("exodus", 18, 3) => Some(Verse {
-            content: "",
+            content: "And her two sonnes, of which the name of the one was Gershom: for he said, I haue bene an alien in a strange land.",
         }),
 
         ("exodus", 18, 4) => Some(Verse {
-            content: "",
+            content: "And the name of the other was Eliezer: for the God of my father, said he, was mine helpe, and deliuered me from the sword of Pharaoh.",
         }),
 
         ("exodus", 18, 5) => Some(Verse {
-            content: "",
+            content: "And Iethro Moses father in law came with his sonnes and his wife vnto Moses into the wildernes, where he encamped at the mount of God.",
         }),
 
         ("exodus", 18, 6) => Some(Verse {
-            content: "",
+            content: "And he said vnto Moses, I thy father in law Iethro am come vnto thee, and thy wife, and her two sonnes with her.",
         }),
 
         ("exodus", 18, 7) => Some(Verse {
-            content: "",
+            content: "And Moses went out to meete his father in law, and did obeysance, and kissed him: and they asked each other of their welfare, and they came into the tent.",
         }),
 
         ("exodus", 18, 8) => Some(Verse {
-            content: "",
+            content: "And Moses told his father in law, all that the Lord had done vnto Pharaoh, and to the Egyptians for Israels sake, and all the trauaile that had come vpon them by the way, and how the Lord deliuered them.",
         }),
 
         ("exodus", 18, 9) => Some(Verse {
-            content: "",
+            content: "And Iethro reioyced for all the goodnesse which the Lord had done to Israel: whom he had deliuered out of the hand of the Egyptians.",
         }),
 
         ("exodus", 18, 10) => Some(Verse {
-            content: "",
+            content: "And Iethro said, Blessed be the Lord, who hath deliuered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath deliuered the people from vnder the hand of the Egyptians.",
         }),
 
         ("exodus", 18, 11) => Some(Verse {
-            content: "",
+            content: "Now I know that the Lord is greater then all gods: for in the thing wherein they dealt proudly, hee was aboue them.",
         }),
 
         ("exodus", 18, 12) => Some(Verse {
-            content: "",
+            content: "And Iethro, Moses father in law, tooke a burnt offering and sacrifices for God: and Aaron came, and all the Elders of Israel, to eat bread with Moses father in law before God.",
         }),
 
         ("exodus", 18, 13) => Some(Verse {
-            content: "",
+            content: "And it came to passe on the morrow, that Moses sate to iudge the people: and the people stood by Moses, from the morning vnto the euening.",
         }),
 
         ("exodus", 18, 14) => Some(Verse {
-            content: "",
+            content: "And when Moses father in law saw all that he did to the people, he said, What is this thing that thou doest to the people? Why sittest thou thy selfe alone, and all the people stand by thee from morning vnto euen?",
         }),
 
         ("exodus", 18, 15) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto his father in law, Because the people come vnto me to enquire of God.",
         }),
 
         ("exodus", 18, 16) => Some(Verse {
-            content: "",
+            content: "When they haue a matter, they come vnto mee, and I iudge betweene one and another, and I doe make them know the statutes of God and his Lawes.",
         }),
 
         ("exodus", 18, 17) => Some(Verse {
-            content: "",
+            content: "And Moses father in law saide vnto him, The thing that thou doest, is not good.",
         }),
 
         ("exodus", 18, 18) => Some(Verse {
-            content: "",
+            content: "Thou wilt surely weare away, both thou, and this people that is with thee: for this thing is too heauy for thee; thou art not able to performe it thy selfe alone.",
         }),
 
         ("exodus", 18, 19) => Some(Verse {
-            content: "",
+            content: "Hearken now vnto my voyce, I will giue thee counsell, and God shall be with thee: Be thou for the people to Godward, that thou mayest bring the causes vnto God:",
         }),
 
         ("exodus", 18, 20) => Some(Verse {
-            content: "",
+            content: "And thou shalt teach them ordinances and lawes, and shalt shew them the way wherein they must walke, and the worke that they must doe.",
         }),
 
         ("exodus", 18, 21) => Some(Verse {
-            content: "",
+            content: "Moreouer thou shalt prouide out of all the people able men, such as feare God, men of trueth, hating couetousnesse, and place such ouer them, to bee rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tennes.",
         }),
 
         ("exodus", 18, 22) => Some(Verse {
-            content: "",
+            content: "And let them iudge the people at all seasons: and it shall bee that euery great matter they shall bring vnto thee, but euery small matter they shal iudge: so shall it be easier for thy selfe, and they shall beare the burden with thee.",
         }),
 
         ("exodus", 18, 23) => Some(Verse {
-            content: "",
+            content: "If thou shalt doe this thing, and God command thee so, then thou shalt bee able to endure, and all this people shall also goe to their place in peace.",
         }),
 
         ("exodus", 18, 24) => Some(Verse {
-            content: "",
+            content: "So Moses hearkened to the voice of his father in law, and did all that he had said.",
         }),
 
         ("exodus", 18, 25) => Some(Verse {
-            content: "",
+            content: "And Moses chose able men out of all Israel, and made them heads ouer the people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tennes.",
         }),
 
         ("exodus", 18, 26) => Some(Verse {
-            content: "",
+            content: "And they iudged the people at all seasons: the hard causes they brought vnto Moses, but euery small matter they iudged themselues.",
         }),
 
         ("exodus", 18, 27) => Some(Verse {
-            content: "",
+            content: "And Moses let his father in law depart, and he went his way into his owne land.",
         }),
 
         ("exodus", 19, 1) => Some(Verse {
-            content: "",
+            content: "In the third moneth when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wildernesse of Sinai.",
         }),
 
         ("exodus", 19, 2) => Some(Verse {
-            content: "",
+            content: "For they were departed from Rephidim, and were come to the desert of Sinai, and had pitched in the wildernesse, and there Israel camped before the mount.",
         }),
 
         ("exodus", 19, 3) => Some(Verse {
-            content: "",
+            content: "And Moses went vp vnto God: and the Lord called vnto him out of the mountaine, saying, Thus shalt thou say to the house of Iacob, and tell the children of Israel:",
         }),
 
         ("exodus", 19, 4) => Some(Verse {
-            content: "",
+            content: "Ye haue seene what I did vnto the Egyptians, and how I bare you on Eagles wings, and brought you vnto my selfe.",
         }),
 
         ("exodus", 19, 5) => Some(Verse {
-            content: "",
+            content: "Now therfore if ye will obey my voice indeed, and keepe my couenant, then ye shall be a peculiar treasure vnto me aboue all people: for all the earth is mine.",
         }),
 
         ("exodus", 19, 6) => Some(Verse {
-            content: "",
+            content: "And ye shall be vnto me a kingdome of Priestes, and an holy nation. These are the wordes which thou shalt speake vnto the children of Israel.",
         }),
 
         ("exodus", 19, 7) => Some(Verse {
-            content: "",
+            content: "And Moses came and called for the Elders of the people, and layd before their faces all these wordes which the Lord commanded him.",
         }),
 
         ("exodus", 19, 8) => Some(Verse {
-            content: "",
+            content: "And all the people answered together, and said, All that the Lord hath spoken, we will doe. And Moses returned the wordes of the people vnto the Lord.",
         }),
 
         ("exodus", 19, 9) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Loe, I come vnto thee in a thicke cloud, that the people may heare when I speake with thee, and beleeue thee for euer: And Moses told the wordes of the people vnto the Lord.",
         }),
 
         ("exodus", 19, 10) => Some(Verse {
-            content: "",
+            content: "And the Lord saide vnto Moses, Goe vnto the people, and sanctifie them to day and to morrow, and let them wash their clothes.",
         }),
 
         ("exodus", 19, 11) => Some(Verse {
-            content: "",
+            content: "And be ready against the thirde day: for the third day the Lord will come downe in the sight of all the people, vpon mount Sinai.",
         }),
 
         ("exodus", 19, 12) => Some(Verse {
-            content: "",
+            content: "And thou shalt set bounds vnto the people round about, saying, Take heed to your selues, that ye goe not vp into the mount, or touch the border of it: whosoeuer toucheth the mount, shall be surely put to death.",
         }),
 
         ("exodus", 19, 13) => Some(Verse {
-            content: "",
+            content: "There shall not a hand touch it, but he shall surely be stoned or shot thorow, whether it be beast, or man, it shall not liue: when the trumpet soundeth long, they shall come vp to the mount.",
         }),
 
         ("exodus", 19, 14) => Some(Verse {
-            content: "",
+            content: "And Moses went downe from the mount vnto the people, and sanctified the people; and they washed their clothes.",
         }),
 
         ("exodus", 19, 15) => Some(Verse {
-            content: "",
+            content: "And hee said vnto the people, Be ready against the third day: come not at your wiues.",
         }),
 
         ("exodus", 19, 16) => Some(Verse {
-            content: "",
+            content: "And it came to passe on the third day in the morning, that there were thunders and lightnings, and a thicke cloud vpon the mount, and the voyce of the trumpet exceeding lowd, so that all the people that was in the campe, trembled.",
         }),
 
         ("exodus", 19, 17) => Some(Verse {
-            content: "",
+            content: "And Moses brought foorth the people out of the campe to meete with God, and they stood at the nether part of the mount.",
         }),
 
         ("exodus", 19, 18) => Some(Verse {
-            content: "",
+            content: "And mount Sinai was altogether on a smoke, because the Lord descended vpon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.",
         }),
 
         ("exodus", 19, 19) => Some(Verse {
-            content: "",
+            content: "And when the voyce of the trumpet sounded long, and waxed lowder and lowder, Moses spake, and God answered him by a voyce.",
         }),
 
         ("exodus", 19, 20) => Some(Verse {
-            content: "",
+            content: "And the Lord came downe vpon mount Sinai, on the top of the mount: and the Lord called Moses vp to the top of the mount, and Moses went vp.",
         }),
 
         ("exodus", 19, 21) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Goe downe, charge the people, lest they breake thorow vnto the Lord to gaze, and many of them perish.",
         }),
 
         ("exodus", 19, 22) => Some(Verse {
-            content: "",
+            content: "And let the Priestes also which come neere to the Lord, sanctifie themselues, lest the Lord breake foorth vpon them.",
         }),
 
         ("exodus", 19, 23) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto the Lord, The people cannot come vp to mount Sinai: for thou chargedst vs, saying, Set bounds about the mount, and sanctifie it.",
         }),
 
         ("exodus", 19, 24) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto him, Away, get thee downe, and thou shalt come vp, thou, and Aaron with thee: but let not the Priestes and the people breake through, to come vp vnto the Lord, lest hee breake foorth vpon them.",
         }),
 
         ("exodus", 19, 25) => Some(Verse {
-            content: "",
+            content: "So Moses went downe vnto the people, and spake vnto them.",
         }),
 
         ("exodus", 20, 1) => Some(Verse {
-            content: "",
+            content: "And God spake all these words, saying,",
         }),
 
         ("exodus", 20, 2) => Some(Verse {
-            content: "",
+            content: "I am the Lord thy God, which haue brought thee out of the land of Egypt, out of the house of bondage:",
         }),
 
         ("exodus", 20, 3) => Some(Verse {
-            content: "",
+            content: "Thou shalt haue no other Gods before me.",
         }),
 
         ("exodus", 20, 4) => Some(Verse {
-            content: "",
+            content: "Thou shalt not make vnto thee any grauen Image, or any likenesse of any thing that is in heauen aboue, or that is in the earth beneath, or that is in the water vnder the earth.",
         }),
 
         ("exodus", 20, 5) => Some(Verse {
-            content: "",
+            content: "Thou shalt not bow downe thy selfe to them, nor serue them: For I the Lord thy God am a iealous God, visiting the iniquitie of the fathers vpon the children, vnto the thirde and fourth generation of them that hate me:",
         }),
 
         ("exodus", 20, 6) => Some(Verse {
-            content: "",
+            content: "And shewing mercy vnto thousands of them that loue mee, and keepe my Commandements.",
         }),
 
         ("exodus", 20, 7) => Some(Verse {
-            content: "",
+            content: "Thou shalt not take the Name of the Lord thy God in vaine: for the Lord will not holde him guiltlesse, that taketh his Name in vaine.",
         }),
 
         ("exodus", 20, 8) => Some(Verse {
-            content: "",
+            content: "Remember the Sabbath day, to keepe it holy.",
         }),
 
         ("exodus", 20, 9) => Some(Verse {
-            content: "",
+            content: "Sixe dayes shalt thou labour, and doe all thy worke:",
         }),
 
         ("exodus", 20, 10) => Some(Verse {
-            content: "",
+            content: "But the seuenth day is the Sabbath of the Lord thy God: in it thou shalt not doe any worke, thou, nor thy sonne, nor thy daughter, thy man seruant, nor thy mayd seruant, nor thy cattell, nor thy stranger that is within thy gates:",
         }),
 
         ("exodus", 20, 11) => Some(Verse {
-            content: "",
+            content: "For in sixe dayes the Lord made heauen and earth, the sea, and all that in them is, and rested the seuenth day: wherefore the Lord blessed the Sabbath day, and halowed it.",
         }),
 
         ("exodus", 20, 12) => Some(Verse {
-            content: "",
+            content: "Honour thy father and thy mother: that thy dayes may bee long vpon the land, which the Lord thy God giueth thee.",
         }),
 
         ("exodus", 20, 13) => Some(Verse {
-            content: "",
+            content: "Thou shalt not kill.",
         }),
 
         ("exodus", 20, 14) => Some(Verse {
-            content: "",
+            content: "Thou shalt not commit adultery.",
         }),
 
         ("exodus", 20, 15) => Some(Verse {
-            content: "",
+            content: "Thou shalt not steale.",
         }),
 
         ("exodus", 20, 16) => Some(Verse {
-            content: "",
+            content: "Thou shalt not beare false witnes against thy neighbour.",
         }),
 
         ("exodus", 20, 17) => Some(Verse {
-            content: "",
+            content: "Thou shalt not couet thy neighbours house, thou shalt not couet thy neighbours wife, nor his man seruant, nor his maid seruant, nor his oxe, nor his asse, nor any thing that is thy neighbours.",
         }),
 
         ("exodus", 20, 18) => Some(Verse {
-            content: "",
+            content: "And all the people saw the thundrings, and the lightnings, and the noise of the trumpet, and the mountaine smoking: and when the people saw it, they remooued, and stood a farre off.",
         }),
 
         ("exodus", 20, 19) => Some(Verse {
-            content: "",
+            content: "And they saide vnto Moses, Speake thou with vs, and wee will heare: But let not God speake with vs, lest we die.",
         }),
 
         ("exodus", 20, 20) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto the people, Feare not: for God is come to prooue you, and that his feare may bee before your faces, that ye sinne not.",
         }),
 
         ("exodus", 20, 21) => Some(Verse {
-            content: "",
+            content: "And the people stood afarre off, and Moses drew neere vnto the thicke darkenes, where God was.",
         }),
 
         ("exodus", 20, 22) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Thus thou shalt say vnto the children of Israel, Yee haue seene that I haue talked with you from heauen.",
         }),
 
         ("exodus", 20, 23) => Some(Verse {
-            content: "",
+            content: "Ye shall not make with me gods of siluer, neither shall ye make vnto you gods of gold.",
         }),
 
         ("exodus", 20, 24) => Some(Verse {
-            content: "",
+            content: "An Altar of earth thou shalt make vnto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheepe, and thine oxen: In all places where I record my Name, I will come vnto thee, and I will blesse thee.",
         }),
 
         ("exodus", 20, 25) => Some(Verse {
-            content: "",
+            content: "And if thou wilt make mee an Altar of stone, thou shalt not build it of hewen stone: for if thou lift vp thy toole vpon it, thou hast polluted it.",
         }),
 
         ("exodus", 20, 26) => Some(Verse {
-            content: "",
+            content: "Neither shalt thou goe vp by steps vnto mine Altar, that thy nakednesse be not discouered thereon.",
         }),
 
         ("exodus", 21, 1) => Some(Verse {
-            content: "",
+            content: "Now these are the Iudgements which thou shalt set before them.",
         }),
 
         ("exodus", 21, 2) => Some(Verse {
-            content: "",
+            content: "If thou buy an Hebrew seruant, sixe yeeres he shall serue, and in the seuenth he shall goe out free for nothing.",
         }),
 
         ("exodus", 21, 3) => Some(Verse {
-            content: "",
+            content: "If he came in by himselfe, he shal goe out by himselfe: if he were married, then his wife shall goe out with him.",
         }),
 
         ("exodus", 21, 4) => Some(Verse {
-            content: "",
+            content: "If his master haue giuen him a wife, and she haue borne him sonnes or daughters; the wife and her children shall be her masters, and he shall go out by himselfe.",
         }),
 
         ("exodus", 21, 5) => Some(Verse {
-            content: "",
+            content: "And if the seruant shall plainely say, I loue my master, my wife, and my children, I will not goe out free:",
         }),
 
         ("exodus", 21, 6) => Some(Verse {
-            content: "",
+            content: "Then his master shall bring him vnto the Iudges, hee shall also bring him to the doore, or vnto the doore post, and his master shall boare his eare through with an aule, and he shall serue him for euer.",
         }),
 
         ("exodus", 21, 7) => Some(Verse {
-            content: "",
+            content: "And if a man sell his daughter to be a mayd seruant, shee shall not goe out as the men seruants doe.",
         }),
 
         ("exodus", 21, 8) => Some(Verse {
-            content: "",
+            content: "If she please not her master, who hath betrothed her to himselfe, then shall he let her be redeemed: To sell her vnto a strange nation hee shall haue no power, seeing he hath dealt deceitfully with her.",
         }),
 
         ("exodus", 21, 9) => Some(Verse {
-            content: "",
+            content: "And if he haue betrothed her vnto his sonne, he shall deale with her after the maner of daughters.",
         }),
 
         ("exodus", 21, 10) => Some(Verse {
-            content: "",
+            content: "If he take him another wife, her food, her rayment, and her duety of mariage shall he not diminish.",
         }),
 
         ("exodus", 21, 11) => Some(Verse {
-            content: "",
+            content: "And if he doe not these three vnto her, then shall she goe out free without money.",
         }),
 
         ("exodus", 21, 12) => Some(Verse {
-            content: "",
+            content: "He that smiteth a man, so that he die, shalbe surely put to death.",
         }),
 
         ("exodus", 21, 13) => Some(Verse {
-            content: "",
+            content: "And if a man lye not in wait, but God deliuer him into his hand, then I will appoint thee a place whither hee shall flee:",
         }),
 
         ("exodus", 21, 14) => Some(Verse {
-            content: "",
+            content: "But if a man come presumptuously vpon his neighbour to slay him with guile, thou shalt take him from mine Altar, that he may die.",
         }),
 
         ("exodus", 21, 15) => Some(Verse {
-            content: "",
+            content: "And he that smiteth his father, or his mother, shall bee surely put to death.",
         }),
 
         ("exodus", 21, 16) => Some(Verse {
-            content: "",
+            content: "And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.",
         }),
 
         ("exodus", 21, 17) => Some(Verse {
-            content: "",
+            content: "And hee that curseth his father or his mother, shall surely bee put to death.",
         }),
 
         ("exodus", 21, 18) => Some(Verse {
-            content: "",
+            content: "And if men striue together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:",
         }),
 
         ("exodus", 21, 19) => Some(Verse {
-            content: "",
+            content: "If hee rise againe, and walke abroad vpon his staffe, then shall hee that smote him, be quit: onely he shall pay for the losse of his time, and shall cause him to be throughly healed.",
         }),
 
         ("exodus", 21, 20) => Some(Verse {
-            content: "",
+            content: "And if a man smite his seruant, or his mayd, with a rod, and hee die vnder his hand, hee shall bee surely punished:",
         }),
 
         ("exodus", 21, 21) => Some(Verse {
-            content: "",
+            content: "Notwithstanding, if he continue a day or two, hee shall not be punished, for he is his money.",
         }),
 
         ("exodus", 21, 22) => Some(Verse {
-            content: "",
+            content: "If men striue, and hurt a woman with child, so that her fruit depart from her, and yet no mischiefe follow, he shalbe surely punished, according as the womans husband will lay vpon him, and hee shall pay as the Iudges determine.",
         }),
 
         ("exodus", 21, 23) => Some(Verse {
-            content: "",
+            content: "And if any mischiefe follow, then thou shalt giue life for life,",
         }),
 
         ("exodus", 21, 24) => Some(Verse {
-            content: "",
+            content: "Eye for eye, tooth for tooth, hand for hand, foote for foote,",
         }),
 
         ("exodus", 21, 25) => Some(Verse {
-            content: "",
+            content: "Burning for burning, wound for wound, stripe for stripe.",
         }),
 
         ("exodus", 21, 26) => Some(Verse {
-            content: "",
+            content: "And if a man smite the eye of his seruant, or the eye of his mayd, that it perish, hee shall let him goe free for his eyes sake.",
         }),
 
         ("exodus", 21, 27) => Some(Verse {
-            content: "",
+            content: "And if he smite out his man seruants tooth, or his mayde seruants tooth, hee shal let him goe free for his tooths sake.",
         }),
 
         ("exodus", 21, 28) => Some(Verse {
-            content: "",
+            content: "If an oxe gore a man, or a woman, that they die, then the oxe shal be surely stoned, and his flesh shall not be eaten: but the owner of the oxe shall be quitte.",
         }),
 
         ("exodus", 21, 29) => Some(Verse {
-            content: "",
+            content: "But if the oxe were wont to push with his horne in time past, and it hath bene testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the oxe shall be stoned, and his owner also shall bee put to death.",
         }),
 
         ("exodus", 21, 30) => Some(Verse {
-            content: "",
+            content: "If there be layed on him a summe of money, then he shall giue for the ransome of his life, whatsoeuer is layd vpon him.",
         }),
 
         ("exodus", 21, 31) => Some(Verse {
-            content: "",
+            content: "Whether hee haue gored a sonne, or haue gored a daughter, according to this iudgement shall it bee done vnto him.",
         }),
 
         ("exodus", 21, 32) => Some(Verse {
-            content: "",
+            content: "If the oxe shall push a man seruant, or a mayd seruant, hee shall giue vnto their master thirty shekels, and the oxe shalbe stoned.",
         }),
 
         ("exodus", 21, 33) => Some(Verse {
-            content: "",
+            content: "And if a man shall open a pit, or if a man shall digge a pit, and not couer it, and an oxe or an asse fall therein:",
         }),
 
         ("exodus", 21, 34) => Some(Verse {
-            content: "",
+            content: "The owner of the pit shall make it good, and giue money vnto the owner of them, and the dead beast shalbe his.",
         }),
 
         ("exodus", 21, 35) => Some(Verse {
-            content: "",
+            content: "And if one mans oxe hurt anothers, that he die, then they shall sell the liue oxe, and diuide the money of it, and the dead oxe also they shall diuide.",
         }),
 
         ("exodus", 21, 36) => Some(Verse {
-            content: "",
+            content: "Or if it bee knowen that the oxe hath vsed to push in time past, and his owner hath not kept him in, hee shall surely pay oxe for oxe, and the dead shall be his owne.",
         }),
 
         ("exodus", 22, 1) => Some(Verse {
-            content: "",
+            content: "If a man shal steale an oxe, or a sheepe, and kill it, or sell it; he shall restore fiue oxen for an oxe, and foure sheepe for a sheepe.",
         }),
 
         ("exodus", 22, 2) => Some(Verse {
-            content: "",
+            content: "If a thiefe bee found breaking vp, and be smitten that he die, there shal no blood be shed for him.",
         }),
 
         ("exodus", 22, 3) => Some(Verse {
-            content: "",
+            content: "If the Sunne be risen vpon him, there shall be blood shed for him: for hee should make full restitution: if he haue nothing, then he shall bee sold for his theft.",
         }),
 
         ("exodus", 22, 4) => Some(Verse {
-            content: "",
+            content: "If the theft be certainely found in his hand aliue, whether it bee oxe or asse, or sheepe, he shall restore double.",
         }),
 
         ("exodus", 22, 5) => Some(Verse {
-            content: "",
+            content: "If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feede in another mans field: of the best of his owne field, and of the best of his owne vineyard shall he make restitution.",
         }),
 
         ("exodus", 22, 6) => Some(Verse {
-            content: "",
+            content: "If fire breake out, and catch in thornes, so that the stackes of corne, or the standing corne, or the field be consumed therewith; hee that kindled the fire, shall surely make restitution.",
         }),
 
         ("exodus", 22, 7) => Some(Verse {
-            content: "",
+            content: "If a man shal deliuer vnto his neighbour money or stuffe to keepe, and it be stollen out of the mans house; if the thiefe be found, let him pay double.",
         }),
 
         ("exodus", 22, 8) => Some(Verse {
-            content: "",
+            content: "If the thiefe be not found, then the master of the house shall be brought vnto the Iudges, to see whether he haue put his hande vnto his neighbours goods.",
         }),
 
         ("exodus", 22, 9) => Some(Verse {
-            content: "",
+            content: "For all maner of trespasse, whether it be for oxe, for asse, for sheepe, for raiment, or for any maner of lost thing, which another challengeth to be his: the cause of both parties shall come before the Iudges, and whome the Iudges shall condemne, he shall pay double vnto his neighbour.",
         }),
 
         ("exodus", 22, 10) => Some(Verse {
-            content: "",
+            content: "If a man deliuer vnto his neighbour an asse, or an oxe, or a sheepe, or any beast to keepe, and it die, or be hurt, or driuen away, no man seeing it,",
         }),
 
         ("exodus", 22, 11) => Some(Verse {
-            content: "",
+            content: "Then shall an othe of the Lord be betweene them both, that hee hath not put his hand vnto his neighbours goods: and the owner of it shall accept thereof, and he shall not make it good.",
         }),
 
         ("exodus", 22, 12) => Some(Verse {
-            content: "",
+            content: "And if it be stollen from him, he shall make restitution vnto the owner thereof.",
         }),
 
         ("exodus", 22, 13) => Some(Verse {
-            content: "",
+            content: "If it be torne in pieces, then let him bring it for witnesse, and hee shall not make good that which was torne.",
         }),
 
         ("exodus", 22, 14) => Some(Verse {
-            content: "",
+            content: "And if a man borrowe ought of his neighbour, and it be hurt, or die, the owner thereof being not with it, he shall surely make it good.",
         }),
 
         ("exodus", 22, 15) => Some(Verse {
-            content: "",
+            content: "But if the owner thereof be with it, he shall not make it good: If it bee an hired thing, it came for his hire.",
         }),
 
         ("exodus", 22, 16) => Some(Verse {
-            content: "",
+            content: "And if a man entice a maide that is not betrothed, and lie with her, he shall surely endow her to be his wife.",
         }),
 
         ("exodus", 22, 17) => Some(Verse {
-            content: "",
+            content: "If her father vtterly refuse to giue her vnto him, he shall pay money according to the dowrie of virgins.",
         }),
 
         ("exodus", 22, 18) => Some(Verse {
-            content: "",
+            content: "Thou shalt not suffer a witch to liue.",
         }),
 
         ("exodus", 22, 19) => Some(Verse {
-            content: "",
+            content: "Whosoeuer lieth with a beast, shall surely be put to death.",
         }),
 
         ("exodus", 22, 20) => Some(Verse {
-            content: "",
+            content: "Hee that sacrificeth vnto any god saue vnto the Lord onely, hee shall be vtterly destroyed.",
         }),
 
         ("exodus", 22, 21) => Some(Verse {
-            content: "",
+            content: "Thou shalt neither vexe a stranger, nor oppresse him: for ye were strangers in the land of Egypt.",
         }),
 
         ("exodus", 22, 22) => Some(Verse {
-            content: "",
+            content: "Yee shall not afflict any widow, or fatherlesse child.",
         }),
 
         ("exodus", 22, 23) => Some(Verse {
-            content: "",
+            content: "If thou afflict them in any wise, and they crie at all vnto mee, I will surely heare their crie.",
         }),
 
         ("exodus", 22, 24) => Some(Verse {
-            content: "",
+            content: "And my wrath shall waxe hote, and I will kill you with the sword: and your wiues shall be widowes, and your children fatherlesse.",
         }),
 
         ("exodus", 22, 25) => Some(Verse {
-            content: "",
+            content: "If thou lend money to any of my people that is poore by thee, thou shalt not be to him as an vsurer, neither shalt thou lay vpon him vsurie.",
         }),
 
         ("exodus", 22, 26) => Some(Verse {
-            content: "",
+            content: "If thou at all take thy neighbors raiment to pledge, thou shalt deliuer it vnto him by that the sun goeth downe.",
         }),
 
         ("exodus", 22, 27) => Some(Verse {
-            content: "",
+            content: "For that is his couering onely, it is his raiment for his skinne: wherein shal he sleepe? and it shal come to passe, when he crieth vnto mee, that I will heare: for I am gracious.",
         }),
 
         ("exodus", 22, 28) => Some(Verse {
-            content: "",
+            content: "Thou shalt not reuile the Gods, nor curse the ruler of thy people.",
         }),
 
         ("exodus", 22, 29) => Some(Verse {
-            content: "",
+            content: "Thou shalt not delay to offer the first of thy ripe fruits, and of thy liquors: the first borne of thy sonnes shalt thou giue vnto me.",
         }),
 
         ("exodus", 22, 30) => Some(Verse {
-            content: "",
+            content: "Likewise shalt thou do with thine oxen, and with thy sheepe: seuen dayes it shall be with his damme, on the eight day thou shalt giue it me.",
         }),
 
         ("exodus", 22, 31) => Some(Verse {
-            content: "",
+            content: "And ye shall be holy men vnto me: neither shall ye eate any flesh that is torne of beasts in the field: yee shall cast it to the dogs.",
         }),
 
         ("exodus", 23, 1) => Some(Verse {
-            content: "",
+            content: "Thou shalt not raise a false report: put not thine hand with the wicked to bee an vnrighteous witnesse.",
         }),
 
         ("exodus", 23, 2) => Some(Verse {
-            content: "",
+            content: "Thou shalt not follow a multitude to doe euill: neither shalt thou speake in a cause, to decline after many, to wrest iudgement:",
         }),
 
         ("exodus", 23, 3) => Some(Verse {
-            content: "",
+            content: "Neither shalt thou countenance a poore man in his cause.",
         }),
 
         ("exodus", 23, 4) => Some(Verse {
-            content: "",
+            content: "If thou meete thine enemies oxe or his asse going astray, thou shalt surely bring it backe to him againe.",
         }),
 
         ("exodus", 23, 5) => Some(Verse {
-            content: "",
+            content: "If thou see the asse of him that hateth thee, lying vnder his burden, and wouldest forbeare to helpe him, thou shalt surely helpe with him.",
         }),
 
         ("exodus", 23, 6) => Some(Verse {
-            content: "",
+            content: "Thou shalt not wrest the iudgement of thy poore in his cause.",
         }),
 
         ("exodus", 23, 7) => Some(Verse {
-            content: "",
+            content: "Keepe thee farre from a false matter: and the innocent and righteous slay thou not: for I will not iustifie the wicked.",
         }),
 
         ("exodus", 23, 8) => Some(Verse {
-            content: "",
+            content: "And thou shalt take no gift: for the gift blindeth the wise, and peruerteth the words of the righteous.",
         }),
 
         ("exodus", 23, 9) => Some(Verse {
-            content: "",
+            content: "Also thou shalt not oppresse a stranger: for yee know the heart of a stranger, seeing yee were strangers in the land of Egypt.",
         }),
 
         ("exodus", 23, 10) => Some(Verse {
-            content: "",
+            content: "And sixe yeres thou shalt sow thy land, and shalt gather in the fruites thereof:",
         }),
 
         ("exodus", 23, 11) => Some(Verse {
-            content: "",
+            content: "But the seuenth yeere thou shalt let it rest, and lie still, that the poore of thy people may eate, and what they leaue, the beasts of the field shall eate. In like maner thou shalt deale with thy vineyard, and with thy oliue yard.",
         }),
 
         ("exodus", 23, 12) => Some(Verse {
-            content: "",
+            content: "Sixe dayes thou shalt doe thy worke, and on the seuenth day thou shalt rest: that thine oxe and thine asse may rest, and the sonne of thy handmayd, & the stranger may be refreshed.",
         }),
 
         ("exodus", 23, 13) => Some(Verse {
-            content: "",
+            content: "And in all things that I haue said vnto you, be circumspect: and make no mention of the names of other gods, neither let it be heard out of thy mouth.",
         }),
 
         ("exodus", 23, 14) => Some(Verse {
-            content: "",
+            content: "Three times thou shalt keepe a feast vnto me in the yeere.",
         }),
 
         ("exodus", 23, 15) => Some(Verse {
-            content: "",
+            content: "Thou shalt keepe the feast of vnleauened bread: thou shalt eate vnleauened bread seuen daies, as I commanded thee in the time appointed of the moneth Abib: for in it thou camest out from Egypt: and none shall appeare before me emptie:",
         }),
 
         ("exodus", 23, 16) => Some(Verse {
-            content: "",
+            content: "And the feast of haruest, the first fruits of thy labours, which thou hast sowen in the field: and the feast of ingathering which is in the end of the yeere, when thou hast gathered in thy labours out of the field.",
         }),
 
         ("exodus", 23, 17) => Some(Verse {
-            content: "",
+            content: "Three times in the yeere all thy males shall appeare before the Lord God.",
         }),
 
         ("exodus", 23, 18) => Some(Verse {
-            content: "",
+            content: "Thou shalt not offer the blood of my sacrifice with leauened bread, neither shall the fat of my sacrifice remaine vntill the morning.",
         }),
 
         ("exodus", 23, 19) => Some(Verse {
-            content: "",
+            content: "The first of the first fruits of thy land thou shalt bring into the house of the Lord thy God: thou shalt not seethe a kid in his mothers milke.",
         }),
 
         ("exodus", 23, 20) => Some(Verse {
-            content: "",
+            content: "Behold, I send an Angel before thee to keepe thee in the way, and to bring thee into the place which I haue prepared.",
         }),
 
         ("exodus", 23, 21) => Some(Verse {
-            content: "",
+            content: "Beware of him, and obey his voice, prouoke him not: for he will not pardon your transgressions: for my name is in him.",
         }),
 
         ("exodus", 23, 22) => Some(Verse {
-            content: "",
+            content: "But if thou shalt indeed obey his voice, and doe all that I speake, then I wil be an enemie vnto thine enemies, and an aduersarie vnto thine aduersaries.",
         }),
 
         ("exodus", 23, 23) => Some(Verse {
-            content: "",
+            content: "For mine Angel shall goe before thee, and bring thee in vnto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hiuites, and the Iebusites: and I will cut them off.",
         }),
 
         ("exodus", 23, 24) => Some(Verse {
-            content: "",
+            content: "Thou shalt not bow downe to their gods, nor serue them, nor doe after their workes: but thou shalt vtterly ouerthrowe them, and quite breake downe their images.",
         }),
 
         ("exodus", 23, 25) => Some(Verse {
-            content: "",
+            content: "And yee shall serue the Lord your God, and he shall blesse thy bread, and thy water: and I will take sicknes away from the midst of thee.",
         }),
 
         ("exodus", 23, 26) => Some(Verse {
-            content: "",
+            content: "There shall nothing cast their yong, nor bee barren in thy land: the number of thy dayes I will fulfill.",
         }),
 
         ("exodus", 23, 27) => Some(Verse {
-            content: "",
+            content: "I will send my feare before thee, and will destroy all the people to whom thou shalt come, and I will make all thine enemies turne their backes vnto thee.",
         }),
 
         ("exodus", 23, 28) => Some(Verse {
-            content: "",
+            content: "And I will send hornets before thee, which shall driue out the Hiuite, the Canaanite, and the Hittite from before thee.",
         }),
 
         ("exodus", 23, 29) => Some(Verse {
-            content: "",
+            content: "I will not driue them out from before thee in one yeere, lest the land become desolate, and the beast of the field multiply against thee.",
         }),
 
         ("exodus", 23, 30) => Some(Verse {
-            content: "",
+            content: "By little and little I will driue them out from before thee, vntill thou be increased and inherit the land.",
         }),
 
         ("exodus", 23, 31) => Some(Verse {
-            content: "",
+            content: "And I will set thy bounds from the Red sea, euen vnto the sea of the Philistines, and from the desert vnto the riuer: for I will deliuer the inhabitants of the land into your hand: and thou shalt driue them out before thee.",
         }),
 
         ("exodus", 23, 32) => Some(Verse {
-            content: "",
+            content: "Thou shalt make no couenant with them, nor with their gods.",
         }),
 
         ("exodus", 23, 33) => Some(Verse {
-            content: "",
+            content: "They shall not dwell in thy land, lest they make thee sinne against me: for if thou serue their gods, it will surely be a snare vnto thee.",
         }),
 
         ("exodus", 24, 1) => Some(Verse {
-            content: "",
+            content: "And hee said vnto Moses, Come vp vnto þe Lord,thou, and Aaron, Nadab and Abihu, and seuentie of the Elders of Israel: and worship ye a farre off.",
         }),
 
         ("exodus", 24, 2) => Some(Verse {
-            content: "",
+            content: "And Moses alone shall come neere the Lord: but they shall not come nigh, neither shall the people goe vp with him.",
         }),
 
         ("exodus", 24, 3) => Some(Verse {
-            content: "",
+            content: "And Moses came and told the people all the words of the Lord, and all the iudgements: and all the people answered with one voyce, and said, All the words which the Lord hath said, will we doe.",
         }),
 
         ("exodus", 24, 4) => Some(Verse {
-            content: "",
+            content: "And Moses wrote all the words of the Lord, and rose vp early in the morning, and builded an Altar vnder the hill, and twelue pillars, according to the twelue tribes of Israel.",
         }),
 
         ("exodus", 24, 5) => Some(Verse {
-            content: "",
+            content: "And he sent yong men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen, vnto the Lord.",
         }),
 
         ("exodus", 24, 6) => Some(Verse {
-            content: "",
+            content: "And Moses tooke halfe of the blood, and put it in basons, and halfe of the blood he sprinkled on the Altar.",
         }),
 
         ("exodus", 24, 7) => Some(Verse {
-            content: "",
+            content: "And he tooke the booke of the couenant, and read in the audience of the people: and they saide, All that the Lord hath said, will we doe, and be obedient.",
         }),
 
         ("exodus", 24, 8) => Some(Verse {
-            content: "",
+            content: "And Moses tooke the blood and sprinkled it on the people, and said, Behold the blood of the Couenant which the Lord hath made with you, concerning all these words.",
         }),
 
         ("exodus", 24, 9) => Some(Verse {
-            content: "",
+            content: "Then went vp Moses and Aaron, Nadab and Abihu, and seuenty of the Elders of Israel:",
         }),
 
         ("exodus", 24, 10) => Some(Verse {
-            content: "",
+            content: "And they saw the God of Israel: and there was vnder his feet, as it were a paued worke of a Saphire stone, and as it were the body of heauen in his clearenesse.",
         }),
 
         ("exodus", 24, 11) => Some(Verse {
-            content: "",
+            content: "And vpon the Nobles of the children of Israel he layd not his hand: also they saw God, and did eate and drinke.",
         }),
 
         ("exodus", 24, 12) => Some(Verse {
-            content: "",
+            content: "And the Lord sayd vnto Moses, Come vp to me into the mount, and be there, and I will giue thee Tables of stone, and a Law, and Commandements which I haue written, that thou mayest teach them.",
         }),
 
         ("exodus", 24, 13) => Some(Verse {
-            content: "",
+            content: "And Moses rose vp, and his minister Ioshua: and Moses went vp into the mount of God.",
         }),
 
         ("exodus", 24, 14) => Some(Verse {
-            content: "",
+            content: "And hee saide vnto the Elders, Tary ye here for vs, vntill wee come againe vnto you: and behold, Aaron and Hur are with you: If any man haue any matters to doe, let him come vnto them.",
         }),
 
         ("exodus", 24, 15) => Some(Verse {
-            content: "",
+            content: "And Moses went vp into the Mount, and a cloud couered the Mount.",
         }),
 
         ("exodus", 24, 16) => Some(Verse {
-            content: "",
+            content: "And the glory of the Lord abode vpon mount Sinai, and the cloud couered it sixe dayes: and the seuenth day hee called vnto Moses out of the midst of the cloud.",
         }),
 
         ("exodus", 24, 17) => Some(Verse {
-            content: "",
+            content: "And the sight of the glory of the Lord was like deuouring fire, on the top of the mount, in the eyes of the children of Israel.",
         }),
 
         ("exodus", 24, 18) => Some(Verse {
-            content: "",
+            content: "And Moses went into the midst of the cloud, and gate him vp into the mount: and Moses was in the mount forty dayes, and forty nights.",
         }),
 
         ("exodus", 25, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("exodus", 25, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, that they bring me an offering: of euery man that giueth it willingly with his heart, ye shall take my offering.",
         }),
 
         ("exodus", 25, 3) => Some(Verse {
-            content: "",
+            content: "And this is the offering which ye shall take of them; Gold, and siluer, and brasse,",
         }),
 
         ("exodus", 25, 4) => Some(Verse {
-            content: "",
+            content: "And blew, and purple, and scarlet, and fine linnen, and goats haire:",
         }),
 
         ("exodus", 25, 5) => Some(Verse {
-            content: "",
+            content: "And rammes skinnes died red, and badgers skinnes, and Shittim wood:",
         }),
 
         ("exodus", 25, 6) => Some(Verse {
-            content: "",
+            content: "Oile for the light, spices for anointing oile, and for sweet incense:",
         }),
 
         ("exodus", 25, 7) => Some(Verse {
-            content: "",
+            content: "Onix stones, and stones to be set in the Ephod, and in the brest plate.",
         }),
 
         ("exodus", 25, 8) => Some(Verse {
-            content: "",
+            content: "And let them make mee a Sanctuary, that I may dwell amongst them:",
         }),
 
         ("exodus", 25, 9) => Some(Verse {
-            content: "",
+            content: "According to all that I shew thee, after the patterne of the Tabernacle, and the patterne of all the instruments thereof, euen so shall ye make it.",
         }),
 
         ("exodus", 25, 10) => Some(Verse {
-            content: "",
+            content: "And they shall make an Arke of Shittim wood: two cubites and a halfe shalbe the length thereof, and a cubite and an halfe the breadth thereof, and a cubite & a halfe the height thereof.",
         }),
 
         ("exodus", 25, 11) => Some(Verse {
-            content: "",
+            content: "And thou shalt ouerlay it with pure gold, within and without shalt thou ouerlay it: and shalt make vpon it a crowne of gold round about.",
         }),
 
         ("exodus", 25, 12) => Some(Verse {
-            content: "",
+            content: "And thou shalt cast foure rings of gold for it, and put them in the foure corners thereof, and two rings shal be in the one side of it, and two rings in the other side of it.",
         }),
 
         ("exodus", 25, 13) => Some(Verse {
-            content: "",
+            content: "And thou shalt make staues of Shittim wood, and ouerlay them with gold.",
         }),
 
         ("exodus", 25, 14) => Some(Verse {
-            content: "",
+            content: "And thou shalt put the staues into the rings, by the sides of the Arke, that the Arke may be borne with them.",
         }),
 
         ("exodus", 25, 15) => Some(Verse {
-            content: "",
+            content: "The staues shall be in the rings of the Arke: they shal not be taken from it.",
         }),
 
         ("exodus", 25, 16) => Some(Verse {
-            content: "",
+            content: "And thou shalt put into the Arke the Testimonie which I shall giue thee.",
         }),
 
         ("exodus", 25, 17) => Some(Verse {
-            content: "",
+            content: "And thou shalt make a Mercieseat of pure gold: two cubites and a halfe shalbe the length thereof, and a cubite and a halfe the breadth thereof.",
         }),
 
         ("exodus", 25, 18) => Some(Verse {
-            content: "",
+            content: "And thou shalt make two Cherubims of gold: of beaten worke shalt thou make them, in the two endes of the Mercie-seat.",
         }),
 
         ("exodus", 25, 19) => Some(Verse {
-            content: "",
+            content: "And make one Cherub on the one end, and the other Cherub on the other end: euen of the Mercie-seat shall yee make the Cherubims, on the two ends thereof.",
         }),
 
         ("exodus", 25, 20) => Some(Verse {
-            content: "",
+            content: "And the Cherubims shall stretch forth their wings on high, couering the Mercie-seat with their wings, and their faces shall looke one to another: toward the Mercie-seat shall the faces of the Cherubims be.",
         }),
 
         ("exodus", 25, 21) => Some(Verse {
-            content: "",
+            content: "And thou shalt put the Mercie-seat aboue vpon the Arke, and in the Arke thou shalt put the Testimonie that I shall giue thee.",
         }),
 
         ("exodus", 25, 22) => Some(Verse {
-            content: "",
+            content: "And there I wil meet with thee, and I will commune with thee, from aboue the Mercie-seat, from betweene the two Cherubims which are vpon the Arke of the Testimonie, of all things which I will giue thee in commaundement vnto the children of Israel.",
         }),
 
         ("exodus", 25, 23) => Some(Verse {
-            content: "",
+            content: "Thou shalt also make a table of Shittim wood: two cubites shall bee the length thereof, and a cubite the bredth thereof, and a cubite and a halfe the height thereof.",
         }),
 
         ("exodus", 25, 24) => Some(Verse {
-            content: "",
+            content: "And thou shalt ouerlay it with pure gold, and make thereto a crowne of gold round about.",
         }),
 
         ("exodus", 25, 25) => Some(Verse {
-            content: "",
+            content: "And thou shalt make vnto it a border of an hand bredth round about, and thou shalt make a golden crowne to the border thereof round about.",
         }),
 
         ("exodus", 25, 26) => Some(Verse {
-            content: "",
+            content: "And thou shalt make for it foure rings of gold, and put the rings in the foure corners that are on the foure feete thereof.",
         }),
 
         ("exodus", 25, 27) => Some(Verse {
-            content: "",
+            content: "Ouer against the border shall the rings be for places of the staues to beare the table.",
         }),
 
         ("exodus", 25, 28) => Some(Verse {
-            content: "",
+            content: "And thou shalt make the staues of Shittim wood, and ouerlay them with gold, that the table may be borne with them.",
         }),
 
         ("exodus", 25, 29) => Some(Verse {
-            content: "",
+            content: "And thou shalt make the dishes thereof, and spoones therof, and couers thereof, and bowles thereof, to couer withall: of pure gold shalt thou make them.",
         }),
 
         ("exodus", 25, 30) => Some(Verse {
-            content: "",
+            content: "And thou shalt set vpon the Table Shew-bread before me alway.",
         }),
 
         ("exodus", 25, 31) => Some(Verse {
-            content: "",
+            content: "And thou shalt make a Candlesticke of pure gold: of beaten worke shall the candlesticke bee made; his shaft and his branches, his bowles, his knops, and his flowers shall be of the same.",
         }),
 
         ("exodus", 25, 32) => Some(Verse {
-            content: "",
+            content: "And sixe branches shall come out of the sides of it: three branches of the candlesticke out of the one side, and three branches of the candlesticke out of the other side:",
         }),
 
         ("exodus", 25, 33) => Some(Verse {
-            content: "",
+            content: "Three bowles made like vnto almonds, with a knop and a flower in one branch: and three bowles made like almonds in the other branch, with a knop and a flower: so in the sixe branches that come out of the candlesticke.",
         }),
 
         ("exodus", 25, 34) => Some(Verse {
-            content: "",
+            content: "And in the candlesticke shall bee foure bowles made like vnto almonds, with their knops and their flowers.",
         }),
 
         ("exodus", 25, 35) => Some(Verse {
-            content: "",
+            content: "And there shal be a knop vnder two branches of the same, and a knop vnder two branches of the same, and a knop vnder two branches of the same, according to the sixe branches that proceede out of the candlesticke.",
         }),
 
         ("exodus", 25, 36) => Some(Verse {
-            content: "",
+            content: "Their knops and their branches shall be of the same: all it shall bee one beaten worke of pure gold.",
         }),
 
         ("exodus", 25, 37) => Some(Verse {
-            content: "",
+            content: "And thou shalt make the seuen lamps thereof: and they shall light the lampes thereof, that they may giue light ouer against it.",
         }),
 
         ("exodus", 25, 38) => Some(Verse {
-            content: "",
+            content: "And the tongs thereof, and the snuffe dishes therof shalbe of pure gold.",
         }),
 
         ("exodus", 25, 39) => Some(Verse {
-            content: "",
+            content: "Of a talent of pure gold shall hee make it, with all these vessels.",
         }),
 
         ("exodus", 25, 40) => Some(Verse {
-            content: "",
+            content: "And looke that thou make them after their patterne, which was shewed thee in the mount.",
         }),
-        
+
         ("exodus", 26, 1) => Some(Verse {
-            content: "",
+            content: "Moreouer thou shalt make the Tabernacle with ten curtaines of fine twined linnen, and blew, and purple, and scarlet: with Cherubims of cunning worke shalt thou make them.",
         }),
 
         ("exodus", 26, 2) => Some(Verse {
-            content: "",
+            content: "The length of one curtaine shalbe eight and twenty cubits, and the bredth of one curtaine, foure cubits: and euery one of the curtaines shall haue one measure.",
         }),
 
         ("exodus", 26, 3) => Some(Verse {
-            content: "",
+            content: "The fiue curtaines shalbe coupled together one to another: and other fiue curtaines shalbe coupled one to another.",
         }),
 
         ("exodus", 26, 4) => Some(Verse {
-            content: "",
+            content: "And thou shalt make loopes of blew vpon the edge of the one curtaine, from the seluedge in the coupling, and likewise shalt thou make in the vttermost edge of another curtaine, in the coupling of the second.",
         }),
 
         ("exodus", 26, 5) => Some(Verse {
-            content: "",
+            content: "Fiftie loopes shalt thou make in the one curtaine, and fiftie loopes shalt thou make in the edge of the curtaine, that is in the coupling of the second, that the loopes may take hold one of another.",
         }),
 
         ("exodus", 26, 6) => Some(Verse {
-            content: "",
+            content: "And thou shalt make fiftie taches of gold, and couple the curtaines together with the taches: and it shall be one tabernacle.",
         }),
 
         ("exodus", 26, 7) => Some(Verse {
-            content: "",
+            content: "And thou shalt make curtaines of goats haire, to be a couering vpon the tabernacle: eleuen curtaines shalt thou make.",
         }),
 
         ("exodus", 26, 8) => Some(Verse {
-            content: "",
+            content: "The length of one curtaine shalbe thirtie cubites, and the bredth of one curtaine foure cubites: and the eleuen shalbe all of one measure.",
         }),
 
         ("exodus", 26, 9) => Some(Verse {
-            content: "",
+            content: "And thou shalt couple fiue curtaines by themselues, and sixe curtaines by themselues, and shalt double the sixt curtaine in the forefront of the tabernacle.",
         }),
 
         ("exodus", 26, 10) => Some(Verse {
-            content: "",
+            content: "And thou shalt make fiftie loopes on the edge of the one curtaine, that is outmost in the coupling, and fiftie loopes in the edge of the curtaine which coupleth the second.",
         }),
 
         ("exodus", 26, 11) => Some(Verse {
-            content: "",
+            content: "And thou shalt make fiftie taches of brasse, and put the taches into the loopes, and couple the tent together, that it may be one.",
         }),
 
         ("exodus", 26, 12) => Some(Verse {
-            content: "",
+            content: "And the remnant that remaineth of the curtaines of the tent, the halfe curtaine that remaineth shall hang ouer the backe side of the tabernacle.",
         }),
 
         ("exodus", 26, 13) => Some(Verse {
-            content: "",
+            content: "And a cubite on the one side, and a cubite on the other side of that which remaineth in the length of the curtaines of the tent, it shall hang ouer the sides of the tabernacle, on this side, and on that side to couer it.",
         }),
 
         ("exodus", 26, 14) => Some(Verse {
-            content: "",
+            content: "And thou shalt make a couering for the tent of rammes skinnes died red, and a couering aboue of badgers skinnes.",
         }),
 
         ("exodus", 26, 15) => Some(Verse {
-            content: "",
+            content: "And thou shalt make boards for the Tabernacle of Shittim wood standing vp.",
         }),
 
         ("exodus", 26, 16) => Some(Verse {
-            content: "",
+            content: "Ten cubits shall be the length of a board, and a cubite and an halfe shall be the breadth of one board.",
         }),
 
         ("exodus", 26, 17) => Some(Verse {
-            content: "",
+            content: "Two tenons shall there be in one board set in order one against another: thus shalt thou make for all the boards of the Tabernacle.",
         }),
 
         ("exodus", 26, 18) => Some(Verse {
-            content: "",
+            content: "And thou shalt make the boards for the Tabernacle, twentie boards on the Southside Southward.",
         }),
 
         ("exodus", 26, 19) => Some(Verse {
-            content: "",
+            content: "And thou shalt make fourtie sockets of siluer, vnder the twenty boards: two sockets vnder one board for his two tenons, and two sockets vnder another board for his two tenons.",
         }),
 
         ("exodus", 26, 20) => Some(Verse {
-            content: "",
+            content: "And for the second side of the Tabernacle on the Northside there shall bee twentie boards,",
         }),
 
         ("exodus", 26, 21) => Some(Verse {
-            content: "",
+            content: "And their fourtie sockets of siluer: two sockets vnder one board, and two sockets vnder another board.",
         }),
 
         ("exodus", 26, 22) => Some(Verse {
-            content: "",
+            content: "And for the sides of the Tabernacle Westward thou shalt make sixe boards.",
         }),
 
         ("exodus", 26, 23) => Some(Verse {
-            content: "",
+            content: "And two boards shalt thou make for the corners of the tabernacle in the two sides.",
         }),
 
         ("exodus", 26, 24) => Some(Verse {
-            content: "",
+            content: "And they shall be coupled together beneath, and they shall be coupled together aboue the head of it vnto one ring: thus shall it bee for them both; they shall be for the two corners.",
         }),
 
         ("exodus", 26, 25) => Some(Verse {
-            content: "",
+            content: "And they shall be eight boards, and their sockets of siluer sixteene sockets: two sockets vnder one board, and two sockets vnder another board.",
         }),
 
         ("exodus", 26, 26) => Some(Verse {
-            content: "",
+            content: "And thou shalt make barres of Shittim wood: fiue for the boards of the one side of the Tabernacle,",
         }),
 
         ("exodus", 26, 27) => Some(Verse {
-            content: "",
+            content: "And fiue barres for the boards of the other side of the Tabernacle, and fiue barres for the boards of the side of the Tabernacle for the two sides Westward.",
         }),
 
         ("exodus", 26, 28) => Some(Verse {
-            content: "",
+            content: "And the middle barre in the mids of the boards, shall reach from ende to ende.",
         }),
 
         ("exodus", 26, 29) => Some(Verse {
-            content: "",
+            content: "And thou shalt ouerlay the boards with gold, and make their rings of gold for places for the barres: and thou shalt ouerlay the barres with gold.",
         }),
 
         ("exodus", 26, 30) => Some(Verse {
-            content: "",
+            content: "And thou shalt reare vp the Tabernacle according to the fashion therof, which was shewed thee in the mount.",
         }),
 
         ("exodus", 26, 31) => Some(Verse {
-            content: "",
+            content: "And thou shalt make a Uaile of blew, and purple, and scarlet, and fine twined linnen of cunning worke: with Cherubims shall it be made.",
         }),
 
         ("exodus", 26, 32) => Some(Verse {
-            content: "",
+            content: "And thou shalt hang it vpon foure pillars of Shittim wood, ouerlayd with gold: their hookes shalbe of gold, vpon the foure sockets of siluer.",
         }),
 
         ("exodus", 26, 33) => Some(Verse {
-            content: "",
+            content: "And thou shalt hang vp the Uaile vnder the taches, that thou maist bring in thither within the Uaile, the Arke of the Testimony: and the Uaile shall diuide vnto you, betweene the holy place and the most holy.",
         }),
 
         ("exodus", 26, 34) => Some(Verse {
-            content: "",
+            content: "And thou shalt put the Mercie-seat vpon the Arke of the Testimony, in the most holy place.",
         }),
 
         ("exodus", 26, 35) => Some(Verse {
-            content: "",
+            content: "And thou shalt set the table without the Uaile, and the candlesticke ouer against the table, on the side of the Tabernacle toward the South: and thou shalt put the table on the North side.",
         }),
 
         ("exodus", 26, 36) => Some(Verse {
-            content: "",
+            content: "And thou shalt make an Hanging for the doore of the Tent, of blew, and purple and scarlet, and fine twined linnen, wrought with needle worke.",
         }),
 
         ("exodus", 26, 37) => Some(Verse {
-            content: "",
+            content: "And thou shalt make for the Hanging fiue pillars of Shittim wood, and ouerlay them with gold, and their hookes shalbe of gold: and thou shalt cast fiue sockets of brasse for them.",
         }),
 
         ("exodus", 27, 1) => Some(Verse {
-            content: "",
+            content: "And thou shalt make an Altar of Shittim wood, fiue cubits long, and fiue cubites broad: the Altar shall be foure square, and the height thereof shalbe three cubits.",
         }),
 
         ("exodus", 27, 2) => Some(Verse {
-            content: "",
+            content: "And thou shalt make the hornes of it vpon the foure corners thereof: his hornes shall be of the same: and thou shalt ouerlay it with brasse.",
         }),
 
         ("exodus", 27, 3) => Some(Verse {
-            content: "",
+            content: "And thou shalt make his pannes to receiue his ashes, and his shouels, and his basons, and his fleshhooks, and his firepannes: all the vessels thereof thou shalt make of brasse.",
         }),
 
         ("exodus", 27, 4) => Some(Verse {
-            content: "",
+            content: "And thou shalt make for it a grate of networke of brasse; and vpon the net shalt thou make foure brasen rings in the foure corners thereof.",
         }),
 
         ("exodus", 27, 5) => Some(Verse {
-            content: "",
+            content: "And thou shalt put it vnder the compasse of the Altar beneath, that the net may bee euen to the midst of the Altar.",
         }),
 
         ("exodus", 27, 6) => Some(Verse {
-            content: "",
+            content: "And thou shalt make staues for the Altar, staues of Shittim wood, and ouerlay them with brasse.",
         }),
 
         ("exodus", 27, 7) => Some(Verse {
-            content: "",
+            content: "And the staues shalbe put into the rings, and the staues shall be vpon the two sides of the Altar, to beare it.",
         }),
 
         ("exodus", 27, 8) => Some(Verse {
-            content: "",
+            content: "Hollow with boards shalt thou make it: as it was shewed thee in the mount, so shall they make it.",
         }),
 
         ("exodus", 27, 9) => Some(Verse {
-            content: "",
+            content: "And thou shalt make the Court of the Tabernacle for the Southside, Southward: there shall be hangings for the Court, of fine twined linnen of an hundred cubits long, for one side.",
         }),
 
         ("exodus", 27, 10) => Some(Verse {
-            content: "",
+            content: "And the twenty pillars thereof, and their twenty sockets, shall be of brasse: the hookes of the pillars, and their fillets shalbe of siluer.",
         }),
 
         ("exodus", 27, 11) => Some(Verse {
-            content: "",
+            content: "And likewise for the Northside in length, there shall be hangings of an hundred cubits long, and his twenty pillars, and their twenty sockets of brasse: the hookes of the pillars, and their fillets of siluer.",
         }),
 
         ("exodus", 27, 12) => Some(Verse {
-            content: "",
+            content: "And for the breadth of the Court, on the Westside shalbe hangings of fifty cubits: their pillars tenne, and their sockets ten.",
         }),
 
         ("exodus", 27, 13) => Some(Verse {
-            content: "",
+            content: "And the breadth of the Court on the Eastside Eastward, shall bee fiftie cubits.",
         }),
 
         ("exodus", 27, 14) => Some(Verse {
-            content: "",
+            content: "The hangings of one side of the gate shalbe fifteene cubits: their pillars three, and their sockets three.",
         }),
 
         ("exodus", 27, 15) => Some(Verse {
-            content: "",
+            content: "And on the other side shalbe hangings, fifteene cubits: their pillars three, and their sockets three.",
         }),
 
         ("exodus", 27, 16) => Some(Verse {
-            content: "",
+            content: "And for the gate of the Court shall be an hanging of twenty cubits of blew, and purple, and scarlet, and fine twined linnen, wrought with needle worke: and their pillars shall be foure, and their sockets foure.",
         }),
 
         ("exodus", 27, 17) => Some(Verse {
-            content: "",
+            content: "All the pillars round about the Court shalbe filletted with siluer: their hookes shalbe of siluer, and their sockets of brasse.",
         }),
 
         ("exodus", 27, 18) => Some(Verse {
-            content: "",
+            content: "The length of the Court shalbe an hundred cubits, and the breadth fiftie euery where, and the height fiue cubits of fine twined linnen, and their sockets of brasse.",
         }),
 
         ("exodus", 27, 19) => Some(Verse {
-            content: "",
+            content: "All the vessels of the Tabernacle in all the seruice thereof, and all the pinnes thereof, and all the pinnes of the Court, shalbe of brasse.",
         }),
 
         ("exodus", 27, 20) => Some(Verse {
-            content: "",
+            content: "And thou shalt command the children of Israel, that they bring thee pure oyle Oliue beaten, for the light, to cause the lampe to burne alwayes.",
         }),
 
         ("exodus", 27, 21) => Some(Verse {
-            content: "",
+            content: "In the Tabernacle of the Congregation without the Uaile, which is before the Testimony, Aaron and his sonnes shall order it from euening to morning before the Lord: It shall be a statute for euer, vnto their generations, on the behalfe of the children of Israel.",
         }),
 
         ("exodus", 28, 1) => Some(Verse {
-            content: "",
+            content: "And take thou vnto thee Aaron thy brother, and his sonnes with him, from among the children of Israel, that he may minister vnto me in the Priests office, euen Aaron, Nadab, and Abihu, Eleazar, and Ithamar, Aarons sonnes.",
         }),
 
         ("exodus", 28, 2) => Some(Verse {
-            content: "",
+            content: "And thou shalt make holy garments for Aaron thy brother, for glory and for beauty.",
         }),
 
         ("exodus", 28, 3) => Some(Verse {
-            content: "",
+            content: "And thou shalt speake vnto all that are wise hearted, whom I haue filled with the spirit of wisedome, that they may make Aarons garments to consecrate him, that hee may minister vnto me in the Priests office.",
         }),
 
         ("exodus", 28, 4) => Some(Verse {
-            content: "",
+            content: "And these are the garments which they shall make; a breastplate, and an Ephod, and a robe, and a broidered coat, a Miter, and a girdle: and they shall make holy garments for Aaron thy brother, and his sonnes, that hee may minister vnto mee in the Priestes office.",
         }),
 
         ("exodus", 28, 5) => Some(Verse {
-            content: "",
+            content: "And they shall take gold, and blew, and purple, and scarlet, and fine linnen.",
         }),
 
         ("exodus", 28, 6) => Some(Verse {
-            content: "",
+            content: "And they shall make the Ephod of gold, of blew and of purple, of scarlet, and fine twined linnen, with cunning worke.",
         }),
 
         ("exodus", 28, 7) => Some(Verse {
-            content: "",
+            content: "It shall haue the two shoulder pieces thereof, ioyned at the two edges thereof; and so it shall bee ioyned together.",
         }),
 
         ("exodus", 28, 8) => Some(Verse {
-            content: "",
+            content: "And the curious girdle of the Ephod which is vpon it, shall bee of the same, according to the worke thereof, euen of gold, of blew, and purple, and scarlet, and fine twined linnen.",
         }),
 
         ("exodus", 28, 9) => Some(Verse {
-            content: "",
+            content: "And thou shalt take two Onix stones, and graue on them the names of the children of Israel:",
         }),
 
         ("exodus", 28, 10) => Some(Verse {
-            content: "",
+            content: "Sixe of their names on one stone, and the other sixe names of the rest on the other stone, according to their birth:",
         }),
 
         ("exodus", 28, 11) => Some(Verse {
-            content: "",
+            content: "With the worke of an engrauer in stone; like the engrauings of a signet shalt thou engraue the two stones, with the names of the children of Israel; thou shalt make them to be set in ouches of gold.",
         }),
 
         ("exodus", 28, 12) => Some(Verse {
-            content: "",
+            content: "And thou shalt put the two stones vpon the shoulders of the Ephod, for stones of memoriall vnto the children of Israel. And Aaron shall beare their names before the Lord, vpon his two shoulders for a memoriall.",
         }),
 
         ("exodus", 28, 13) => Some(Verse {
-            content: "",
+            content: "And thou shalt make ouches of gold;",
         }),
 
         ("exodus", 28, 14) => Some(Verse {
-            content: "",
+            content: "And two chaines of pure gold at the ends; of wreathen worke shalt thou make them, and fasten the wreathen chaines to the ouches.",
         }),
 
         ("exodus", 28, 15) => Some(Verse {
-            content: "",
+            content: "And thou shalt make the brestplate of Iudgement, with cunning worke, after the worke of the Ephod thou shalt make it: of gold, of blew, and of purple, and of scarlet, and of fine twined linnen shalt thou make it.",
         }),
 
         ("exodus", 28, 16) => Some(Verse {
-            content: "",
+            content: "Foure square it shall be being doubled; a spanne shalbe the length thereof, and a span shalbe the breadth thereof.",
         }),
 
         ("exodus", 28, 17) => Some(Verse {
-            content: "",
+            content: "And thou shalt set in it settings of stones; euen foure rowes of stones: the first row shalbe a Sardius, a Topaz, and a Carbuncle: this shall be the first row.",
         }),
 
         ("exodus", 28, 18) => Some(Verse {
-            content: "",
+            content: "And the second row shall be an Emeraude, a Saphir, and a Diamond.",
         }),
 
         ("exodus", 28, 19) => Some(Verse {
-            content: "",
+            content: "And the third row a Lygure, an Agate, and an Amethist.",
         }),
 
         ("exodus", 28, 20) => Some(Verse {
-            content: "",
+            content: "And the fourth row, a Berill, and an Onix, and a Iasper: they shalbe set in gold in their inclosings.",
         }),
 
         ("exodus", 28, 21) => Some(Verse {
-            content: "",
+            content: "And the stones shall bee with the names of the children of Israel, twelue, according to their names, like the engrauings of a signet: euery one with his name shall they bee according to the twelue tribes.",
         }),
 
         ("exodus", 28, 22) => Some(Verse {
-            content: "",
+            content: "And thou shalt make vpon the brestplate chaines at the ends, of wreathen worke, of pure gold.",
         }),
 
         ("exodus", 28, 23) => Some(Verse {
-            content: "",
+            content: "And thou shalt make vpon the brestplate two rings of gold, and shalt put the two rings on the two endes of the brestplate.",
         }),
 
         ("exodus", 28, 24) => Some(Verse {
-            content: "",
+            content: "And thou shalt put the two wreathen chaines of gold in the two rings, which are on the ends of the brestplate.",
         }),
 
         ("exodus", 28, 25) => Some(Verse {
-            content: "",
+            content: "And the other two endes of the two wreathen chaines, thou shalt fasten in the two ouches, and put them on the shoulder pieces of the Ephod before it.",
         }),
 
         ("exodus", 28, 26) => Some(Verse {
-            content: "",
+            content: "And thou shalt make two rings of gold, and thou shalt put them vpon the two ends of the breastplate, in the border thereof, which is in the side of the Ephod inward.",
         }),
 
         ("exodus", 28, 27) => Some(Verse {
-            content: "",
+            content: "And two other rings of gold thou shalt make, and shalt put them on the two sides of the Ephod vnderneath towards the forepart thereof, ouer against the other coupling thereof, aboue the curious girdle of the Ephod.",
         }),
 
         ("exodus", 28, 28) => Some(Verse {
-            content: "",
+            content: "And they shall bind the brestplate by the rings thereof, vnto the rings of the Ephod with a lace of blewe, that it may be aboue the curious girdle of the Ephod, and that the breastplate be not loosed from the Ephod.",
         }),
 
         ("exodus", 28, 29) => Some(Verse {
-            content: "",
+            content: "And Aaron shal beare the names of the children of Israel in the breastplate of iudgement, vpon his heart, when hee goeth in vnto the holy place, for a memoriall before the Lord continually.",
         }),
 
         ("exodus", 28, 30) => Some(Verse {
-            content: "",
+            content: "And thou shalt put in the breastplate of iudgement, the Urim and the Thummim, and they shall bee vpon Aarons heart, when he goeth in before the Lord: and Aaron shall beare the iudgement of the children of Israel vpon his heart, before the Lord continually.",
         }),
 
         ("exodus", 28, 31) => Some(Verse {
-            content: "",
+            content: "And thou shalt make the robe of the Ephod all of blew.",
         }),
 
         ("exodus", 28, 32) => Some(Verse {
-            content: "",
+            content: "And there shall bee an hole in the top of it, in the mids thereof: it shall haue a binding of wouen worke, round about the hole of it, as it were the hole of an habergeon, that it be not rent.",
         }),
 
         ("exodus", 28, 33) => Some(Verse {
-            content: "",
+            content: "And beneath vpon the hemme of it thou shalt make pomegranates of blew, and of purple, and of scarlet, round about the hemme thereof, and belles of gold betweene them round about.",
         }),
 
         ("exodus", 28, 34) => Some(Verse {
-            content: "",
+            content: "A golden bell and a pomegranate, a golden bell and a pomegranate, vpon the hemme of the robe round about.",
         }),
 
         ("exodus", 28, 35) => Some(Verse {
-            content: "",
+            content: "And it shall be vpon Aaron, to minister: and his sound shall be heard when he goeth in vnto the holy place before the Lord, and when he commeth out, that he die not.",
         }),
 
         ("exodus", 28, 36) => Some(Verse {
-            content: "",
+            content: "And thou shalt make a plate of pure gold, and graue vpon it, like the engrauings of a signet, HOLINES TO THE LORD.",
         }),
 
         ("exodus", 28, 37) => Some(Verse {
-            content: "",
+            content: "And thou shalt put it on a blewe lace, that it may be vpon the miter; vpon the forefront of the miter it shall be.",
         }),
 
         ("exodus", 28, 38) => Some(Verse {
-            content: "",
+            content: "And it shall be vpon Aarons forehead, that Aaron may beare the iniquitie of the holy things, which the children of Israel shall hallow, in all their holy gifts: and it shall be alwayes vpon his forehead, that they may be accepted before the Lord.",
         }),
 
         ("exodus", 28, 39) => Some(Verse {
-            content: "",
+            content: "And thou shalt embroider the coat of fine linnen, and thou shalt make the miter of fine linnen, and thou shalt make the girdle of needle worke.",
         }),
 
         ("exodus", 28, 40) => Some(Verse {
-            content: "",
+            content: "And for Aarons sonnes thou shalt make coats, and thou shalt make for them girdles, and bonnets shalt thou make for them, for glory and for beautie.",
         }),
 
         ("exodus", 28, 41) => Some(Verse {
-            content: "",
+            content: "And thou shalt put them vpon Aaron thy brother, and his sonnes with him: and shalt annoint them, and consecrate them, and sanctifie them, that they may minister vnto mee in the Priests office.",
         }),
 
         ("exodus", 28, 42) => Some(Verse {
-            content: "",
+            content: "And thou shalt make them linnen breeches, to couer their nakednes, from the loines euen vnto the thighes they shall reach.",
         }),
 
         ("exodus", 28, 43) => Some(Verse {
-            content: "",
+            content: "And they shall be vpon Aaron, & vpon his sonnes, when they come in vnto the Tabernacle of the Congregation, or when they come neere vnto the Altar to minister in the holy place, that they beare not iniquitie, and die. It shall be a statute for euer vnto him and his seede after him.",
         }),
 
         ("exodus", 29, 1) => Some(Verse {
-            content: "",
+            content: "And this is the thing that thou shalt doe vnto them, to hallow them, to minister vnto me in the Priests office: Take one yong bullocke, and two rammes without blemish,",
         }),
 
         ("exodus", 29, 2) => Some(Verse {
-            content: "",
+            content: "And vnleauened bread, and cakes unleauened, tempered with oyle, and wafers vnleauened, annointed with oile: of wheaten flowre shalt thou make them.",
         }),
 
         ("exodus", 29, 3) => Some(Verse {
-            content: "",
+            content: "And thou shalt put them into one basket, and bring them in the basket, with the bullocke and the two rammes.",
         }),
 
         ("exodus", 29, 4) => Some(Verse {
-            content: "",
+            content: "And Aaron and his sonnes thou shalt bring vnto the doore of the Tabernacle of the Congregation, and shalt wash them with water.",
         }),
 
         ("exodus", 29, 5) => Some(Verse {
-            content: "",
+            content: "And thou shalt take the garments, and put vpon Aaron the coat, and the robe of the Ephod, and the Ephod, and the brestplate, and gird him with the curious girdle of the Ephod.",
         }),
 
         ("exodus", 29, 6) => Some(Verse {
-            content: "",
+            content: "And thou shalt put the Miter vpon his head, and put the holy Crowne vpon the Miter.",
         }),
 
         ("exodus", 29, 7) => Some(Verse {
-            content: "",
+            content: "Then shalt thou take the annointing oyle, and powre it vpon his head, and annoint him.",
         }),
 
         ("exodus", 29, 8) => Some(Verse {
-            content: "",
+            content: "And thou shalt bring his sonnes, and put coats vpon them.",
         }),
 
         ("exodus", 29, 9) => Some(Verse {
-            content: "",
+            content: "And thou shalt gird them with girdles, (Aaron and his sonnes) and put the bonnets on them: and the priests office shall be theirs for a perpetuall statute: and thou shalt consecrate Aaron and his sonnes.",
         }),
 
         ("exodus", 29, 10) => Some(Verse {
-            content: "",
+            content: "And thou shalt cause a bullocke to bee brought before the Tabernacle of the Congregation: and Aaron and his sonnes shall put their hands vpon the head of the bullocke.",
         }),
 
         ("exodus", 29, 11) => Some(Verse {
-            content: "",
+            content: "And thou shalt kill the bullocke before the Lord, by the doore of the Tabernacle of the Congregation.",
         }),
 
         ("exodus", 29, 12) => Some(Verse {
-            content: "",
+            content: "And thou shalt take of the blood of the bullocke, and put it vpon the hornes of the altar with thy finger, and powre all the blood beside the bottome of the Altar.",
         }),
 
         ("exodus", 29, 13) => Some(Verse {
-            content: "",
+            content: "And thou shalt take all the fat that couereth the inwards, and the caule that is aboue the liuer, and the two kidneis, and the fat that is vpon them, and burne them vpon the altar.",
         }),
-        
+
         ("exodus", 29, 14) => Some(Verse {
-            content: "",
+            content: "But the flesh of the bullocke, and his skinne, and his doung shalt thou burne with fire without the campe, it is a sinne offering.",
         }),
 
         ("exodus", 29, 15) => Some(Verse {
-            content: "",
+            content: "Thou shalt also take one ram, and Aaron and his sonnes shall put their hands vpon the head of the ram.",
         }),
 
         ("exodus", 29, 16) => Some(Verse {
-            content: "",
+            content: "And thou shalt slay the ramme, and thou shalt take his blood, and sprinkle it round about vpon the altar.",
         }),
 
         ("exodus", 29, 17) => Some(Verse {
-            content: "",
+            content: "And thou shalt cut the ramme in pieces, and wash the inwards of him, and his legs, and put them vnto his pieces, and vnto his head.",
         }),
 
         ("exodus", 29, 18) => Some(Verse {
-            content: "",
+            content: "And thou shalt burne the whole ramme vpon the Altar: it is a burnt offering vnto the Lord: It is a sweet sauour, an offering made by fire vnto the Lord.",
         }),
 
         ("exodus", 29, 19) => Some(Verse {
-            content: "",
+            content: "And thou shalt take the other ramme: and Aaron and his sonnes shall put their hands vpon the head of the ramme.",
         }),
 
         ("exodus", 29, 20) => Some(Verse {
-            content: "",
+            content: "Then shalt thou kill the ramme, and take of his blood, and put it vpon the tip of the right eare of Aaron, and vpon the tip of the right eare of his sonnes, and vpon the thumbe of their right hand, and vpon the great toe of their right foot, and sprinckle the blood vpon the Altar round about.",
         }),
 
         ("exodus", 29, 21) => Some(Verse {
-            content: "",
+            content: "And thou shalt take of the blood that is vpon the Altar, and of the anointing oyle, and sprinkle it vpon Aaron, and vpon his garments, and vpon his sonnes, and vpon the garments of his sonnes with him: and hee shall be hallowed, and his garments, and his sonnes, and his sonnes garments with him.",
         }),
 
         ("exodus", 29, 22) => Some(Verse {
-            content: "",
+            content: "Also thou shalt take of the ram the fat and the rumpe, and the fat that couereth the inwards, & the caule aboue the liuer, and the two kidneis, and the fat that is vpon them, and the right shoulder, for it is a ram of consecration:",
         }),
 
         ("exodus", 29, 23) => Some(Verse {
-            content: "",
+            content: "And one loafe of bread, and one cake of oyled bread, and one wafer out of the basket of the vnleauened bread, that is before the Lord.",
         }),
 
         ("exodus", 29, 24) => Some(Verse {
-            content: "",
+            content: "And thou shalt put all in the hands of Aaron, and in the hands of his sonnes, and shalt waue them for a waue-offering before the Lord.",
         }),
 
         ("exodus", 29, 25) => Some(Verse {
-            content: "",
+            content: "And thou shalt receiue them of their hands, and burne them vpon the Altar for a burnt offering, for a sweet sauour before the Lord: it is an offering made by fire vnto the Lord.",
         }),
 
         ("exodus", 29, 26) => Some(Verse {
-            content: "",
+            content: "And thou shalt take the brest of the ramme of Aarons consecrations, and waue it for a waue-offering before the Lord, and it shalbe thy part.",
         }),
 
         ("exodus", 29, 27) => Some(Verse {
-            content: "",
+            content: "And thou shalt sanctifie the brest of the waue-offering, and the shoulder of the heaue offering, which is waued, and which is heaued vp of the ramme of the consecration, euen of that which is for Aaron, and of that which is for his sonnes.",
         }),
 
         ("exodus", 29, 28) => Some(Verse {
-            content: "",
+            content: "And it shalbe Aarons, and his sonnes by a statute for euer, from the children of Israel: for it is an heaue offering: and it shall be an heaue offering from the children of Israel, of the sacrifice of their peace offrings, euen their heaue offering vnto the Lord.",
         }),
 
         ("exodus", 29, 29) => Some(Verse {
-            content: "",
+            content: "And the holy garments of Aaron shall be his sonnes after him, to bee anoynted therein, and to be consecrated in them.",
         }),
 
         ("exodus", 29, 30) => Some(Verse {
-            content: "",
+            content: "And that sonne that is Priest in his stead, shal put them on seuen dayes, when he commeth into the Tabernacle of the Congregation to minister in the holy place.",
         }),
 
         ("exodus", 29, 31) => Some(Verse {
-            content: "",
+            content: "And thou shalt take the ramme of the consecration, and seethe his flesh in the holy place.",
         }),
 
         ("exodus", 29, 32) => Some(Verse {
-            content: "",
+            content: "And Aaron and his sonnes shall eate the flesh of the ramme, and the bread that is in the basket, by the doore of the Tabernacle of the Cōgregation.",
         }),
 
         ("exodus", 29, 33) => Some(Verse {
-            content: "",
+            content: "And they shall eate those things, wherewith the atonement was made, to consecrate and to sanctifie them: but a stranger shall not eate thereof, because they are holy.",
         }),
 
         ("exodus", 29, 34) => Some(Verse {
-            content: "",
+            content: "And if ought of the flesh of the consecrations, or of the bread remaine vnto the morning, then thou shalt burne the remainder with fire: it shall not be eaten, because it is holy.",
         }),
 
         ("exodus", 29, 35) => Some(Verse {
-            content: "",
+            content: "And thus shalt thou doe vnto Aaron, and to his sonnes, according to all things which I haue commaunded thee: seuen dayes shalt thou consecrate them.",
         }),
 
         ("exodus", 29, 36) => Some(Verse {
-            content: "",
+            content: "And thou shalt offer euery day a bullocke for a sinne offering, for atonement: and thou shalt clense the Altar, when thou hast made an atonement for it, and thou shalt anoynt it, to sanctifie it.",
         }),
 
         ("exodus", 29, 37) => Some(Verse {
-            content: "",
+            content: "Seuen dayes thou shalt make an atonement for the Altar, and sanctifie it: and it shalbe an Altar most holy: whatsoeuer toucheth the Altar, shalbe holy.",
         }),
 
         ("exodus", 29, 38) => Some(Verse {
-            content: "",
+            content: "Now this is that which thou shalt offer vpon the Altar; two lambs of the first yere, day by day continually.",
         }),
 
         ("exodus", 29, 39) => Some(Verse {
-            content: "",
+            content: "The one lambe thou shalt offer in the morning: and the other lambe thou shalt offer at euen:",
         }),
 
         ("exodus", 29, 40) => Some(Verse {
-            content: "",
+            content: "And with the one lambe a tenth deale of flowre mingled with the fourth part of an Hin of beaten oyle: and the fourth part of an Hin of wine for a drinke offering.",
         }),
 
         ("exodus", 29, 41) => Some(Verse {
-            content: "",
+            content: "And the other lambe thou shalt offer at Euen, and shalt doe thereto, according to the meat offering of the morning, and according to the drinke offering thereof, for a sweet sauour, an offering made by fire vnto the Lord.",
         }),
 
         ("exodus", 29, 42) => Some(Verse {
-            content: "",
+            content: "This shalbe a continuall burnt offering throughout your generations, at the doore of the Tabernacle of the Congregation, before the Lord,where I wil meete you, to speake there vnto thee.",
         }),
 
         ("exodus", 29, 43) => Some(Verse {
-            content: "",
+            content: "And there I will meet with the children of Israel: and the Tabernacle shalbe sanctified by my glory.",
         }),
 
         ("exodus", 29, 44) => Some(Verse {
-            content: "",
+            content: "And I will sanctifie the Tabernacle of the Congregation, and the Altar: I will sanctifie also both Aaron and his sonnes, to minister to me in the Priests office.",
         }),
 
         ("exodus", 29, 45) => Some(Verse {
-            content: "",
+            content: "And I will dwell amongst the children of Israel, and will be their God.",
         }),
 
         ("exodus", 29, 46) => Some(Verse {
-            content: "",
+            content: "And they shall know that I am the Lord their God, that brought them foorth out of the land of Egypt, that I may dwell amongst them: I am the Lord their God.",
         }),
 
         ("exodus", 30, 1) => Some(Verse {
-            content: "",
+            content: "Andthou shalt make an Altar to burne incense vpon: of Shittim wood shalt thou make it.",
         }),
 
         ("exodus", 30, 2) => Some(Verse {
-            content: "",
+            content: "A cubite shall bee the length thereof, and a cubite the breadth thereof, (foure square shall it bee) and two cubits shalbe the height thereof: the hornes thereof shalbe of the same.",
         }),
 
         ("exodus", 30, 3) => Some(Verse {
-            content: "",
+            content: "And thou shalt ouerlay it with pure gold, the top therof, and the sides thereof round about, and the hornes thereof: and thou shalt make vnto it a crowne of gold round about.",
         }),
 
         ("exodus", 30, 4) => Some(Verse {
-            content: "",
+            content: "And two golden rings shalt thou make to it vnder the crowne of it, by the two corners thereof, vpon the two sides of it shalt thou make it: and they shalbe for places for the staues to beare it withall.",
         }),
 
         ("exodus", 30, 5) => Some(Verse {
-            content: "",
+            content: "And thou shalt make the staues of Shittim wood, and ouerlay them with gold.",
         }),
 
         ("exodus", 30, 6) => Some(Verse {
-            content: "",
+            content: "And thou shalt put it before the Uaile, that is by the Arke of the Testimonie before the Mercie-seat, that is, ouer the Testimonie where I will meet with thee.",
         }),
 
         ("exodus", 30, 7) => Some(Verse {
-            content: "",
+            content: "And Aaron shall burne thereon sweet incense euery morning: when he dresseth the lamps he shal burne incense vpon it.",
         }),
 
         ("exodus", 30, 8) => Some(Verse {
-            content: "",
+            content: "And when Aaron lighteth the lampes at euen, he shall burne incense vpon it, a perpetuall incense before the Lord,throughout your generations.",
         }),
 
         ("exodus", 30, 9) => Some(Verse {
-            content: "",
+            content: "Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meate offering, neither shall ye powre drinke offering thereon.",
         }),
 
         ("exodus", 30, 10) => Some(Verse {
-            content: "",
+            content: "And Aaron shall make an atonement vpon the hornes of it once in a yeere, with the blood of the sinne offering of atonements: once in the yeere shall hee make atonement vpon it, throughout your generations: it is most holy vnto the Lord.",
         }),
 
         ("exodus", 30, 11) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("exodus", 30, 12) => Some(Verse {
-            content: "",
+            content: "When thou takest the summe of the children of Israel, after their number, then shall they giue euery man a ransome for his soule vnto the Lord, when thou numbrest them, that there be no plague amongst them, when thou numbrest them.",
         }),
 
         ("exodus", 30, 13) => Some(Verse {
-            content: "",
+            content: "This they shall giue, euery one that passeth among them that are numbred: halfe a shekel after the shekel of the Sanctuary: A shekel is twenty gerahs: an halfe shekel shall be the offering of the Lord.",
         }),
 
         ("exodus", 30, 14) => Some(Verse {
-            content: "",
+            content: "Euery one that passeth among them that are numbred from twentie yeeres old and aboue, shall giue an offering vnto the Lord.",
         }),
 
         ("exodus", 30, 15) => Some(Verse {
-            content: "",
+            content: "The rich shal not giue more, and the poore shall not giue lesse then halfe a shekel, when they giue an offering vnto the Lord, to make an atonement for your soules.",
         }),
 
         ("exodus", 30, 16) => Some(Verse {
-            content: "",
+            content: "And thou shalt take the atonement money of the children of Israel, and shalt appoint it for the seruice of the Tabernacle of the Congregation, that it may be a memoriall vnto the children of Israel before the Lord, to make an atonement for your soules.",
         }),
 
         ("exodus", 30, 17) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("exodus", 30, 18) => Some(Verse {
-            content: "",
+            content: "Thou shalt also make a Lauer of brasse, and his foote also of brasse, to wash withall, and thou shalt put it betweene the Tabernacle of the Congregation, and the altar, and thou shalt put water therein.",
         }),
 
         ("exodus", 30, 19) => Some(Verse {
-            content: "",
+            content: "For Aaron and his sonnes shall wash their hands and their feet thereat.",
         }),
 
         ("exodus", 30, 20) => Some(Verse {
-            content: "",
+            content: "When they goe into the Tabernacle of the Congregation, they shall wash with water, that they die not: or when they come neere to the altar to minister, to burne offering made by fire vnto the Lord.",
         }),
 
         ("exodus", 30, 21) => Some(Verse {
-            content: "",
+            content: "So they shall wash their handes and their feet, that they die not: and it shall be a statute for euer to them, euen to him and to his seed throughout their generations.",
         }),
 
         ("exodus", 30, 22) => Some(Verse {
-            content: "",
+            content: "Moreouer the Lord spake vnto Moses, saying,",
         }),
 
         ("exodus", 30, 23) => Some(Verse {
-            content: "",
+            content: "Take thou also vnto thee principall spices, of pure myrrhe fiue hundred shekels, and of sweet cinamon halfe so much, euen two hundred and fifty shekels, and of sweet calamus two hundred and fiftie shekels,",
         }),
 
         ("exodus", 30, 24) => Some(Verse {
-            content: "",
+            content: "And of Cassia fiue hundred shekels, after the shekel of the Sanctuary, and of oyle oliue an Hin.",
         }),
 
         ("exodus", 30, 25) => Some(Verse {
-            content: "",
+            content: "And thou shalt make it an oyle of holy oyntment, an oyntment compound after the arte of the Apothecarie: it shalbe an holy anointing oyle.",
         }),
 
         ("exodus", 30, 26) => Some(Verse {
-            content: "",
+            content: "And thou shalt anoint the Tabernacle of the Congregation therewith, and the Arke of the Testimonie:",
         }),
 
         ("exodus", 30, 27) => Some(Verse {
-            content: "",
+            content: "And the Table and all his vessels, and the Candlesticke, and his vessels, and the Altar of incense:",
         }),
 
         ("exodus", 30, 28) => Some(Verse {
-            content: "",
+            content: "And the Altar of burnt offering with all his vessels, and the Lauer and his foot.",
         }),
 
         ("exodus", 30, 29) => Some(Verse {
-            content: "",
+            content: "And thou shalt sanctifie them, that they may bee most holy: whatsoeuer toucheth them, shall be holy.",
         }),
 
         ("exodus", 30, 30) => Some(Verse {
-            content: "",
+            content: "And thou shalt annoint Aaron and his sonnes, and consecrate them, that they may minister vnto mee in the priests office.",
         }),
 
         ("exodus", 30, 31) => Some(Verse {
-            content: "",
+            content: "And thou shalt speake vnto the children of Israel, saying, This shall bee an holy anointing oile vnto mee, throughout your generations.",
         }),
 
         ("exodus", 30, 32) => Some(Verse {
-            content: "",
+            content: "Upon mans flesh shall it not bee powred, neither shall ye make any other like it, after the composition of it: it is holy, and it shall be holy vnto you.",
         }),
 
         ("exodus", 30, 33) => Some(Verse {
-            content: "",
+            content: "Whosoeuer compoundeth any like it, or whosoeuer putteth any of it vpon a stranger, shall euen be cut off from his people.",
         }),
 
         ("exodus", 30, 34) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Take vnto thee sweete spices, Stacte, and Onicha, and Galbanum: these sweete spices with pure frankincense, of each shall there be a like weight.",
         }),
 
         ("exodus", 30, 35) => Some(Verse {
-            content: "",
+            content: "And thou shalt make it a perfume, a confection after the arte of the Apothecarie, tempered together, pure and holy.",
         }),
 
         ("exodus", 30, 36) => Some(Verse {
-            content: "",
+            content: "And thou shalt beat some of it very small, and put of it before the testimony in the tabernacle of the Congregation, where I will meet with thee: it shalbe vnto you most holy.",
         }),
 
         ("exodus", 30, 37) => Some(Verse {
-            content: "",
+            content: "And as for the perfume which thou shalt make, you shall not make to your selues, according to the composition thereof: it shall be vnto thee holy for the Lord.",
         }),
 
         ("exodus", 30, 38) => Some(Verse {
-            content: "",
+            content: "Whosoeuer shall make like vnto that, to smell thereto, shall euen bee cut off from his people.",
         }),
 
         ("exodus", 31, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("exodus", 31, 2) => Some(Verse {
-            content: "",
+            content: "See, I haue called by name, Bezaleel the sonne of Uri, the sonne of Hur, of the tribe of Iudah:",
         }),
 
         ("exodus", 31, 3) => Some(Verse {
-            content: "",
+            content: "And I haue filled him with the Spirit of God, in wisedome, and in vnderstanding, and in knowledge, and in all maner of workemanship,",
         }),
 
         ("exodus", 31, 4) => Some(Verse {
-            content: "",
+            content: "To deuise cunning workes, to worke in golde, and in siluer, and in brasse,",
         }),
 
         ("exodus", 31, 5) => Some(Verse {
-            content: "",
+            content: "And in cutting of stones, to set them, and in caruing of timber, to worke in all maner of workemanship.",
         }),
 
         ("exodus", 31, 6) => Some(Verse {
-            content: "",
+            content: "And I, behold, I haue giuen with him, Aholiab the sonne of Ahisamach, of the tribe of Dan, and in the hearts of all that are wise hearted I haue put wisedome, that they may make all that I haue commanded thee:",
         }),
 
         ("exodus", 31, 7) => Some(Verse {
-            content: "",
+            content: "The Tabernacle of the Congregation, and the Arke of the Testimony, and the Mercie-seat that is thereupon, & all the furniture of the Tabernacle:",
         }),
 
         ("exodus", 31, 8) => Some(Verse {
-            content: "",
+            content: "And the Table, and his furniture, and the pure Candlesticke, with all his furniture, and the Altar of incense:",
         }),
 
         ("exodus", 31, 9) => Some(Verse {
-            content: "",
+            content: "And the Altar of burnt offering, with all his furniture, and the Lauer and his foote:",
         }),
 
         ("exodus", 31, 10) => Some(Verse {
-            content: "",
+            content: "And the clothes of seruice, and the holy garments for Aaron the Priest, and the garments of his sonnes, to minister in the Priests office:",
         }),
 
         ("exodus", 31, 11) => Some(Verse {
-            content: "",
+            content: "And the anointing oyle, and sweet incense for the Holy place: according to all that I haue commanded thee, shall they doe.",
         }),
 
         ("exodus", 31, 12) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("exodus", 31, 13) => Some(Verse {
-            content: "",
+            content: "Speake thou also vnto the children of Israel, saying, Uerely my Sabbaths ye shall keepe: for it is a signe betweene me and you, throughout your generations, that ye may know that I am the Lord, that doth sanctifie you.",
         }),
 
         ("exodus", 31, 14) => Some(Verse {
-            content: "",
+            content: "Yee shall keepe the Sabbath therefore: for it is holy vnto you: Euery one that defileth it, shall surely be put to death: for whosoeuer doth any worke therein, that soule shall be cut off from amongst his people.",
         }),
 
         ("exodus", 31, 15) => Some(Verse {
-            content: "",
+            content: "Sixe dayes may worke bee done, but in the seuenth is the Sabbath of rest, holy to the Lord: whosoeuer doth any worke in the Sabbath day, he shall surely be put to death.",
         }),
 
         ("exodus", 31, 16) => Some(Verse {
-            content: "",
+            content: "Wherefore the children of Israel shall keepe the Sabbath, to obserue the Sabbath throughout their generations, for a perpetuall couenant.",
         }),
 
         ("exodus", 31, 17) => Some(Verse {
-            content: "",
+            content: "It is a signe betweene me and the children of Israel for euer: for in sixe dayes the Lord made heauen and earth, and on the seuenth day he rested, and was refreshed.",
         }),
 
         ("exodus", 31, 18) => Some(Verse {
-            content: "",
+            content: "And he gaue vnto Moses, when hee had made an end of communing with him vpon mount Sinai, two tables of Testimonie, tables of stone, written with the finger of God.",
         }),
 
         ("exodus", 32, 1) => Some(Verse {
-            content: "",
+            content: "And when the people saw that Moses delayed to come downe out of the mount, the people gathered themselues together vnto Aaron, and said vnto him, Up, make vs gods which shall goe before vs: for as for this Moses, the man that brought vs vp out of the land of Egypt, we wot not what is become of him.",
         }),
 
         ("exodus", 32, 2) => Some(Verse {
-            content: "",
+            content: "And Aaron saide vnto them, Breake off the golden earerings which are in the eares of your wiues, of your sonnes, and of your daughters, and bring them vnto me.",
         }),
 
         ("exodus", 32, 3) => Some(Verse {
-            content: "",
+            content: "And all the people brake off the golden earerings, which were in their eares, and brought them vnto Aaron.",
         }),
 
         ("exodus", 32, 4) => Some(Verse {
-            content: "",
+            content: "And hee receiued them at their hand, and fashioned it with a grauing toole, after hee had made it a molten calfe: and they said, These be thy gods, O Israel, which brought thee vp out of the land of Egypt.",
         }),
 
         ("exodus", 32, 5) => Some(Verse {
-            content: "",
+            content: "And when Aaron saw it, he built an altar before it, and Aaron made proclamation, and said, To morrow is a feast to the Lord.",
         }),
 
         ("exodus", 32, 6) => Some(Verse {
-            content: "",
+            content: "And they rose vp early on the morrow, and offered burnt offerings, and brought peace offerings: and the people sate downe to eate and to drinke, and rose vp to play.",
         }),
 
         ("exodus", 32, 7) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Goe, get thee downe: for thy people which thou broughtest out of the land of Egypt, haue corrupted themselues.",
         }),
 
         ("exodus", 32, 8) => Some(Verse {
-            content: "",
+            content: "They haue turned aside quickly out of the way which I commaunded them: they haue made them a molten Calfe, and haue worshipped it, and haue sacrificed thereunto, and saide, These bee thy gods, O Israel, which haue brought thee vp out of the land of Egypt.",
         }),
 
         ("exodus", 32, 9) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, I haue seene this people, and behold, it is a stiffenecked people.",
         }),
 
         ("exodus", 32, 10) => Some(Verse {
-            content: "",
+            content: "Now therefore let me alone, that my wrath may waxe hot against them, and that I may consume them: and I will make of thee a great nation.",
         }),
 
         ("exodus", 32, 11) => Some(Verse {
-            content: "",
+            content: "And Moses besought the Lord his God, and said, Lord, why doeth thy wrath ware hot against thy people, which thou hast brought foorth out of the land of Egypt, with great power, and with a mighty hand?",
         }),
 
         ("exodus", 32, 12) => Some(Verse {
-            content: "",
+            content: "Wherefore should the Egyptians speake and say, For mischiefe did he bring them out, to slay them in the mountaines, & to consume them from the face of the earth? Turne from thy fierce wrath, and repent of this euill against thy people.",
         }),
 
         ("exodus", 32, 13) => Some(Verse {
-            content: "",
+            content: "Remember Abraham, Isaac, and Israel thy seruants, to whom thou swarest by thine owne selfe, and saidest vnto them, I will multiply your seed as the starres of heauen: and all this land that I haue spoken of, will I giue vnto your seed, and they shall inherit it for euer.",
         }),
 
         ("exodus", 32, 14) => Some(Verse {
-            content: "",
+            content: "And the Lord repented of the euill which he thought to doe vnto his people.",
         }),
 
         ("exodus", 32, 15) => Some(Verse {
-            content: "",
+            content: "And Moses turned, and went downe from the Mount, and the two Tables of the Testimony were in his hand: the Tables were written on both their sides; on the one side, and on the other were they written.",
         }),
 
         ("exodus", 32, 16) => Some(Verse {
-            content: "",
+            content: "And the Tables were the worke of God; and the writing was the writing of God, grauen vpon the Tables.",
         }),
 
         ("exodus", 32, 17) => Some(Verse {
-            content: "",
+            content: "And when Ioshua heard the noise of the people as they shouted, hee said vnto Moses, There is a noise of warre in the campe.",
         }),
 
         ("exodus", 32, 18) => Some(Verse {
-            content: "",
+            content: "And he said, It is not the voyce of them that shout for mastery, neither is it the voyce of them that cry for being ouercome: but the noyse of them that sing doe I heare.",
         }),
 
         ("exodus", 32, 19) => Some(Verse {
-            content: "",
+            content: "And it came to passe, assoone as he came nigh vnto the campe, that he saw the Calfe, and the dancing: and Moses anger waxed hot, and he cast the Tables out of his hands, and brake them beneath the mount.",
         }),
 
         ("exodus", 32, 20) => Some(Verse {
-            content: "",
+            content: "And he tooke the Calfe which they had made, and burnt it in the fire, and ground it to powder, and strawed it vpon the water, and made the children of Israel drinke of it.",
         }),
 
         ("exodus", 32, 21) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto Aaron, What did this people vnto thee, that thou hast brought so great a sinne vpon them?",
         }),
 
         ("exodus", 32, 22) => Some(Verse {
-            content: "",
+            content: "And Aaron said, Let not the anger of my lord waxe hot: thou knowest the people, that they are set on mischiefe.",
         }),
 
         ("exodus", 32, 23) => Some(Verse {
-            content: "",
+            content: "For they said vnto me, Make vs gods which shall goe before vs: for as for this Moses, the man that brought vs vp out of the land of Egypt, we wot not what is become of him.",
         }),
 
         ("exodus", 32, 24) => Some(Verse {
-            content: "",
+            content: "And I said vnto them, Whosoeuer hath any gold, let them breake it off: So they gaue it mee: then I cast it into the fire, & there came out this Calfe.",
         }),
 
         ("exodus", 32, 25) => Some(Verse {
-            content: "",
+            content: "And when Moses saw that the people were naked, (for Aaron had made them naked vnto their shame, amongst their enemies)",
+        }),
+
+        ("exodus", 32, 26) => Some(Verse {
+            content: "Then Moses stood in the gate of the campe, and saide, Who is on the Lords side? let him come vnto mee. And all the sonnes of Leui gathered themselues together vnto him.",
         }),
 
         ("exodus", 32, 27) => Some(Verse {
-            content: "",
+            content: "And hee said vnto them, Thus saith the Lord God of Israel, Put euery man his sword by his side, and go in and out from gate to gate throughout the campe, and slay euery man his brother, and euery man his companion, and euery man his neighbour.",
         }),
 
         ("exodus", 32, 28) => Some(Verse {
-            content: "",
+            content: "And the children of Leui did according to the word of Moses; and there fell of the people that day about three thousand men.",
         }),
 
         ("exodus", 32, 29) => Some(Verse {
-            content: "",
+            content: "For Moses had said, Consecrate your selues to day to the Lord, euen euery man vpon his sonne, and vpon his brother, that he may bestow vpon you a blessing this day.",
         }),
 
         ("exodus", 32, 30) => Some(Verse {
-            content: "",
+            content: "And it came to passe on the morrow, that Moses said vnto the people, Ye haue sinned a great sinne: And now I will goe vp vnto the Lord; peraduenture I shall make an atonement for your sinne.",
         }),
 
         ("exodus", 32, 31) => Some(Verse {
-            content: "",
+            content: "And Moses returned vnto the Lord, and said, Oh, this people haue sinned a great sinne, and haue made them gods of gold.",
         }),
 
         ("exodus", 32, 32) => Some(Verse {
-            content: "",
+            content: "Yet now, if thou wilt forgiue their sinne; and if not, blot me, I pray thee, out of thy Booke, which thou hast written.",
         }),
 
         ("exodus", 32, 33) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Whosoeuer hath sinned against me, him will I blot out of my Booke.",
         }),
 
         ("exodus", 32, 34) => Some(Verse {
-            content: "",
+            content: "Therefore now goe, leade the people vnto the place of which I haue spoken vnto thee: Behold, mine Angel shall goe before thee; Neuerthelesse in the day when I visit, I will visit their sinne vpon them.",
         }),
 
         ("exodus", 32, 35) => Some(Verse {
-            content: "",
+            content: "And the Lord plagued the people, because they made the Calfe, which Aaron made.",
         }),
 
         ("exodus", 33, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Depart, and goe vp hence, thou and the people which thou hast brought vp out of the land of Egypt, vnto the land which I sware vnto Abraham, to Isaac, & to Iacob, saying, Unto thy seed will I giue it.",
         }),
 
         ("exodus", 33, 2) => Some(Verse {
-            content: "",
+            content: "And I will send an Angel before thee, and I will driue out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hiuite, and the Iebusite:",
         }),
 
         ("exodus", 33, 3) => Some(Verse {
-            content: "",
+            content: "Unto a land flowing with milke and hony: For I will not goe vp in the midst of thee: for thou art a stiffenecked people, lest I consume thee in the way.",
         }),
 
         ("exodus", 33, 4) => Some(Verse {
-            content: "",
+            content: "And when the people heard these euill tidings, they mourned: and no man did put on him his ornaments.",
         }),
 
         ("exodus", 33, 5) => Some(Verse {
-            content: "",
+            content: "For the Lord had saide vnto Moses, Say vnto the children of Israel, Ye are a stiffenecked people: I wil come vp into the midst of thee in a moment, & consume thee: Therefore now put off thy ornaments from thee, that I may know what to doe vnto thee.",
         }),
 
         ("exodus", 33, 6) => Some(Verse {
-            content: "",
+            content: "And the children of Israel stript themselues of their ornaments, by the mount Horeb.",
         }),
 
         ("exodus", 33, 7) => Some(Verse {
-            content: "",
+            content: "And Moses tooke the Tabernacle, & pitched it without the campe, a farre off from the campe, and called it the Tabernacle of the Congregation: And it came to passe, that euery one which sought the Lord, went out vnto the Tabernacle of the Congregation, which was without the campe.",
         }),
 
         ("exodus", 33, 8) => Some(Verse {
-            content: "",
+            content: "And it came to passe when Moses went out vnto the Tabernacle, that all the people rose vp, and stood euery man at his tent doore, and looked after Moses, vntill he was gone into the Tabernacle.",
         }),
 
         ("exodus", 33, 9) => Some(Verse {
-            content: "",
+            content: "And it came to passe as Moses entred into the Tabernacle, the cloudy pillar descended, and stood at the doore of the Tabernacle, and the Lord talked with Moses.",
         }),
 
         ("exodus", 33, 10) => Some(Verse {
-            content: "",
+            content: "And all the people saw the cloudy pillar stand at the Tabernacle doore: and all the people rose vp, and worshipped euery man in his tent doore.",
         }),
 
         ("exodus", 33, 11) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses face to face, as a man speaketh vnto his friend. And he turned againe into the campe, but his seruant Ioshua the sonne of Nun, a yong man, departed not out of the Tabernacle.",
         }),
 
         ("exodus", 33, 12) => Some(Verse {
-            content: "",
+            content: "And Moses saide vnto the Lord, See, thou sayest vnto mee, Bring vp this people, and thou hast not let mee know whome thou wilt send with me. Yet thou hast said, I knowe thee by name, and thou hast also found grace in my sight.",
         }),
 
         ("exodus", 33, 13) => Some(Verse {
-            content: "",
+            content: "Now therefore, I pray thee, If I haue found grace in thy sight, shewe mee now thy way that I may know thee, that I may find grace in thy sight: and consider that this nation is thy people.",
         }),
 
         ("exodus", 33, 14) => Some(Verse {
-            content: "",
+            content: "And he said, My presence shall go with thee, and I will giue thee rest.",
         }),
 
         ("exodus", 33, 15) => Some(Verse {
-            content: "",
+            content: "And he said vnto him, If thy presence goe not with mee, carie vs not vp hence.",
         }),
 
         ("exodus", 33, 16) => Some(Verse {
-            content: "",
+            content: "For wherein shall it bee knowen here, that I and thy people haue found grace in thy sight? is it not in that thou goest with vs? So shall we be separated, I and thy people, from all the people that are vpon the face of the earth.",
         }),
 
         ("exodus", 33, 17) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, I will doe this thing also that thou hast spoken: for thou hast found grace in my sight, and I know thee by name.",
         }),
 
         ("exodus", 33, 18) => Some(Verse {
-            content: "",
+            content: "And he said, I beseech thee, shew me thy glory.",
         }),
 
         ("exodus", 33, 19) => Some(Verse {
-            content: "",
+            content: "And he said, I will make all my goodnesse passe before thee, and I will proclaime the name of the Lord before thee: and will bee gracious to whom I wil be gracious, and wil shew mercie on whom I will shew mercie.",
         }),
 
         ("exodus", 33, 20) => Some(Verse {
-            content: "",
+            content: "And he said, Thou canst not see my face: for there shall no man see mee, and liue.",
         }),
 
         ("exodus", 33, 21) => Some(Verse {
-            content: "",
+            content: "And the Lord said, Beholde, there is a place by mee, and thou shalt stand vpon a rocke.",
         }),
 
         ("exodus", 33, 22) => Some(Verse {
-            content: "",
+            content: "And it shall come to passe, while my glory passeth by, that I will put thee in a clift of the rocke, and will couer thee with my hand, while I passe by.",
         }),
 
         ("exodus", 33, 23) => Some(Verse {
-            content: "",
+            content: "And I wil take away mine hand, and thou shalt see my backe parts: but my face shall not be seene.",
         }),
 
         ("exodus", 34, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Hew thee two Tables of stone, like vnto the first: and I will write vpon these Tables, the words that were in the first Tables which thou brakest.",
         }),
 
         ("exodus", 34, 2) => Some(Verse {
-            content: "",
+            content: "And be ready in the morning, and come vp in the morning vnto mount Sinai, and present thy selfe there to me, in the top of the mount.",
         }),
 
         ("exodus", 34, 3) => Some(Verse {
-            content: "",
+            content: "And no man shall come vp with thee, neither let any man bee seene throughout all the mount, neither let the flockes nor herds feede before that mount.",
         }),
 
         ("exodus", 34, 4) => Some(Verse {
-            content: "",
+            content: "And he hewed two Tables of stone, like vnto the first, and Moses rose vp earely in the morning, and went vp vnto mount Sinai, as the Lord had commanded him, and tooke in his hand the two tables of stone.",
         }),
 
         ("exodus", 34, 5) => Some(Verse {
-            content: "",
+            content: "And the Lord descended in the cloud, and stood with him there, and proclaimed the Name of the Lord.",
         }),
 
         ("exodus", 34, 6) => Some(Verse {
-            content: "",
+            content: "And the Lord passed by before him, and proclaimed, The Lord, The Lord God, mercifull and gracious, long suffering, and abundant in goodnesse and trueth,",
         }),
 
         ("exodus", 34, 7) => Some(Verse {
-            content: "",
+            content: "Keeping mercie for thousands, forgiuing iniquitie and transgression and sinne, and that will by no meanes cleere the guiltie, visiting the iniquitie of the fathers vpon the children, and vpon the childrens children, vnto the third and to the fourth generation.",
         }),
 
         ("exodus", 34, 8) => Some(Verse {
-            content: "",
+            content: "And Moses made haste, and bowed his head toward the earth, and worshipped.",
         }),
 
         ("exodus", 34, 9) => Some(Verse {
-            content: "",
+            content: "And he said, If now I haue found grace in thy sight, O Lord, let my Lord, I pray thee, goe amongst vs, (for it is a stiffenecked people,) and pardon our iniquitie, and our sinne, and take vs for thine inheritance.",
         }),
 
         ("exodus", 34, 10) => Some(Verse {
-            content: "",
+            content: "And he said, Behold, I make a couenant: before all thy people, I wil doe marueiles, such as haue not beene done in all the earth, nor in any nation: and all the people amongst which thou art, shall see the worke of the Lord: for it is a terrible thing that I will doe with thee.",
         }),
 
         ("exodus", 34, 11) => Some(Verse {
-            content: "",
+            content: "Obserue thou that which I command thee this day: Behold, I driue out before thee the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hiuite, and the Iebusite.",
         }),
 
         ("exodus", 34, 12) => Some(Verse {
-            content: "",
+            content: "Take heed to thy selfe, lest thou make a couenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee.",
         }),
 
         ("exodus", 34, 13) => Some(Verse {
-            content: "",
+            content: "But ye shall destroy their altars, breake their images, and cut downe their groues.",
         }),
 
         ("exodus", 34, 14) => Some(Verse {
-            content: "",
+            content: "For thou shalt worship no other god: for the Lord, whose name is Ielous, is a Ielous God:",
         }),
 
         ("exodus", 34, 15) => Some(Verse {
-            content: "",
+            content: "Lest thou make a couenant with the inhabitants of the land, and they goe a whoring after their gods, and doe sacrifice vnto their gods, and one call thee, and thou eate of his sacrifice,",
         }),
 
         ("exodus", 34, 16) => Some(Verse {
-            content: "",
+            content: "And thou take of their daughters vnto thy sonnes, and their daughters goe a whoring after their gods, and make thy sonnes goe a whoring after their gods.",
         }),
 
         ("exodus", 34, 17) => Some(Verse {
-            content: "",
+            content: "Thou shalt make thee no molten gods.",
         }),
 
         ("exodus", 34, 18) => Some(Verse {
-            content: "",
+            content: "The feast of vnleauened bread shalt thou keepe: Seuen dayes thou shalt eate vnleauened bread, as I commanded thee in the time of the moneth Abib: for in the moneth Abib thou camest out from Egypt.",
         }),
 
         ("exodus", 34, 19) => Some(Verse {
-            content: "",
+            content: "All that openeth the matrixe is mine: and euery firstling amongst thy cattell, whether oxe or sheepe, that is male.",
         }),
 
         ("exodus", 34, 20) => Some(Verse {
-            content: "",
+            content: "But the firstling of an Asse thou shalt redeeme with a lambe: and if thou redeeme him not, then shalt thou breake his necke. All the first borne of thy sonnes thou shalt redeeme: and none shall appeare before me empty.",
         }),
 
         ("exodus", 34, 21) => Some(Verse {
-            content: "",
+            content: "Sixe dayes thou shalt worke, but on the seuenth day thou shalt rest: in earing time and in haruest thou shalt rest.",
         }),
 
         ("exodus", 34, 22) => Some(Verse {
-            content: "",
+            content: "And thou shalt obserue the feast of weekes, of the first fruits of wheat haruest, and the feast of ingathering at the yeeres end.",
         }),
 
         ("exodus", 34, 23) => Some(Verse {
-            content: "",
+            content: "Thrice in the yeere shall all your men children appeare before the Lord God, the God of Israel.",
         }),
 
         ("exodus", 34, 24) => Some(Verse {
-            content: "",
+            content: "For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt goe vp to appeare before the Lord thy God, thrice in the yeere.",
         }),
 
         ("exodus", 34, 25) => Some(Verse {
-            content: "",
+            content: "Thou shalt not offer the blood of my sacrifice with leauen, neither shall the sacrifice of the feast of Passeouer be left vnto the morning.",
         }),
 
         ("exodus", 34, 26) => Some(Verse {
-            content: "",
+            content: "The first of the first fruits of thy land thou shalt bring vnto the house of the Lord thy God. Thou shalt not seeth a kid in his mothers milke.",
         }),
 
         ("exodus", 34, 27) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Write thou these words: for after the tenour of these wordes, I haue made a couenant with thee, and with Israel.",
         }),
 
         ("exodus", 34, 28) => Some(Verse {
-            content: "",
+            content: "And hee was there with the Lord forty dayes and forty nights: he did neither eat bread, nor drinke water; and he wrote vpon the Tables the words of the couenant, the ten Commandements.",
         }),
 
         ("exodus", 34, 29) => Some(Verse {
-            content: "",
+            content: "And it came to passe when Moses came downe from mount Sinai (with the two Tables of Testimony in Moses hand, when hee came downe from the mount) that Moses wist not that the skin of his face shone, while he talked with him.",
         }),
 
         ("exodus", 34, 30) => Some(Verse {
-            content: "",
+            content: "And when Aaron and all the children of Israel saw Moses, behold, the skinne of his face shone, and they were afraid to come nigh him.",
         }),
 
         ("exodus", 34, 31) => Some(Verse {
-            content: "",
+            content: "And Moses called vnto them, and Aaron and all the rulers of the Congregation returned vnto him, and Moses talked with them.",
         }),
 
         ("exodus", 34, 32) => Some(Verse {
-            content: "",
+            content: "And afterward all the children of Israel came nigh: and he gaue them in commandement all that the Lord had spoken with him in mount Sinai.",
         }),
 
         ("exodus", 34, 33) => Some(Verse {
-            content: "",
+            content: "And till Moses had done speaking with them, he put a vaile on his face.",
         }),
 
         ("exodus", 34, 34) => Some(Verse {
-            content: "",
+            content: "But when Moses went in before the Lord to speake with him, hee tooke the vaile off, vntill he came out: And hee came out and spake vnto the children of Israel, that which he was commanded.",
         }),
 
         ("exodus", 34, 35) => Some(Verse {
-            content: "",
+            content: "And the children of Israel saw the face of Moses, that the skinne of Moses face shone: and Moses put the vaile vpon his face againe, vntill hee went in to speake with him.",
         }),
 
         ("exodus", 35, 1) => Some(Verse {
-            content: "",
+            content: "And Moses gathered all the Congregation of the children of Israel together, and said vnto them; These are the wordes which the Lord hath commanded, that yee should doe them.",
         }),
 
         ("exodus", 35, 2) => Some(Verse {
-            content: "",
+            content: "Sixe dayes shall worke be done, but on the seuenth day there shall be to you an holy day, a Sabbath of rest to the Lord: whosoeuer doeth worke therein, shall be put to death.",
         }),
 
         ("exodus", 35, 3) => Some(Verse {
-            content: "",
+            content: "Ye shall kindle no fire throughout your habitations vpon the Sabbath day.",
         }),
 
         ("exodus", 35, 4) => Some(Verse {
-            content: "",
+            content: "And Moses spake vnto all the Congregation of the children of Israel, saying, This is the thing which the Lord commanded, saying,",
         }),
 
         ("exodus", 35, 5) => Some(Verse {
-            content: "",
+            content: "Take ye from amongst you an offring vnto the Lord: Whosoeuer is of a willing heart, let him bring it, an offering of the Lord, gold, and siluer, and brasse,",
         }),
 
         ("exodus", 35, 6) => Some(Verse {
-            content: "",
+            content: "And blew, and purple, and scarlet, and fine linnen, and goats haire,",
         }),
 
         ("exodus", 35, 7) => Some(Verse {
-            content: "",
+            content: "And rammes skinnes died red, & badgers skinnes, and Shittim wood,",
         }),
 
         ("exodus", 35, 8) => Some(Verse {
-            content: "",
+            content: "And oyle for the light, and spices for anoynting oyle, and for the sweet incense:",
         }),
 
         ("exodus", 35, 9) => Some(Verse {
-            content: "",
+            content: "And Onix stones, and stones to be set for the Ephod, and for the brestplate.",
         }),
 
         ("exodus", 35, 10) => Some(Verse {
-            content: "",
+            content: "And euery wise hearted among you, shall come and make all that the Lord hath commanded:",
         }),
 
         ("exodus", 35, 11) => Some(Verse {
-            content: "",
+            content: "The Tabernacle, his tent, and his couering, his taches, & his barres, his pillars, and his sockets:",
         }),
 
         ("exodus", 35, 12) => Some(Verse {
-            content: "",
+            content: "The Arke and the staues thereof, with the Mercy seat, and the Uaile of the couering:",
         }),
 
         ("exodus", 35, 13) => Some(Verse {
-            content: "",
+            content: "The Table and his staues, and all his vessels, and the Shewbread,",
         }),
 
         ("exodus", 35, 14) => Some(Verse {
-            content: "",
+            content: "The Candlesticke also for the light, and his furniture, and his lamps, with the oyle for the light,",
         }),
 
         ("exodus", 35, 15) => Some(Verse {
-            content: "",
+            content: "And the incense Altar, and his staues, and the anoynting oyle, and the sweet incense, and the hanging for the doore, at the entring in of the Tabernacle:",
         }),
 
         ("exodus", 35, 16) => Some(Verse {
-            content: "",
+            content: "The Altar of burnt offering with his brasen grate, his staues, and all his vessels, the Lauer and his foot:",
         }),
 
         ("exodus", 35, 17) => Some(Verse {
-            content: "",
+            content: "The hangings of the Court, his pillars, and their sockets, and the hanging for the doore of the Court:",
         }),
 
         ("exodus", 35, 18) => Some(Verse {
-            content: "",
+            content: "The pinnes of the Tabernacle, and the pinnes of the Court, and their coards:",
         }),
 
         ("exodus", 35, 19) => Some(Verse {
-            content: "",
+            content: "The cloathes of seruice, to doe seruice in the holy place, the holy garments for Aaron the Priest, and the garments of his sonnes to minister in the Priests office.",
         }),
 
         ("exodus", 35, 20) => Some(Verse {
-            content: "",
+            content: "And all the Congregation of the children of Israel departed from the presence of Moses.",
         }),
 
         ("exodus", 35, 21) => Some(Verse {
-            content: "",
+            content: "And they came euery one whose heart stirred him vp, and euery one whom his spirit made willing, and they brought the Lords offering to the worke of the Tabernacle of the Congregation, and for all his seruice, and for the holy garments.",
         }),
 
         ("exodus", 35, 22) => Some(Verse {
-            content: "",
+            content: "And they came both men and women, as many as were willing hearted, and brought bracelets, and earerings, and rings, & tablets, all iewels of gold: and euery man that offered, offered an offering of gold vnto the Lord.",
         }),
 
         ("exodus", 35, 23) => Some(Verse {
-            content: "",
+            content: "And euery man with whom was found blew, and purple, and scarlet, and fine linnen, and goates haire, and red skinnes of rammes, and badgers skinnes, brought them.",
         }),
 
         ("exodus", 35, 24) => Some(Verse {
-            content: "",
+            content: "Euery one that did offer an offering of siluer and brasse, brought the Lords offering: and euery man with whom was found Shittim wood for any worke of the seruice, brought it.",
         }),
 
         ("exodus", 35, 25) => Some(Verse {
-            content: "",
+            content: "And all the women that were wise hearted, did spin with their hands, and brought that which they had spun, both of blew, and of purple, and of scarlet, and of fine linnen.",
         }),
 
         ("exodus", 35, 26) => Some(Verse {
-            content: "",
+            content: "And all the women whose heart stirred them vp in wisedome, spunne goats haire.",
         }),
 
         ("exodus", 35, 27) => Some(Verse {
-            content: "",
+            content: "And the rulers brought Onix stones, and stones to be set for the Ephod, and for the brestplate:",
         }),
 
         ("exodus", 35, 28) => Some(Verse {
-            content: "",
+            content: "And spice, and oyle for the light, and for the anoynting oyle, and for the sweet incense.",
         }),
 
         ("exodus", 35, 29) => Some(Verse {
-            content: "",
+            content: "The children of Israel brought a willing offering vnto the Lord, euery man and woman, whose heart made them willing to bring for all maner of worke, which the Lord had commanded to be made by the hands of Moses.",
         }),
 
         ("exodus", 35, 30) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto the children of Israel, See, the Lord hath called by name Bezaleel the sonne of Uri, the sonne of Hur, of the tribe of Iudah.",
         }),
 
         ("exodus", 35, 31) => Some(Verse {
-            content: "",
+            content: "And he hath filled him with the Spirit of God, in wisedome, in vnderstanding, and in knowledge, and in all maner of workemanship:",
         }),
 
         ("exodus", 35, 32) => Some(Verse {
-            content: "",
+            content: "And to deuise curious workes, to worke in gold, & in siluer, and in brasse,",
         }),
 
         ("exodus", 35, 33) => Some(Verse {
-            content: "",
+            content: "And in the cutting of stones, to set them, and in caruing of wood, to make any maner of cunning worke.",
         }),
 
         ("exodus", 35, 34) => Some(Verse {
-            content: "",
+            content: "And he hath put in his heart that he may teach, both he and Aholiab the sonne of Ahisamach of the tribe of Dan.",
         }),
 
         ("exodus", 35, 35) => Some(Verse {
-            content: "",
+            content: "Them hath hee filled with wisedome of heart, to worke all manner of worke, of the ingrauer, and of the cunning workeman, and of the embroiderer, in blew, and in purple, in scarlet, and in fine linnen, and of the weauer, euen of them that doe any worke, and of those that deuise cunning worke.",
         }),
 
         ("exodus", 36, 1) => Some(Verse {
-            content: "",
+            content: "Then wrought Bezaleel and Aholiab, and euery wise hearted man, in whome the Lord put wisedome and vnderstanding, to know how to worke all maner of worke for the seruice of the Sanctuary, according to all that the Lord had commanded.",
         }),
 
         ("exodus", 36, 2) => Some(Verse {
-            content: "",
+            content: "And Moses called Bezaleel and Aholiab, and euery wise hearted man, in whose heart the Lord had put wisedome, euen euery one whose heart stirred him vp to come vnto the worke to doe it.",
         }),
 
         ("exodus", 36, 3) => Some(Verse {
-            content: "",
+            content: "And they receiued of Moses all the offering which the children of Israel had brought, for the worke of the seruice of the Sanctuarie, to make it withall. And they brought yet vnto him free offerings euery morning.",
         }),
 
         ("exodus", 36, 4) => Some(Verse {
-            content: "",
+            content: "And al the wisemen that wrought all the worke of the Sanctuary, came euery man from his worke which they made.",
         }),
 
         ("exodus", 36, 5) => Some(Verse {
-            content: "",
+            content: "And they spake vnto Moses, saying, The people bring much more then enough for the seruice of the worke which the Lord commaunded to make.",
         }),
 
         ("exodus", 36, 6) => Some(Verse {
-            content: "",
+            content: "And Moses gaue commandement, and they caused it to bee proclaimed throughout the campe, saying, Let neither man nor woman make any more worke for the offering of the Sanctuarie: so the people were restrained from bringing.",
         }),
 
         ("exodus", 36, 7) => Some(Verse {
-            content: "",
+            content: "For the stuffe they had was sufficient for all the worke to make it, and too much.",
         }),
 
         ("exodus", 36, 8) => Some(Verse {
-            content: "",
+            content: "And euery wise hearted man, among them that wrought the worke of the Tabernacle, made ten curtaines, of fine twined linnen, and blew, and purple, and scarlet: with Cherubims of cunning worke made he them.",
         }),
 
         ("exodus", 36, 9) => Some(Verse {
-            content: "",
+            content: "The length of one curtaine was twentie & eight cubites, and the breadth of one curtaine foure cubites: the curtaines were all of one cise.",
         }),
 
         ("exodus", 36, 10) => Some(Verse {
-            content: "",
+            content: "And he coupled the fiue curtaines one vnto another: and the other fiue curtaines he coupled one vnto another.",
         }),
 
         ("exodus", 36, 11) => Some(Verse {
-            content: "",
+            content: "And he made loopes of blew, on the edge of one curtaine, from the seluedge in the coupling: likewise hee made in the vttermost side of another curtaine, in the coupling of the second.",
         }),
 
         ("exodus", 36, 12) => Some(Verse {
-            content: "",
+            content: "Fiftie loopes made he in one curtaine, and fiftie loopes made hee in the edge of the curtaine which was in the coupling of the second: the loopes held one curtaine to another.",
         }),
 
         ("exodus", 36, 13) => Some(Verse {
-            content: "",
+            content: "And he made fiftie taches of gold, and coupled the curtaines one vnto another with the taches. So it became one tabernacle.",
         }),
 
         ("exodus", 36, 14) => Some(Verse {
-            content: "",
+            content: "And he made curtaines of goats haire, for the tent ouer the Tabernacle: eleuen curtaines he made them.",
         }),
 
         ("exodus", 36, 15) => Some(Verse {
-            content: "",
+            content: "The length of one curtaine was thirtie cubites, and foure cubites was the breadth of one curtaine: the eleuen curtaines were of one cise.",
         }),
 
         ("exodus", 36, 16) => Some(Verse {
-            content: "",
+            content: "And he coupled fiue curtaines by themselues, and sixe curtaines by themselues.",
         }),
 
         ("exodus", 36, 17) => Some(Verse {
-            content: "",
+            content: "And he made fiftie loopes vpon the vttermost edge of the curtaine in the coupling, and fiftie loopes made he vpon the edge of the curtaine, which coupleth the second.",
         }),
 
         ("exodus", 36, 18) => Some(Verse {
-            content: "",
+            content: "And he made fiftie taches of brasse to couple the tent together that it might be one.",
         }),
 
         ("exodus", 36, 19) => Some(Verse {
-            content: "",
+            content: "And he made a couering for the tent of rammes skinnes died red, and a couering of badgers skinnes aboue that.",
         }),
 
         ("exodus", 36, 20) => Some(Verse {
-            content: "",
+            content: "And hee made boards for the Tabernacle of Shittim wood, standing up.",
         }),
 
         ("exodus", 36, 21) => Some(Verse {
-            content: "",
+            content: "The length of a board was ten cubites, and the breadth of a board one cubite and a halfe.",
         }),
 
         ("exodus", 36, 22) => Some(Verse {
-            content: "",
+            content: "One board had two tenons, equally distant one from another: thus did he make for all the boards of the tabernacle.",
         }),
 
         ("exodus", 36, 23) => Some(Verse {
-            content: "",
+            content: "And he made boards for the Tabernacle: twentie boards for the South side, Southward.",
         }),
 
         ("exodus", 36, 24) => Some(Verse {
-            content: "",
+            content: "And fourtie sockets of siluer hee made vnder the twentie boards: two sockets vnder one board for his two tenons, and two sockets vnder another board, for his two tenons.",
         }),
 
         ("exodus", 36, 25) => Some(Verse {
-            content: "",
+            content: "And for the other side of the Tabernacle which is toward the North corner, he made twentie boards.",
         }),
 
         ("exodus", 36, 26) => Some(Verse {
-            content: "",
+            content: "And their fourtie sockets of siluer: two sockets vnder one board, and two sockets vnder another board.",
         }),
 
         ("exodus", 36, 27) => Some(Verse {
-            content: "",
+            content: "And for the sides of the Tabernacle westward, he made sixe boards.",
         }),
 
         ("exodus", 36, 28) => Some(Verse {
-            content: "",
+            content: "And two boards made he for the corners of the Tabernacle, in the two sides.",
         }),
 
         ("exodus", 36, 29) => Some(Verse {
-            content: "",
+            content: "And they were coupled beneath and coupled together at the head thereof, to one ring: thus hee did to both of them in both the corners.",
         }),
 
         ("exodus", 36, 30) => Some(Verse {
-            content: "",
+            content: "And there were eight boards, and their sockets were sixteene sockets of siluer: vnder euery board two sockets.",
         }),
 
         ("exodus", 36, 31) => Some(Verse {
-            content: "",
+            content: "And he made barres of Shittim wood: five for the boards of the one side of the Tabernacle,",
         }),
 
         ("exodus", 36, 32) => Some(Verse {
-            content: "",
+            content: "And fiue barres for the boards of the other side of the Tabernacle, and fiue barres for the boards of the Tabernacle for the sides westward.",
         }),
 
         ("exodus", 36, 33) => Some(Verse {
-            content: "",
+            content: "And he made the middle barre to shoot thorow the boards from the one end to the other.",
         }),
 
         ("exodus", 36, 34) => Some(Verse {
-            content: "",
+            content: "And he ouerlaid the boards with gold, and made their rings of golde to be places for the barres, and ouerlaide the barres with gold.",
         }),
 
         ("exodus", 36, 35) => Some(Verse {
-            content: "",
+            content: "And he made a Uaile of blew, and purple, and scarlet, and fine twined linnen: with Cherubims made he it of cunning worke.",
         }),
 
         ("exodus", 36, 36) => Some(Verse {
-            content: "",
+            content: "And he made thereunto foure pillars of Shittim wood, and ouerlaide them with golde: their hookes were of gold: and he cast for them foure sockets of siluer.",
         }),
 
         ("exodus", 36, 37) => Some(Verse {
-            content: "",
+            content: "And hee made an hanging for the Tabernacle doore of blew and purple, and scarlet, and fine twined linnen, of needle worke,",
         }),
 
         ("exodus", 36, 38) => Some(Verse {
-            content: "",
+            content: "And the fiue pillars of it with their hooks: and he ouerlaid their chapiters and their fillets with gold: but their fiue sockets were of brasse.",
         }),
 
         ("exodus", 37, 1) => Some(Verse {
-            content: "",
+            content: "And Bezaleel made the Arke of Shittim wood: two cubites and a halfe was the length of it, and a cubite and a halfe the breadth of it, and a cubite and a halfe the height of it.",
         }),
 
         ("exodus", 37, 2) => Some(Verse {
-            content: "",
+            content: "And he ouerlaid it with pure gold within & without, and made a crowne of gold to it round about.",
         }),
 
         ("exodus", 37, 3) => Some(Verse {
-            content: "",
+            content: "And hee cast for it foure rings of gold, to be set by the foure corners of it: euen two rings vpon the one side of it, and two rings vpon the other side of it.",
         }),
 
         ("exodus", 37, 4) => Some(Verse {
-            content: "",
+            content: "And he made staues of Shittim wood, and ouerlaid them with gold.",
         }),
 
         ("exodus", 37, 5) => Some(Verse {
-            content: "",
+            content: "And hee put the staues into the rings, by the sides of the Arke, to beare the Arke.",
         }),
 
         ("exodus", 37, 6) => Some(Verse {
-            content: "",
+            content: "And he made the Mercie seat of pure gold: two cubites and an halfe was the length thereof, and one cubite and an halfe the breadth thereof.",
         }),
 
         ("exodus", 37, 7) => Some(Verse {
-            content: "",
+            content: "And he made two Cherubims of gold, beaten out of one piece made hee them, on the two endes of the Mercie seate:",
         }),
 
         ("exodus", 37, 8) => Some(Verse {
-            content: "",
+            content: "One Cherub on the end on this side, and another Cherub on the other end, on that side: out of the Mercie seat made hee the Cherubims on the two ends thereof.",
         }),
 
         ("exodus", 37, 9) => Some(Verse {
-            content: "",
+            content: "And the Cherubims spread out their wings on high, and couered with their wings ouer the Mercie seat with their faces one to another: euen to the Mercie seat ward were the faces of the Cherubims.",
         }),
 
         ("exodus", 37, 10) => Some(Verse {
-            content: "",
+            content: "And hee made the Table of Shittim wood: two cubites was the length thereof, and a cubite the breadth thereof, and a cubite and a halfe the height thereof.",
         }),
 
         ("exodus", 37, 11) => Some(Verse {
-            content: "",
+            content: "And he ouerlaid it with pure gold, and made thereunto a crowne of gold round about.",
         }),
 
         ("exodus", 37, 12) => Some(Verse {
-            content: "",
+            content: "Also he made thereunto a border of an handbreadth, round about: and made a crowne of gold for the border thereof round about.",
         }),
 
         ("exodus", 37, 13) => Some(Verse {
-            content: "",
+            content: "And hee cast for it foure rings of gold, and put the rings vpon the foure corners that were in the foure feete thereof.",
         }),
 
         ("exodus", 37, 14) => Some(Verse {
-            content: "",
+            content: "Ouer against the border were the rings, the places for the staues, to beare the Table.",
         }),
 
         ("exodus", 37, 15) => Some(Verse {
-            content: "",
+            content: "And he made the staues of Shittim wood, and ouerlayed them with gold, to beare the Table.",
         }),
 
         ("exodus", 37, 16) => Some(Verse {
-            content: "",
+            content: "And hee made the vessels which were vpon the Table, his dishes, and his spoones, and his bowles, and his couers to couer withall, of pure gold.",
         }),
 
         ("exodus", 37, 17) => Some(Verse {
-            content: "",
+            content: "And he made the Candlesticke of pure gold, of beaten worke made he the Candlesticke, his shaft & his branch, his bowles, his knops, and his flowers were of the same.",
         }),
 
         ("exodus", 37, 18) => Some(Verse {
-            content: "",
+            content: "And sixe branches going out of the sides thereof: three branches of the candlesticke out of the one side thereof, and three branches of the candlesticke out of the other side thereof.",
         }),
 
         ("exodus", 37, 19) => Some(Verse {
-            content: "",
+            content: "Three bowles made he after the fashion of almonds, in one branch, a knop and a flower: and three bowles made like almonds, in another branch, a knop and a flower: so throughout the sixe branches, going out of the Candlesticke.",
         }),
 
         ("exodus", 37, 20) => Some(Verse {
-            content: "",
+            content: "And in the candlesticke were foure bowles made like almonds, his knops, and his flowers:",
         }),
 
         ("exodus", 37, 21) => Some(Verse {
-            content: "",
+            content: "And a knop vnder two branches of the same, & a knop vnder two branches of the same, and a knop vnder two branches of the same, according to the sixe branches going out of it.",
         }),
 
         ("exodus", 37, 22) => Some(Verse {
-            content: "",
+            content: "Their knops and their branches were of the same: all of it was one beaten worke of pure gold.",
         }),
 
         ("exodus", 37, 23) => Some(Verse {
-            content: "",
+            content: "And he made his seuen lampes, and his snuffers, and his snuffe-dishes of pure gold.",
         }),
 
         ("exodus", 37, 24) => Some(Verse {
-            content: "",
+            content: "Of a talent of pure gold made he it, and all the vessels thereof.",
         }),
 
         ("exodus", 37, 25) => Some(Verse {
-            content: "",
+            content: "And he made the incense Altar of Shittim wood: the length of it was a cubit, and the breadth of it a cubit: it was foure square, and two cubites was the height of it; the hornes thereof were of the same.",
         }),
 
         ("exodus", 37, 26) => Some(Verse {
-            content: "",
+            content: "And he ouerlayed it with pure gold, both the top of it and the sides thereof round about, and the hornes of it: also he made vnto it a crowne of gold round about.",
         }),
 
         ("exodus", 37, 27) => Some(Verse {
-            content: "",
+            content: "And he made two rings of gold for it vnder the crowne thereof, by the two corners of it, vpon the two sides thereof, to bee places for the staues to beare it withall.",
         }),
 
         ("exodus", 37, 28) => Some(Verse {
-            content: "",
+            content: "And he made the staues of Shittim wood, and ouerlayed them with gold.",
         }),
 
         ("exodus", 37, 29) => Some(Verse {
-            content: "",
+            content: "And he made the holy anoynting oyle, and the pure incense of sweet spices, according to the worke of the Apothecary.",
         }),
 
         ("exodus", 38, 1) => Some(Verse {
-            content: "",
+            content: "And he made the Altar of burnt offring of Shittim wood: fiue cubits was the length thereof, and fiue cubits the breadth thereof: it was foure square, and three cubits the height thereof.",
         }),
 
         ("exodus", 38, 2) => Some(Verse {
-            content: "",
+            content: "And hee made the hornes thereof on the foure corners of it: the hornes thereof were of the same, and he ouerlayed it with brasse.",
         }),
 
         ("exodus", 38, 3) => Some(Verse {
-            content: "",
+            content: "And he made all the vessels of the Altar, the pots and the shouels, and the basons, and the fleshhookes, and the firepannes: all the vessels thereof made he of brasse.",
         }),
 
         ("exodus", 38, 4) => Some(Verse {
-            content: "",
+            content: "And he made for the Altar a brasen grate of networke, vnder the compasse thereof, beneath vnto the midst of it.",
         }),
 
         ("exodus", 38, 5) => Some(Verse {
-            content: "",
+            content: "And hee cast foure rings for the foure ends of the grate of brasse, to bee places for the staues.",
         }),
 
         ("exodus", 38, 6) => Some(Verse {
-            content: "",
+            content: "And he made the staues of Shittim wood, and ouerlayed them with brasse.",
         }),
 
         ("exodus", 38, 7) => Some(Verse {
-            content: "",
+            content: "And hee put the staues into the rings on the sides of the Altar, to beare it withall; hee made the Altar hollow with boards.",
         }),
 
         ("exodus", 38, 8) => Some(Verse {
-            content: "",
+            content: "And hee made the Lauer of brasse, and the foot of it of brasse, of the looking glasses of the women assembling, which assembled at the doore of the Tabernacle of the Congregation.",
         }),
 
         ("exodus", 38, 9) => Some(Verse {
-            content: "",
+            content: "And he made the Court: on the Southside Southward, the hangings of the Court were of fine twined linnen, a hundred cubits.",
         }),
 
         ("exodus", 38, 10) => Some(Verse {
-            content: "",
+            content: "Their pillars were twenty, and their brasen sockets twentie: the hooks of the pillars, and their fillets were of siluer.",
         }),
 
         ("exodus", 38, 11) => Some(Verse {
-            content: "",
+            content: "And for the North side, the hangings were an hundred cubites, their pillars were twentie, and their sockets of brasse twentie: the hoopes of the pillars, and their fillets of siluer.",
         }),
 
         ("exodus", 38, 12) => Some(Verse {
-            content: "",
+            content: "And for the West side were hangings of fiftie cubites, their pillars ten, and their sockets ten: the hookes of the pillars, and their fillets of siluer.",
         }),
 
         ("exodus", 38, 13) => Some(Verse {
-            content: "",
+            content: "And for the East side Eastward fiftie cubites.",
         }),
 
         ("exodus", 38, 14) => Some(Verse {
-            content: "",
+            content: "The hangings of the one side of the gate were fifteene cubites, their pillars three, and their sockets three.",
         }),
 
         ("exodus", 38, 15) => Some(Verse {
-            content: "",
+            content: "And for the other side of the court gate on this hand and that hand were hangings of fifteene cubites, their pillars three, and their sockets three.",
         }),
 
         ("exodus", 38, 16) => Some(Verse {
-            content: "",
+            content: "All the hangings of the court round about, were of fine twined linnen.",
         }),
 
         ("exodus", 38, 17) => Some(Verse {
-            content: "",
+            content: "And the sockets for the pillars were of brasse, the hookes of the pillars, and their fillets of siluer, and the ouerlaying of their chapiters of siluer, and all the pillars of the court were filleted with siluer.",
         }),
 
         ("exodus", 38, 18) => Some(Verse {
-            content: "",
+            content: "And the hanging for the gate of the Court was needle worke, of blew, and purple, and scarlet, and fine twined linnen: and twentie cubites was the length, and the height in the breadth was fiue cubites, answerable to the hangings of the Court.",
         }),
 
         ("exodus", 38, 19) => Some(Verse {
-            content: "",
+            content: "And their pillars were foure, and their sockets of brasse foure, their hookes of siluer, and the ouerlaying of their chapiters, & their fillets of siluer.",
         }),
 
         ("exodus", 38, 20) => Some(Verse {
-            content: "",
+            content: "And all the pinnes of the Tabernacle, and of the court round about, were of brasse.",
         }),
 
         ("exodus", 38, 21) => Some(Verse {
-            content: "",
+            content: "This is the summe of the Tabernacle, euen of the Tabernacle of Testimonie, as it was counted, according to the commaundement of Moses, for the seruice of the Leuites, by the hand of Ithamar, son to Aaron the Priest.",
         }),
 
         ("exodus", 38, 22) => Some(Verse {
-            content: "",
+            content: "And Bezaleel the sonne of Uri, the sonne of Hur, of the tribe of Iudah, made all that the Lord commanded Moses.",
         }),
 
         ("exodus", 38, 23) => Some(Verse {
-            content: "",
+            content: "And with him was Aholiab, sonne of Ahisamach, of the tribe of Dan, an engrauer, and a cunning workeman, and an embroiderer in blew, and in purple, and in scarlet, and fine linnen.",
         }),
 
         ("exodus", 38, 24) => Some(Verse {
-            content: "",
+            content: "All the gold that was occupied for the worke in all the worke of the holy place, euen the gold of the offring, was twentie and nine talents, and seuen hundred and thirtie shekels, after the shekel of the Sanctuary.",
         }),
 
         ("exodus", 38, 25) => Some(Verse {
-            content: "",
+            content: "And the siluer of them that were numbred of the Congregation, was an hundred talents, and a thousand, seuen hundred and threescore and fifteene shekels, after the shekel of the Sanctuary.",
         }),
 
         ("exodus", 38, 26) => Some(Verse {
-            content: "",
+            content: "A Bekah for euery man, that is, halfe a shekel, after the shekel of the Sanctuary, for euery one that went to be numbred, from twentie yeeres olde and vpward, for sixe hundred thousand, and three thousand, and fiue hundred, and fiftie men.",
         }),
 
         ("exodus", 38, 27) => Some(Verse {
-            content: "",
+            content: "And of the hundred talents of siluer, were cast the sockets of the Sanctuary, and the sockets of the vaile: an hundred sockets of the hundred talents, a talent for a socket.",
         }),
 
         ("exodus", 38, 28) => Some(Verse {
-            content: "",
+            content: "And of the thousand, seuen hundred, seuentie and fiue shekels, he made hookes for the pillars, and ouerlaide their chapiters, and filleted them.",
         }),
 
         ("exodus", 38, 29) => Some(Verse {
-            content: "",
+            content: "And the brasse of the offring was seuentie talents, and two thousand and foure hundred shekels.",
         }),
 
         ("exodus", 38, 30) => Some(Verse {
-            content: "",
+            content: "And therewith he made the sockets to the doore of the Tabernacle of the Congregation, and the brasen Altar, and the brasen grate for it, and all the vessels of the Altar,",
         }),
 
         ("exodus", 38, 31) => Some(Verse {
-            content: "",
+            content: "And the sockets of the court round about, and the sockets of the court gate, and all the pinnes of the Tabernacle, and all the pinnes of the court round about.",
         }),
 
         ("exodus", 39, 1) => Some(Verse {
-            content: "",
+            content: "And of the blew, and purple, and scarlet, they made clothes of seruice, to doe seruice in the holy place, and made the holy garments for Aaron, as the Lord commanded Moses.",
         }),
 
         ("exodus", 39, 2) => Some(Verse {
-            content: "",
+            content: "And he made the Ephod of gold, blew, and purple, and scarlet, and fine twined linnen.",
         }),
 
         ("exodus", 39, 3) => Some(Verse {
-            content: "",
+            content: "And they did beate the golde into thinne plates, and cut it into wiers, to worke it in the blew, and in the purple, and in the scarlet, and in the fine linnen, with cunning worke.",
         }),
 
         ("exodus", 39, 4) => Some(Verse {
-            content: "",
+            content: "They made shoulder pieces for it, to couple it together; by the two edges was it coupled together.",
         }),
 
         ("exodus", 39, 5) => Some(Verse {
-            content: "",
+            content: "And the curious girdle of his Ephod that was vpon it, was of the same, according to the worke thereof: of gold, blew, and purple, and scarlet, and fine twined linnen, as the Lord commanded Moses.",
         }),
 
         ("exodus", 39, 6) => Some(Verse {
-            content: "",
+            content: "And they wrought Onix stones enclosed in ouches of gold, grauen as signets are grauen, with the names of the children of Israel.",
         }),
 
         ("exodus", 39, 7) => Some(Verse {
-            content: "",
+            content: "And hee put them on the shoulders of the Ephod, that they should be stones for a memoriall to the children of Israel, as the Lord commanded Moses.",
         }),
 
         ("exodus", 39, 8) => Some(Verse {
-            content: "",
+            content: " And he made the brestplate of cunning worke, like the worke of the Ephod, of gold, blew, and purple, and scarlet, and fine twined linnen.",
         }),
 
         ("exodus", 39, 9) => Some(Verse {
-            content: "",
+            content: "It was foure square, they made the brestplate double: a spanne was the length therof, and a spanne the breadth thereof being doubled.",
         }),
 
         ("exodus", 39, 10) => Some(Verse {
-            content: "",
+            content: "And they set in it foure rowes of stones: the first row was a Sardius, a Topaz, and a Carbuncle: this was the first row.",
         }),
 
         ("exodus", 39, 11) => Some(Verse {
-            content: "",
+            content: "And the second row an Emeraude, a Saphire and a Diamond.",
         }),
 
         ("exodus", 39, 12) => Some(Verse {
-            content: "",
+            content: "And the third row a Lygure, an Agate, and an Amethist.",
         }),
 
         ("exodus", 39, 13) => Some(Verse {
-            content: "",
+            content: "And the fourth row, a Berill, an Onix and a Iasper: they were enclosed in ouches of gold in their inclosings.",
         }),
 
         ("exodus", 39, 14) => Some(Verse {
-            content: "",
+            content: "And the stones were according to the names of the children of Israel, twelue according to their names, like the ingrauings of a signet, euery one with his name, according to the twelue tribes.",
         }),
 
         ("exodus", 39, 15) => Some(Verse {
-            content: "",
+            content: "And they made vpon the brestplate chaines, at the ends, of wrethen worke of pure gold.",
         }),
 
         ("exodus", 39, 16) => Some(Verse {
-            content: "",
+            content: "And they made two ouches of gold, and two gold rings: and put the two rings in the two ends of the brestplate.",
         }),
 
         ("exodus", 39, 17) => Some(Verse {
-            content: "",
+            content: "And they put the two wreathen chaines of golde in the two rings on the ends of the brestplate.",
         }),
 
         ("exodus", 39, 18) => Some(Verse {
-            content: "",
+            content: "And the two endes of the two wreathen chaines they fastened in the two ouches, and put them on the shoulder pieces of the Ephod, before it.",
         }),
 
         ("exodus", 39, 19) => Some(Verse {
-            content: "",
+            content: "And they made two rings of gold, and put them on the two endes of the brest plate vpon the border of it, which was on the side of the Ephod inward.",
         }),
 
         ("exodus", 39, 20) => Some(Verse {
-            content: "",
+            content: "And they made two other golden rings, and put them on the two sides of the Ephod vnderneath, toward the forepart of it, ouer against the other coupling thereof, aboue the curious girdle of the Ephod.",
         }),
 
         ("exodus", 39, 21) => Some(Verse {
-            content: "",
+            content: "And they did bind the brest plate by his rings vnto the rings of the Ephod, with a lace of blew, that it might be aboue the curious girdle of the Ephod, and that the brest plate might not bee loosed from the Ephod, as the Lord commanded Moses.",
         }),
 
         ("exodus", 39, 22) => Some(Verse {
-            content: "",
+            content: "And he made the robe of the Ephod of wouen worke, all of blew.",
         }),
 
         ("exodus", 39, 23) => Some(Verse {
-            content: "",
+            content: "And there was a hole in the midst of the robe as the hole of an habergeon, with a band round about the hole, that it should not rent.",
         }),
 
         ("exodus", 39, 24) => Some(Verse {
-            content: "",
+            content: "And they made vpon the hemmes of the robe pomegranates, of blew, and purple, and scarlet, and twined linnen.",
         }),
 
         ("exodus", 39, 25) => Some(Verse {
-            content: "",
+            content: "And they made belles of pure gold, and put the belles betweene the pomegranates, vpon the hemme of the robe, round about betweene the pomegranates.",
         }),
 
         ("exodus", 39, 26) => Some(Verse {
-            content: "",
+            content: "A bell and a pomegranate, a bell and a pomegranate round about the hemme of the robe to minister in, as the Lord commanded Moses.",
         }),
 
         ("exodus", 39, 27) => Some(Verse {
-            content: "",
+            content: "And they made coats of fine linnen, of wouen worke, for Aaron and for his sonnes.",
         }),
 
         ("exodus", 39, 28) => Some(Verse {
-            content: "",
+            content: "And a miter of fine linnen, and goodly bonnets of fine linnen, and linnen breeches of fine twined linnen,",
         }),
 
         ("exodus", 39, 29) => Some(Verse {
-            content: "",
+            content: "And a girdle of fine twined linnen and blew, and purple, and scarlet of needle worke, as the Lord commanded Moses.",
         }),
 
         ("exodus", 39, 30) => Some(Verse {
-            content: "",
+            content: "And they made the plate of the holy Crowne of pure gold, and wrote vpon it a writing, like to the engrauings of a signet, HOLINES TO THE LORD.",
         }),
 
         ("exodus", 39, 31) => Some(Verse {
-            content: "",
+            content: "And they tied vnto it a lace of blew to fasten it on high vpon the mitre, as the Lord commanded Moses.",
         }),
 
         ("exodus", 39, 32) => Some(Verse {
-            content: "",
+            content: "Thus was all the worke of the Tabernacle of the tent of the Congregation finished: and the children of Israel did according to al that the Lord commanded Moses, so did they.",
         }),
 
         ("exodus", 39, 33) => Some(Verse {
-            content: "",
+            content: "And they brought the Tabernacle vnto Moses, the tent, and all his furniture, his taches, his boards, his barres, and his pillars, and his sockets.",
         }),
 
         ("exodus", 39, 34) => Some(Verse {
-            content: "",
+            content: "And the couering of rammes skinnes died red, and the couering of badgers skinnes, and the vaile of the couering:",
         }),
 
         ("exodus", 39, 35) => Some(Verse {
-            content: "",
+            content: "The Arke of the Testimony, and the staues thereof, and the Mercie seat,",
         }),
 
         ("exodus", 39, 36) => Some(Verse {
-            content: "",
+            content: "The Table, and all the vessels thereof, and the Shew bread:",
         }),
 
         ("exodus", 39, 37) => Some(Verse {
-            content: "",
+            content: "The pure Candlesticke, with the lampes thereof, euen with the lampes to be set in order, and all the vessels thereof, and the oyle for light:",
         }),
 
         ("exodus", 39, 38) => Some(Verse {
-            content: "",
+            content: "And the golden altar, and the anointing oyle, and the sweet incense, and the hanging for the Tabernacle doore:",
         }),
 
         ("exodus", 39, 39) => Some(Verse {
-            content: "",
+            content: "The brasen altar, and his grate of brasse, his staues, and all his vessels, the lauer and his foote:",
         }),
 
         ("exodus", 39, 40) => Some(Verse {
-            content: "",
+            content: "The hangings of the Court, his pillars, and his sockets, and the hanging for the court gate, his coards, and his pinnes, and all the vessels of the seruice of the Tabernacle, for the tent of the Congregation:",
         }),
 
         ("exodus", 39, 41) => Some(Verse {
-            content: "",
+            content: "The clothes of seruice to doe seruice in the holy place, and the holy garments for Aaron the Priest, and his sonnes garments to minister in the Priests office.",
         }),
 
         ("exodus", 39, 42) => Some(Verse {
-            content: "",
+            content: "According to all that the Lord commanded Moses, so the children of Israel made all the worke.",
         }),
 
         ("exodus", 39, 43) => Some(Verse {
-            content: "",
+            content: "And Moses did looke vpon all the worke, and behold, they had done it as the Lord had commanded, euen so had they done it: and Moses blessed them.",
         }),
 
         ("exodus", 40, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("exodus", 40, 2) => Some(Verse {
-            content: "",
+            content: "On the first day of the first moneth shalt thou set vp the Tabernacle of the Tent of the Congregation.",
         }),
 
         ("exodus", 40, 3) => Some(Verse {
-            content: "",
+            content: "And thou shalt put therein the Arke of the Testimonie, and couer the Arke with the Uaile:",
         }),
 
         ("exodus", 40, 4) => Some(Verse {
-            content: "",
+            content: "And thou shalt bring in the Table, and set in order the things that are to be set in order vpon it, and thou shalt bring in the Candlesticke, and light the lampes thereof.",
         }),
 
         ("exodus", 40, 5) => Some(Verse {
-            content: "",
+            content: "And thou shalt set the Altar of gold for the incense before the Arke of the Testimonie, and put the hanging of the doore to the Tabernacle.",
         }),
 
         ("exodus", 40, 6) => Some(Verse {
-            content: "",
+            content: "And thou shalt set the Altar of the burnt offering, before the doore of the Tabernacle of the Tent of the Congregation.",
         }),
 
         ("exodus", 40, 7) => Some(Verse {
-            content: "",
+            content: "And thou shalt set the Lauer betweene the Tent of the Congregation and the Altar, and shalt put water therein.",
         }),
 
         ("exodus", 40, 8) => Some(Verse {
-            content: "",
+            content: "And thou shalt set vp the Court round about, and hang vp the hanging at the Court gate.",
         }),
 
         ("exodus", 40, 9) => Some(Verse {
-            content: "",
+            content: "And thou shalt take the annoynting oyle, and annoynt the Tabernacle and all that is therein, and shalt hallow it, and all the vessels thereof: and it shalbe holy.",
         }),
 
         ("exodus", 40, 10) => Some(Verse {
-            content: "",
+            content: "Aud thou shalt annoynt the Altar of the burnt offering, and all his vessels, and sanctifie the Altar: and it shalbe an Altar most Holy.",
         }),
 
         ("exodus", 40, 11) => Some(Verse {
-            content: "",
+            content: "And thou shalt annoynt the Lauer and his foot, and sanctifie it.",
         }),
 
         ("exodus", 40, 12) => Some(Verse {
-            content: "",
+            content: "And thou shalt bring Aaron and his sonnes vnto the doore of the Tabernacle of the Congregation, and wash them with water.",
         }),
 
         ("exodus", 40, 13) => Some(Verse {
-            content: "",
+            content: "And thou shalt put vpon Aaron the holy garments, and anoynt him, and sanctifie him, that he may minister vnto me in the Priests office.",
         }),
 
         ("exodus", 40, 14) => Some(Verse {
-            content: "",
+            content: "And thou shalt bring his sonnes, and clothe them with coats.",
         }),
 
         ("exodus", 40, 15) => Some(Verse {
-            content: "",
+            content: "And thou shalt anoynt them, as thou didst anoynt their father, that they may minister vnto mee in the Priests office: For their anoynting shall surely be an euerlasting Priesthood, throughout their generations.",
         }),
 
         ("exodus", 40, 16) => Some(Verse {
-            content: "",
+            content: "Thus did Moses: according to all that the Lord commanded him, so did he.",
         }),
 
         ("exodus", 40, 17) => Some(Verse {
-            content: "",
+            content: "And it came to passe in the first moneth, in the second yeere, on the first day of the moneth, that the Tabernacle was reared vp.",
         }),
 
         ("exodus", 40, 18) => Some(Verse {
-            content: "",
+            content: "And Moses reared vp the Tabernacle, and fastened his sockets, and set vp the boards thereof, and put in the barres thereof, and reared vp his pillars.",
         }),
 
         ("exodus", 40, 19) => Some(Verse {
-            content: "",
+            content: "And he spread abroad the tent ouer the Tabernacle, and put the couering of the Tent aboue vpon it, as the Lord commanded Moses.",
         }),
 
         ("exodus", 40, 20) => Some(Verse {
-            content: "",
+            content: "And he tooke and put the testimony into the Arke, and set the staues on the Arke, and put the Mercie-seat aboue vpon the Arke.",
         }),
 
         ("exodus", 40, 21) => Some(Verse {
-            content: "",
+            content: "And he brought the Arke into the Tabernacle, and set vp the Uaile of the couering, and couered the Arke of the Testimony, as the Lord commanded Moses.",
         }),
 
         ("exodus", 40, 22) => Some(Verse {
-            content: "",
+            content: "And hee put the Table in the Tent of the Congregation, vpon the side of the Tabernacle Northwaed, without the Uaile.",
         }),
 
         ("exodus", 40, 23) => Some(Verse {
-            content: "",
+            content: "And he set the bread in order vpon it, before the Lord, as the Lord had commanded Moses.",
         }),
 
         ("exodus", 40, 24) => Some(Verse {
-            content: "",
+            content: "And he put the candlesticke in the Tent of the Congregation, ouer against the Table, on the side of the Tabernacle Southward.",
         }),
 
         ("exodus", 40, 25) => Some(Verse {
-            content: "",
+            content: "And he lighted the lampes before the Lord, as the Lord commanded Moses.",
         }),
 
         ("exodus", 40, 26) => Some(Verse {
-            content: "",
+            content: "And he put the golden Altar in the Tent of the Congregation, before the Uaile.",
         }),
 
         ("exodus", 40, 27) => Some(Verse {
-            content: "",
+            content: "And he burnt sweet incense thereon, as the Lord commanded Moses.",
         }),
 
         ("exodus", 40, 28) => Some(Verse {
-            content: "",
+            content: "And hee set vp the hanging, at the doore of the Tabernacle.",
         }),
 
         ("exodus", 40, 29) => Some(Verse {
-            content: "",
+            content: "And he put the Altar of burnt offering by the doore of the Tabernacle of the Tent of the Congregation, and offered vpon it the burnt offering, and the meat offring, as the Lord commanded Moses.",
         }),
 
         ("exodus", 40, 30) => Some(Verse {
-            content: "",
+            content: "And he set the Lauer betweene the Tent of the Congregation and the Altar, & put water there, to wash withall.",
         }),
 
         ("exodus", 40, 31) => Some(Verse {
-            content: "",
+            content: "And Moses, and Aaron and his sonnes, washed their hands, and their feet thereat.",
         }),
 
         ("exodus", 40, 32) => Some(Verse {
-            content: "",
+            content: "When they went into the Tent of the Congregation, and when they came neere vnto the Altar, they washed, as the Lord commanded Moses.",
         }),
 
         ("exodus", 40, 33) => Some(Verse {
-            content: "",
+            content: "And hee reared vp the Court round about the Tabernacle, and the Altar, & set vp the hanging of the Court gate: so Moses finished the worke.",
         }),
 
         ("exodus", 40, 34) => Some(Verse {
-            content: "",
+            content: "Then a cloud couered the Tent of the Congregation, and the glory of the Lord filled the Tabernacle.",
         }),
 
         ("exodus", 40, 35) => Some(Verse {
-            content: "",
+            content: "And Moses was not able to enter into the Tent of the Congregation, because the cloud abode thereon, and the glory of the Lord filled the Tabernacle.",
         }),
 
         ("exodus", 40, 36) => Some(Verse {
-            content: "",
+            content: "And when the cloud was taken vp from ouer the Tabernacle, the children of Israel went onward in all their iourneys:",
         }),
 
         ("exodus", 40, 37) => Some(Verse {
-            content: "",
+            content: "But if the cloud were not taken vp, then they iourneyed not, till the day that it was taken vp.",
         }),
 
         ("exodus", 40, 38) => Some(Verse {
-            content: "",
+            content: "For the cloud of the Lord was vpon the Tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their iourneys.",
         }),
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        //Jesus loves you
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-  
         _ => None,
-    
     }
 }
-
