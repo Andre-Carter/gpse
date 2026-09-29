@@ -1,15 +1,20 @@
 use gpse::cli::commands::cli_commands;
 use gpse::date_time::time::physical_time;
-//use gpse::mathematical::carter_family::carter_formula_repeat;
-//use gpse::mathematical::dimensional::dimensional::_dimensions;
+use gpse::mathematical::carter_family::carter_formula_repeat;
 use gpse::science::astrological::celestial::{EARTH, MOON};
 use gpse::science::physical::equations::gravitational_force;
 
-fn main() {
-    println!("WELCOME TO GPSE!");
-    println!("[DATE/TIME]");
+use std::io::{Write, stdin, stdout};
 
-    //carter_formula_repeat();
+fn read(input: &mut String) {
+    stdout().flush().expect("failed to flush");
+    stdin().read_line(input).expect("failed to read");
+}
+
+fn main() {
+    carter_formula_repeat();
+
+    println!();
 
     println!(
         "{}",
@@ -18,9 +23,36 @@ fn main() {
 
     println!("{}", physical_time(EARTH.velocity_m));
 
-    println!("Type \"help\" for commands.");
-    cli_commands();
+    println!();
 
-    //let g_force = gravitational_force(EARTH.mass_kg, MOON.mass_kg, 384_400_000.0);
-    //println!("{g_force}");
+    //MAIN SYSTEMS
+    loop {
+        println!("GENERAL PURPOSE SIMULATION ENGINE");
+        println!("[ DATE / TIME ]");
+        println!("Type \"help\" for commands.");
+        println!();
+        let mut command: String = String::new();
+
+        print!("> ");
+
+        read(&mut command);
+
+        let command = command.trim().to_lowercase();
+
+        match command.as_str() {
+            "cli" => {
+                cli_commands();
+            }
+
+            "exit" => {
+                println!("exiting gpse ...");
+                break;
+            }
+
+            _ => {
+                println!("unknown command.");
+                return;
+            }
+        }
+    }
 }

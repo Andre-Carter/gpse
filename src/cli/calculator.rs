@@ -1,22 +1,31 @@
+//IMPORT STANDARD LIBRARY
 use std::io::{Write, stdin, stdout};
-
+//READ CLI
 fn read(input: &mut String) {
+    //
     stdout().flush().expect("failed to flush");
+    //
     stdin().read_line(input).expect("failed to read");
 }
-
+//
 pub fn cli_calc() {
+    //
     println!("* GPSE CLI Calculator *");
-
+    //
+    println!("-------------------------------------------------");
+    //
     let mut operand_1: String = String::new();
+    //
     let mut operand_2: String = String::new();
+    //
     let mut operator: String = String::new();
-
+    //
     print!("Operand 1: ");
+    //
     read(&mut operand_1);
-
+    //
     let operand_1 = operand_1.trim().replace(['_', ','], "");
-
+    //
     let operand_1: f64 = match operand_1.parse() {
         Ok(value) => value,
         Err(_) => {
@@ -31,12 +40,15 @@ pub fn cli_calc() {
     print!(
         "Enter Operator | (+)(-)(*)(/)(^)(%) or \"add\", \"subtract\", \"multiply\", \"divide\", \"power\", \"modulo\":"
     );
+
     read(&mut operator);
 
     print!("Operand 2: ");
+
     read(&mut operand_2);
 
     let operand_2 = operand_2.trim().replace(['_', ','], "");
+
     let operand_2: f64 = match operand_2.parse() {
         Ok(value) => value,
         Err(_) => {
@@ -86,5 +98,5 @@ pub fn cli_sqrt() {
 
     let sqrt_output: f64 = sqrt_input.sqrt();
 
-    print!(" = {sqrt_output}");
+    println!("is = {sqrt_output}");
 }

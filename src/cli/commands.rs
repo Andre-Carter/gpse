@@ -3,6 +3,7 @@ use crate::archive::ledger::ledger_cli::open_ledger;
 use crate::cli::calculator::cli_calc;
 use crate::cli::calculator::cli_sqrt;
 use crate::mathematical::carter_family::carter_formula_cli;
+
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -11,62 +12,76 @@ fn read(input: &mut String) {
 }
 
 pub fn cli_commands() {
-    println!("Commands system online!");
+    println!("COMMAND SYSTEMS ONLINE!");
 
     loop {
         let mut command: String = String::new();
 
         print!("> ");
+
         read(&mut command);
 
-        let command = command.trim();
+        let command = command.trim().to_lowercase();
 
-        match command {
+        match command.as_str() {
             "help" => {
+                println!();
                 println!("GPSE COMMANDS:");
                 println!("-------------------------------------------------");
-                println!("{:<20} Open Bible.", "bible");
-                println!("{:<20} Open Calculator.", "calc");
-                println!("{:<20} Open square-root function.", "sqrt");
-                println!("{:<20} Open Carter mathematics.", "carter");
-                println!("{:<20} Open Ledger.", "ledger");
-                println!("{:<20} Cargo commands.", "cargo");
-                println!("{:<20} Git commands", "git");
-                println!("{:<20} Debugging steps", "debug");
-                println!("{:<20} Inspection steps.", "inspection");
-                println!("{:<20} Exit GPSE.", "exit");
+                println!("{:<20} (command descriptions & instructions)", "help");
+                println!("{:<20} (open gpse read directory)", "read");
+                println!("{:<20} (open ledger)", "ledger");
+                println!("{:<20} (open cli calculator)", "calc");
+                println!("{:<20} (open square-root function)", "sqrt");
+                println!("{:<20} (open carter mathematics)", "carter");
+                println!("{:<20} (debugging steps)", "debug");
+                println!("{:<20} (inspection steps)", "inspection");
+                println!("{:<20} (cargo commands listing)", "cargo");
+                println!("{:<20} (git commands listing)", "git"); //pending removal
+                println!("{:<20} (exit gpse cli program)", "exit");
             }
 
             "read" => loop {
                 let mut command = String::new();
 
-                print!("READ> ");
+                print!("read> ");
 
                 read(&mut command);
 
-                let command = command.trim();
+                let command = command.trim().to_lowercase();
 
-                match command {
+                match command.as_str() {
+                    "help" => {
+                        println!("read> help> ");
+                        println!();
+                        println!("{:<20} (command descriptions & instructions)", "help");
+                        println!("{:<20} (read directory list)", "library");
+                        println!("{:<20} (exit the read directory)", "exit");
+                    }
+
+                    "library" => {
+                        println!("read> library> ");
+                        println!("{:<20} (open kjv 1611)", "kjv 1611");
+                    }
+
                     "kjv 1611" => {
-                        print!("READ> KJV 1611> ");
                         kjv_1611_cli_funk();
                     }
 
-                    "help" => {
-                        println!("READ commands:");
-                        println!("kjv 1611");
-                        println!("exit");
-                    }
-
                     "exit" => {
+                        println!("exiting the read directory...");
                         break;
                     }
 
                     _ => {
-                        println!("Unknown READ command.")
+                        println!("  unknown read command.")
                     }
                 }
             },
+
+            "ledger" => {
+                open_ledger();
+            }
 
             "calc" => {
                 cli_calc();
@@ -76,12 +91,18 @@ pub fn cli_commands() {
                 cli_sqrt();
             }
 
-            "ledger" => {
-                open_ledger();
-            }
-
             "carter" => {
                 carter_formula_cli();
+            }
+
+            "debug" => {
+                println!(r"cargo: clean -> build -> run .\target\debug\gpse.exe")
+            }
+
+            "inspection" => {
+                println!(
+                    "cargo: fmt -> check -> test -> clippy -> git: diff -> status -> commit -> push"
+                )
             }
 
             "cargo" => {
@@ -124,18 +145,8 @@ pub fn cli_commands() {
                 println!("git switch");
             }
 
-            "debug" => {
-                println!(r"cargo: clean -> build -> run .\target\debug\gpse.exe")
-            }
-
-            "inspection" => {
-                println!(
-                    "cargo: fmt -> check -> test -> clippy -> git: diff -> status -> commit -> push"
-                )
-            }
-
             "exit" => {
-                println!("Goodbye!");
+                println!("successfully exited GPSE...");
                 break;
             }
 

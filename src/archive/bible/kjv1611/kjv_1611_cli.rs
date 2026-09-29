@@ -9,15 +9,18 @@ fn read(input: &mut String) {
 
 pub fn kjv_1611_cli_funk() {
     loop {
+        print!("read> kjv1611> ");
+
         let mut command = String::new();
 
         read(&mut command);
 
-        let command = command.trim();
+        let command = command.trim().to_lowercase();
 
-        match command {
+        match command.as_str() {
             "help" => {
                 println!("Bible commands.");
+                println!("type BOOK CHAPTER:VERSE");
             }
 
             "exit" => {
