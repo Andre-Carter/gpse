@@ -29,8 +29,8 @@ fn main() {
     loop {
         println!("GENERAL PURPOSE SIMULATION ENGINE");
         println!("[ DATE / TIME ]");
-        println!("Type \"help\" for commands.");
         println!();
+
         let mut command: String = String::new();
 
         print!("> ");
@@ -51,7 +51,6 @@ fn main() {
 
             _ => {
                 println!("unknown command.");
-                return;
             }
         }
     }

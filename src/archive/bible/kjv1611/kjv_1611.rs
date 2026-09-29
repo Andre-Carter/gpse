@@ -10996,6 +10996,3494 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "For the cloud of the Lord was vpon the Tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their iourneys.",
         }),
 
+        ("leviticus", 1, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 1, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 2, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 3, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 4, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 5, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 6, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 7, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 8, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 9, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 10, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 41) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 42) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 43) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 44) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 45) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 46) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 11, 47) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 12, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 12, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 12, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 12, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 12, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 12, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 12, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 12, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 41) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 42) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 43) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 44) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 45) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 46) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 47) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 48) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 49) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 50) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 52) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 53) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 54) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 55) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 56) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 57) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 58) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 13, 59) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 41) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 42) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 43) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 44) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 45) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 46) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 47) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 48) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 49) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 50) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 51) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 52) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 53) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 54) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 55) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 56) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 14, 57) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 15, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 16, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 17, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 18, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 19, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 20, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 21, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 22, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 41) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 42) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 43) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 23, 44) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 24, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 41) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 42) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 43) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 44) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 45) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 46) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 47) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 48) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 49) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 50) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 51) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 52) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 53) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 54) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 25, 55) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 41) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 42) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 43) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 44) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 45) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 26, 46) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("leviticus", 27, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("numbers", 1, 1) => Some(Verse {
+            content: "",
+        }),
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         _ => None,
     }
 }

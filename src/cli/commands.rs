@@ -13,6 +13,8 @@ fn read(input: &mut String) {
 
 pub fn cli_commands() {
     println!("COMMAND SYSTEMS ONLINE!");
+    println!("Type \"help\" for commands.");
+    println!();
 
     loop {
         let mut command: String = String::new();
