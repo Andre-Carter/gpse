@@ -36,3 +36,11 @@ pub fn volume_sphere(radius: f64) {
 // let cc_1 = n.powi(2) - carter_constant;
 //  cc_1
 //}
+
+pub fn arith() {
+    let x = 1;
+    loop{
+        x * x;
+    }
+    
+}

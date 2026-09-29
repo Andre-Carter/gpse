@@ -73,9 +73,9 @@ pub fn carter_formula_cli() {
 }
 
 pub fn carter_formula_repeat() {
-    let iterations = 100;
+    let iterations = 1_000_00;
 
-    for h in 1_000_000..=iterations {
+    for h in 1..=iterations {
         let h = h as f64;
         carter_formula(h);
     }
