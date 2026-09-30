@@ -10997,6903 +10997,6907 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("leviticus", 1, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord called vnto Moses, and spake vnto him out of the Tabernacle of the Congregation, saying,",
         }),
 
         ("leviticus", 1, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and say vnto them, If any man of you bring an offering vnto the Lord, ye shall bring your offering of the cattell, euen of the herd, and of the flocke.",
         }),
 
         ("leviticus", 1, 3) => Some(Verse {
-            content: "",
+            content: "If his offering be a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his owne voluntary will, at the doore of the Tabernacle of the Congregation before the Lord.",
         }),
 
         ("leviticus", 1, 4) => Some(Verse {
-            content: "",
+            content: "And he shall put his hand vpon the head of the burnt offering: and it shall be accepted for him to make atonement for him.",
         }),
 
         ("leviticus", 1, 5) => Some(Verse {
-            content: "",
+            content: "And he shall kill the bullocke before the Lord: and the Priests Aarons sonnes shall bring the blood, and sprinkle the blood round about vpon the altar, that is by the doore of the Tabernacle of the Congregation.",
         }),
 
         ("leviticus", 1, 6) => Some(Verse {
-            content: "",
+            content: "And hee shall slay the burnt offering, and cut it into his pieces.",
         }),
 
         ("leviticus", 1, 7) => Some(Verse {
-            content: "",
+            content: "And the sonnes of Aaron the Priest shall put fire vpon the Altar, and lay the wood in order vpon the fire.",
         }),
 
         ("leviticus", 1, 8) => Some(Verse {
-            content: "",
+            content: "And the Priests Aarons sonnes shall lay the parts, the head and the fat in order vpon the wood that is in the fire which is vpon the altar.",
         }),
 
         ("leviticus", 1, 9) => Some(Verse {
-            content: "",
+            content: "But the inwards and his legges shall he wash in water, and the Priest shall burne all on the altar, to be a burnt sacrifice, an offering made by fire, of a sweet sauour vnto the Lord.",
         }),
 
         ("leviticus", 1, 10) => Some(Verse {
-            content: "",
+            content: "And if his offring be of the flocks, namely of the sheepe, or of the goates for a burnt sacrifice, he shall bring it a male without blemish.",
         }),
 
         ("leviticus", 1, 11) => Some(Verse {
-            content: "",
+            content: "And hee shall kill it on the side of the Altar Northward, before the Lord: and the Priestes Aarons sonnes shall sprinkle his blood round about vpon the altar.",
         }),
 
         ("leviticus", 1, 12) => Some(Verse {
-            content: "",
+            content: "And he shall cut it into his pieces, with his head and his fat: and the Priest shall lay them in order on the wood that is on the fire, which is vpon the altar:",
         }),
 
         ("leviticus", 1, 13) => Some(Verse {
-            content: "",
+            content: "But hee shall wash the inwards and the legs with water, and the Priest shall bring it all, and burne it vpon the altar: it is a burnt sacrifice, an offering made by fire, of a sweet sauour vnto the Lord.",
         }),
 
         ("leviticus", 1, 14) => Some(Verse {
-            content: "",
+            content: "And if the burnt sacrifice for his offring to the Lord be of foules, then he shall bring his offering of turtle doues, or of yong pigeons.",
         }),
 
         ("leviticus", 1, 15) => Some(Verse {
-            content: "",
+            content: "And the Priest shall bring it vnto the altar, and wring off his head, and burne it on the altar: and the blood thereof shall be wrung out at the side of the altar.",
         }),
 
         ("leviticus", 1, 16) => Some(Verse {
-            content: "",
+            content: "And he shall plucke away his crop with his feathers, and cast it beside the altar on the East part, by the place of the ashes.",
         }),
 
         ("leviticus", 1, 17) => Some(Verse {
-            content: "",
+            content: "And hee shall cleane it with the wings thereof, but shall not diuide it asunder: And the Priest shall burne it vpon the altar, vpon the wood that is vpon the fire: it is a burnt sacrifice, an offering made by fire of a sweet sauour vnto the Lord.",
         }),
 
         ("leviticus", 2, 1) => Some(Verse {
-            content: "",
+            content: "And when any will offer a meate offering vnto the Lord, his offring shall be of fine flowre: and hee shall powre oyle vpon it, and put frankincense thereon.",
         }),
 
         ("leviticus", 2, 2) => Some(Verse {
-            content: "",
+            content: "And he shall bring it to Aarons sonnes the Priests: and hee shall take thereout his handfull of the flowre thereof, and of the oile thereof, with all the frankincense thereof, and the Priest shall burne the memoriall of it vpon the altar, to be an offering made by fire of a sweet sauour vnto the Lord.",
         }),
 
         ("leviticus", 2, 3) => Some(Verse {
-            content: "",
+            content: "And the remnant of the meat offering shall be Aarons and his sonnes: it is a thing most holy of the offerings of the Lord made by fire.",
         }),
 
         ("leviticus", 2, 4) => Some(Verse {
-            content: "",
+            content: "And if thou bring an oblation of a meate offering baken in the ouen, it shall bee an vnleauened cake of fine flowre mingled with oyle, or vnleauened wafers anointed with oyle.",
         }),
 
         ("leviticus", 2, 5) => Some(Verse {
-            content: "",
+            content: "And if thy oblation be a meate offering baken in a panne, it shall bee of fine flowre vnleauened, mingled with oyle.",
         }),
 
         ("leviticus", 2, 6) => Some(Verse {
-            content: "",
+            content: "Thou shalt part it in pieces, and powre oyle thereon: it is a meate offering.",
         }),
 
         ("leviticus", 2, 7) => Some(Verse {
-            content: "",
+            content: "And if thy oblation be a meate offering baken in the frying pan, it shalbe made of fine flowre with oyle.",
         }),
 
         ("leviticus", 2, 8) => Some(Verse {
-            content: "",
+            content: "And thou shalt bring the meat offering that is made of these things vnto the Lord, and when it is presented vnto the Priest, he shall bring it vnto the Altar.",
         }),
 
         ("leviticus", 2, 9) => Some(Verse {
-            content: "",
+            content: "And the Priest shall take from the meat offering a memoriall thereof, and shall burne it vpon the Altar, it is an offering made by fire of a sweet sauour vnto the Lord.",
         }),
 
         ("leviticus", 2, 10) => Some(Verse {
-            content: "",
+            content: "And that which is left of the meat offering, shalbe Aarons and his sonnes: It is a thing most holy, of the offerings of the Lord made by fire.",
         }),
 
         ("leviticus", 2, 11) => Some(Verse {
-            content: "",
+            content: "No meat offering, which ye shall bring vnto the Lord, shall be made with leauen: For ye shall burne no leauen, nor any hony, in any offering of the Lord made by fire.",
         }),
 
         ("leviticus", 2, 12) => Some(Verse {
-            content: "",
+            content: "As for the oblation of the first fruits, yee shall offer them vnto the Lord, but they shall not be burnt on the Altar for a sweet sauour.",
         }),
 
         ("leviticus", 2, 13) => Some(Verse {
-            content: "",
+            content: "And euery oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the Couenant of thy God to bee lacking from thy meat offering: with all thine offerings thou shalt offer salt.",
         }),
 
         ("leviticus", 2, 14) => Some(Verse {
-            content: "",
+            content: "And if thou offer a meat offering of thy first fruits vnto the Lord, thou shalt offer for the meat offering of thy first fruits, greene eares of corne dried by the fire, euen corne beaten out of full eares.",
         }),
 
         ("leviticus", 2, 15) => Some(Verse {
-            content: "",
+            content: "And thou shalt put oyle vpon it, and lay frankincense theron; it is a meat offering.",
         }),
 
         ("leviticus", 2, 16) => Some(Verse {
-            content: "",
+            content: "And the Priest shall burne the memoriall of it, part of the beaten corne thereof, and part of the oyle thereof, with all the frankincense thereof: it is an offering made by fire vnto the Lord.",
         }),
 
         ("leviticus", 3, 1) => Some(Verse {
-            content: "",
+            content: "And if his oblation be a sacrifice of peace offering, if hee offer it of the herd, whether it be a male or female, he shal offer it without blemish before the Lord.",
         }),
 
         ("leviticus", 3, 2) => Some(Verse {
-            content: "",
+            content: "And he shall lay his hand vpon the head of his offering, and kil it at the doore of the Tabernacle of the Congregation: and Aarons sonnes the Priests shall sprinckle the blood vpon the Altar round about.",
         }),
 
         ("leviticus", 3, 3) => Some(Verse {
-            content: "",
+            content: "And he shall offer of the sacrifice of the peace offering, an offering made by fire vnto the Lord; the fat that couereth the inwards, and all the fat that is vpon the inwards.",
         }),
 
         ("leviticus", 3, 4) => Some(Verse {
-            content: "",
+            content: "And the two kidneys, and the fat that is on them, which is by the flanks: and the caule aboue the liuer with the kidneys, it shall he take away.",
         }),
 
         ("leviticus", 3, 5) => Some(Verse {
-            content: "",
+            content: "And Aarons sonnes shall burne it on the Altar vpon the burnt sacrifice, which is vpon the wood that is on the fire: it is an offering made by fire of a sweet sauour vnto the Lord.",
         }),
 
         ("leviticus", 3, 6) => Some(Verse {
-            content: "",
+            content: "And if his offering for a sacrifice of peace offering vnto the Lord, be of the flocke, male or female, he shall offer it without blemish.",
         }),
 
         ("leviticus", 3, 7) => Some(Verse {
-            content: "",
+            content: "If hee offer a lambe for his offering, then shall he offer it before the Lord.",
         }),
 
         ("leviticus", 3, 8) => Some(Verse {
-            content: "",
+            content: "And he shall lay his hand vpon the head of his offering, and kill it before the Tabernacle of the Congregation: And Aarons sonnes shall sprinkle the blood thereof, round about vpon the Altar.",
         }),
 
         ("leviticus", 3, 9) => Some(Verse {
-            content: "",
+            content: "And he shall offer of the sacrifice of the peace offering, an offering made by fire vnto the Lord: the fat thereof and the whole rumpe, it shall he take off hard by the backe bone: and the fat that couereth the inwards, and all the fat that is vpon the inwards.",
         }),
 
         ("leviticus", 3, 10) => Some(Verse {
-            content: "",
+            content: "And the two kidneys, and the fat that is vpon them, which is by the flankes, and the caule aboue the liuer, with the kidneys, it shall he take away.",
         }),
 
         ("leviticus", 3, 11) => Some(Verse {
-            content: "",
+            content: "And the Priest shall burne it vpon the Altar: it is the food of the offering made by fire vnto the Lord.",
         }),
 
         ("leviticus", 3, 12) => Some(Verse {
-            content: "",
+            content: "And if his offering be a goat, then he shall offer it before the Lord.",
         }),
 
         ("leviticus", 3, 13) => Some(Verse {
-            content: "",
+            content: "And he shall lay his hand vpon the head of it, and kill it before the Tabernacle of the Congregation: and the sonnes of Aaron shall sprinckle the blood thereof vpon the Altar, round about.",
         }),
 
         ("leviticus", 3, 14) => Some(Verse {
-            content: "",
+            content: "And he shall offer thereof his offering, euen an offering made by fire vnto the Lord; the fat that couereth the inwards, and al the fat that is vpon the inwards.",
         }),
 
         ("leviticus", 3, 15) => Some(Verse {
-            content: "",
+            content: "And the two kidneys, and the fat that is vpon them, which is by the flancks, and the caule aboue the liuer with the kidneys, it shall he take away.",
         }),
 
         ("leviticus", 3, 16) => Some(Verse {
-            content: "",
+            content: "And the Priest shall burne them vpon the Altar: it is the food of the offering made by fire, for a sweet sauour: All the fat is the Lords.",
         }),
 
         ("leviticus", 3, 17) => Some(Verse {
-            content: "",
+            content: "It shall be a perpetuall statute for your generations, throughout all your dwellings, that ye eat neither fat, nor blood.",
         }),
 
         ("leviticus", 4, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 4, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, saying, If a soule shall sinne through ignorance against any of the commandements of the Lord (concerning things which ought not to bee done) and shall do against any of them:",
         }),
 
         ("leviticus", 4, 3) => Some(Verse {
-            content: "",
+            content: "If the Priest that is anointed, doe sinne according to the sinne of the people, then let him bring for his sinne which he hath sinned, a yong bullocke without blemish, vnto the Lord for a sinne offering.",
         }),
 
         ("leviticus", 4, 4) => Some(Verse {
-            content: "",
+            content: "And hee shall bring the bullocke vnto the doore of the Tabernacle of the Congregation before the Lord, and shall lay his hand vpon the bullockes head, and kill the bullocke before the Lord.",
         }),
 
         ("leviticus", 4, 5) => Some(Verse {
-            content: "",
+            content: "And the Priest that is anointed, shall take of the bullocks blood, and bring it to the Tabernacle of the Congregation.",
         }),
 
         ("leviticus", 4, 6) => Some(Verse {
-            content: "",
+            content: "And the Priest shall dip his finger in the blood, and sprinkle of the blood seuen times before the Lord, before the Uaile of the Sanctuary.",
         }),
 
         ("leviticus", 4, 7) => Some(Verse {
-            content: "",
+            content: "And the Priest shall put some of the blood vpon the hornes of the Altar of sweet incense before the Lord, which is in the Tabernacle of the Congregation, and shal powre all the blood of the bullocke at the bottome of the altar of the burnt offering, which is at the doore of the Tabernacle of the Congregation.",
         }),
 
         ("leviticus", 4, 8) => Some(Verse {
-            content: "",
+            content: "And he shall take off from it all the fat of the bullocke for the sinne offering: the fat that couereth the inwards, and all the fat that is vpon the inwards.",
         }),
 
         ("leviticus", 4, 9) => Some(Verse {
-            content: "",
+            content: "And the two kidneis, and the fat that is vpon them, which is by the flankes, and the caule aboue the liuer with the kidneis, it shall he take away,",
         }),
 
         ("leviticus", 4, 10) => Some(Verse {
-            content: "",
+            content: "As it was taken off from the bullocke of the sacrifice of peace offerings: and the Priest shall burne them vpon the altar of the burnt offering.",
         }),
 
         ("leviticus", 4, 11) => Some(Verse {
-            content: "",
+            content: "And the skinne of the bullocke, and all his flesh, with his head, and with his legs, and his inwards, and his doung,",
         }),
 
         ("leviticus", 4, 12) => Some(Verse {
-            content: "",
+            content: "Euen the whole bullocke shall he carie foorth without the campe, vnto a cleane place, where the ashes are powred out, and burne him on the wood with fire: where the ashes are powred out, shall he be burnt.",
         }),
 
         ("leviticus", 4, 13) => Some(Verse {
-            content: "",
+            content: "And if the whole Congregation of Israel sinne through ignorance, and the thing be hid from the eyes of the assembly, and they haue done somewhat against any of the Commandements of the Lord, concerning things which should not be done, and are guiltie:",
         }),
 
         ("leviticus", 4, 14) => Some(Verse {
-            content: "",
+            content: "When the sinne which they haue sinned against it, is knowen, then the Congregation shall offer a yong bullocke for the sinne, and bring him before the Tabernacle of the Congregation.",
         }),
 
         ("leviticus", 4, 15) => Some(Verse {
-            content: "",
+            content: "And the Elders of the Congregation shall lay their hands vpon the head of the bullocke, before the Lord: and the bullocke shall be killed before the Lord.",
         }),
 
         ("leviticus", 4, 16) => Some(Verse {
-            content: "",
+            content: "And the Priest that is anointed, shall bring of the bullockes blood to the Tabernacle of the Congregation.",
         }),
 
         ("leviticus", 4, 17) => Some(Verse {
-            content: "",
+            content: "And the Priest shall dip his finger in some of the blood, and sprinkle it seuen times before the Lord, euen before the vaile.",
         }),
 
         ("leviticus", 4, 18) => Some(Verse {
-            content: "",
+            content: "And he shal put some of the blood vpon the hornes of the altar, which is before the Lord, that is in the Tabernacle of the Congregation, and shall powre out all the blood at the bottome of the altar of the burnt offring, which is at the doore of the Tabernacle of the Congregation.",
         }),
 
         ("leviticus", 4, 19) => Some(Verse {
-            content: "",
+            content: "And he shall take all his fat from him, and burne it vpon the altar.",
         }),
 
         ("leviticus", 4, 20) => Some(Verse {
-            content: "",
+            content: "And he shall do with the bullocke as he did with the bullocke for a sinne offring, so shall he do with this: And the Priest shall make an atonement for them, and it shall be forgiuen them.",
         }),
 
         ("leviticus", 4, 21) => Some(Verse {
-            content: "",
+            content: "And he shall carie foorth the bullocke without the campe, and burne him as he burned the first bullocke: it is a sinne offering for the Congregation.",
         }),
 
         ("leviticus", 4, 22) => Some(Verse {
-            content: "",
+            content: "When a ruler hath sinned and done somewhat through ignorance against any of the Commandements of the Lord his God, concerning things which should not be done, and is guilty:",
         }),
 
         ("leviticus", 4, 23) => Some(Verse {
-            content: "",
+            content: "Or if his sinne wherein hee hath sinned, come to his knowledge: he shall bring his offering, a kid of the goates, a male without blemish.",
         }),
 
         ("leviticus", 4, 24) => Some(Verse {
-            content: "",
+            content: "And hee shall lay his hand vpon the head of the goate, and kill it in the place where they kill the burnt offering before the Lord: it is a sinne offring.",
         }),
 
         ("leviticus", 4, 25) => Some(Verse {
-            content: "",
+            content: "And the Priest shall take of the blood of the sinne offering with his finger, and put it vpon the hornes of the Altar of burnt offring, and shall powre out his blood at the bottome of the Altar of burnt offering.",
         }),
 
         ("leviticus", 4, 26) => Some(Verse {
-            content: "",
+            content: "And he shall burne all his fat vpon the Altar, as the fat of the sacrifice of peace offerings: and the Priest shall make an atonement for him, as concerning his sinne, and it shall be forgiuen him.",
         }),
 
         ("leviticus", 4, 27) => Some(Verse {
-            content: "",
+            content: "And if any one of the common people sinne through ignorance, while he doeth somewhat against any of the commandements of the Lord, concerning things which ought not to be done, and be guiltie:",
         }),
 
         ("leviticus", 4, 28) => Some(Verse {
-            content: "",
+            content: "Or if his sinne which he hath sinned come to his knowledge, then hee shall bring his offering, a kidde of the goats, a female without blemish, for his sinne which he hath sinned.",
         }),
 
         ("leviticus", 4, 29) => Some(Verse {
-            content: "",
+            content: "And he shall lay his hand vpon the head of the sinne offering, and slay the sin offering in the place of the burnt offering.",
         }),
 
         ("leviticus", 4, 30) => Some(Verse {
-            content: "",
+            content: "And the Priest shall take of the blood thereof with his finger, and put it vpon the hornes of the Altar of burnt offering, and shall powre out all the blood thereof at the bottome of the Altar.",
         }),
 
         ("leviticus", 4, 31) => Some(Verse {
-            content: "",
+            content: "And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings: and the Priest shall burne it vpon the Altar, for a sweet sauour vnto the Lord, and the Priest shall make an atonement for him, and it shall be forgiuen him.",
         }),
 
         ("leviticus", 4, 32) => Some(Verse {
-            content: "",
+            content: "And if he bring a lambe for a sinne offering, he shall bring it a female without blemish.",
         }),
 
         ("leviticus", 4, 33) => Some(Verse {
-            content: "",
+            content: "And he shall lay his hand vpon the head of the sinne offering, and slay it for a sinne offering, in the place where they kill the burnt offering.",
         }),
 
         ("leviticus", 4, 34) => Some(Verse {
-            content: "",
+            content: "And the Priest shall take of the blood of the sinne offering with his finger, and put it vpon the hornes of the Altar of burnt offring, and shall powre out all the blood thereof at the bottome of the Altar.",
         }),
 
         ("leviticus", 4, 35) => Some(Verse {
-            content: "",
+            content: "And he shall take away all the fat thereof, as the fat of the lambe is taken away from the sacrifice of the peace offerings: and the Priest shall burnt them vpon the Altar, according to the offerings made by fire vnto the Lord, and the Priest shall make an atonement for his sinne that he hath committed, and it shalbe forgiuen him.",
         }),
 
         ("leviticus", 5, 1) => Some(Verse {
-            content: "",
+            content: "And if a soule sinne, and heare the voyce of swearing, and is a witnesse, whether he hath seene or knowen of it, if he doe not vtter it, then he shall beare his iniquity.",
         }),
 
         ("leviticus", 5, 2) => Some(Verse {
-            content: "",
+            content: "Or if a soule touch any vncleane thing, whether it be a carcase of an vncleane beast, or a carcase of vncleane cattell, or the carcase of vncleane creeping things, and if it be hidden from him, he also shall be vncleane, and guilty:",
         }),
 
         ("leviticus", 5, 3) => Some(Verse {
-            content: "",
+            content: "Or if he touch the vncleannesse of man, whatsoeuer vncleannesse it be that a man shalbe defiled withall, and it be hid from him, when he knoweth of it, then he shalbe guilty.",
         }),
 
         ("leviticus", 5, 4) => Some(Verse {
-            content: "",
+            content: "Or if a soule sweare, pronouncing with his lips to do euill, or to do good, whatsoeuer it be that a man shall pronounce with an oath, and it be hid from him, when he knoweth of it, then he shalbe guilty in one of these.",
         }),
 
         ("leviticus", 5, 5) => Some(Verse {
-            content: "",
+            content: "And it shalbe when he shalbe guiltie in one of these things, that he shall confesse that hee hath sinned in that thing.",
         }),
 
         ("leviticus", 5, 6) => Some(Verse {
-            content: "",
+            content: "And he shall bring his trespasse offering vnto the Lord for his sinne which he hath sinned, a female from the flocke, a lambe, or a kidde of the goates, for a sinne offering: And the Priest shal make an atonement for him concerning his sinne.",
         }),
 
         ("leviticus", 5, 7) => Some(Verse {
-            content: "",
+            content: "And if hee be not able to bring a lambe, then he shall bring for his trespasse which hee hath committed, two turtle doues, or two yong pigeons vnto the Lord: one for a sinne offring, and the other for a burnt offering.",
         }),
 
         ("leviticus", 5, 8) => Some(Verse {
-            content: "",
+            content: "And he shall bring them vnto the Priest, who shall offer that which is for the sinne offering first, and wring off his head from his necke, but shall not diuide it asunder.",
         }),
 
         ("leviticus", 5, 9) => Some(Verse {
-            content: "",
+            content: "And he shall sprinckle of the blood of the sinne offering vpon the side of the Altar, and the rest of the blood shall be wrung out at the bottome of the altar: it is a sinne offering.",
         }),
 
         ("leviticus", 5, 10) => Some(Verse {
-            content: "",
+            content: "And hee shall offer the second for a burnt offering, according to the maner: and the Priest shal make an atonement for him for his sinne, which he had sinned, and it shall be forgiuen him.",
         }),
 
         ("leviticus", 5, 11) => Some(Verse {
-            content: "",
+            content: "But if hee be not able to bring two turtle doues, or two yong pigeons; then he that sinned, shall bring for his offring the tenth part of an Ephah of fine flowre for a sinne offering: hee shall put no oyle vpon it, neither shall he put any frankincense thereon: for it is a sinne offering.",
         }),
 
         ("leviticus", 5, 12) => Some(Verse {
-            content: "",
+            content: "Then shall hee bring it to the Priest, and the Priest shall take his handfull of it, euen a memoriall thereof, and burne it on the altar, according to the offerings made by fire vnto the Lord: it is a sinne offering.",
         }),
 
         ("leviticus", 5, 13) => Some(Verse {
-            content: "",
+            content: "And the Priest shall make an atonement for him as touching his sinne that he hath sinned in one of these, and it shall be forgiuen him: and the remnant shall be the Priests, as a meat offering.",
         }),
 
         ("leviticus", 5, 14) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 5, 15) => Some(Verse {
-            content: "",
+            content: "If a soule commit a trespasse, and sinne through ignorance, in the holy things of the Lord; then hee shall bring for his trespasse vnto the Lord, a ramme without blemish, out of the flockes, with thy estimation by shekels of siluer, after the shekel of the Sanctuarie, for a trespasse offering.",
         }),
 
         ("leviticus", 5, 16) => Some(Verse {
-            content: "",
+            content: "And hee shall make amends for the harme that he hath done in the holy thing, and shall adde the fift part thereto, and giue it vnto the Priest: and the Priest shall make an atonement for him with the ramme of the trespasse offering, and it shall be forgiuen him.",
         }),
 
         ("leviticus", 5, 17) => Some(Verse {
-            content: "",
+            content: "And if a soule sinne, and commit any of these things which are forbidden to be done by the commaundements of the Lord, though he wist it not, yet is hee guiltie, and shall beare his iniquitie.",
         }),
 
         ("leviticus", 5, 18) => Some(Verse {
-            content: "",
+            content: "And he shall bring a ramme without blemish out of the flocke, with thy estimation, for a trespasse offering vnto the Priest: and the Priest shall make an atonement for him concerning his ignorance wherein he erred, and wist it not: and it shall be forgiuen him.",
         }),
 
         ("leviticus", 5, 19) => Some(Verse {
-            content: "",
+            content: "It is a trespasse offring: he hath certainly trespassed against the Lord.",
         }),
 
         ("leviticus", 6, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 6, 2) => Some(Verse {
-            content: "",
+            content: "If a soule sinne, and commit a trespasse against the Lord, and lie vnto his neighbour in that which was deliuered him to keepe, or in fellowship, or in a thing taken away by violence, or hath deceiued his neighbour:",
         }),
 
         ("leviticus", 6, 3) => Some(Verse {
-            content: "",
+            content: "Or haue found that which was lost, and lieth concerning it, and sweareth falsly: in any of all these that a man doth, sinning therein:",
         }),
 
         ("leviticus", 6, 4) => Some(Verse {
-            content: "",
+            content: "Then it shall be, because he hath sinned, and is guiltie, that hee shall restore that which he tooke violently away, or the thing which he hath deceitfully gotten, or that which was deliuered him to keepe, or the lost thing which he found:",
         }),
 
         ("leviticus", 6, 5) => Some(Verse {
-            content: "",
+            content: "Or all that about which hee hath sworne falsly: hee shall euen restore it in the principall, and shall adde the fift part more thereto, and giue it vnto him to whom it apperteineth, in the day of his trespasse offering.",
         }),
 
         ("leviticus", 6, 6) => Some(Verse {
-            content: "",
+            content: "And hee shall bring his trespasse offering vnto the Lord, a ramme without blemish out of the flocke, with thy estimation, for a trespasse offering vnto the Priest.",
         }),
 
         ("leviticus", 6, 7) => Some(Verse {
-            content: "",
+            content: "And the Priest shall make an atonement for him, before the Lord: and it shall bee forgiuen him, for any thing of all that he hath done, in trespassing therein.",
         }),
 
         ("leviticus", 6, 8) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 6, 9) => Some(Verse {
-            content: "",
+            content: "Command Aaron and his sonnes, saying, This is the law of the burnt offring: (It is the burnt offring, because of the burning vpon the Altar all night vnto the morning, and the fire of the altar shall be burning in it.)",
         }),
 
         ("leviticus", 6, 10) => Some(Verse {
-            content: "",
+            content: "And the Priest shal put on his linnen garment, & his linnen breeches shal he put vpon his flesh, and take vp the ashes which the fire hath consumed with the burnt offering on the Altar, and he shall put them besides the Altar.",
         }),
 
         ("leviticus", 6, 11) => Some(Verse {
-            content: "",
+            content: "And he shal put off his garments, and put on other garments, and carry foorth the ashes without the Campe, vnto a cleane place.",
         }),
 
         ("leviticus", 6, 12) => Some(Verse {
-            content: "",
+            content: "And the fire vpon the Altar shall be burning in it: it shall not be put out; And the Priest shall burne wood on it euery morning, and lay the burnt offering in order vpon it, and he shall burne thereon the fatte of the peace offerings.",
         }),
 
         ("leviticus", 6, 13) => Some(Verse {
-            content: "",
+            content: "The fire shall euer be burning vpon the Altar: it shall neuer goe out.",
         }),
 
         ("leviticus", 6, 14) => Some(Verse {
-            content: "",
+            content: "And this is the law of the meat offering: the sonnes of Aaron shall offer it before the Lord, before the Altar.",
         }),
 
         ("leviticus", 6, 15) => Some(Verse {
-            content: "",
+            content: "And he shall take of it his handfull, of the flowre of the meat offering, and of the oyle therof, and all the frankincense which is vpon the meat offring, and shall burne it vpon the Altar, for a sweet sauour, euen the memoriall of it vnto the Lord.",
         }),
 
         ("leviticus", 6, 16) => Some(Verse {
-            content: "",
+            content: "And the remainder thereof shall Aaron and his sonnes eat: with vnleauened bread shall it be eaten in the holy place: in the court of the Tabernacle of the Congregation they shall eat it.",
         }),
 
         ("leviticus", 6, 17) => Some(Verse {
-            content: "",
+            content: "It shall not be baken with leauen: I haue giuen it vnto them for their portion of my offerings made by fire: it is most holy, as is the sin offering, and as the trespasse offering.",
         }),
 
         ("leviticus", 6, 18) => Some(Verse {
-            content: "",
+            content: "All the males among the children of Aaron shall eat of it: It shalbe a statute for euer in your generations concerning the offerings of the Lord made by fire: euery one that toucheth them shalbe holy.",
         }),
 
         ("leviticus", 6, 19) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 6, 20) => Some(Verse {
-            content: "",
+            content: "This is the offering of Aaron, and of his sonnes which they shall offer vnto the Lord, in the day when he is anoynted: The tenth part of an Ephah of fine flowre for a meat offering perpetuall, halfe of it in the morning, and halfe thereof at night.",
         }),
 
         ("leviticus", 6, 21) => Some(Verse {
-            content: "",
+            content: "In a panne it shalbe made with oyle, and when it is baken, thou shalt bring it in: and the baken pieces of the meat offering shalt thou offer for a sweet sauour vnto the Lord.",
         }),
 
         ("leviticus", 6, 22) => Some(Verse {
-            content: "",
+            content: "And the Priest of his sonnes that is anoynted in his stead, shal offer it: It is a statute for euer vnto the Lord, it shalbe wholly burnt.",
         }),
 
         ("leviticus", 6, 23) => Some(Verse {
-            content: "",
+            content: "For euery meat offering for the Priest shal be wholly burnt: it shall not be eaten.",
         }),
 
         ("leviticus", 6, 24) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 6, 25) => Some(Verse {
-            content: "",
+            content: "Speake vnto Aaron and to his sonnes, saying, This is the law of the sinne offering: In the place where the burnt offering is killed, shall the sinne offering be killed before the Lord: it is most holy.",
         }),
 
         ("leviticus", 6, 26) => Some(Verse {
-            content: "",
+            content: "The Priest that offereth it for sinne, shall eat it: In the holy place shal it be eaten, in the court of the Tabernacle of the Congregation.",
         }),
 
         ("leviticus", 6, 27) => Some(Verse {
-            content: "",
+            content: "Whatsoeuer shall touch the flesh thereof, shalbe holy: and when there is sprinckled of the blood thereof vpon any garment, thou shalt wash that whereon it was sprinckled, in the holy place.",
         }),
 
         ("leviticus", 6, 28) => Some(Verse {
-            content: "",
+            content: "But the earthen vessell wherein it is sodden, shall be broken: And if it be sodden in a brasen pot, it shall be both scowred, and rinsed in water.",
         }),
 
         ("leviticus", 6, 29) => Some(Verse {
-            content: "",
+            content: "All the males among the Priests shall eate thereof: it is most holy.",
         }),
 
         ("leviticus", 6, 30) => Some(Verse {
-            content: "",
+            content: "And no sinne offering whereof any of the blood is brought into the Tabernacle of the Congregation to reconcile withall in the holy place, shall be eaten: it shall be burnt in the fire.",
         }),
 
         ("leviticus", 7, 1) => Some(Verse {
-            content: "",
+            content: "Likewise this is the lawe of the trespasse offering: it is most holy.",
         }),
 
         ("leviticus", 7, 2) => Some(Verse {
-            content: "",
+            content: "In the place where they kil the burnt offring, shall they kil the trespasse offering; and the blood thereof shall hee sprinckle round about vpon the Altar.",
         }),
 
         ("leviticus", 7, 3) => Some(Verse {
-            content: "",
+            content: "And he shall offer of it, all the fat thereof; the rumpe, and the fat that couereth the inwards,",
         }),
 
         ("leviticus", 7, 4) => Some(Verse {
-            content: "",
+            content: "And the two kidneys, and the fat that is on them, which is by the flankes, and the caule that is aboue the liuer, with the kidneys, it shall he take away.",
         }),
 
         ("leviticus", 7, 5) => Some(Verse {
-            content: "",
+            content: "And the Priest shall burne them vpon the Altar, for an offering made by fire vnto the Lord: it is a trespasse offering.",
         }),
 
         ("leviticus", 7, 6) => Some(Verse {
-            content: "",
+            content: "Euery male among the Priestes shall eate thereof: it shall be eaten in the holy place: it is most holy.",
         }),
 
         ("leviticus", 7, 7) => Some(Verse {
-            content: "",
+            content: "As the sinne offering is, so is the trespasse offering: there is one law for them: the Priest that maketh atonement therewith, shall haue it.",
         }),
 
         ("leviticus", 7, 8) => Some(Verse {
-            content: "",
+            content: "And the Priest that offereth any mans burnt offering, euen the Priest shall haue to himselfe the skinne of the burnt offering which he hath offered.",
         }),
 
         ("leviticus", 7, 9) => Some(Verse {
-            content: "",
+            content: "And all the meate offering that is baken in the ouen, and all that is dressed in the frying panne, and in the panne, shall be the Priests that offereth it.",
         }),
 
         ("leviticus", 7, 10) => Some(Verse {
-            content: "",
+            content: "And euery meate offering mingled with oyle, and drie, shall all the sonnes of Aaron haue, one as much as another.",
         }),
 
         ("leviticus", 7, 11) => Some(Verse {
-            content: "",
+            content: "And this is the law of the sacrifice of peace offerings, which he shall offer vnto the Lord.",
         }),
 
         ("leviticus", 7, 12) => Some(Verse {
-            content: "",
+            content: "If hee offer it for a thankesgiuing, then he shall offer with the sacrifice of thankesgiuing vnleauened cakes mingled with oyle, and vnleauened wafers anointed with oile, and cakes mingled with oyle of fine flowre fried.",
         }),
 
         ("leviticus", 7, 13) => Some(Verse {
-            content: "",
+            content: "Besides the cakes, hee shall offer for his offring leauened bread, with the sacrifice of thankesgiuing of his peace offerings.",
         }),
 
         ("leviticus", 7, 14) => Some(Verse {
-            content: "",
+            content: "And of it he shall offer one out of the whole oblation, for an heaue offering vnto the Lord, and it shall bee the Priests that sprinkleth the blood of the peace offerings.",
         }),
 
         ("leviticus", 7, 15) => Some(Verse {
-            content: "",
+            content: "And the flesh of the sacrifice of his peace offerings for thankesgiuing, shall be eaten the same day that it is offered: he shall not leaue any of it vntill the morning.",
         }),
 
         ("leviticus", 7, 16) => Some(Verse {
-            content: "",
+            content: "But if the sacrifice of his offering be a vow, or a voluntary offering, it shall be eaten the same day that he offereth his sacrifice: and on the morrowe also the remainder of it shall be eaten.",
         }),
 
         ("leviticus", 7, 17) => Some(Verse {
-            content: "",
+            content: "But the remainder of the flesh of the sacrifice on the third day shall bee burnt with fire.",
         }),
 
         ("leviticus", 7, 18) => Some(Verse {
-            content: "",
+            content: "And if any of the flesh of the sacrifice of his peace offerings be eaten at all on the third day, it shall not be accepted, neither shal it be imputed vnto him that offereth it: it shall be an abomination, and the soule that eateth of it, shall beare his iniquitie.",
         }),
 
         ("leviticus", 7, 19) => Some(Verse {
-            content: "",
+            content: "And the flesh that toucheth any vncleane thing, shal not be eaten: it shal be burnt with fire, and as for the flesh, all that be cleane shall eate thereof.",
         }),
 
         ("leviticus", 7, 20) => Some(Verse {
-            content: "",
+            content: "But the soule that eateth of the flesh of the sacrifice of peace offerings, that pertaine vnto the Lord, hauing his vncleanesse vpon him, euen that soule shall be cut off from his people.",
         }),
 
         ("leviticus", 7, 21) => Some(Verse {
-            content: "",
+            content: "Moreouer, the soule that shall touch any vncleane thing, as the vncleannesse of man, or any vncleane beast, or any abominable vncleane thing, and eate of the flesh of the sacrifice of peace offerings which pertaine vnto the Lord, euen that soule shall be cut off from his people.",
         }),
 
         ("leviticus", 7, 22) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 7, 23) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, saying, Ye shall eat no maner fat of oxe, or of sheepe, or of goat.",
         }),
 
         ("leviticus", 7, 24) => Some(Verse {
-            content: "",
+            content: "And the fat of the beast that dieth of it selfe, and the fat of that which is torne with beasts, may be vsed in any other vse: but yee shall in no wise eate of it.",
         }),
 
         ("leviticus", 7, 25) => Some(Verse {
-            content: "",
+            content: "For whosoeuer eateth the fat of the beast, of which men offer an offring made by fire vnto the Lord, euen the soule that eateth it, shall be cut off from his people.",
         }),
 
         ("leviticus", 7, 26) => Some(Verse {
-            content: "",
+            content: "Moreouer ye shall eat no maner of blood, whether it bee of foule or of beast in any of your dwellings.",
         }),
 
         ("leviticus", 7, 27) => Some(Verse {
-            content: "",
+            content: "Whatsoeuer soule it be that eateth any maner of blood, euen that soule shalbe cut off from his people.",
         }),
 
         ("leviticus", 7, 28) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 7, 29) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, saying, Hee that offereth the sacrifice of his peace offerings vnto the Lord, shall bring his oblation vnto the Lord, of the sacrifice of his peaceofferings.",
         }),
 
         ("leviticus", 7, 30) => Some(Verse {
-            content: "",
+            content: "His owne hands shall bring the offerings of the Lord made by fire, the fat with the brest, it shall hee bring, that the brest may be waued for a waue offering before the Lord.",
         }),
 
         ("leviticus", 7, 31) => Some(Verse {
-            content: "",
+            content: "And the Priest shall burne the fat vpon the Altar: but the brest shalbe Aarons and his sonnes.",
         }),
 
         ("leviticus", 7, 32) => Some(Verse {
-            content: "",
+            content: "And the right shoulder shall ye giue vnto the Priest for an heaue offering of the sacrifices of your peace offerings.",
         }),
 
         ("leviticus", 7, 33) => Some(Verse {
-            content: "",
+            content: "Hee among the sonnes of Aaron that offereth the blood of the peace offerings, and the fat, shall haue the right shoulder for his part.",
         }),
 
         ("leviticus", 7, 34) => Some(Verse {
-            content: "",
+            content: "For the waue brest and the heaue shoulder haue I taken of the children of Israel, from off the sacrifices of their peace offerings, and haue giuen them vnto Aaron the Priest, and vnto his sonnes, by a statute for euer, from among the children of Israel.",
         }),
 
         ("leviticus", 7, 35) => Some(Verse {
-            content: "",
+            content: "This is the portion of the anointing of Aaron, and of the anointing of his sonnes, out of the offerings of the Lord made by fire, in the day when he presented them, to minister vnto the Lord in the Priests office:",
         }),
 
         ("leviticus", 7, 36) => Some(Verse {
-            content: "",
+            content: "Which the Lord commanded to be giuen them of the children of Israel, in the day that hee anointed them, by a statute for euer, throughout their generations.",
         }),
 
         ("leviticus", 7, 37) => Some(Verse {
-            content: "",
+            content: "This is the law of the burnt offering, of the meate offering, and of the sinne offering, and of the trespasse offering, and of the consecrations, and of the sacrifice of the peace offerings:",
         }),
 
         ("leviticus", 7, 38) => Some(Verse {
-            content: "",
+            content: "Which the Lord commanded Moses in mount Sinai, in the day that he commanded the children of Israel to offer their oblations vnto the Lord, in the wildernesse of Sinai.",
         }),
 
         ("leviticus", 8, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 8, 2) => Some(Verse {
-            content: "",
+            content: "Take Aaron and his sonnes with him, and the garments, and the anointing oyle, and a bullocke for the sinne offering, and two rammes, and a basket of vnleauened bread.",
         }),
 
         ("leviticus", 8, 3) => Some(Verse {
-            content: "",
+            content: "And gather thou all the Congregation together vnto the doore of the Tabernacle of the Congregation.",
         }),
 
         ("leviticus", 8, 4) => Some(Verse {
-            content: "",
+            content: "And Moses did as the Lord commanded him, & the assembly was gathered together vnto the doore of the Tabernacle of the Congregation.",
         }),
 
         ("leviticus", 8, 5) => Some(Verse {
-            content: "",
+            content: "And Moses saide vnto the Congregation, This is the thing which the Lord commanded to be done.",
         }),
 
         ("leviticus", 8, 6) => Some(Verse {
-            content: "",
+            content: "And Moses brought Aaron and his sonnes, and washed them with water.",
         }),
 
         ("leviticus", 8, 7) => Some(Verse {
-            content: "",
+            content: "And he put vpon him the coate, and girded him with the girdle, and clothed him with the robe, and put the Ephod vpon him, and he girded him with the curious girdle of the Ephod, and bound it vnto him therewith.",
         }),
 
         ("leviticus", 8, 8) => Some(Verse {
-            content: "",
+            content: "And hee put the brest plate vpon him: also he put in the brest plate the Urim and the Thummim.",
         }),
 
         ("leviticus", 8, 9) => Some(Verse {
-            content: "",
+            content: "And he put the miter vpon his head; also vpon the miter, euen vpon his forefront did hee put the golden plate, the holy crowne, as the Lord commanded Moses.",
         }),
 
         ("leviticus", 8, 10) => Some(Verse {
-            content: "",
+            content: "And Moses tooke the anointing oile, and anointed the tabernacle and all that was therein, and sanctified them.",
         }),
 
         ("leviticus", 8, 11) => Some(Verse {
-            content: "",
+            content: "And he sprinkled thereof vpon the altar seuen times, and anointed the altar and all his vessels, both the lauer and his foot, to sanctifie them.",
         }),
 
         ("leviticus", 8, 12) => Some(Verse {
-            content: "",
+            content: "And he powred of the anointing oile vpon Aarons head, and anointed him, to sanctifie him.",
         }),
 
         ("leviticus", 8, 13) => Some(Verse {
-            content: "",
+            content: "And Moses brought Aarons sonnes, and put coats vpon them, and girded them with girdles, and put bonnets vpon them, as the Lord commanded Moses.",
         }),
 
         ("leviticus", 8, 14) => Some(Verse {
-            content: "",
+            content: "And he brought the bullocke for the sinne offering, and Aaron and his sonnes laid their hands vpon the head of the bullocke for the sinne offering.",
         }),
 
         ("leviticus", 8, 15) => Some(Verse {
-            content: "",
+            content: "And he slew it, and Moses tooke the blood, and put it vpon the hornes of the altar round about with his finger, and purified the altar, and powred the blood at the bottome of the altar, and sanctified it, to make reconciliation vpon it.",
         }),
 
         ("leviticus", 8, 16) => Some(Verse {
-            content: "",
+            content: "And he tooke all the fat that was vpon the inwards, and the kall aboue the liuer, and the two kidneis, and their fat, and Moses burned it vpon the Altar.",
         }),
 
         ("leviticus", 8, 17) => Some(Verse {
-            content: "",
+            content: "But the bullocke, and his hide, his flesh and his doung, he burnt with fire without the campe, as the Lord commanded Moses.",
         }),
 
         ("leviticus", 8, 18) => Some(Verse {
-            content: "",
+            content: "And he brought the ramme for the burnt offring: and Aaron and his sonnes laid their hands vpon the head of the ramme.",
         }),
 
         ("leviticus", 8, 19) => Some(Verse {
-            content: "",
+            content: "And he killed it, and Moses sprinkled the blood vpon the Altar round about.",
         }),
 
         ("leviticus", 8, 20) => Some(Verse {
-            content: "",
+            content: "And he cut the ramme into pieces, and Moses burnt the head, and the pieces, and the fat.",
         }),
 
         ("leviticus", 8, 21) => Some(Verse {
-            content: "",
+            content: "And he washed the inwards and the legges in water, and Moses burnt the whole ramme vpon the Altar: It was a burnt sacrifice for a sweet sauour, and an offering made by fire vnto the Lord, as the Lord commanded Moses.",
         }),
 
         ("leviticus", 8, 22) => Some(Verse {
-            content: "",
+            content: "And hee brought the other ramme, the ramme of consecration: and Aaron and his sonnes layd their hands vpon the head of the ramme.",
         }),
 
         ("leviticus", 8, 23) => Some(Verse {
-            content: "",
+            content: "And he slew it, and Moses tooke of the blood of it, and put it vpon the tip of Aarons right eare, and vpon the thumbe of his right hand, and vpon the great toe of his right foot.",
         }),
 
         ("leviticus", 8, 24) => Some(Verse {
-            content: "",
+            content: "And he brought Aarons sonnes, and Moses put of the blood vpon the tippe of their right eare, and vpon the thumbs of their right hands, and vpon the great toes of their right feete: and Moses sprinkled the blood vpon the Altar round about.",
         }),
 
         ("leviticus", 8, 25) => Some(Verse {
-            content: "",
+            content: "And hee tooke the fat, and the rumpe, and all the fat that was vpon the inwards, and the caule aboue the liuer, and the two kidneys and their fat, and the right shoulder.",
         }),
 
         ("leviticus", 8, 26) => Some(Verse {
-            content: "",
+            content: "And out of the basket of vnleauened bread, that was before the Lord, he tooke one vnleauened cake, and a cake of oyled bread, and one wafer, and put them on the fat, and vpon the right shoulder.",
         }),
 
         ("leviticus", 8, 27) => Some(Verse {
-            content: "",
+            content: "And hee put all vpon Aarons hands, and vpon his sonnes hands, and waued them for a waue offering before the Lord.",
         }),
 
         ("leviticus", 8, 28) => Some(Verse {
-            content: "",
+            content: "And Moses tooke them from off their hands, and burnt them on the Altar, vpon the burnt offering: They were consecrations for a sweet sauour: It is an offering made by fire vnto the Lord.",
         }),
 
         ("leviticus", 8, 29) => Some(Verse {
-            content: "",
+            content: "And Moses tooke the brest, and waued it for a waue offering before the Lord: For of the ramme of consecration it was Moses part, as the Lord commanded Moses.",
         }),
 
         ("leviticus", 8, 30) => Some(Verse {
-            content: "",
+            content: "And Moses tooke of the anoynting oyle, and of the blood which was vpon the Altar, and sprinckled it vpon Aaron, and vpon his garments, and vpon his sonnes, and vpon his sunnes garments with him: and sanctified Aaron, and his garments, and his sonnes, and his sonnes garments with him.",
         }),
 
         ("leviticus", 8, 31) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto Aaron and to his sonnes, Boile the flesh at the doore of the Tabernacle of the Congregation: and there eat it with the bread that is in the basket of consecrations, as I commanded, saying, Aaron and his sonnes shall eat it.",
         }),
 
         ("leviticus", 8, 32) => Some(Verse {
-            content: "",
+            content: "And that which remaineth of the flesh, and of the bread, shall yee burne with fire.",
         }),
 
         ("leviticus", 8, 33) => Some(Verse {
-            content: "",
+            content: "And ye shall not goe out of the doore of the Tabernacle of the Congregation in seuen dayes, vntill the dayes of your consecration be at an end: for seuen dayes shall he consecrate you.",
         }),
 
         ("leviticus", 8, 34) => Some(Verse {
-            content: "",
+            content: "As he hath done this day, so the Lord hath commanded to doe, to make an atonement for you.",
         }),
 
         ("leviticus", 8, 35) => Some(Verse {
-            content: "",
+            content: "Therefore shall ye abide at the doore of the Tabernacle of the Congregation day and night, seuen dayes, and keepe the charge of the Lord, that ye die not: for so I am commanded.",
         }),
 
         ("leviticus", 8, 36) => Some(Verse {
-            content: "",
+            content: "So Aaron and his sonnes did all things which the Lord commanded by the hand of Moses.",
         }),
 
         ("leviticus", 9, 1) => Some(Verse {
-            content: "",
+            content: "And it came to passe on the eight day, that Moses called Aaron and his sonnes, and the elders of Israel.",
         }),
 
         ("leviticus", 9, 2) => Some(Verse {
-            content: "",
+            content: "And hee saide vnto Aaron, Take thee a yong calfe for a sinne offering, and a ramme for a burnt offering, without blemish, and offer them before the Lord.",
         }),
 
         ("leviticus", 9, 3) => Some(Verse {
-            content: "",
+            content: "And vnto the children of Israel thou shalt speake, saying, Take ye a kid of the goats, for a sinne offering, and a calfe, and a lambe, both of the first yeere without blemish, for a burnt offering.",
         }),
 
         ("leviticus", 9, 4) => Some(Verse {
-            content: "",
+            content: "Also a bullocke and a ramme, for peace offerings, to sacrifice before the Lord, and a meat offring mingled with oyle: for to day the Lord will appeare vnto you.",
         }),
 
         ("leviticus", 9, 5) => Some(Verse {
-            content: "",
+            content: "And they brought that which Moses commanded, before the Tabernacle of the Congregation: and all the Congregation drew neere and stood before the Lord.",
         }),
 
         ("leviticus", 9, 6) => Some(Verse {
-            content: "",
+            content: "And Moses said, This is the thing which the Lord commanded that ye should doe: and the glory of the Lord shall appeare vnto you.",
         }),
 
         ("leviticus", 9, 7) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto Aaron, Goe vnto the Altar, and offer thy sinne offering, and thy burnt offering, and make an atonement for thy selfe, and for the people: and offer the offering of the people, and make an atonement for them, as the Lord commanded.",
         }),
 
         ("leviticus", 9, 8) => Some(Verse {
-            content: "",
+            content: "Aaron therefore went vnto the Altar, and slew the calfe of the sinne offering, which was for himselfe.",
         }),
 
         ("leviticus", 9, 9) => Some(Verse {
-            content: "",
+            content: "And the sonnes of Aaron brought the blood vnto him, and he dipt his finger in the blood, and put it vpon the hornes of the Altar, and powred out the blood at the bottome of the Altar.",
         }),
 
         ("leviticus", 9, 10) => Some(Verse {
-            content: "",
+            content: "But the fat and the kidneys, and the caule aboue the liuer of the sinne offering he burnt vpon the Altar, as the Lord commanded Moses.",
         }),
 
         ("leviticus", 9, 11) => Some(Verse {
-            content: "",
+            content: "And the flesh and the hide he burnt with fire, without the campe.",
         }),
 
         ("leviticus", 9, 12) => Some(Verse {
-            content: "",
+            content: "And hee slew the burnt offering, and Aarons sonnes presented vnto him the blood, which he sprinckled round about vpon the Altar.",
         }),
 
         ("leviticus", 9, 13) => Some(Verse {
-            content: "",
+            content: "And they presented the burnt offering vnto him, with the pieces thereof, and the head: and he burnt them vpon the Altar.",
         }),
 
         ("leviticus", 9, 14) => Some(Verse {
-            content: "",
+            content: "And he did wash the inwards, and the legs, and burnt them vpon the burnt offering on the Altar.",
         }),
 
         ("leviticus", 9, 15) => Some(Verse {
-            content: "",
+            content: "And he brought the peoples offering, and tooke the goat, which was the sinne offering for the people, and slew it, and offered it for sinne, as the first.",
         }),
 
         ("leviticus", 9, 16) => Some(Verse {
-            content: "",
+            content: "And he brought the burnt offring, and offered it according to the maner.",
         }),
 
         ("leviticus", 9, 17) => Some(Verse {
-            content: "",
+            content: "And he brought the meat offring, and tooke an handfull thereof, and burnt it vpon the Altar, beside the burnt sacrifice of the morning.",
         }),
 
         ("leviticus", 9, 18) => Some(Verse {
-            content: "",
+            content: "He slew also the bullocke and the ramme, for a sacrifice of peace offerings, which was for the people: And Aarons sonnes presented vnto him the blood, (which hee sprinckled vpon the Altar round about)",
         }),
 
         ("leviticus", 9, 19) => Some(Verse {
-            content: "",
+            content: "And the fat of the bullocke and of the ramme, the rumpe, and that which couereth the inwards, and the kidneys, and the caule aboue the liuer,",
         }),
 
         ("leviticus", 9, 20) => Some(Verse {
-            content: "",
+            content: "And they put the fat vpon the brests, & he burnt the fat vpon the altar:",
         }),
 
         ("leviticus", 9, 21) => Some(Verse {
-            content: "",
+            content: "And the breasts and the right shoulder, Aaron waued for a waue offering before the Lord, as Moses commanded.",
         }),
 
         ("leviticus", 9, 22) => Some(Verse {
-            content: "",
+            content: "And Aaron lift up his hand towards the people, and blessed them, and came downe from offering of the sinne offering, and the burnt offering, and peace offerings.",
         }),
 
         ("leviticus", 9, 23) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron went into the Tabernacle of the Congregation, and came out, and blessed the people: and the glory of the Lord appeared vnto all the people.",
         }),
 
         ("leviticus", 9, 24) => Some(Verse {
-            content: "",
+            content: "And there came a fire out from before the Lord, and consumed vpon the Altar the burnt offering, and the fat: which when all the people saw, they shouted, and fell on their faces.",
         }),
 
         ("leviticus", 10, 1) => Some(Verse {
-            content: "",
+            content: "And Nadab and Abihu, the sonnes of Aaron, tooke either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the Lord, which hee commaunded them not.",
         }),
 
         ("leviticus", 10, 2) => Some(Verse {
-            content: "",
+            content: "And there went out fire from the Lord and deuoured them, and they died before the Lord.",
         }),
 
         ("leviticus", 10, 3) => Some(Verse {
-            content: "",
+            content: "Then Moses said vnto Aaron, This is it that the Lord spake, saying, I will bee sanctified in them that come nigh me, and before all the people I will be glorified: And Aaron held his peace.",
         }),
 
         ("leviticus", 10, 4) => Some(Verse {
-            content: "",
+            content: "And Moses called Mishael and Elzaphan the sonnes of Uzziel, the vncle of Aaron, and said vnto them, Come neere, cary your brethren from before the Sanctuary, out of the campe.",
         }),
 
         ("leviticus", 10, 5) => Some(Verse {
-            content: "",
+            content: "So they went neere, and caried them in their coats out of the campe, as Moses had said.",
         }),
 
         ("leviticus", 10, 6) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto Aaron, and vnto Eleazar and vnto Ithamar his sonnes, Uncouer not your heads, neither rend your clothes, lest you die, and lest wrath come vpon all the people: But let your brethren, the whole house of Israel, bewaile the burning which the Lord hath kindled.",
         }),
 
         ("leviticus", 10, 7) => Some(Verse {
-            content: "",
+            content: "And ye shal not goe out from the doore of the Tabernacle of the Congregation, lest you die: for the anointing oyle of the Lord is vpon you: and they did according to the word of Moses.",
         }),
 
         ("leviticus", 10, 8) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Aaron, saying,",
         }),
 
         ("leviticus", 10, 9) => Some(Verse {
-            content: "",
+            content: "Doe not drinke wine nor strong drinke, thou, nor thy sonnes with thee, when ye goe into the Tabernacle of the Congregation, lest yee die: It shall bee a statute for euer, throughout your generations:",
         }),
 
         ("leviticus", 10, 10) => Some(Verse {
-            content: "",
+            content: "And that ye may put difference betweene holy and vnholy, and betweene vncleane and cleane:",
         }),
 
         ("leviticus", 10, 11) => Some(Verse {
-            content: "",
+            content: "And that ye may teach the children of Israel all the statutes which the Lord hath spoken vnto them by the hand of Moses.",
         }),
 
         ("leviticus", 10, 12) => Some(Verse {
-            content: "",
+            content: "And Moses spake vnto Aaron, and vnto Eleazar and vnto Ithamar his sonnes that were left, Take the meate offering that remaineth of the offerings of the Lord made by fire, and eate it without leauen, beside the altar: for it is most holy.",
         }),
 
         ("leviticus", 10, 13) => Some(Verse {
-            content: "",
+            content: "And ye shal eat it in the holy place, because it is thy due, and thy sonnes due of the sacrifices of the Lord, made by fire: for so I am commanded.",
         }),
 
         ("leviticus", 10, 14) => Some(Verse {
-            content: "",
+            content: "And the waue breast and heaue shoulder shall ye eate in a cleane place, thou, and thy sonnes, and thy daughters with thee: For they be thy due and thy sonnes due, which are giuen out of the sacrifice of peace offerings, of the children of Israel.",
         }),
 
         ("leviticus", 10, 15) => Some(Verse {
-            content: "",
+            content: "The heaue shoulder, and the waue breast shal they bring, with the offrings made by fire of the fat, to waue it for a waue offering before the Lord: and it shall bee thine, and thy sonnes with thee, by a statute for euer, as the Lord hath commanded.",
         }),
 
         ("leviticus", 10, 16) => Some(Verse {
-            content: "",
+            content: "And Moses diligently sought the goate of the sinne offering, and behold, it was burnt: and he was angry with Eleazar and Ithamar, the sonnes of Aaron, which were left aliue, saying,",
         }),
 
         ("leviticus", 10, 17) => Some(Verse {
-            content: "",
+            content: "Wherefore haue ye not eaten the sinne offering in the holy place, seeing it is most holy, and God hath giuen it you to beare the iniquitie of the Congregation, to make atonement for them, before the Lord?",
         }),
 
         ("leviticus", 10, 18) => Some(Verse {
-            content: "",
+            content: "Behold, the blood of it was not brought in, within the holy place: yee should indeed haue eaten it in the holy place, as I commanded.",
         }),
 
         ("leviticus", 10, 19) => Some(Verse {
-            content: "",
+            content: "And Aaron said vnto Moses, Behold, this day haue they offered their sinne offering, and their burnt offering before the Lord: and such things haue befallen me: and if I had eaten the sinne offering to day, should it haue bin accepted in the sight of the Lord?",
         }),
 
         ("leviticus", 10, 20) => Some(Verse {
-            content: "",
+            content: "And when Moses heard that, he was content.",
         }),
 
         ("leviticus", 11, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, and to Aaron, saying vnto them,",
         }),
 
         ("leviticus", 11, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, saying, These are the beasts which ye shal eat among all the beasts that are on the earth:",
         }),
 
         ("leviticus", 11, 3) => Some(Verse {
-            content: "",
+            content: "Whatsoever parteth the hoofe, and is clouen footed, & cheweth cud among the beasts, that shall ye eate.",
         }),
 
         ("leviticus", 11, 4) => Some(Verse {
-            content: "",
+            content: "Neuerthelesse, these shall ye not eate, of them that chewe the cud, or of them that diuide the hoofe: as the camel, because hee cheweth the cud, but diuideth not the hoofe, he is vncleane vnto you.",
         }),
 
         ("leviticus", 11, 5) => Some(Verse {
-            content: "",
+            content: "And the conie, because he cheweth the cud, but diuideth not the hoofe, he is vncleane vnto you.",
         }),
 
         ("leviticus", 11, 6) => Some(Verse {
-            content: "",
+            content: "And the hare, because he cheweth the cud, but diuideth not the hoofe, he is vncleane vnto you.",
         }),
 
         ("leviticus", 11, 7) => Some(Verse {
-            content: "",
+            content: "And the swine, though he diuide the hoofe, and be clouen footed, yet hee cheweth not the cud: he is vncleane to you.",
         }),
 
         ("leviticus", 11, 8) => Some(Verse {
-            content: "",
+            content: "Of their flesh shall ye not eat, and their carcase shall ye not touch: they are vncleane to you.",
         }),
 
         ("leviticus", 11, 9) => Some(Verse {
-            content: "",
+            content: "These shal ye eat, of all that are in the waters: whatsoeuer hath finnes and scales in the waters, in the seas, and in the riuers, them shall ye eate.",
         }),
 
         ("leviticus", 11, 10) => Some(Verse {
-            content: "",
+            content: "And all that haue not finnes nor scales in the seas, and in the riuers, of all that moue in the waters, and of any liuing thing which is in the waters, they shalbe an abomination vnto you:",
         }),
 
         ("leviticus", 11, 11) => Some(Verse {
-            content: "",
+            content: "They shalbe euen an abomination vnto you: ye shall not eat of their flesh, but you shall haue their carcases in abomination.",
         }),
 
         ("leviticus", 11, 12) => Some(Verse {
-            content: "",
+            content: "Whatsoeuer hath no finnes nor scales in the waters, that shalbe an abomination vnto you.",
         }),
 
         ("leviticus", 11, 13) => Some(Verse {
-            content: "",
+            content: "And these are they which ye shall haue in abomination among the foules, they shall not be eaten, they are an abomination: The Eagle, and the Ossifrage, and the Ospray,",
         }),
 
         ("leviticus", 11, 14) => Some(Verse {
-            content: "",
+            content: "And the Uulture, and the Kite, after his kinde:",
         }),
 
         ("leviticus", 11, 15) => Some(Verse {
-            content: "",
+            content: "Euery Rauen after his kinde:",
         }),
 
         ("leviticus", 11, 16) => Some(Verse {
-            content: "",
+            content: "And the Owle, and the nighthauke, & the Cuckow, and the Hawke after his kinde,",
         }),
 
         ("leviticus", 11, 17) => Some(Verse {
-            content: "",
+            content: "And the little Owle, and the Cormorant, and the great Owle,",
         }),
 
         ("leviticus", 11, 18) => Some(Verse {
-            content: "",
+            content: "And the Swanne, and the Pellicane, and the Gier-eagle,",
         }),
 
         ("leviticus", 11, 19) => Some(Verse {
-            content: "",
+            content: "And the Storke, the Heron after her kinde, and the Lapwing, and the Batte.",
         }),
 
         ("leviticus", 11, 20) => Some(Verse {
-            content: "",
+            content: "All foules that creepe, going vpon all foure, shalbe an abomination vnto you.",
         }),
 
         ("leviticus", 11, 21) => Some(Verse {
-            content: "",
+            content: "Yet these may ye eat, of euery flying creeping thing that goeth vpon all foure, which haue legges aboue their feet, to leape withall vpon the earth.",
         }),
 
         ("leviticus", 11, 22) => Some(Verse {
-            content: "",
+            content: "Euen these of them ye may eate: the Locust, after his kinde, and the Bald-locust after his kinde, and the Beetle after his kinde, and the Grassehopper after his kinde.",
         }),
 
         ("leviticus", 11, 23) => Some(Verse {
-            content: "",
+            content: "But al other flying creeping things which haue foure feet, shall be an abomination vnto you.",
         }),
 
         ("leviticus", 11, 24) => Some(Verse {
-            content: "",
+            content: "And for these ye shalbe vncleane: whosoeuer toucheth the carkasse of them, shall be vncleane vntill the euen.",
         }),
 
         ("leviticus", 11, 25) => Some(Verse {
-            content: "",
+            content: "And whosoeuer beareth ought of the carkasse of them, shall wash his clothes, & be vncleane vntill the euen.",
         }),
 
         ("leviticus", 11, 26) => Some(Verse {
-            content: "",
+            content: "The carkasses of euery beast which diuideth the hoofe, and is not clouen footed, nor cheweth the cud, are vncleane vnto you: euery one that toucheth them, shalbe vncleane.",
         }),
 
         ("leviticus", 11, 27) => Some(Verse {
-            content: "",
+            content: "And whatsoeuer goeth vpon his pawes, among all maner of beasts, that goe on all foure, those are vncleane vnto you: who so toucheth their carkasse, shall be vncleane vntill the Euen.",
         }),
 
         ("leviticus", 11, 28) => Some(Verse {
-            content: "",
+            content: "And he that beareth the carkasse of them, shall wash his clothes, and be vncleane vntill the Euen: they are vncleane vnto you.",
         }),
 
         ("leviticus", 11, 29) => Some(Verse {
-            content: "",
+            content: "These also shalbe vncleane vnto you, among the creeping things that creepe vpon the earth: the Weasell, and the Mouse, and the Tortois, after his kinde,",
         }),
 
         ("leviticus", 11, 30) => Some(Verse {
-            content: "",
+            content: "And the Ferret, and the Cameleon, and the Lyzard, and the Snaile, and the Molle.",
         }),
 
         ("leviticus", 11, 31) => Some(Verse {
-            content: "",
+            content: "These are vncleane to you among all that creepe: whosoeuer doth touch them when they bee dead, shall be vncleane vntill the Euen.",
         }),
 
         ("leviticus", 11, 32) => Some(Verse {
-            content: "",
+            content: "And vpon whatsoeuer any of them, when they are dead, doeth fall, it shalbe vncleane, whether it be any vessel of wood, or raiment, or skinne, or sacke, whatsoeuer vessell it be, wherein any worke is done, it must be put into water, and it shall be vncleane vntill the Euen; so it shalbe cleansed.",
         }),
 
         ("leviticus", 11, 33) => Some(Verse {
-            content: "",
+            content: "And euery earthen vessel, whereinto any of them falleth, whatsoeuer is in it shall bee vncleane; and yee shall breake it.",
         }),
 
         ("leviticus", 11, 34) => Some(Verse {
-            content: "",
+            content: "Of all meat which may be eaten, that on which such water commeth, shall be vncleane: And all drinke that may be drunkein euery such vessell, shalbe vncleane.",
         }),
 
         ("leviticus", 11, 35) => Some(Verse {
-            content: "",
+            content: "And euery thing, whereupon any part of their carkasse falleth, shall be vncleane, whether it be ouen, or ranges for pots, they shalbe broken downe: for they are vncleane, and shall be vncleane vnto you.",
         }),
 
         ("leviticus", 11, 36) => Some(Verse {
-            content: "",
+            content: "Neuerthelesse, a fountaine or pit, wherein there is plenty of water, shalbe cleane: but that which toucheth their carkasse shalbe vncleane.",
         }),
 
         ("leviticus", 11, 37) => Some(Verse {
-            content: "",
+            content: "And if any part of their carkasse fall vpon any sowing seed which is to be sowen, it shalbe cleane:",
         }),
 
         ("leviticus", 11, 38) => Some(Verse {
-            content: "",
+            content: "But if any water be put vpon the seed, and any part of their carkasse fall thereon, it shalbe vncleane vnto you.",
         }),
 
         ("leviticus", 11, 39) => Some(Verse {
-            content: "",
+            content: "And if any beast of which ye may eat, die, he that toucheth the carkasse thereof, shall be vncleane vntill the Euen.",
         }),
 
         ("leviticus", 11, 40) => Some(Verse {
-            content: "",
+            content: "And hee that eateth of the carkasse of it, shall wash his clothes, and be vncleane vntil the Euen: he also that beareth the carkasse of it, shal wash his clothes, and bee vncleane vntill the Euen.",
         }),
 
         ("leviticus", 11, 41) => Some(Verse {
-            content: "",
+            content: "And euery creeping thing that creepeth vpon the earth, shalbe an abomination: it shall not be eaten.",
         }),
 
         ("leviticus", 11, 42) => Some(Verse {
-            content: "",
+            content: "Whatsoeuer goeth vpon the bellie, and whatsoeuer goeth vpon all foure, or whatsoeuer hath more feet among all creeping things that creepe vpon the earth, them ye shall not eate, for they are an abomination.",
         }),
 
         ("leviticus", 11, 43) => Some(Verse {
-            content: "",
+            content: "Yee shall not make your selues abominable with any creeping thing that creepeth, neither shall ye make your selues vncleane with them, that ye should be defiled thereby.",
         }),
 
         ("leviticus", 11, 44) => Some(Verse {
-            content: "",
+            content: "For I am the Lord your God: yee shall therefore sanctifie your selues, and ye shall be holy, for I am holy: neither shall ye defile your selues with any maner of creeping thing that creepeth vpon the earth.",
         }),
 
         ("leviticus", 11, 45) => Some(Verse {
-            content: "",
+            content: "For I am the Lord that bringeth you vp out of the land of Egypt to be your God: ye shal therefore be holy, for I am holy.",
         }),
 
         ("leviticus", 11, 46) => Some(Verse {
-            content: "",
+            content: "For I am the Lord that bringeth you vp out of the land of Egypt to be your God: ye shal therefore be holy, for I am holy.",
         }),
 
         ("leviticus", 11, 47) => Some(Verse {
-            content: "",
+            content: "For I am the Lord that bringeth you vp out of the land of Egypt to be your God: ye shal therefore be holy, for I am holy.",
         }),
 
         ("leviticus", 12, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 12, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, saying, If a woman haue conceiued seed, and borne a man child, then she shal be vncleane seuen dayes: according to the dayes of the separation for her infirmitie shall she be vncleane.",
         }),
 
         ("leviticus", 12, 3) => Some(Verse {
-            content: "",
+            content: "And in the eight day, the flesh of his foreskinne shall be circumcised.",
         }),
 
         ("leviticus", 12, 4) => Some(Verse {
-            content: "",
+            content: "And she shal then continue in the blood of her purifying three and thirtie dayes: Shee shall touch no hallowed thing, nor come into the Sanctuary, vntill the dayes of her purifying be fulfilled.",
         }),
 
         ("leviticus", 12, 5) => Some(Verse {
-            content: "",
+            content: "But if she beare a maid child, then she shalbe vncleane two weekes, as in her separation: and she shall continue in the blood of her purifying threescore and sixe dayes.",
         }),
 
         ("leviticus", 12, 6) => Some(Verse {
-            content: "",
+            content: "And when the dayes of her purifying are fulfilled, for a sonne, or for a daughter, she shall bring a lambe of the first yeere for a burnt offring, & a yong pigeon, or a turtle doue for a sinne offering, vnto the doore of the Tabernacle of the Congregation, vnto the Priest:",
         }),
 
         ("leviticus", 12, 7) => Some(Verse {
-            content: "",
+            content: "Who shall offer it before the Lord, and make an atonement for her, and she shall be cleansed from the issue of her blood. This is the law for her that hath borne a male or a female.",
         }),
 
         ("leviticus", 12, 8) => Some(Verse {
-            content: "",
+            content: "And if she be not able to bring a lambe, then she shall bring two turtles, or two yong pigeons, the one for the burnt offering, and the other for a sinne offering: and the Priest shall make an atonement for her, and shee shall bee cleane.",
         }),
 
         ("leviticus", 13, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses and Aaron, saying,",
         }),
 
         ("leviticus", 13, 2) => Some(Verse {
-            content: "",
+            content: "When a man shall haue in the skinne of his flesh, a rising, a scabbe, or bright spot, and it bee in the skinne of his flesh like the plague of leprosie, then he shall bee brought vnto Aaron the Priest, or vnto one of his sonnes the Priests.",
         }),
 
         ("leviticus", 13, 3) => Some(Verse {
-            content: "",
+            content: "And the Priest shall looke on the plague in the skinne of the flesh: and when the haire in the plague is turned white, and the plague in sight be deeper then the skin of his flesh, it is a plague of leprosie: and the Priest shall looke on him, and pronounce him vncleane.",
         }),
 
         ("leviticus", 13, 4) => Some(Verse {
-            content: "",
+            content: "If the bright spot be white in the skinne of his flesh, and in sight bee not deeper then the skinne, and the haire thereof be not turned white, then the Priest shall shut vp him that hath the plague, seuen dayes.",
         }),
 
         ("leviticus", 13, 5) => Some(Verse {
-            content: "",
+            content: "And the Priest shall looke on him the seuenth day: and beholde, if the plague in his sight be at a stay, and the plague spread not in the skinne, then the Priest shall shut him vp seuen dayes more.",
         }),
 
         ("leviticus", 13, 6) => Some(Verse {
-            content: "",
+            content: "And the Priest shall looke on him againe the seuenth day: and beholde, if the plague be somewhat darke, and the plague spread not in the skin; the Priest shall pronounce him cleane: it is but a scab: and he shall wash his clothes, and be cleane.",
         }),
 
         ("leviticus", 13, 7) => Some(Verse {
-            content: "",
+            content: "But if the scab spread much abroad in the skinne after that hee hath beene seene of the Priest, for his cleansing hee shall be seene of the Priest againe.",
         }),
 
         ("leviticus", 13, 8) => Some(Verse {
-            content: "",
+            content: "And if the Priest see, that behold, the scab spreadeth in the skin, then the Priest shall pronounce him vncleane: it is a leprosie.",
         }),
 
         ("leviticus", 13, 9) => Some(Verse {
-            content: "",
+            content: "When the plague of leprosie is in a man, then he shall be brought vnto the Priest;",
         }),
 
         ("leviticus", 13, 10) => Some(Verse {
-            content: "",
+            content: "And the Priest shall see him: and behold, if the rising be white in the skin, and it haue turned the haire white, and there be quicke raw flesh in the rising:",
         }),
 
         ("leviticus", 13, 11) => Some(Verse {
-            content: "",
+            content: "It is an old leprosie in the skinne of his flesh, and the Priest shall pronounce him vncleane, and shal not shut him vp: for he is vncleane.",
         }),
 
         ("leviticus", 13, 12) => Some(Verse {
-            content: "",
+            content: "And if a leprosie breake out abroad in the skin, and the leprosie couer all the skin of him that hath the plague, from his head euen to his foot, wheresoeuer the Priest looketh:",
         }),
 
         ("leviticus", 13, 13) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall consider: and behold, if the leprosie haue couered al his flesh, he shal pronounce him cleane that hath the plague, it is all turned white; he is cleane.",
         }),
 
         ("leviticus", 13, 14) => Some(Verse {
-            content: "",
+            content: "But when raw flesh appeareth in him, he shall be vncleane.",
         }),
 
         ("leviticus", 13, 15) => Some(Verse {
-            content: "",
+            content: "And the Priest shall see the raw flesh, and pronounce him to bee vncleane: for the raw flesh is vncleane: it is a leprosie.",
         }),
 
         ("leviticus", 13, 16) => Some(Verse {
-            content: "",
+            content: "Or if the raw flesh turne againe, and bee changed vnto white, hee shall come vnto the Priest:",
         }),
 
         ("leviticus", 13, 17) => Some(Verse {
-            content: "",
+            content: "And the Priest shall see him: and beholde, if the plague bee turned into white, then the Priest shall pronounce him cleane that hath the plague; hee is cleane.",
         }),
 
         ("leviticus", 13, 18) => Some(Verse {
-            content: "",
+            content: "The flesh also, in which, euen in the skinne thereof was a bile, and is healed,",
         }),
 
         ("leviticus", 13, 19) => Some(Verse {
-            content: "",
+            content: "And in the place of the bile there be a white rising, or a bright spot white, and somewhat reddish, and it be shewed to the Priest:",
         }),
 
         ("leviticus", 13, 20) => Some(Verse {
-            content: "",
+            content: "And if when the Priest seeth it, behold, it be in sight lower then the skinne, and the haire thereof be turned white, the Priest shall pronounce him vncleane: it is a plague of leprosie broken out of the bile.",
         }),
 
         ("leviticus", 13, 21) => Some(Verse {
-            content: "",
+            content: "But if the Priest looke on it, and behold, there be no white haires therein, and if it be not lower then the skin, but be somewhat darke; then the Priest shall shut him vp seuen dayes.",
         }),
 
         ("leviticus", 13, 22) => Some(Verse {
-            content: "",
+            content: "And if it spread much abroad in the skinne, then the Priest shall pronounce him vncleane; it is a plague.",
         }),
 
         ("leviticus", 13, 23) => Some(Verse {
-            content: "",
+            content: "But if the bright spot stay in his place, and spread not, it is a burning bile; and the Priest shall pronounce him cleane.",
         }),
 
         ("leviticus", 13, 24) => Some(Verse {
-            content: "",
+            content: "Or if there be any flesh in the skin whereof there is a hot burning, and the quicke flesh that burneth haue a white bright spot, somewhat reddish, or white;",
         }),
 
         ("leviticus", 13, 25) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall looke vpon it: and behold, if the haire in the bright spot be turned white, and it bee in sight deeper then the skinne, it is a leprosie broken out of the burning: wherefore the Priest shal pronounce him vncleane: it is the plague of leprosie.",
         }),
 
         ("leviticus", 13, 26) => Some(Verse {
-            content: "",
+            content: "But if the Priest looke on it, and behold, there be no white haire in the bright spot, and it be no lower then the other skin, but be somewhat darke, then the Priest shal shut him vp seuen dayes.",
         }),
 
         ("leviticus", 13, 27) => Some(Verse {
-            content: "",
+            content: "And the Priest shall looke vpon him the seuenth day: and if it be spread much abroad in the skin, then the Priest shall pronounce him vncleane; it is the plague of leprosie.",
         }),
 
         ("leviticus", 13, 28) => Some(Verse {
-            content: "",
+            content: "And if the bright spot stay in his place, and spread not in the skin, but it be somewhat darke; it is a rising of the burning, and the Priest shall pronounce him cleane: for it is an inflammation of the burning.",
         }),
 
         ("leviticus", 13, 29) => Some(Verse {
-            content: "",
+            content: "If a man or woman hath a plague vpon the head or the beard,",
         }),
 
         ("leviticus", 13, 30) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall see the plague: and behold, if it be in sight deeper then the skin, and there be in it a yellow thin haire, then the Priest shall pronounce him vncleane, it is a dry skall, euen a leprosie vpon the head or beard.",
         }),
 
         ("leviticus", 13, 31) => Some(Verse {
-            content: "",
+            content: "And if the Priest looke on the plague of the skall, and behold, it be not in sight deeper then the skin, and that there is no blacke haire in it; then the Priest shall shut vp him that hath the plague of the skall, seuen dayes.",
         }),
 
         ("leviticus", 13, 32) => Some(Verse {
-            content: "",
+            content: "And in the seuenth day the Priest shall looke on the plague: and behold, if the skall spread not, and there be in it no yellow haire, and the skall be not in sight deeper then the skin;",
         }),
 
         ("leviticus", 13, 33) => Some(Verse {
-            content: "",
+            content: "He shall be shauen, but the skall shall he not shaue: and the Priest shall shut vp him that hath the skall, seuen dayes more.",
         }),
 
         ("leviticus", 13, 34) => Some(Verse {
-            content: "",
+            content: "And in the seuenth day the Priest shall looke on the skall: and behold, if the skall be not spread in the skin, nor be in sight deeper then the skin, then the Priest shall pronounce him cleane: and he shall wash his clothes, and be cleane.",
         }),
 
         ("leviticus", 13, 35) => Some(Verse {
-            content: "",
+            content: "But if the skall spread much in the skinne after his cleansing,",
         }),
 
         ("leviticus", 13, 36) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall looke on him, and behold, if the skall be spread in the skinne, the Priest shall not seeke for yellow haire: he is vncleane.",
         }),
 
         ("leviticus", 13, 37) => Some(Verse {
-            content: "",
+            content: "But if the skall be in his sight at a stay, and that there is blacke haire growen vp therein: the skall is healed, he is cleane, and the Priest shall pronounce him cleane.",
         }),
 
         ("leviticus", 13, 38) => Some(Verse {
-            content: "",
+            content: "If a man also or a woman haue in the skinne of their flesh bright spots, euen white bright spots,",
         }),
 
         ("leviticus", 13, 39) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall looke: and behold, if the bright spots in the skinne of their flesh bee darkish white, it is a freckled spot that groweth in the skin: he is cleane.",
         }),
 
         ("leviticus", 13, 40) => Some(Verse {
-            content: "",
+            content: "And the man whose haire is fallen off his head, he is bald: yet is hee cleane.",
         }),
 
         ("leviticus", 13, 41) => Some(Verse {
-            content: "",
+            content: "And he that hath his haire fallen off from the part of his head toward his face, he is forehead-bald: yet is hee cleane.",
         }),
 
         ("leviticus", 13, 42) => Some(Verse {
-            content: "",
+            content: "And if there be in the bald head, or bald forehead a white reddish sore, it is a leprosie sprung vp in his bald-head, or his bald forehead.",
         }),
 
         ("leviticus", 13, 43) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall looke vpon it: and beholde, if the rising of the sore bee white reddish in his balde head, or in his bald forehead, as the leprosie appeareth in the skinne of the flesh,",
         }),
 
         ("leviticus", 13, 44) => Some(Verse {
-            content: "",
+            content: "Hee is a leprous man, he is vncleane: the Priest shall pronounce him vtterly vncleane, his plague is in his head.",
         }),
 
         ("leviticus", 13, 45) => Some(Verse {
-            content: "",
+            content: "And the leper in whom the plague is, his clothes shall be rent, and his head bare, and he shall put a couering vpon his vpper lip, and shall cry, Uncleane, vncleane.",
         }),
 
         ("leviticus", 13, 46) => Some(Verse {
-            content: "",
+            content: "All the dayes wherein the plague shall bee in him, he shall bee defiled, hee is vncleane: he shall dwell alone, without the campe shall his habitation be.",
         }),
 
         ("leviticus", 13, 47) => Some(Verse {
-            content: "",
+            content: "The garment also, that the plague of leprosie is in, whether it bee a woollen garment, or a linnen garment,",
         }),
 
         ("leviticus", 13, 48) => Some(Verse {
-            content: "",
+            content: "Whether it bee in the warpe, or woofe of linnen or of woollen, whether in a skin, or in any thing made of skinne:",
         }),
 
         ("leviticus", 13, 49) => Some(Verse {
-            content: "",
+            content: "And if the plague be greenish or reddish in the garment, or in the skin, either in the warpe, or in the woofe, or in any thing of skinne, it is a plague of leprosie, and shall be shewed vnto the Priest.",
         }),
 
         ("leviticus", 13, 50) => Some(Verse {
-            content: "",
+            content: "And the Priest shall looke vpon the plague, and shut vp it that hath the plague, seuen dayes.",
+        }),
+
+        ("leviticus", 13, 51) => Some(Verse {
+            content: "And he shall looke on the plague on the seuenth day: if the plague be spread in the garment, either in the warpe, or in the woofe, or in a skin, or in any worke that is made of skinne, the plague is a fretting leprosie; it is vncleane.",
         }),
 
         ("leviticus", 13, 52) => Some(Verse {
-            content: "",
+            content: "Hee shall therefore burne that garment, whether warpe or woofe, in wollen or in linnen, or any thing of skinne, wherein the plague is: for it is a fretting leprosie; it shall bee burnt in the fire.",
         }),
 
         ("leviticus", 13, 53) => Some(Verse {
-            content: "",
+            content: "And if the Priest shall looke, and behold the plague be not spread in the garment, either in the warpe, or in the woofe, or in any thing of skinne;",
         }),
 
         ("leviticus", 13, 54) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall command that they wash the thing wherein the plague is, and he shall shut it vp seuen dayes more.",
         }),
 
         ("leviticus", 13, 55) => Some(Verse {
-            content: "",
+            content: "And the Priest shall looke on the plague after that it is washed: and behold, if the plague haue not changed his colour, and the plague be not spread, it is vncleane, thou shalt burne it in the fire, it is fret inward, whether it be bare within or without.",
         }),
 
         ("leviticus", 13, 56) => Some(Verse {
-            content: "",
+            content: "And if the Priest looke, and behold, the plaine be somewhat darke after the washing of it, then he shall rend it out of the garment, or out of the skin, or out of the warpe, or out of the woofe.",
         }),
 
         ("leviticus", 13, 57) => Some(Verse {
-            content: "",
+            content: "And if it appeare still in the garment, either in the warpe, or in the woofe, or in any thing of skinne, it is a spreading plague, thou shalt burne that wherein the plague is, with fire.",
         }),
 
         ("leviticus", 13, 58) => Some(Verse {
-            content: "",
+            content: "And the garment, either warpe, or woofe, or whatsoeuer thing of skin it bee, which thou shalt wash, if the plague be departed from them, then it shall be washed the second time, and shalbe cleane.",
         }),
 
         ("leviticus", 13, 59) => Some(Verse {
-            content: "",
+            content: "This is the law of the plague of leprosie in a garment of woollen or linnen, either in the warpe, or woofe, or any thing of skinnes, to pronounce it cleane, or to pronounce it vncleane.",
         }),
 
         ("leviticus", 14, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 14, 2) => Some(Verse {
-            content: "",
+            content: "This shalbe the law of the leper, in the day of his cleansing: he shall be brought vnto the Priest.",
         }),
 
         ("leviticus", 14, 3) => Some(Verse {
-            content: "",
+            content: "And the Priest shall goe forth out of the campe, and the Priest shall looke: and beholde, if the plague of leprosie be healed in the leper,",
         }),
 
         ("leviticus", 14, 4) => Some(Verse {
-            content: "",
+            content: "Then shall the Priest command to take for him that is to bee cleansed, two birds aliue, and cleane, and Cedar wood, and scarlet, and hysope.",
         }),
 
         ("leviticus", 14, 5) => Some(Verse {
-            content: "",
+            content: "And the Priest shall command that one of the birds bee killed in an earthen vessell, ouer running water.",
         }),
 
         ("leviticus", 14, 6) => Some(Verse {
-            content: "",
+            content: "As for the liuing bird, he shal take it, and the Cedar wood, and the scarlet, and the hysope, and shall dip them and the liuing bird in the blood of the bird that was killed ouer the running water.",
         }),
 
         ("leviticus", 14, 7) => Some(Verse {
-            content: "",
+            content: "And he shall sprinckle vpon him that is to be cleansed from the leprosie, seuen times, and shall pronounce him cleane, and shall let the liuing bird loose into the open field.",
         }),
 
         ("leviticus", 14, 8) => Some(Verse {
-            content: "",
+            content: "And he that is to be cleansed shall wash his clothes, and shaue off all his haire, and wash himselfe in water, that he may be cleane: And after that hee shall come into the Campe, and shall tary abroad out of his tent seuen dayes.",
         }),
 
         ("leviticus", 14, 9) => Some(Verse {
-            content: "",
+            content: "But it shall be on the seuenth day, that he shall shaue all his haire off his head and his beard, and his eyebrowes, euen all his haire he shal shaue off: And he shall wash his clothes, also he shall wash his flesh in water, and he shall be cleane.",
         }),
 
         ("leviticus", 14, 10) => Some(Verse {
-            content: "",
+            content: "And on the eight day he shall take two hee lambes without blemish, and one ewe-lambe of the first yeere, without blemish, and three tenth deales of fine flowre for a meat offering, mingled with oyle, and one log of oyle.",
         }),
 
         ("leviticus", 14, 11) => Some(Verse {
-            content: "",
+            content: "And the Priest that maketh him cleane, shall present the man that is to be made cleane, and those things before the Lord, at the doore of the Tabernacle of the Congregation:",
         }),
 
         ("leviticus", 14, 12) => Some(Verse {
-            content: "",
+            content: "And the Priest shall take one hee lambe, and offer him for a trespasse offering, and the log of oile, and waue them for a waue offering before the Lord.",
         }),
 
         ("leviticus", 14, 13) => Some(Verse {
-            content: "",
+            content: "And he shall slay the lambe in the place where he shall kil the sin-offering, and the burnt offring in the holy place: for as the sinne offering is the Priests, so is the trespasse offering: it is most Holy.",
         }),
 
         ("leviticus", 14, 14) => Some(Verse {
-            content: "",
+            content: "And the Priest shall take some of the blood of the trespasse offering, and the Priest shall put it vpon the tip of the right eare of him that is to be cleansed, and vpon the thumbe of his right hand, and vpon the great toe of his right foot.",
         }),
 
         ("leviticus", 14, 15) => Some(Verse {
-            content: "",
+            content: "And the Priest shall take some of the log of oile, and powre it into the palme of his owne left hand:",
         }),
 
         ("leviticus", 14, 16) => Some(Verse {
-            content: "",
+            content: "And the Priest shall dip his right finger in the oile that is in his left hand, and shall sprinckle of the oile with his finger, seuen times before the Lord.",
         }),
 
         ("leviticus", 14, 17) => Some(Verse {
-            content: "",
+            content: "And of the rest of the oile that is in his hand, shall the Priest put vpon the tip of the right eare of him that is to be cleansed, and vpon the thumbe of his right hande, and vpon the great toe of his right foot, vpon the blood of the trespasse offering.",
         }),
 
         ("leviticus", 14, 18) => Some(Verse {
-            content: "",
+            content: "And the remnant of the oile that is in the Priests hand, he shall powre vpon the head of him that is to be cleansed: and the Priest shall make an atonement for him before the Lord.",
         }),
 
         ("leviticus", 14, 19) => Some(Verse {
-            content: "",
+            content: "And the Priest shal offer the sinne offering, and make an atonement for him that is to be cleansed from his vncleannesse, and afterward he shall kill the burnt offering.",
         }),
 
         ("leviticus", 14, 20) => Some(Verse {
-            content: "",
+            content: "And the Priest shall offer the burnt offering, and the meat offering vpon the Altar: and the Priest shall make an atonement for him, and he shalbe cleane.",
         }),
 
         ("leviticus", 14, 21) => Some(Verse {
-            content: "",
+            content: "And if he be poore, and cannot get so much, then hee shall take one lambe for a trespasse offring to be waued, to make an atonement for him, and one tenth deale of fine flowre mingled with oile, for a meat offering, and a log of oile,",
         }),
 
         ("leviticus", 14, 22) => Some(Verse {
-            content: "",
+            content: "And two turtle doues, or two yong pigeons, such as he is able to get: and the one shalbe a sinne offering, and the other a burnt offering.",
         }),
 
         ("leviticus", 14, 23) => Some(Verse {
-            content: "",
+            content: "And hee shall bring them on the eight day, for his cleansing vnto the Priest, vnto the doore of the Tabernacle of the Congregation, before the Lord.",
         }),
 
         ("leviticus", 14, 24) => Some(Verse {
-            content: "",
+            content: "And the Priest shall take the lambe of the trespasse offering, and the log of oile, and the Priest shall waue them for a waue offering before the Lord.",
         }),
 
         ("leviticus", 14, 25) => Some(Verse {
-            content: "",
+            content: "And he shall kill the lambe of the trespasse offering, and the Priest shall take some of the blood of the trespasse offering, and put it vpon the tip of the right eare of him that is to be cleansed, and vpon the thumbe of his right hand, and vpon the great toe of his right foote.",
         }),
 
         ("leviticus", 14, 26) => Some(Verse {
-            content: "",
+            content: "And the Priest shall powre of the oyle into the palme of his owne left hand.",
         }),
 
         ("leviticus", 14, 27) => Some(Verse {
-            content: "",
+            content: "And the Priest shal sprinkle with his right finger, some of the oile that is in his left hand, seuen times before the Lord.",
         }),
 
         ("leviticus", 14, 28) => Some(Verse {
-            content: "",
+            content: "And the Priest shall put of the oile that is in his hand, vpon the tip of the right eare of him that is to be cleansed, and vpon the thumbe of his right hand, and vpon the great toe of his right foot; vpon the place of the blood of the trespasse offering.",
         }),
 
         ("leviticus", 14, 29) => Some(Verse {
-            content: "",
+            content: "And the rest of the oile that is in the Priests hand, he shall put vpon the head of him that is to bee cleansed, to make an atonement for him before the Lord.",
         }),
 
         ("leviticus", 14, 30) => Some(Verse {
-            content: "",
+            content: "And he shall offer the one of the turtle doues, or of the yong pigeons, such as he can get:",
         }),
 
         ("leviticus", 14, 31) => Some(Verse {
-            content: "",
+            content: "Euen such as he is able to get, the one for a sinne offering, and the other for a burnt offering, with the meat offering. And the Priest shall make an atonement for him that is to be cleansed, before the Lord.",
         }),
 
         ("leviticus", 14, 32) => Some(Verse {
-            content: "",
+            content: "This is the law of him in whom is the plague of leprosie, whose hand is not able to get that which pertaineth to his cleansing.",
         }),
 
         ("leviticus", 14, 33) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, and vnto Aaron, saying,",
         }),
 
         ("leviticus", 14, 34) => Some(Verse {
-            content: "",
+            content: "When ye be come into the land of Canaan, which I giue to you for a possession, and I put the plague of leprosie in a house of the land of your possession;",
         }),
 
         ("leviticus", 14, 35) => Some(Verse {
-            content: "",
+            content: "And hee that oweth the house shall come, and tell the Priest, saying, It seemeth to me there is as it were a plague in the house:",
         }),
 
         ("leviticus", 14, 36) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall command that they emptie the house, before the Priest goe into it to see the plague, that all that is in the house be not made vncleane: and afterward the Priest shall goe in, to see the house.",
         }),
 
         ("leviticus", 14, 37) => Some(Verse {
-            content: "",
+            content: "And he shal looke on the plague: and behold, if the plague be in the walls of the house, with hollow strakes, greenish or reddish, which in sight are lower then the wall;",
         }),
 
         ("leviticus", 14, 38) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall goe out of the house, to the doore of the house, and shut vp the house seuen dayes.",
         }),
 
         ("leviticus", 14, 39) => Some(Verse {
-            content: "",
+            content: "And the Priest shall come againe the seuenth day, and shall looke: and behold, if the plague bee spread in the walls of the house;",
         }),
 
         ("leviticus", 14, 40) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall command that they take away the stones in which the plague is, and they shall cast them into an vncleane place without the Citie.",
         }),
 
         ("leviticus", 14, 41) => Some(Verse {
-            content: "",
+            content: "And hee shall cause the house to be scraped within round about, and they shall powre out the dust that they scrape off, without the citie into an vncleane place.",
         }),
 
         ("leviticus", 14, 42) => Some(Verse {
-            content: "",
+            content: "And they shall take other stones, and put them in the place of those stones; and hee shall take other morter, and shall plaister the house.",
         }),
 
         ("leviticus", 14, 43) => Some(Verse {
-            content: "",
+            content: "And if the plague come againe, and breake out in the house, after that he hath taken away the stones, and after he hath scraped the house, and after it is plastered;",
         }),
 
         ("leviticus", 14, 44) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall come and looke, and behold, if the plague bee spread in the house, it is a fretting leprosie in the house: it is vncleane.",
         }),
 
         ("leviticus", 14, 45) => Some(Verse {
-            content: "",
+            content: "And he shall breake downe the house, the stones of it, and the timber thereof, and all the morter of the house: and he shall cary them foorth out of the city into an vncleane place.",
         }),
 
         ("leviticus", 14, 46) => Some(Verse {
-            content: "",
+            content: "Moreouer, he that goeth into the house all the while that it is shut vp, shalbe vncleane vntill the Euen.",
         }),
 
         ("leviticus", 14, 47) => Some(Verse {
-            content: "",
+            content: "And hee that lieth in the house, shall wash his clothes: and hee that eateth in the house, shall wash his clothes.",
         }),
 
         ("leviticus", 14, 48) => Some(Verse {
-            content: "",
+            content: "And if the Priest shall come in, and looke vpon it, and behold, the plague hath not spread in the house, after the house was plastered: then the Priest shall pronounce the house cleane, because the plague is healed.",
         }),
 
         ("leviticus", 14, 49) => Some(Verse {
-            content: "",
+            content: "And he shall take to cleanse the house, two birds, and Cedar wood, and scarlet, and hyssope.",
         }),
 
         ("leviticus", 14, 50) => Some(Verse {
-            content: "",
+            content: "And he shall kill the one of the birds in an earthen vessell, ouer running water.",
         }),
 
         ("leviticus", 14, 51) => Some(Verse {
-            content: "",
+            content: "And he shall take the Cedar-wood and the hyssope, and the scarlet, and the liuing bird, and dip them in the blood of the slaine bird, and in the running water, and sprinkle the house seuen times.",
         }),
 
         ("leviticus", 14, 52) => Some(Verse {
-            content: "",
+            content: "And he shall clense the house with the blood of the bird, and with the running water, and with the liuing bird, and with the Cedar wood, and with the hyssope, and with the scarlet.",
         }),
 
         ("leviticus", 14, 53) => Some(Verse {
-            content: "",
+            content: "But hee shall let goe the liuing bird out of the citie into the open fields, and make an atonement for the house: and it shall be cleane.",
         }),
 
         ("leviticus", 14, 54) => Some(Verse {
-            content: "",
+            content: "This is the law for all manner plague of leprosie and skall,",
         }),
 
         ("leviticus", 14, 55) => Some(Verse {
-            content: "",
+            content: "And for the leprosie of a garment, and of an house,",
         }),
 
         ("leviticus", 14, 56) => Some(Verse {
-            content: "",
+            content: "And for a rising, and for a scabbe, and for a bright spot:",
         }),
 
         ("leviticus", 14, 57) => Some(Verse {
-            content: "",
+            content: "To teach when it is vncleane, and when it is cleane: this is the lawe of leprosie.",
         }),
 
         ("leviticus", 15, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, and to Aaron, saying,",
         }),
 
         ("leviticus", 15, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and say vnto them, when any man hath a running issue out of his flesh, because of his issue he is vncleane.",
         }),
 
         ("leviticus", 15, 3) => Some(Verse {
-            content: "",
+            content: "And this shall be his vncleannesse in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it is his vncleannesse.",
         }),
 
         ("leviticus", 15, 4) => Some(Verse {
-            content: "",
+            content: "Euery bed whereon he lieth, that hath the issue, is vncleane: and euery thing whereon he sitteth, shall bee vncleane.",
         }),
 
         ("leviticus", 15, 5) => Some(Verse {
-            content: "",
+            content: "And whosoeuer toucheth his bed, shall wash his clothes, and bath himselfe in water, and bee vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 6) => Some(Verse {
-            content: "",
+            content: "And hee that sitteth on any thing whereon hee sate that hath the issue, shall wash his clothes, and bath himselfe in water, and bee vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 7) => Some(Verse {
-            content: "",
+            content: "And he that toucheth the flesh of him that hath the issue, shall wash his clothes, and bathe himselfe in water, and be vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 8) => Some(Verse {
-            content: "",
+            content: "And if he that hath the issue, spit vpon him that is cleane, then hee shall wash his clothes, and bathe himselfe in water, and bee vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 9) => Some(Verse {
-            content: "",
+            content: "And what saddle soeuer he rideth vpon, that hath the issue, shall bee vncleane.",
         }),
 
         ("leviticus", 15, 10) => Some(Verse {
-            content: "",
+            content: "And whosoeuer toucheth any thing that was vnder him, shall be vncleane vntil the Euen: And he that beareth any of those things, shall wash his clothes, and bathe himselfe in water, and be vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 11) => Some(Verse {
-            content: "",
+            content: "And whomsoeuer hee toucheth that hath the issue (and hath not rinsed his hands in water) he shall wash his clothes, and bathe himselfe in water, and be vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 12) => Some(Verse {
-            content: "",
+            content: "And the vessell of earth that hee toucheth which hath the issue, shall bee broken: and euery vessell of wood shall be rinsed in water.",
         }),
 
         ("leviticus", 15, 13) => Some(Verse {
-            content: "",
+            content: "And when hee that hath an issue, is cleansed of his issue, then hee shall number to himselfe seuen dayes for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be cleane.",
         }),
 
         ("leviticus", 15, 14) => Some(Verse {
-            content: "",
+            content: "And on the eight day hee shall take to him two turtle doues, or two yong pigeons, and come before the Lord, vnto the doore of the Tabernacle of the Congregation, and giue them vnto the Priest.",
         }),
 
         ("leviticus", 15, 15) => Some(Verse {
-            content: "",
+            content: "And the Priest shall offer them, the one for a sinne offering, and the other for a burnt offering, and the Priest shall make an atonement for him before the Lord for his issue.",
         }),
 
         ("leviticus", 15, 16) => Some(Verse {
-            content: "",
+            content: "And if any mans seede of copulation goe out from him, then hee shall wash all his flesh in water, and bee vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 17) => Some(Verse {
-            content: "",
+            content: "And euery garment and euery skinne whereon is the seede of copulation, shall be washed with water, and be vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 18) => Some(Verse {
-            content: "",
+            content: "The woman also with whom man shall lie with seed of copulation, they shall both bath themselues in water, and be vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 19) => Some(Verse {
-            content: "",
+            content: "And if a woman haue an issue, and her issue in her flesh be blood, shee shall bee put apart seuen dayes: and whosoeuer toucheth her, shall bee vncleane vntil the Euen.",
         }),
 
         ("leviticus", 15, 20) => Some(Verse {
-            content: "",
+            content: "And euery thing that she lieth vpon in her separation, shall be vncleane: euery thing also that she sitteth vpon, shalbe vncleane.",
         }),
 
         ("leviticus", 15, 21) => Some(Verse {
-            content: "",
+            content: "And whosoeuer toucheth her bed, shall wash his clothes, and bathe himselfe in water, and be vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 22) => Some(Verse {
-            content: "",
+            content: "And whosoeuer toucheth any thing that she sate vpon, shall wash his clothes, and bathe himselfe in water, and be vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 23) => Some(Verse {
-            content: "",
+            content: "And if it be on her bed, or on any thing whereon she sitteth, when hee toucheth it, he shall be vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 24) => Some(Verse {
-            content: "",
+            content: "And if any man lye with her at all, and her flowers be vpon him, hee shall be vncleane seuen dayes: and all the bed whereon he lyeth, shall be vncleane.",
         }),
 
         ("leviticus", 15, 25) => Some(Verse {
-            content: "",
+            content: "And if a woman haue an issue of her blood many dayes out of the time of her separation, or if it runne beyond the time of her separation, all the dayes of the issue of her vncleannesse, shall be as the dayes of her separation: she shalbe vncleane.",
         }),
 
         ("leviticus", 15, 26) => Some(Verse {
-            content: "",
+            content: "Euery bed whereon she lyeth all the dayes of her issue, shall be vnto her as the bed of her separation: and whatsoeuer shee sitteth vpon, shall bee vncleane, as the vncleannesse of her separation.",
         }),
 
         ("leviticus", 15, 27) => Some(Verse {
-            content: "",
+            content: "And whosoeuer toucheth those things, shalbe vncleane, and shall wash his clothes, and bathe himselfe in water, and be vncleane vntill the Euen.",
         }),
 
         ("leviticus", 15, 28) => Some(Verse {
-            content: "",
+            content: "But if she be cleansed of her issue, then she shall number to her selfe seuen dayes: and after that, she shalbe cleane.",
         }),
 
         ("leviticus", 15, 29) => Some(Verse {
-            content: "",
+            content: "And on the eight day she shall take vnto her two turtles or two yong pigeons, & bring them vnto the Priest, to the doore of the Tabernacle of the Congregation.",
         }),
 
         ("leviticus", 15, 30) => Some(Verse {
-            content: "",
+            content: "And the Priest shall offer the one for a sinne offering, and the other for a burnt offering, and the Priest shall make an atonement for her before the Lord, for the issue of her vncleannesse.",
         }),
 
         ("leviticus", 15, 31) => Some(Verse {
-            content: "",
+            content: "Thus shall yee separate the children of Israel from their vncleannesse, that they die not in their vncleannesse, when they defile my Tabernacle that is among them.",
         }),
 
         ("leviticus", 15, 32) => Some(Verse {
-            content: "",
+            content: "This is the law of him that hath an issue, and of him whose seed goeth from him, and is defiled therewith;",
         }),
 
         ("leviticus", 15, 33) => Some(Verse {
-            content: "",
+            content: "And of her that is sicke of her flowers, and of him that hath an issue, of the man, and of the woman, & of him that lyeth with her which is vncleane.",
         }),
 
         ("leviticus", 16, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, after the death of the two sonnes of Aaron, when they offered before the Lord, and died.",
         }),
 
         ("leviticus", 16, 2) => Some(Verse {
-            content: "",
+            content: "And the Lord sayd vnto Moses, Speake vnto Aaron thy brother, that hee come not at all times in to the Holy place within the Uaile, before the Mercy seat, which is vpon the Arke, that hee die not: for I will appeare in the cloud vpon the Mercy seat.",
         }),
 
         ("leviticus", 16, 3) => Some(Verse {
-            content: "",
+            content: "Thus shall Aaron come into the Holy place: with a yong bullocke for a sinne offering, and a ramme for a burnt offering.",
         }),
 
         ("leviticus", 16, 4) => Some(Verse {
-            content: "",
+            content: "Hee shall put on the holy linnen coate, and he shall haue the linnen breeches vpon his flesh, and shall be girded with a linnen girdle, and with the linnen Miter shall hee be attired. These are holy garments: therefore shall he wash his flesh in water, and so put them on.",
         }),
 
         ("leviticus", 16, 5) => Some(Verse {
-            content: "",
+            content: "And he shall take of the Congregation of the children of Israel, two kiddes of the Goates for a sinne offering, and one ramme for a burnt offering.",
         }),
 
         ("leviticus", 16, 6) => Some(Verse {
-            content: "",
+            content: "And Aaron shall offer his bullocke of the sinne offering, which is for himselfe, and make an atonement for himselfe, and for his house.",
         }),
 
         ("leviticus", 16, 7) => Some(Verse {
-            content: "",
+            content: "And he shall take the two goats, and present them before the Lord at the doore of the Tabernacle of the Congregation.",
         }),
 
         ("leviticus", 16, 8) => Some(Verse {
-            content: "",
+            content: "And Aaron shall cast lottes vpon the two Goates: one lot for the Lord, and the other lot for the Scape goat.",
         }),
 
         ("leviticus", 16, 9) => Some(Verse {
-            content: "",
+            content: "And Aaron shall bring the goate vpon which the Lords lot fell, and offer him for a sinne offering.",
         }),
 
         ("leviticus", 16, 10) => Some(Verse {
-            content: "",
+            content: "But the goat on which the lot fell to be the Scape goate, shalbe presented aliue before the Lord, to make an atonement with him, and to let him goe for a Scape goate into the wildernesse.",
         }),
 
         ("leviticus", 16, 11) => Some(Verse {
-            content: "",
+            content: "And Aaron shal bring the bullocke of the sinne offering, which is for himselfe, and shall make an atonement for himselfe, and for his house, and shal kill the bullocke of the sinne offering which is for himselfe.",
         }),
 
         ("leviticus", 16, 12) => Some(Verse {
-            content: "",
+            content: "And he shall take a censer full of burning coales of fire from off the Altar before the Lord, and his handes full of sweet incense beaten small, and bring it within the vaile.",
         }),
 
         ("leviticus", 16, 13) => Some(Verse {
-            content: "",
+            content: "And he shall put the incense vpon the fire before the Lord, that the cloud of the incense may couer the mercie seate that is vpon the testimonie, that he die not.",
         }),
 
         ("leviticus", 16, 14) => Some(Verse {
-            content: "",
+            content: "And he shall take of the blood of the bullocke, and sprinkle it with his finger vpon the Mercie seat Eastward: and before the Mercie seate shall hee sprinkle of the blood with his finger seuen times.",
         }),
 
         ("leviticus", 16, 15) => Some(Verse {
-            content: "",
+            content: "Then shall he kill the goate of the sinne offering that is for the people, and bring his blood within the Uaile, and doe with that blood as he did with the blood of the bullocke, and sprinkle it vpon the Mercie seat, and before the Mercie seat.",
         }),
 
         ("leviticus", 16, 16) => Some(Verse {
-            content: "",
+            content: "And he shall make an atonement for the holy place, because of the vncleannesse of the children of Israel, and because of their transgressions in all their sinnes: and so shall hee doe for the Tabernacle of the Congregation that remaineth among them, in the middest of their vncleannesse.",
         }),
 
         ("leviticus", 16, 17) => Some(Verse {
-            content: "",
+            content: "And there shall bee no man in the Tabernacle of the Congregation, when hee goeth in to make an atonement in the holy place, vntill hee come out, and haue made an atonement for himselfe, and for his houshold, and for all the Congregation of Israel.",
         }),
 
         ("leviticus", 16, 18) => Some(Verse {
-            content: "",
+            content: "And he shall goe out vnto the Altar that is before the Lord, and make an atonement for it, & shall take of the blood of the bullocke, and of the blood of the goate, and put it vpon the hornes of the Altar round about.",
         }),
 
         ("leviticus", 16, 19) => Some(Verse {
-            content: "",
+            content: "And he shall sprinkle of the blood vpon it with his finger seuen times, and clense it, and hallow it from the vncleannesse of the children of Israel.",
         }),
 
         ("leviticus", 16, 20) => Some(Verse {
-            content: "",
+            content: "And when hee hath made an end of reconciling the holy place, and the Tabernacle of the Congregation, and the Altar, hee shall bring the liue goate.",
         }),
 
         ("leviticus", 16, 21) => Some(Verse {
-            content: "",
+            content: "And Aaron shall lay both his hands vpon the head of the liue goate, and confesse ouer him all the iniquities of the children of Israel, and all their transgressions in all their sinnes, putting them vpon the head of the goate, and shall send him away by the hand of a fit man into the wildernesse.",
         }),
 
         ("leviticus", 16, 22) => Some(Verse {
-            content: "",
+            content: "And the goate shall beare vpon him all their iniquities, vnto a land not inhabited; and he shall let goe the goat in the wildernesse.",
         }),
 
         ("leviticus", 16, 23) => Some(Verse {
-            content: "",
+            content: "And Aaron shall come into the Tabernacle of the Congregation, and shal put off the linnen garments which he put on, when he went in to the holy place, and shall leaue them there.",
         }),
 
         ("leviticus", 16, 24) => Some(Verse {
-            content: "",
+            content: "And he shall wash his flesh with water in the holy place, and put on his garments, and come foorth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himselfe, and for the people.",
         }),
 
         ("leviticus", 16, 25) => Some(Verse {
-            content: "",
+            content: "And the fat of the sinne offering shall he burne vpon the Altar.",
         }),
 
         ("leviticus", 16, 26) => Some(Verse {
-            content: "",
+            content: "And he that let goe the goat for the Scape-goat, shal wash his clothes, and bathe his flesh in water, and afterward come into the Campe.",
         }),
 
         ("leviticus", 16, 27) => Some(Verse {
-            content: "",
+            content: "And the bullocke for the sinne offering, and the goat for the sin offering, whose blood was brought in, to make atonement in the holy place, shall one cary foorth without the Campe, and they shal burne in the fire their skinnes and their flesh, and their doung.",
         }),
 
         ("leviticus", 16, 28) => Some(Verse {
-            content: "",
+            content: "And he that burneth them, shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the Campe.",
         }),
 
         ("leviticus", 16, 29) => Some(Verse {
-            content: "",
+            content: "And this shall be a statute for euer vnto you: that in the seuenth moneth, on the tenth day of the moneth, ye shall afflict your soules, & doe no worke at all, whether it bee one of your owne countrey, or a stranger that soiourneth among you.",
         }),
 
         ("leviticus", 16, 30) => Some(Verse {
-            content: "",
+            content: "For on that day shal the Priest make an atonement for you, to cleanse you, that yee may bee cleane from all your sinnes before the Lord.",
         }),
 
         ("leviticus", 16, 31) => Some(Verse {
-            content: "",
+            content: "It shall be a Sabbath of rest vnto you, and ye shall afflict your soules by a statute for euer.",
         }),
 
         ("leviticus", 16, 32) => Some(Verse {
-            content: "",
+            content: "And the Priest whom he shall anoynt, and whom he shall consecrate to minister in the Priests office in his fathers stead, shall make the atonement, and shal put on the linnen clothes, euen the holy garments.",
         }),
 
         ("leviticus", 16, 33) => Some(Verse {
-            content: "",
+            content: "And he shall make an atonement for the holy Sanctuary, and hee shall make an atonement for the Tabernacle of the Congregation, and for the Altar: and he shall make an atonement for the Priests, and for all the people of the Congregation.",
         }),
 
         ("leviticus", 16, 34) => Some(Verse {
-            content: "",
+            content: "And this shall be an euerlasting statute vnto you, to make an atonement for the children of Israel, for all their sinnes once a yeere. And he did as the Lord commanded Moses.",
         }),
 
         ("leviticus", 17, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 17, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto Aaron and vnto his sonnes, and vnto all the children of Israel, and say vnto them; This is the thing which the Lord hath commanded, saying;",
         }),
 
         ("leviticus", 17, 3) => Some(Verse {
-            content: "",
+            content: "What man soeuer there bee of the house of Israel, that killeth an oxe, or lambe, or goat in the Campe, or that killeth it out of the Campe,",
         }),
 
         ("leviticus", 17, 4) => Some(Verse {
-            content: "",
+            content: "And bringeth it not vnto the doore of the Tabernacle of the Congregation, to offer an offering vnto the Lord before the Tabernacle of the Lord, blood shall be imputed vnto that man; he hath shed blood, and that man shall be cut off from among his people:",
         }),
 
         ("leviticus", 17, 5) => Some(Verse {
-            content: "",
+            content: "To the end that the children of Israel may bring their sacrifices, which they offer in the open field, euen that they may bring them vnto the Lord, vnto the doore of the Tabernacle of the Congregation vnto the Priest, and offer them for peace offerings vnto the Lord.",
         }),
 
         ("leviticus", 17, 6) => Some(Verse {
-            content: "",
+            content: "And the Priest shall sprinckle the blood vpon the Altar of the Lord, at the doore of the Tabernacle of the Congregation, and burne the fat for a sweet sauour vnto the Lord.",
         }),
 
         ("leviticus", 17, 7) => Some(Verse {
-            content: "",
+            content: "And they shall no more offer their sacrifices vnto deuils, after whom they haue gone a whoring: This shall be a statute for euer vnto them throughout their generations.",
         }),
 
         ("leviticus", 17, 8) => Some(Verse {
-            content: "",
+            content: "And thou shalt say vnto them, whatsoeuer man there be of the house of Israel, or of the strangers which soiourne among you, that offreth a burnt offering or sacrifice,",
         }),
 
         ("leviticus", 17, 9) => Some(Verse {
-            content: "",
+            content: "And bringeth it not vnto the doore of the Tabernacle of the Congregation, to offer it vnto the Lord, euen that man shall be cut off from among his people.",
         }),
 
         ("leviticus", 17, 10) => Some(Verse {
-            content: "",
+            content: "And whatsoeuer man there be of the house of Israel, or of the strangers that soiourne among you, that eateth any maner of blood, I will euen set my face against that soule that eateth blood, and will cut him off from among his people.",
         }),
 
         ("leviticus", 17, 11) => Some(Verse {
-            content: "",
+            content: "For the life of the flesh is in the blood, and I haue giuen it to you vpon the Altar, to make an atonement for your soules: for it is the blood, that maketh an atonement for the soule.",
         }),
 
         ("leviticus", 17, 12) => Some(Verse {
-            content: "",
+            content: "Therefore I said vnto the children of Israel, No soule of you shall eat blood, neither shall any stranger that soiourneth among you, eat blood.",
         }),
 
         ("leviticus", 17, 13) => Some(Verse {
-            content: "",
+            content: "And whatsoeuer man there be of the children of Israel, or of the strangers that soiourne among you, which hunteth and catcheth any beast or foule that may be eaten, he shall euen powre out the blood thereof, and couer it with dust.",
         }),
 
         ("leviticus", 17, 14) => Some(Verse {
-            content: "",
+            content: "For it is the life of all flesh, the blood of it is for the life thereof: therefore I said vnto the children of Israel, Ye shall not eat the blood of no maner of flesh: for the life of all flesh is the blood thereof: whosoeuer eateth it, shalbe cut off.",
         }),
 
         ("leviticus", 17, 15) => Some(Verse {
-            content: "",
+            content: "And euery soule that eateth that which died of it selfe, or that which was torne with beasts, whether it bee one of your owne countrey, or a stranger, he shall both wash his clothes, and bathe himselfe in water, and be vncleane vntill the Euen: then shall he be cleane.",
         }),
 
         ("leviticus", 17, 16) => Some(Verse {
-            content: "",
+            content: "But if he wash them not, nor bathe his flesh, then he shal beare his iniquity.",
         }),
 
         ("leviticus", 18, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 18, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and say vnto them, I am the Lord your God.",
         }),
 
         ("leviticus", 18, 3) => Some(Verse {
-            content: "",
+            content: "After the doings of the land of Egypt wherein ye dwelt, shal ye not doe: and after the doings of land of Canaan whither I bring you, shall ye not doe: neither shall yee walke in their ordinances.",
         }),
 
         ("leviticus", 18, 4) => Some(Verse {
-            content: "",
+            content: "Ye shall doe my iudgements, and keepe mine ordinances, to walke therein: I am the Lord your God.",
         }),
 
         ("leviticus", 18, 5) => Some(Verse {
-            content: "",
+            content: "Yee shall therefore keepe my statutes, and my iudgements: which if a man doe, hee shall liue in them: I am the Lord.",
         }),
 
         ("leviticus", 18, 6) => Some(Verse {
-            content: "",
+            content: "None of you shall approche to any that is neere of kinne to him, to vncouer their nakednesse: I am the Lord.",
         }),
 
         ("leviticus", 18, 7) => Some(Verse {
-            content: "",
+            content: "The nakednesse of thy father, or the nakednesse of thy mother, shalt thou not vncouer: she is thy mother, thou shalt not vncouer her nakednesse.",
         }),
 
         ("leviticus", 18, 8) => Some(Verse {
-            content: "",
+            content: "The nakednesse of thy fathers wife shalt thou not vncouer: it is thy fathers nakednesse.",
         }),
 
         ("leviticus", 18, 9) => Some(Verse {
-            content: "",
+            content: "The nakednesse of thy sister, the daughter of thy father, or daughter of thy mother, whether shee be borne at home, or borne abroad, euen their nakednesse thou shalt not vncouer.",
         }),
 
         ("leviticus", 18, 10) => Some(Verse {
-            content: "",
+            content: "The nakednesse of thy sonnes daughter, or of thy daughters daughter, euen their nakednesse thou shalt not vncouer: for theirs is thine owne nakednesse.",
         }),
 
         ("leviticus", 18, 11) => Some(Verse {
-            content: "",
+            content: "The nakednesse of thy fathers wiues daughter, begotten of thy father, (she is thy sister,) thou shalt not vncouer her nakednesse.",
         }),
 
         ("leviticus", 18, 12) => Some(Verse {
-            content: "",
+            content: "Thou shalt not vncouer the nakednesse of thy fathers sister: she is thy fathers neere kinswoman.",
         }),
 
         ("leviticus", 18, 13) => Some(Verse {
-            content: "",
+            content: "Thou shalt not vncouer the nakednesse of thy mothers sister: for she is thy mothers neere kinswoman.",
         }),
 
         ("leviticus", 18, 14) => Some(Verse {
-            content: "",
+            content: "Thou shalt not vncouer the nakednesse of thy fathers brother, thou shalt not approche to his wife: shee is thine aunt.",
         }),
 
         ("leviticus", 18, 15) => Some(Verse {
-            content: "",
+            content: "Thou shalt not vncouer the nakednesse of thy daughter in law: shee is thy sonnes wife, thou shalt not vncouer her nakednesse.",
         }),
 
         ("leviticus", 18, 16) => Some(Verse {
-            content: "",
+            content: "Thou shalt not vncouer the nakednesse of thy brothers wife: it is thy brothers nakednesse.",
         }),
 
         ("leviticus", 18, 17) => Some(Verse {
-            content: "",
+            content: "Thou shalt not vncouer the nakednesse of a woman and her daughter, neither shalt thou take her sonnes daughter, or her daughters daughter, to vncouer her nakednesse: For they are her neere kinsewomen: it is wickednesse.",
         }),
 
         ("leviticus", 18, 18) => Some(Verse {
-            content: "",
+            content: "Neither shalt thou take a wife to her sister, to vexe her, to vncouer her nakednes besides the other, in her life time.",
         }),
 
         ("leviticus", 18, 19) => Some(Verse {
-            content: "",
+            content: "Also thou shalt not approche vnto a woman to vncouer her nakednes, as long as shee is put apart for her vncleannesse.",
         }),
 
         ("leviticus", 18, 20) => Some(Verse {
-            content: "",
+            content: "Moreouer, thou shalt not lie carnally with thy neighbours wife, to defile thy selfe with her.",
         }),
 
         ("leviticus", 18, 21) => Some(Verse {
-            content: "",
+            content: "And thou shalt not let any of thy seed passe through the fire to Molech, neither shalt thou prophane the Name of thy God: I am the Lord.",
         }),
 
         ("leviticus", 18, 22) => Some(Verse {
-            content: "",
+            content: "Thou shalt not lie with mankinde, as with womankinde: it is abomination.",
         }),
 
         ("leviticus", 18, 23) => Some(Verse {
-            content: "",
+            content: "Neither shalt thou lie with any beast, to defile thy selfe therewith: neither shall any woman stand before a beast to lie downe thereto: It is confusion.",
         }),
 
         ("leviticus", 18, 24) => Some(Verse {
-            content: "",
+            content: "Defile not you your selues in any of these things: for in all these, the nations are defiled which I cast out before you.",
         }),
 
         ("leviticus", 18, 25) => Some(Verse {
-            content: "",
+            content: "And the land is defiled: Therefore I doe visit the iniquitie thereof vpon it, and the land it selfe vomiteth out her inhabitants.",
         }),
 
         ("leviticus", 18, 26) => Some(Verse {
-            content: "",
+            content: "Ye shall therefore keepe my Statutes and my Iudgements, and shall not commit any of these abominations; neither any of your owne nation, nor any stranger that soiourneth among you:",
         }),
 
         ("leviticus", 18, 27) => Some(Verse {
-            content: "",
+            content: "(For all these abominations haue the men of the land done, which were before you, and the land is defiled.)",
         }),
 
         ("leviticus", 18, 28) => Some(Verse {
-            content: "",
+            content: "That the land spew not you out also, when ye defile it, as it spewed out the nations that were before you.",
         }),
 
         ("leviticus", 18, 29) => Some(Verse {
-            content: "",
+            content: "For whosoeuer shall commit any of these abominations, euen the soules that commit them, shall be cut off from among their people.",
         }),
 
         ("leviticus", 18, 30) => Some(Verse {
-            content: "",
+            content: "Therefore shal ye keepe mine Ordinance, that ye commit not any one of these abominable customes, which were committed before you, and that ye defile not your selues therein: I am the Lord your God.",
         }),
 
         ("leviticus", 19, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 19, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto all the Congregation of the children of Israel, and say vnto them, Ye shalbe holy: for I the Lord your God am holy.",
         }),
 
         ("leviticus", 19, 3) => Some(Verse {
-            content: "",
+            content: "Yee shall feare euery man his mother, and his father, and keepe my Sabbaths: I am the Lord your God.",
         }),
 
         ("leviticus", 19, 4) => Some(Verse {
-            content: "",
+            content: "Turne ye not vnto idoles, nor make to your selues molten gods: I am the Lord your God.",
         }),
 
         ("leviticus", 19, 5) => Some(Verse {
-            content: "",
+            content: "And if ye offer a sacrifice of peace offerings vnto the Lord, ye shall offer it, at your owne will.",
         }),
 
         ("leviticus", 19, 6) => Some(Verse {
-            content: "",
+            content: "It shall be eaten the same day ye offer it, and on the morrow: and if ought remaine vntill the third day, it shalbe burnt in the fire.",
         }),
 
         ("leviticus", 19, 7) => Some(Verse {
-            content: "",
+            content: "And if it be eaten at all on the third day, it is abominable; it shall not be accepted.",
         }),
 
         ("leviticus", 19, 8) => Some(Verse {
-            content: "",
+            content: "Therefore euery one that eateth it, shal beare his iniquitie, because he hath prophaned the halowed thing of the Lord; and that soule shalbe cut off from among his people.",
         }),
 
         ("leviticus", 19, 9) => Some(Verse {
-            content: "",
+            content: "And when ye reape the haruest of your land, thou shalt not wholly reape the corners of thy field, neither shalt thou gather the gleanings of thy haruest.",
         }),
 
         ("leviticus", 19, 10) => Some(Verse {
-            content: "",
+            content: "And thou shalt not gleane thy vineyard, neither shalt thou gather euery grape of thy vineyard; thou shalt leaue them for the poore and stranger: I am the Lord your God.",
         }),
 
         ("leviticus", 19, 11) => Some(Verse {
-            content: "",
+            content: "Ye shall not steale, neither deale falsly, neither lie one to another.",
         }),
 
         ("leviticus", 19, 12) => Some(Verse {
-            content: "",
+            content: "And ye shall not sweare by my Name falsly, neither shalt thou prophane the Name of thy God: I am the Lord.",
         }),
 
         ("leviticus", 19, 13) => Some(Verse {
-            content: "",
+            content: "Thou shalt not defraud thy neighbour, neither rob him: the wages of him that is hired, shal not abide with thee all night, vntill the morning.",
         }),
 
         ("leviticus", 19, 14) => Some(Verse {
-            content: "",
+            content: "Thou shalt not curse the deafe, nor put a stumbling blocke before the blind, but shalt feare thy God: I am the Lord.",
         }),
 
         ("leviticus", 19, 15) => Some(Verse {
-            content: "",
+            content: "Ye shall doe no vnrighteousnes in iudgement; thou shalt not respect the person of the poore, nor honour the person of the mightie: but in righteousnesse shalt thou iudge thy neighbour.",
         }),
 
         ("leviticus", 19, 16) => Some(Verse {
-            content: "",
+            content: "Thou shalt not goe vp and downe as a tale-bearer among thy people: neither shalt thou stand against the blood of thy neighbour: I am the Lord.",
         }),
 
         ("leviticus", 19, 17) => Some(Verse {
-            content: "",
+            content: "Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sinne vpon him.",
         }),
 
         ("leviticus", 19, 18) => Some(Verse {
-            content: "",
+            content: "Thou shalt not auenge nor beare any grudge against the children of thy people, but thou shalt loue thy neighbor as thy selfe: I am the Lord.",
         }),
 
         ("leviticus", 19, 19) => Some(Verse {
-            content: "",
+            content: "Yee shall keepe my Statutes: Thou shalt not let thy cattell gender with a diuerse kinde: Thou shalt not sowe thy field with mingled seed: Neither shall a garment mingled of linnen and woollen come vpon thee.",
         }),
 
         ("leviticus", 19, 20) => Some(Verse {
-            content: "",
+            content: "And whosoeuer lieth carnally with a woman that is a bondmaid, she shall be scourged: they shall not be put to death, because she was not free:",
         }),
 
         ("leviticus", 19, 21) => Some(Verse {
-            content: "",
+            content: "And he shall bring his trespasse offering vnto the Lord, vnto the doore of the Tabernacle of the Congregation, euen a ramme for a trespasse offering.",
         }),
 
         ("leviticus", 19, 22) => Some(Verse {
-            content: "",
+            content: "And the Priest shall make an atonement for him with the ramme of the trespasse offering before the Lord for his sinne which hee hath done: and the sinne which he hath done shall bee forgiuen him.",
         }),
 
         ("leviticus", 19, 23) => Some(Verse {
-            content: "",
+            content: "And when yee shall come in to the land, and shall haue planted all maner of trees for food, then ye shall count the fruit therof as vncircumcised: three yeeres shall it be as vncircumcised vnto you: it shall not be eaten of.",
         }),
 
         ("leviticus", 19, 24) => Some(Verse {
-            content: "",
+            content: "But in the fourth yeere all the fruit thereof shall be holy to praise the Lord withall.",
         }),
 
         ("leviticus", 19, 25) => Some(Verse {
-            content: "",
+            content: "And in the fift yeere shall ye eate of the fruit thereof, that it may yeelde vnto you the increase thereof: I am the Lord your God.",
         }),
 
         ("leviticus", 19, 26) => Some(Verse {
-            content: "",
+            content: "Ye shall not eate any thing with the blood, neither shall ye vse inchantment, nor obserue times.",
         }),
 
         ("leviticus", 19, 27) => Some(Verse {
-            content: "",
+            content: "Ye shall not round the corners of your heads, neither shalt thou marre the corners of thy beard.",
         }),
 
         ("leviticus", 19, 28) => Some(Verse {
-            content: "",
+            content: "Ye shall not make any cuttings in your flesh for the dead, nor print any markes vpon you: I am the Lord.",
         }),
 
         ("leviticus", 19, 29) => Some(Verse {
-            content: "",
+            content: "Doe not prostitute thy daughter, to cause her to be a whore, lest the land fall to whoredome, and the land become full of wickednesse.",
         }),
 
         ("leviticus", 19, 30) => Some(Verse {
-            content: "",
+            content: "Ye shall keepe my Sabbaths, and reuerence my Sanctuary: I am the Lord.",
         }),
 
         ("leviticus", 19, 31) => Some(Verse {
-            content: "",
+            content: "Regard not them that haue familiar spirits, neither seeke after Wizards, to be defiled by them: I am the Lord your God.",
         }),
 
         ("leviticus", 19, 32) => Some(Verse {
-            content: "",
+            content: "Thou shalt rise vp before the hoary head, and honour the face of the old man, and feare thy God: I am the Lord.",
         }),
 
         ("leviticus", 19, 33) => Some(Verse {
-            content: "",
+            content: "And if a stranger soiourne with thee in your land, yee shall not vexe him.",
         }),
 
         ("leviticus", 19, 34) => Some(Verse {
-            content: "",
+            content: "But the stranger that dwelleth with you, shalbe as one borne amongst you, and thou shalt loue him as thy selfe, for ye were strangers in the land of Egypt: I am the Lord your God.",
         }),
 
         ("leviticus", 19, 35) => Some(Verse {
-            content: "",
+            content: "Ye shall doe no vnrighteousnes in iudgment, in meteyard, in weight, or in measure.",
         }),
 
         ("leviticus", 19, 36) => Some(Verse {
-            content: "",
+            content: "Iust ballances, iust weights, a iust Ephah, and a iust Hin shall ye haue: I am the Lord your God, which brought you out of the land of Egypt.",
         }),
 
         ("leviticus", 19, 37) => Some(Verse {
-            content: "",
+            content: "Therefore shall ye obserue all my Statutes, and all my Iudgements, and doe them: I am the Lord.",
         }),
 
         ("leviticus", 20, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 20, 2) => Some(Verse {
-            content: "",
+            content: "Againe, thou shalt say to the children of Israel; whosoeuer he be of the children of Israel, or of the strangers that soiourne in Israel, that giueth any of his seed vnto Molech, he shall surely be put to death: the people of the land shall stone him with stones.",
         }),
 
         ("leviticus", 20, 3) => Some(Verse {
-            content: "",
+            content: "And I wil set my face against that man, and will cut him off from among his people: because he hath giuen of his seed vnto Molech, to defile my Sanctuary, and to prophane my holy Name.",
         }),
 
         ("leviticus", 20, 4) => Some(Verse {
-            content: "",
+            content: "And if the people of the land doe any wayes hide their eyes from the man, when he giueth of his seed vnto Molech, and kill him not:",
         }),
 
         ("leviticus", 20, 5) => Some(Verse {
-            content: "",
+            content: "Then I will set my face against that man, and against his family, and will cut him off, and all that goe a whoring after him, to commit whoredome with Molech, from among their people.",
         }),
 
         ("leviticus", 20, 6) => Some(Verse {
-            content: "",
+            content: "And the soule that turneth after such as haue familiar spirits, and after wizards, to goe a whoring after them, I will euen set my face against that soule, and will cut him off from among his people.",
         }),
 
         ("leviticus", 20, 7) => Some(Verse {
-            content: "",
+            content: "Sanctifie your selues therefore, and bee yee holy: for I am the Lord your God.",
         }),
 
         ("leviticus", 20, 8) => Some(Verse {
-            content: "",
+            content: "And ye shall keepe my Statutes, and do them: I am the Lord which sanctifie you.",
         }),
 
         ("leviticus", 20, 9) => Some(Verse {
-            content: "",
+            content: "For euery one that curseth his father or his mother, shalbe surely put to death: hee hath cursed his father or his mother; his blood shalbe vpon him.",
         }),
 
         ("leviticus", 20, 10) => Some(Verse {
-            content: "",
+            content: "And the man that committeth adulterie with another mans wife, euen he that committeth adulterie with his neighbours wife, the adulterer, and the adulteresse shall surely bee put to death.",
         }),
 
         ("leviticus", 20, 11) => Some(Verse {
-            content: "",
+            content: "And the man that lieth with his fathers wife, hath vncouered his fathers nakednesse: both of them shalbe put to death; their blood shalbe vpon them.",
         }),
 
         ("leviticus", 20, 12) => Some(Verse {
-            content: "",
+            content: "And if a man lie with his daughter in law, both of them shall surely be put to death: they haue wrought confusion; their blood shall be vpon them.",
         }),
 
         ("leviticus", 20, 13) => Some(Verse {
-            content: "",
+            content: "If a man also lie with mankind, as hee lyeth with a woman, both of them haue committed an abomination: they shall surely be put to death; their blood shalbe vpon them.",
         }),
 
         ("leviticus", 20, 14) => Some(Verse {
-            content: "",
+            content: "And if a man take a wife, and her mother, it is wickednesse: They shalbe burnt with fire, both he and they, that there be no wickednesse among you.",
         }),
 
         ("leviticus", 20, 15) => Some(Verse {
-            content: "",
+            content: "And if a man lie with a beast, he shall surely be put to death: and ye shall slay the beast.",
         }),
 
         ("leviticus", 20, 16) => Some(Verse {
-            content: "",
+            content: "And if a woman approch vnto any beast, and lie downe thereto, thou shalt kill the woman and the beast: they shall surely be put to death, their blood shalbe vpon them.",
         }),
 
         ("leviticus", 20, 17) => Some(Verse {
-            content: "",
+            content: "And if a man shall take his sister, his fathers daughter, or his mothers daughter, and see her nakednesse, and she see his nakednesse, it is a wicked thing, and they shall bee cut off in the sight of their people: he hath vncouered his sisters nakednesse, he shall beare his iniquitie.",
         }),
 
         ("leviticus", 20, 18) => Some(Verse {
-            content: "",
+            content: "And if a man shall lie with a woman hauing her sickenesse, and shal vncouer her nakednesse: he hath discouered her fountaine, and she hath vncouered the fountaine of her blood: and both of them shall bee cut off from among their people.",
         }),
 
         ("leviticus", 20, 19) => Some(Verse {
-            content: "",
+            content: "And thou shalt not vncouer the nakednesse of thy mothers sister, nor of thy fathers sister: for hee vncouereth his neere kinne: they shall beare their iniquitie.",
         }),
 
         ("leviticus", 20, 20) => Some(Verse {
-            content: "",
+            content: "And if a man shall lie with his vncles wife, he hath vncouered his vncles nakednesse: they shall beare their sinne, they shall die childlesse.",
         }),
 
         ("leviticus", 20, 21) => Some(Verse {
-            content: "",
+            content: "And if a man shall take his brothers wife, it is an vncleane thing: hee hath vncouered his brothers nakednesse, they shall be childlesse.",
         }),
 
         ("leviticus", 20, 22) => Some(Verse {
-            content: "",
+            content: "Ye shall therefore keepe all my Statutes, and all my Iudgements, and doe them: that the lande whither I bring you to dwell therein, spue you not out.",
         }),
 
         ("leviticus", 20, 23) => Some(Verse {
-            content: "",
+            content: "And ye shall not walke in the maners of the nation, which I cast out before you: for they committed all these things, & therefore I abhorred them.",
         }),
 
         ("leviticus", 20, 24) => Some(Verse {
-            content: "",
+            content: "But I haue said vnto you, Yee shall inherit their land, and I will giue it vnto you, to possesse it, a land that floweth with milke and hony: I am the Lord your God, which haue separated you from other people.",
         }),
 
         ("leviticus", 20, 25) => Some(Verse {
-            content: "",
+            content: "Ye shall therefore put difference betweene cleane beasts, and vncleane, and betweene vncleane foules, and cleane: & ye shall not make your soules abominable by beast or by foule, or by any maner of liuing thing, that creepeth on the ground, which I haue separated from you as vncleane.",
         }),
 
         ("leviticus", 20, 26) => Some(Verse {
-            content: "",
+            content: "And ye shal be holy vnto me: for I the Lord am holy, & haue seuered you from other people, that ye should be mine.",
         }),
 
         ("leviticus", 20, 27) => Some(Verse {
-            content: "",
+            content: "A man also or woman that hath a familiar spirit, or that is a wizzard, shall surely be put to death: they shall stone them with stones: their blood shalbe vpon them.",
         }),
 
         ("leviticus", 21, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses; Speake vnto the Priests the sonnes of Aaron, and say vnto them, There shall none be defiled for the dead among his people:",
         }),
 
         ("leviticus", 21, 2) => Some(Verse {
-            content: "",
+            content: "But for his kinne, that is neere vnto him, that is, for his mother, and for his father, and for his sonne, and for his daughter, and for his brother,",
         }),
 
         ("leviticus", 21, 3) => Some(Verse {
-            content: "",
+            content: "And for his sister a virgin, that is nigh vnto him, which hath had no husband: for her may he be defiled.",
         }),
 
         ("leviticus", 21, 4) => Some(Verse {
-            content: "",
+            content: "But hee shall not defile himselfe being a chiefe man among his people, to prophane himselfe.",
         }),
 
         ("leviticus", 21, 5) => Some(Verse {
-            content: "",
+            content: "They shall not make baldnesse vpon their head, neither shall they shaue off the corner of their beard, nor make any cuttings in their flesh:",
         }),
 
         ("leviticus", 21, 6) => Some(Verse {
-            content: "",
+            content: "They shalbe holy vnto their God, and not profane the name of their God: for the offrings of the Lord made by fire, and the bread of their God they doe offer: therefore they shall be holy.",
         }),
 
         ("leviticus", 21, 7) => Some(Verse {
-            content: "",
+            content: "They shall not take a wife that is a whore, or profane, neither shall they take a woman put away from her husband: for he is holy vnto his God.",
         }),
 
         ("leviticus", 21, 8) => Some(Verse {
-            content: "",
+            content: "Thou shalt sanctifie him therfore, for he offereth the bread of thy God: he shalbe holy vnto thee: for I the Lord which sanctifie you, am holy.",
         }),
 
         ("leviticus", 21, 9) => Some(Verse {
-            content: "",
+            content: "And the daughter of any Priest, if she profane her selfe, by playing the whore, she profaneth her father: shee shall be burnt with fire.",
         }),
 
         ("leviticus", 21, 10) => Some(Verse {
-            content: "",
+            content: "And he that is the high Priest among his brethren, vpon whose head the anointing oyle was powred, and that is consecrated to put on the garments, shall not vncouer his head, nor rent his clothes:",
         }),
 
         ("leviticus", 21, 11) => Some(Verse {
-            content: "",
+            content: "Neither shall he goe in to any dead body, nor defile himselfe for his father, or for his mother:",
         }),
 
         ("leviticus", 21, 12) => Some(Verse {
-            content: "",
+            content: "Neither shall hee goe out of the Sanctuary, nor prophane the Sanctuary of his God; for the crowne of the anointing oile of his God is vpon him: I am the Lord.",
         }),
 
         ("leviticus", 21, 13) => Some(Verse {
-            content: "",
+            content: "And he shall take a wife in her virginitie.",
         }),
 
         ("leviticus", 21, 14) => Some(Verse {
-            content: "",
+            content: "A widow, or a diuorced woman, or prophane, or an harlot, these shall he not take: but he shall take a virgine of his owne people to wife.",
         }),
 
         ("leviticus", 21, 15) => Some(Verse {
-            content: "",
+            content: "Neither shal he prophane his seed among his people: for I the Lord doe sanctifie him.",
         }),
 
         ("leviticus", 21, 16) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 21, 17) => Some(Verse {
-            content: "",
+            content: "Speake vnto Aaron, saying, Whosoeuer he be of thy seed in their generations, that hath any blemish, let him not approche to offer the bread of his God:",
         }),
 
         ("leviticus", 21, 18) => Some(Verse {
-            content: "",
+            content: "For whatsoeuer man hee be that hath a blemish, he shall not approche: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,",
         }),
 
         ("leviticus", 21, 19) => Some(Verse {
-            content: "",
+            content: "Or a man that is broken footed, or broken handed,",
         }),
 
         ("leviticus", 21, 20) => Some(Verse {
-            content: "",
+            content: "Or crooke backt, or a dwarfe, or that hath a blemish in his eye, or be scuruy, or scabbed, or hath his stones broken:",
         }),
 
         ("leviticus", 21, 21) => Some(Verse {
-            content: "",
+            content: "No man that hath a blemish, of the seed of Aaron the Priest, shall come nigh to offer the offrings of the Lord made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God.",
         }),
 
         ("leviticus", 21, 22) => Some(Verse {
-            content: "",
+            content: "He shall eat the bread of his God, both of the most Holy, and of the holy:",
         }),
 
         ("leviticus", 21, 23) => Some(Verse {
-            content: "",
+            content: "Onely he shall not goe in vnto the Uaile, nor come nigh vnto the Altar, because he hath a blemish, that he prophane not my Sanctuaries: for I the Lord doe sanctifie them.",
         }),
 
         ("leviticus", 21, 24) => Some(Verse {
-            content: "",
+            content: "And Moses told it vnto Aaron, and to his sonnes, and vnto all the children of Israel.",
         }),
 
         ("leviticus", 22, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 22, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto Aaron, and to his sonnes, that they separate themselues from the holy things of the children of Israel, and that they prophane not my holy Name, in those things which they halow vnto me: I am the Lord.",
         }),
 
         ("leviticus", 22, 3) => Some(Verse {
-            content: "",
+            content: "Say vnto them, Whosoeuer he be of all your seed, among your generations, that goeth vnto the holy things, which the children of Israel hallow vnto the Lord, hauing his vncleannesse vpon him, that soule shalbe cut off from my presence: I am the Lord.",
         }),
 
         ("leviticus", 22, 4) => Some(Verse {
-            content: "",
+            content: "What man soeuer of the seed of Aaron is a leper, or hath a running issue, he shall not eat of the holy things, vntill he be cleane. And who so toucheth any thing that is vncleane by the dead, or a man whose seed goeth from him:",
         }),
 
         ("leviticus", 22, 5) => Some(Verse {
-            content: "",
+            content: "Or whosoeuer toucheth any creeping thing, whereby he may be made vncleane, or a man of whom hee may take vncleannesse, whatsoeuer vncleannesse he hath:",
         }),
 
         ("leviticus", 22, 6) => Some(Verse {
-            content: "",
+            content: "The soule which hath touched any such, shalbe vncleane vntill Euen, and shall not eate of the holy things, vnlesse he wash his flesh with water.",
         }),
 
         ("leviticus", 22, 7) => Some(Verse {
-            content: "",
+            content: "And when the Sunne is downe, he shall be cleane, and shall afterward eate of the holy things, because it is his food.",
         }),
 
         ("leviticus", 22, 8) => Some(Verse {
-            content: "",
+            content: "That which dieth of it selfe, or is torne with beasts, hee shall not eate to defile himselfe therewith: I am the Lord.",
         }),
 
         ("leviticus", 22, 9) => Some(Verse {
-            content: "",
+            content: "They shall therefore keepe mine Ordinance, lest they beare sinne for it, and die therefore, if they prophane it: I the Lord doe sanctifie them.",
         }),
 
         ("leviticus", 22, 10) => Some(Verse {
-            content: "",
+            content: "There shall no stranger eat of the holy thing; a soiourner of the Priests, or an hired seruant shall not eate of the holy thing.",
         }),
 
         ("leviticus", 22, 11) => Some(Verse {
-            content: "",
+            content: "But if the Priest buy any soule with his money, he shall eat of it, and he that is borne in his house: they shall eat of his meat.",
         }),
 
         ("leviticus", 22, 12) => Some(Verse {
-            content: "",
+            content: "If the Priests daughter also bee married vnto a stranger, she may not eate of an offering of the holy things.",
         }),
 
         ("leviticus", 22, 13) => Some(Verse {
-            content: "",
+            content: "But if the Priests daughter be a widow, or diuorced, and haue no childe, and is returned vnto her fathers house, as in her youth, she shall eat of her fathers meat, but there shall no stranger eate thereof.",
         }),
 
         ("leviticus", 22, 14) => Some(Verse {
-            content: "",
+            content: "And if a man eate of the holy thing vnwittingly, then he shall put the fift part thereof vnto it; and shall giue it vnto the Priest, with the holy thing.",
         }),
 
         ("leviticus", 22, 15) => Some(Verse {
-            content: "",
+            content: "And they shall not profane the holy things of the children of Israel, which they offer vnto the Lord:",
         }),
 
         ("leviticus", 22, 16) => Some(Verse {
-            content: "",
+            content: "Or suffer them to beare the iniquitie of trespasse, when they eate their holy things: for I the Lord do sanctifie them.",
         }),
 
         ("leviticus", 22, 17) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 22, 18) => Some(Verse {
-            content: "",
+            content: "Speake vnto Aaron and to his sonnes, and vnto all the children of Israel, and say vnto them, Whatsoeuer he be of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vowes, and for all his free will offerings, which they will offer vnto the Lord for a burnt offering:",
         }),
 
         ("leviticus", 22, 19) => Some(Verse {
-            content: "",
+            content: "Ye shal offer at your owne wil a male without blemish, of the beeues, of the sheepe, or of the goats.",
         }),
 
         ("leviticus", 22, 20) => Some(Verse {
-            content: "",
+            content: "But whatsoeuer hath a blemish, that shall ye not offer: for it shall not be acceptable for you.",
         }),
 
         ("leviticus", 22, 21) => Some(Verse {
-            content: "",
+            content: "And whosoeuer offereth a sacrifice of peace offerings vnto the Lord, to accomplish his vow, or a free will offring in beeues or sheepe, it shalbe perfect, to be accepted: there shall be no blemish therein.",
         }),
 
         ("leviticus", 22, 22) => Some(Verse {
-            content: "",
+            content: "Blind, or broken, or maimed, or hauing a wenne, or scuruie, or scabbed, ye shal not offer these vnto the Lord, nor make an offring by fire of them vpon the Altar vnto the Lord.",
         }),
 
         ("leviticus", 22, 23) => Some(Verse {
-            content: "",
+            content: "Either a bullocke, or a lambe that hath any thing superfluous or lacking in his parts, that mayest thou offer for a free will offring: but for a vow it shal not be accepted.",
         }),
 
         ("leviticus", 22, 24) => Some(Verse {
-            content: "",
+            content: "Ye shal not offer vnto the Lord that which is bruised, or crushed, or broken, or cut, neither shall you make any offering thereof in your land.",
         }),
 
         ("leviticus", 22, 25) => Some(Verse {
-            content: "",
+            content: "Neither from a strangers hand shall ye offer the bread of your God of any of these; because their corruption is in them, and blemishes bee in them: they shall not be accepted for you.",
         }),
 
         ("leviticus", 22, 26) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 22, 27) => Some(Verse {
-            content: "",
+            content: "When a bullocke, or a sheepe, or a goat is brought forth, then it shall bee seuen dayes vnder the damme, and from the eight day and thencefoorth, it shal be accepted for an offering made by fire vnto the Lord.",
         }),
 
         ("leviticus", 22, 28) => Some(Verse {
-            content: "",
+            content: "And whether it be cowe or ewe, ye shall not kill it, and her yong, both in one day.",
         }),
 
         ("leviticus", 22, 29) => Some(Verse {
-            content: "",
+            content: "And when yee will offer a sacrifice of thankesgiuing vnto the Lord, offer it at your owne will.",
         }),
 
         ("leviticus", 22, 30) => Some(Verse {
-            content: "",
+            content: "On the same day it shall be eaten vp, ye shall leaue none of it vntill the morrow: I am the Lord.",
         }),
 
         ("leviticus", 22, 31) => Some(Verse {
-            content: "",
+            content: "Therefore shall ye keepe my Commandements, and doe them: I am the Lord.",
         }),
 
         ("leviticus", 22, 32) => Some(Verse {
-            content: "",
+            content: "Neither shal ye profane my holy Name, but I will be hallowed among the children of Israel: I am the Lord which hallow you,",
         }),
 
         ("leviticus", 22, 33) => Some(Verse {
-            content: "",
+            content: "That brought you out of the land of Egypt, to be your God: I am the Lord.",
         }),
 
         ("leviticus", 23, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 23, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and say vnto them, Concerning the feasts of the Lord, which yee shall proclaime to be holy conuocations, euen these are my feasts.",
         }),
 
         ("leviticus", 23, 3) => Some(Verse {
-            content: "",
+            content: "Sixe dayes shall worke be done, but the seuenth day is the Sabbath of rest, an holy conuocation; ye shall doe no worke therein: it is the Sabbath of the Lord in all your dwellings.",
         }),
 
         ("leviticus", 23, 4) => Some(Verse {
-            content: "",
+            content: "These are the feastes of the Lord, euen holy conuocations, which ye shall proclaime in their seasons.",
         }),
 
         ("leviticus", 23, 5) => Some(Verse {
-            content: "",
+            content: "In the fourteenth day of the first moneth at euen, is the Lords Passeouer.",
         }),
 
         ("leviticus", 23, 6) => Some(Verse {
-            content: "",
+            content: "And on the fifteenth day of the same moneth, is the feast of vnleauened bread vnto the Lord: seuen dayes ye must eate vnleauened bread.",
         }),
 
         ("leviticus", 23, 7) => Some(Verse {
-            content: "",
+            content: "In the first day ye shall haue an holy conuocation: ye shall do no seruile worke therein.",
         }),
 
         ("leviticus", 23, 8) => Some(Verse {
-            content: "",
+            content: "But ye shal offer an offring made by fire vnto the Lord seuen dayes: in the seuenth day is an holy conuocation, Ye shall doe no seruile worke therein.",
         }),
 
         ("leviticus", 23, 9) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 23, 10) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and say vnto them, When yee be come into the land which I giue vnto you, and shal reape the haruest thereof, then ye shall bring a sheafe of the first fruits of your haruest vnto the Priest:",
         }),
 
         ("leviticus", 23, 11) => Some(Verse {
-            content: "",
+            content: "And hee shall waue the sheafe before the Lord to be accepted for you: on the morrow after the Sabbath the Priest shall waue it.",
         }),
 
         ("leviticus", 23, 12) => Some(Verse {
-            content: "",
+            content: "And ye shall offer that day, when ye waue the sheafe, an hee lambe without blemish of the first yeere, for a burnt offering vnto the Lord.",
         }),
 
         ("leviticus", 23, 13) => Some(Verse {
-            content: "",
+            content: "And the meat offring thereof shall be two tenth deales of fine flowre, mingled with oile, an offering made by fire vnto the Lord, for a sweet sauour: and the drinke offering thereof shalbe of wine, the fourth part of an Hin.",
         }),
 
         ("leviticus", 23, 14) => Some(Verse {
-            content: "",
+            content: "And ye shall eate neither bread, nor parched corne, nor greene eares, vntill the selfe same day that yee haue brought an offering vnto your God: It shalbe a statute for euer, throughout your generations, in all your dwellings.",
         }),
 
         ("leviticus", 23, 15) => Some(Verse {
-            content: "",
+            content: "And ye shall count vnto you from the morrow after the Sabbath, from the day that ye brought the sheafe of the waue offering; seuen Sabbaths shalbe complete.",
         }),
 
         ("leviticus", 23, 16) => Some(Verse {
-            content: "",
+            content: "Euen vnto the morrow after the seuenth Sabbath, shall ye number fifty dayes, and ye shall offer a new meat offering vnto the Lord.",
         }),
 
         ("leviticus", 23, 17) => Some(Verse {
-            content: "",
+            content: "Ye shall bring out of your habitations two waue-loaues, of two tenth deales: they shalbe of fine flowre, they shall be baken with leauen, they are the first fruits vnto the Lord.",
         }),
 
         ("leviticus", 23, 18) => Some(Verse {
-            content: "",
+            content: "And ye shall offer with the bread seuen lambes without blemish, of the first yeere, and one yong bullocke and two rammes: they shall be for a burnt offering vnto the Lord, with their meat offring and their drinke offrings, euen an offering made by fire of sweet sauour vnto the Lord.",
         }),
 
         ("leviticus", 23, 19) => Some(Verse {
-            content: "",
+            content: "Then ye shall sacrifice one kid of the goates, for a sinne offering, and two lambes of the first yeere, for a sacrifice of peace offerings.",
         }),
 
         ("leviticus", 23, 20) => Some(Verse {
-            content: "",
+            content: "And the Priest shall waue them with the bread of the first fruits, for a waue-offring before the Lord, with the two lambs: they shalbe holy to the Lord for the Priests.",
         }),
 
         ("leviticus", 23, 21) => Some(Verse {
-            content: "",
+            content: "And ye shal proclaime on the selfe same day, that it may be an holy conuocation vnto you: ye shall doe no seruile worke therein: it shall be a statute for euer in all your dwellings throughout your generations.",
         }),
 
         ("leviticus", 23, 22) => Some(Verse {
-            content: "",
+            content: "And when ye reape the haruest of your land, thou shalt not make cleane riddance of the corners of the field, when thou reapest, neither shalt thou gather any gleaning of thy haruest: thou shalt leaue them vnto the poore, and to the stranger: I am the Lord your God.",
         }),
 
         ("leviticus", 23, 23) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 23, 24) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, saying, In the seuenth moneth, in the first day of the moneth shall yee haue a Sabbath, a memoriall of blowing of trumpets, an holy conuocation.",
         }),
 
         ("leviticus", 23, 25) => Some(Verse {
-            content: "",
+            content: "Ye shall do no seruile worke therein; but ye shall offer an offering made by fire vnto the Lord.",
         }),
 
         ("leviticus", 23, 26) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 23, 27) => Some(Verse {
-            content: "",
+            content: "Also on the tenth day of this seuenth moneth, there shalbe a day of atonement, it shalbe an holy conuocation vnto you, & ye shall afflict your soules, and offer an offering made by fire vnto the Lord.",
         }),
 
         ("leviticus", 23, 28) => Some(Verse {
-            content: "",
+            content: "And ye shall doe no worke in that same day: for it is a day of atonement, to make an atonement for you, before the Lord your God.",
         }),
 
         ("leviticus", 23, 29) => Some(Verse {
-            content: "",
+            content: "For whatsoeuer soule it bee that shall not bee afflicted in that same day, hee shall bee cut off from among his people.",
         }),
 
         ("leviticus", 23, 30) => Some(Verse {
-            content: "",
+            content: "And whatsoeuer soule it bee that doeth any worke in that same day, the same soule will I destroy from among his people.",
         }),
 
         ("leviticus", 23, 31) => Some(Verse {
-            content: "",
+            content: "Ye shall doe no maner of worke: it shall be a statute for euer throughout your generations, in all your dwellings.",
         }),
 
         ("leviticus", 23, 32) => Some(Verse {
-            content: "",
+            content: "It shalbe vnto you a Sabbath of rest, and yee shall afflict your soules in the ninth day of the moneth at Euen, from Euen vnto Euen shall ye celebrate your Sabbath.",
         }),
 
         ("leviticus", 23, 33) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 23, 34) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, saying, The fifteenth day of this seuenth moneth, shall be the feast of Tabernacles for seuen dayes vnto the Lord.",
         }),
 
         ("leviticus", 23, 35) => Some(Verse {
-            content: "",
+            content: "On the first day shalbe an holy conuocation: ye shall doe no seruile worke therein.",
         }),
 
         ("leviticus", 23, 36) => Some(Verse {
-            content: "",
+            content: "Seuen dayes ye shall offer an offring made by fire vnto the Lord, on the eight day shall be an holy conuocation vnto you, and ye shall offer an offering made by fire vnto the Lord: It is a solemne assembly, and ye shall doe no seruile worke therein.",
         }),
 
         ("leviticus", 23, 37) => Some(Verse {
-            content: "",
+            content: "These are the feasts of the Lord which ye shall proclaime to be holy conuocations, to offer an offering made by fire vnto the Lord, a burnt offering, and a meat offering, a sacrifice, & drinke offerings, euery thing vpon his day;",
         }),
 
         ("leviticus", 23, 38) => Some(Verse {
-            content: "",
+            content: "Beside the Sabbaths of the Lord, and beside your gifts, and beside all your vowes, and beside all your free will offerings, which ye giue vnto the Lord.",
         }),
 
         ("leviticus", 23, 39) => Some(Verse {
-            content: "",
+            content: "Also in the fifteenth day of the seuenth moneth when yee haue gathered in the fruit of the land, ye shall keepe a feast vnto the Lord seuen dayes. On the first day shall bee a Sabbath, and on the eight day shall bee a Sabbath.",
         }),
 
         ("leviticus", 23, 40) => Some(Verse {
-            content: "",
+            content: "And ye shall take you on the first day the boughes of goodly trees, branches of Palme trees, and the boughes of thicke trees, and willowes of the brooke, and yee shall reioyce before the Lord your God seuen dayes.",
         }),
 
         ("leviticus", 23, 41) => Some(Verse {
-            content: "",
+            content: "And yee shall keepe it a feast vnto the Lord seuen dayes in the yeere: It shalbe a Statute for euer in your generations, ye shall celebrate it in the seuenth moneth.",
         }),
 
         ("leviticus", 23, 42) => Some(Verse {
-            content: "",
+            content: "Ye shall dwell in boothes seuen dayes: all that are Israelites borne, shall dwell in boothes;",
         }),
 
         ("leviticus", 23, 43) => Some(Verse {
-            content: "",
+            content: "That your generations may know that I made the children of Israel to dwell in boothes, when I brought them out of the land of Egypt: I am the Lord your God.",
         }),
 
         ("leviticus", 23, 44) => Some(Verse {
-            content: "",
+            content: "And Moses declared vnto the children of Israel the feastes of the Lord.",
         }),
 
         ("leviticus", 24, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 24, 2) => Some(Verse {
-            content: "",
+            content: "Command the children of Israel, that they bring vnto thee pure oyle Oliue, beaten, for the light, to cause the lampes to burne continually.",
         }),
 
         ("leviticus", 24, 3) => Some(Verse {
-            content: "",
+            content: "Without the Uaile of the Testimonie, in the Tabernacle of the Congregation, shal Aaron order it from the euening vnto the morning, before the Lord continually: It shall be a Statute for euer in your generations.",
         }),
 
         ("leviticus", 24, 4) => Some(Verse {
-            content: "",
+            content: "He shall order the lampes vpon the pure Candlesticke before the Lord continually.",
         }),
 
         ("leviticus", 24, 5) => Some(Verse {
-            content: "",
+            content: "And thou shalt take fine flowre, and bake twelue cakes thereof: two tenth deales shall be in one cake.",
         }),
 
         ("leviticus", 24, 6) => Some(Verse {
-            content: "",
+            content: "And thou shalt set them in two rowes, sixe on a row vpon the pure Table, before the Lord.",
         }),
 
         ("leviticus", 24, 7) => Some(Verse {
-            content: "",
+            content: "And thou shalt put pure frankincense vpon ech row, that it may bee on the bread for a memorial, euen an offering made by fire vnto the Lord.",
         }),
 
         ("leviticus", 24, 8) => Some(Verse {
-            content: "",
+            content: "Euery Sabbath he shall set it in order before the Lord continually, being taken from the children of Israel by an euerlasting couenant.",
         }),
 
         ("leviticus", 24, 9) => Some(Verse {
-            content: "",
+            content: "And it shall be Aarons and his sonnes, and they shall eate it in the holy place: for it is most holy vnto him, of the offerings of the Lord made by fire, by a perpetuall statute.",
         }),
 
         ("leviticus", 24, 10) => Some(Verse {
-            content: "",
+            content: "And the sonne of an Israelitish woman, whose father was an Egyptian, went out among the children of Israel: and this sonne of the Israelitish woman, and a man of Israel stroue together in the campe.",
         }),
 
         ("leviticus", 24, 11) => Some(Verse {
-            content: "",
+            content: "And the Israelitish womans sonne blasphemed the name of the Lord, and cursed, and they brought him vnto Moses: and his mothers name was Shelomith, the daughter of Dibri, of the tribe of Dan.",
         }),
 
         ("leviticus", 24, 12) => Some(Verse {
-            content: "",
+            content: "And they put him in ward, that the minde of the Lord might bee shewed them.",
         }),
 
         ("leviticus", 24, 13) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 24, 14) => Some(Verse {
-            content: "",
+            content: "Bring forth him that hath cursed, without the Campe, and let all that heard him, lay their hands vpon his head, and let all the Congregation stone him.",
         }),
 
         ("leviticus", 24, 15) => Some(Verse {
-            content: "",
+            content: "And thou shalt speake vnto the children of Israel, saying, Whosoeuer curseth his God, shall beare his sinne.",
         }),
 
         ("leviticus", 24, 16) => Some(Verse {
-            content: "",
+            content: "And hee that blasphemeth the Name of the Lord, he shall surely be put to death, and all the Congregation shall certainely stone him: Aswell the stranger, as he that is borne in the land, when he blasphemeth the Name of the Lord, shall be put to death.",
         }),
 
         ("leviticus", 24, 17) => Some(Verse {
-            content: "",
+            content: "And he that killeth any man, shall surely be put to death.",
         }),
 
         ("leviticus", 24, 18) => Some(Verse {
-            content: "",
+            content: "And he that killeth a beast, shall make it good; beast for beast.",
         }),
 
         ("leviticus", 24, 19) => Some(Verse {
-            content: "",
+            content: "And if a man cause a blemish in his neighbour; as he hath done, so shal it be done to him:",
         }),
 
         ("leviticus", 24, 20) => Some(Verse {
-            content: "",
+            content: "Breach, for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him againe.",
         }),
 
         ("leviticus", 24, 21) => Some(Verse {
-            content: "",
+            content: "And hee that killeth a beast, hee shall restore it: and hee that killeth a man, he shall be put to death.",
         }),
 
         ("leviticus", 24, 22) => Some(Verse {
-            content: "",
+            content: "Ye shall haue one maner of law, aswell for the stranger, as for one of your owne countrey: for I am the Lord your God.",
         }),
 
         ("leviticus", 24, 23) => Some(Verse {
-            content: "",
+            content: "And Moses spake to the children of Israel, that they should bring foorth him that had cursed, out of the Campe, and stone him with stones: and the children of Israel did as the Lord commanded Moses.",
         }),
 
         ("leviticus", 25, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses in Mount Sinai, saying,",
         }),
 
         ("leviticus", 25, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and say vnto them: when yee come into the land which I giue you, then shall the land keepe a Sabbath vnto the Lord.",
         }),
 
         ("leviticus", 25, 3) => Some(Verse {
-            content: "",
+            content: "Sixe yeeres thou shalt sow thy field, and sixe yeeres thou shalt prune thy Uineyard, and gather in the fruit thereof.",
         }),
 
         ("leviticus", 25, 4) => Some(Verse {
-            content: "",
+            content: "But in the seuenth yeere shalbe a Sabbath of rest vnto the land, a Sabbath for the Lord: thou shalt neither sow thy field, nor prune thy Uineyard.",
         }),
 
         ("leviticus", 25, 5) => Some(Verse {
-            content: "",
+            content: "That which groweth of it owne accord of thy haruest, thou shalt not reape, neither gather the grapes of thy Uine vndressed: for it is a yeere of rest vnto the land.",
         }),
 
         ("leviticus", 25, 6) => Some(Verse {
-            content: "",
+            content: "And the Sabbath of the land shall be meat for you; for thee, and for thy seruant, and for thy mayd, and for thy hired seruant, and for the stranger that soiourneth with thee,",
         }),
 
         ("leviticus", 25, 7) => Some(Verse {
-            content: "",
+            content: "And for thy cattel, and for the beast that are in thy land, shall all the encrease thereof be meat.",
         }),
 
         ("leviticus", 25, 8) => Some(Verse {
-            content: "",
+            content: "And thou shalt number seuen Sabbaths of yeeres vnto thee, seuen times seuen yeeres, and the space of the seuen Sabbaths of yeeres, shall be vnto thee fourtie and nine yeeres.",
         }),
 
         ("leviticus", 25, 9) => Some(Verse {
-            content: "",
+            content: "Then shalt thou cause the trumpet of the Iubile to sound, on the tenth day of the seuenth moneth; in the day of atonement shall ye make the trumpet sound throughout all your land.",
         }),
 
         ("leviticus", 25, 10) => Some(Verse {
-            content: "",
+            content: "And ye shall hallow the fiftieth yeere, and proclaime libertie throughout all the land, vnto al the inhabitants thereof: It shalbe a Iubile vnto you, and ye shall returne euery man vnto his possession, and ye shall returne euery man vnto his family.",
         }),
 
         ("leviticus", 25, 11) => Some(Verse {
-            content: "",
+            content: "A Iubile shall that fiftieth yeere be vnto you: Ye shall not sow, neither reape that which groweth of it selfe in it, nor gather the grapes in it of thy Uine vndressed.",
         }),
 
         ("leviticus", 25, 12) => Some(Verse {
-            content: "",
+            content: "For it is the Iubile, it shall be holy vnto you: ye shall eate the encrease thereof out of the field.",
         }),
 
         ("leviticus", 25, 13) => Some(Verse {
-            content: "",
+            content: "In the yeere of this Iubile yee shall returne euery man vnto his possession.",
         }),
 
         ("leviticus", 25, 14) => Some(Verse {
-            content: "",
+            content: "And if thou sell ought vnto thy neighbour, or buyest ought of thy neighbours hand, ye shall not oppresse one another.",
         }),
 
         ("leviticus", 25, 15) => Some(Verse {
-            content: "",
+            content: "According to the number of yeres after the Iubile, thou shalt buy of thy neighbour, and according vnto the number of yeeres of the fruits, he shall sell vnto thee.",
         }),
 
         ("leviticus", 25, 16) => Some(Verse {
-            content: "",
+            content: "According to the multitude of yeeres, thou shalt encrease the price thereof, and according to the fewnesse of yeeres, thou shalt diminish the price of it: for according to the number of the yeeres of the fruites doeth hee sell vnto thee.",
         }),
 
         ("leviticus", 25, 17) => Some(Verse {
-            content: "",
+            content: "Yee shall not therefore oppresse one another; but thou shalt feare thy God: For I am the Lord your God.",
         }),
 
         ("leviticus", 25, 18) => Some(Verse {
-            content: "",
+            content: "Wherefore ye shall do my Statutes, and keepe my Iudgements, and doe them, and ye shall dwell in the land in safetie.",
         }),
 
         ("leviticus", 25, 19) => Some(Verse {
-            content: "",
+            content: "And the land shall yeeld her fruit, and ye shal eat your fill, and dwell therin in safetie.",
         }),
 
         ("leviticus", 25, 20) => Some(Verse {
-            content: "",
+            content: "And if ye shall say, What shall we eate the seuenth yeere? Behold, we shall not sow, nor gather in our increase:",
         }),
 
         ("leviticus", 25, 21) => Some(Verse {
-            content: "",
+            content: "Then I will command my blessing vpon you in the sixt yeere, and it shall bring forth fruit for three yeeres.",
         }),
 
         ("leviticus", 25, 22) => Some(Verse {
-            content: "",
+            content: "And ye shall sow the eight yeere, and eat yet of old fruit, vntill the ninth yeere: vntill her fruits come in, ye shall eate of the old store.",
         }),
 
         ("leviticus", 25, 23) => Some(Verse {
-            content: "",
+            content: "The land shall not be sold for euer: for the land is mine, for ye were strangers and soiourners with me.",
         }),
 
         ("leviticus", 25, 24) => Some(Verse {
-            content: "",
+            content: "And in all the land of your possession, ye shall grant a redemption for the land.",
         }),
 
         ("leviticus", 25, 25) => Some(Verse {
-            content: "",
+            content: "If thy brother be waxen poore, and hath sold away some of his possession, and if any of his kinne come to redeeme it, then shall hee redeeme that which his brother sold.",
         }),
 
         ("leviticus", 25, 26) => Some(Verse {
-            content: "",
+            content: "And if the man haue none to redeeme it, and himselfe bee able to redeeme it:",
         }),
 
         ("leviticus", 25, 27) => Some(Verse {
-            content: "",
+            content: "Then let him count the yeeres of the sale therof, and restore the ouerplus vnto the man, to whom he sold it, that he may returne vnto his possession.",
         }),
 
         ("leviticus", 25, 28) => Some(Verse {
-            content: "",
+            content: "But if he be not able to restore it to him, then that which is sold, shall remaine in the hand of him that hath bought it, vntill the yeere of Iubile: and in the Iubile it shall goe out, and he shall returne vnto his possession.",
         }),
 
         ("leviticus", 25, 29) => Some(Verse {
-            content: "",
+            content: "And if a man sell a dwelling house in a walled citie, then he may redeeme it within a whole yeere after it is solde: within a full yeere may he redeeme it.",
         }),
 
         ("leviticus", 25, 30) => Some(Verse {
-            content: "",
+            content: "And if it be not redeemed within the space of a full yeere, then the house that is in the walled citie, shall be stablished for euer to him that bought it, throughout his generations: it shall not goe out in the Iubile.",
         }),
 
         ("leviticus", 25, 31) => Some(Verse {
-            content: "",
+            content: "But the houses of the villages which haue no walles round about them, shall bee counted as the fields of the countrey: they may ee redeemed, and they shall goe out in the Iubile.",
         }),
 
         ("leviticus", 25, 32) => Some(Verse {
-            content: "",
+            content: "Notwithstanding, the cities of the Leuites, and the houses of the cities of their possession, may the Leuites redeeme at any time.",
         }),
 
         ("leviticus", 25, 33) => Some(Verse {
-            content: "",
+            content: "And if a man purchase of the Leuites, then the house that was sold, and the citie of his possession shall goe out in the yeere of Iubile: for the houses of the cities of the Leuites are their possession among the children of Israel.",
         }),
 
         ("leviticus", 25, 34) => Some(Verse {
-            content: "",
+            content: "But the field of the suburbs of their cities may not be sold, for it is their perpetuall possession.",
         }),
 
         ("leviticus", 25, 35) => Some(Verse {
-            content: "",
+            content: "And if thy brother bee waxen poore, and fallen in decay with thee, then thou shalt relieue him, yea though he be a stranger, or a soiourner, that hee may liue with thee.",
         }),
 
         ("leviticus", 25, 36) => Some(Verse {
-            content: "",
+            content: "Take thou no vsurie of him, or increase: but feare thy God, that thy brother may liue with thee.",
         }),
 
         ("leviticus", 25, 37) => Some(Verse {
-            content: "",
+            content: "Thou shalt not giue him thy money vpon vsurie, nor lend him thy victuals for increase.",
         }),
 
         ("leviticus", 25, 38) => Some(Verse {
-            content: "",
+            content: "I am the Lord your God, which brought you foorth out of the land of Egypt, to giue you the land of Canaan, and to be your God.",
         }),
 
         ("leviticus", 25, 39) => Some(Verse {
-            content: "",
+            content: "And if thy brother that dwelleth by thee be waxen poore, and be sold vnto thee, thou shalt not compell him to serue as a bond seruant.",
         }),
 
         ("leviticus", 25, 40) => Some(Verse {
-            content: "",
+            content: "But as an hired seruant, and as a soiourner he shall be with thee, and shall serue thee vnto the yere of Iubile.",
         }),
 
         ("leviticus", 25, 41) => Some(Verse {
-            content: "",
+            content: "And then shall hee depart from thee, both he and his children with him, and shall returne vnto his owne familie, and vnto the possession of his fathers shall he returne.",
         }),
 
         ("leviticus", 25, 42) => Some(Verse {
-            content: "",
+            content: "For they are my seruants, which I brought forth out of the land of Egypt: they shall not be sold as bond men.",
         }),
 
         ("leviticus", 25, 43) => Some(Verse {
-            content: "",
+            content: "Thou shalt not rule ouer him with rigour, but shalt feare thy God.",
         }),
 
         ("leviticus", 25, 44) => Some(Verse {
-            content: "",
+            content: "Both thy bondmen, and thy bondmaids, which thou shalt haue, shall be of the Heathen, that are round about you: of them shall ye buy bondmen and bondmaids.",
         }),
 
         ("leviticus", 25, 45) => Some(Verse {
-            content: "",
+            content: "Moreouer, of the children of the strangers that do soiourne among you, of them shall ye buy, and of their families that are with you, which they begat in your land: and they shalbe your possession.",
         }),
 
         ("leviticus", 25, 46) => Some(Verse {
-            content: "",
+            content: "And ye shall take them as an inheritance for your children after you, to inherite them for a possession, they shal bee your bondmen for euer: but ouer your brethren the children of Israel, ye shall not rule one ouer another with rigour.",
         }),
 
         ("leviticus", 25, 47) => Some(Verse {
-            content: "",
+            content: "And if a soiourner or stranger waxe rich by thee, and thy brother that dwelleth by him waxe poore, and sell himselfe vnto the stranger or soiourner by thee, or to the stocke of the strangers family:",
         }),
 
         ("leviticus", 25, 48) => Some(Verse {
-            content: "",
+            content: "After that he is sold, hee may be redeemed againe: one of his brethren may redeeme him.",
         }),
 
         ("leviticus", 25, 49) => Some(Verse {
-            content: "",
+            content: "Either his vncle, or his vncles sonne may redeeme him, or any that is nigh of kinne vnto him, of his family, may redeeme him: or if he be able, hee may redeeme himselfe.",
         }),
 
         ("leviticus", 25, 50) => Some(Verse {
-            content: "",
+            content: "And he shall reckon with him that bought him, from the yeere that he was sold to him, vnto the yeere of Iubile, and the price of his sale shalbe according vnto the number of yeeres, according to the time of an hired seruant shall it be with him.",
         }),
 
         ("leviticus", 25, 51) => Some(Verse {
-            content: "",
+            content: "If there be yet many yeeres behinde, according vnto them hee shall giue againe the price of his redemption, out of the money that hee was bought for.",
         }),
 
         ("leviticus", 25, 52) => Some(Verse {
-            content: "",
+            content: "And if there remaine but few yeeres vnto the yeere of Iubile, then he shall count with him, and according vnto his yeeres shall he giue him againe the price of his redemption.",
         }),
 
         ("leviticus", 25, 53) => Some(Verse {
-            content: "",
+            content: "And as a yeerely hired seruant shall he be with him: and the other shall not rule with rigour ouer him in thy sight.",
         }),
 
         ("leviticus", 25, 54) => Some(Verse {
-            content: "",
+            content: "And if hee be not redeemed in these yeeres, then he shall goe out in the yeere of Iubile, both he, and his children with him.",
         }),
 
         ("leviticus", 25, 55) => Some(Verse {
-            content: "",
+            content: "For vnto me the children of Israel are seruants, they are my seruants whom I brought forth out of the land of Egypt: I am the Lord your God.",
         }),
 
         ("leviticus", 26, 1) => Some(Verse {
-            content: "",
+            content: "Yee shall make you no Idoles nor grauen Image, neither reare you vp a standing image, neither shall yee set vp any Image of stone in your land, to bow downe vnto it: For I am the Lord your God.",
         }),
 
         ("leviticus", 26, 2) => Some(Verse {
-            content: "",
+            content: "Ye shal keepe my Sabbaths, and reuerence my Sanctuary: I am the Lord.",
         }),
 
         ("leviticus", 26, 3) => Some(Verse {
-            content: "",
+            content: "If ye walke in my Statutes, and keepe my Commandements, and doe them;",
         }),
 
         ("leviticus", 26, 4) => Some(Verse {
-            content: "",
+            content: "Then I will giue you raine in due season, and the land shall yeeld her increase, and the trees of the field shall yeeld their fruit.",
         }),
 
         ("leviticus", 26, 5) => Some(Verse {
-            content: "",
+            content: "And your threshing shall reach vnto the vintage, and the vintage shall reach vnto the sowing time: and yee shal eat your bread to the full, and dwel in your land safely.",
         }),
 
         ("leviticus", 26, 6) => Some(Verse {
-            content: "",
+            content: "And I wil giue peace in the land, and ye shall lye downe, and none shall make you afraid: and I will rid euill beasts out of the land, neither shall the sword goe through your land.",
         }),
 
         ("leviticus", 26, 7) => Some(Verse {
-            content: "",
+            content: "And ye shall chase your enemies, and they shall fall before you by the sword.",
         }),
 
         ("leviticus", 26, 8) => Some(Verse {
-            content: "",
+            content: "And fiue of you shal chase an hundred, and an hundred of you shall put ten thousand to flight: and your enemies shall fall before you by the sword.",
         }),
 
         ("leviticus", 26, 9) => Some(Verse {
-            content: "",
+            content: "For I wil haue respect vnto you, and make you fruitfull, and multiply you, & establish my couenant with you.",
         }),
 
         ("leviticus", 26, 10) => Some(Verse {
-            content: "",
+            content: "And yee shall eate old store, and bring forth the old, because of the new.",
         }),
 
         ("leviticus", 26, 11) => Some(Verse {
-            content: "",
+            content: "And I will set my Tabernacle amongst you: and my soule shall not abhorre you.",
         }),
 
         ("leviticus", 26, 12) => Some(Verse {
-            content: "",
+            content: "And I will walke among you, and will be your God, and ye shall be my people.",
         }),
 
         ("leviticus", 26, 13) => Some(Verse {
-            content: "",
+            content: "I am the Lord your God, which brought you forth out of the land of Egypt, that yee should not be their bondmen, & I haue broken the bandes of your yoke, and made you go vpright.",
         }),
 
         ("leviticus", 26, 14) => Some(Verse {
-            content: "",
+            content: "But if ye will not hearken vnto me, and will not doe all these Commandements:",
         }),
 
         ("leviticus", 26, 15) => Some(Verse {
-            content: "",
+            content: "And if ye shall despise my Statutes, or if your soule abhorre my Iudgements, so that ye wil not doe all my Commandements, but that yee breake my Couenant:",
         }),
 
         ("leviticus", 26, 16) => Some(Verse {
-            content: "",
+            content: "I also will doe this vnto you, I will euen appoint ouer you terrour, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seede in vaine, for your enemies shall eate it.",
         }),
 
         ("leviticus", 26, 17) => Some(Verse {
-            content: "",
+            content: "And I will set my face against you, and ye shall be slaine before your enemies: they that hate you shall reigne ouer you, and ye shall flee when none pursueth you.",
         }),
 
         ("leviticus", 26, 18) => Some(Verse {
-            content: "",
+            content: "And if ye will not yet for all this hearken vnto me, then I will punish you seuen times more for your sinnes.",
         }),
 
         ("leviticus", 26, 19) => Some(Verse {
-            content: "",
+            content: "And I will breake the pride of your power, and I will make your heauen as yron, and your earth as brasse:w",
         }),
 
         ("leviticus", 26, 20) => Some(Verse {
-            content: "",
+            content: "And your strength shall be spent in vaine: for your land shall not yeeld her increase, neither shall the trees of the land yeeld their fruits.",
         }),
 
         ("leviticus", 26, 21) => Some(Verse {
-            content: "",
+            content: "And if ye walke contrary vnto me, and will not hearken vnto mee, I will bring seuen times moe plagues vpon you, according to your sinnes.",
         }),
 
         ("leviticus", 26, 22) => Some(Verse {
-            content: "",
+            content: "I will also send wilde beasts among you, which shall rob you of your children, and destroy your cattell, and make you few in number, and your high wayes shall be desolate.",
         }),
 
         ("leviticus", 26, 23) => Some(Verse {
-            content: "",
+            content: "And if ye will not be reformed by these things, but will walke contrary vnto me:",
         }),
 
         ("leviticus", 26, 24) => Some(Verse {
-            content: "",
+            content: "Then will I also walke contrary vnto you, and will punish you yet seuen times for your sinnes.",
         }),
 
         ("leviticus", 26, 25) => Some(Verse {
-            content: "",
+            content: "And I will bring a sword vpon you, that shall auenge the quarell of my couenant: and when yee are gathered together within your cities, I wil send the pestilence among you, and ye shalbe deliuered into the hand of the enemie.",
         }),
 
         ("leviticus", 26, 26) => Some(Verse {
-            content: "",
+            content: "And when I haue broken the staffe of your bread, ten women shall bake your bread in one ouen, and they shall deliuer you your bread againe by weight: and ye shall eate, and not bee satisfied.",
         }),
 
         ("leviticus", 26, 27) => Some(Verse {
-            content: "",
+            content: "And if ye wil not for all this hearken vnto me, but walke contrary vnto mee,",
         }),
 
         ("leviticus", 26, 28) => Some(Verse {
-            content: "",
+            content: "Then I wil walke contrary vnto you also in fury, and I, euen I will chastise you seuen times for your sinnes.",
         }),
 
         ("leviticus", 26, 29) => Some(Verse {
-            content: "",
+            content: "And ye shal eate the flesh of your sonnes, and the flesh of your daughters shall ye eate.",
         }),
 
         ("leviticus", 26, 30) => Some(Verse {
-            content: "",
+            content: "And I will destroy your high places, and cut downe your images, and cast your carkeises vpon the carkeises of your idoles, and my soule shall abhorre you.",
         }),
 
         ("leviticus", 26, 31) => Some(Verse {
-            content: "",
+            content: "And I wil make your cities waste, and bring your sanctuaries vnto desolation, and I will not smell the sauour of your sweet odours.",
         }),
 
         ("leviticus", 26, 32) => Some(Verse {
-            content: "",
+            content: "And I will bring the land into desolation: and your enemies which dwel therein, shall be astonished at it.",
         }),
 
         ("leviticus", 26, 33) => Some(Verse {
-            content: "",
+            content: "And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste.",
         }),
 
         ("leviticus", 26, 34) => Some(Verse {
-            content: "",
+            content: "Then shall the lande enioy her Sabbaths, as long as it lieth desolate, and yee be in your enemies land, euen then shall the land rest, and enioy her Sabbaths.",
         }),
 
         ("leviticus", 26, 35) => Some(Verse {
-            content: "",
+            content: "As long as it lieth desolate, it shall rest: because it did not rest in your Sabbaths, when ye dwelt vpon it.",
         }),
 
         ("leviticus", 26, 36) => Some(Verse {
-            content: "",
+            content: "And vpon them that are left aliue of you, I will send a faintnesse into their hearts in the lands of their enemies, and the sound of a shaken leafe shall chase them, and they shall flee, as fleeing from a sword: and they shall fall, when none pursueth.",
         }),
 
         ("leviticus", 26, 37) => Some(Verse {
-            content: "",
+            content: "And they shall fall one vpon another, as it were before a sword, when none pursueth: and yee shall haue no power to stand before your enemies.",
         }),
 
         ("leviticus", 26, 38) => Some(Verse {
-            content: "",
+            content: "And yee shall perish among the Heathen, and the land of your enemies shall eate you vp.",
         }),
 
         ("leviticus", 26, 39) => Some(Verse {
-            content: "",
+            content: "And they that are left of you shall pine away in their iniquitie in your enemies lands, and also in the iniquities of their fathers shall they pine away with them.",
         }),
 
         ("leviticus", 26, 40) => Some(Verse {
-            content: "",
+            content: "If they shall confesse the iniquitie of their fathers, with their trespasse which they trespassed against me, and that also they haue walked contrary vnto me:",
         }),
 
         ("leviticus", 26, 41) => Some(Verse {
-            content: "",
+            content: "And that I also haue walked contrary vnto them, and haue brought them into the land of their enemies: if then their vncircumcised hearts bee humbled, and they then accept of the punishment of their iniquitie:",
         }),
 
         ("leviticus", 26, 42) => Some(Verse {
-            content: "",
+            content: "Then will I remember my couenant with Iacob, and also my couenant with Isaac, and also my couenant with Abraham will I remember, and I will remember the land.",
         }),
 
         ("leviticus", 26, 43) => Some(Verse {
-            content: "",
+            content: "The land also shalbe left of them, and shall enioy her Sabbaths, while she lieth desolate without them: and they shall accept of the punishment of their iniquitie: because, euen because they despised my Iudgements, and because their soule abhorred my Statutes",
         }),
 
         ("leviticus", 26, 44) => Some(Verse {
-            content: "",
+            content: "And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I abhorre them, to destroy them vtterly, and to breake my couenant with them: for I am the Lord their God.",
         }),
 
         ("leviticus", 26, 45) => Some(Verse {
-            content: "",
+            content: "But I wil for their sakes remember the couenant of their Ancestours, whom I brought forth out of the land of Egypt, in the sight of the Heathen, that I might be their God: I am the Lord.",
         }),
 
         ("leviticus", 26, 46) => Some(Verse {
-            content: "",
+            content: "These are the Statutes, and Iudgements, and Lawes which the Lord made betweene him and the children of Israel, in mount Sinai, by the hand of Moses.",
         }),
 
         ("leviticus", 27, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("leviticus", 27, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and say vnto them, When a man shal make a singular vow, the persons shall be for the Lord, by thy estimation.",
         }),
 
         ("leviticus", 27, 3) => Some(Verse {
-            content: "",
+            content: "And thy estimation shall be: Of the male from twentie yeeres old, euen vnto sixtie yeeres old: euen thy estimation shall be fiftie shekels of siluer, after the shekel of the Sanctuary.",
         }),
 
         ("leviticus", 27, 4) => Some(Verse {
-            content: "",
+            content: "And if it be a female, then thy estimation shall be thirtie shekels.",
         }),
 
         ("leviticus", 27, 5) => Some(Verse {
-            content: "",
+            content: "And if it be from fiue yeeres olde, euen vnto twentie yeeres old, then thy estimation shall be of the male twentie shekels, and for the female ten shekels.",
         }),
 
         ("leviticus", 27, 6) => Some(Verse {
-            content: "",
+            content: "And if it be from a moneth old, euen vnto fiue yeeres old, then thy estimation shall be of the male, fiue shekels of siluer, and for the female, thy estimation shall be three shekels of siluer.",
         }),
 
         ("leviticus", 27, 7) => Some(Verse {
-            content: "",
+            content: "And if it be from sixtie yeeres old, and aboue, if it be a male, then thy estimation shall be fifteene shekels, and for the female ten shekels.",
         }),
 
         ("leviticus", 27, 8) => Some(Verse {
-            content: "",
+            content: "But if he bee poorer then thy estimation, then he shall present himselfe before the Priest, and the Priest shall value him: according to his abilitie that vowed, shall the Priest value him.",
         }),
 
         ("leviticus", 27, 9) => Some(Verse {
-            content: "",
+            content: "And if it be a beast whereof men bring an offering vnto the Lord, all that any man giueth of such vnto the Lord, shall be holy.",
         }),
 
         ("leviticus", 27, 10) => Some(Verse {
-            content: "",
+            content: "He shall not alter it, nor change it, a good for a bad, or a bad for a good: And if hee shall at all change beast for beast, then it, and the exchange thereof shall be holy.",
         }),
 
         ("leviticus", 27, 11) => Some(Verse {
-            content: "",
+            content: "And if it be any vncleane beast, of which they doe not offer a sacrifice vnto the Lord, then he shall present the beast before the Priest:",
         }),
 
         ("leviticus", 27, 12) => Some(Verse {
-            content: "",
+            content: "And the Priest shall value it, whether it be good or bad: as thou valuest it who art the Priest: so shall it be.",
         }),
 
         ("leviticus", 27, 13) => Some(Verse {
-            content: "",
+            content: "But if hee will at all redeeme it, then he shall adde a fift part thereof vnto thy estimation.",
         }),
 
         ("leviticus", 27, 14) => Some(Verse {
-            content: "",
+            content: "And when a man shall sanctifie his house to be holy vnto the Lord, then the Priest shal estimate it, whether it be good or bad: as the Priest shall estimate it, so shall it stand.",
         }),
 
         ("leviticus", 27, 15) => Some(Verse {
-            content: "",
+            content: "And if he that sanctified it, will redeeme his house, then he shall adde the fift part of the money of thy estimation vnto it, and it shall be his.",
         }),
 
         ("leviticus", 27, 16) => Some(Verse {
-            content: "",
+            content: "And if a man shall sanctifie vnto the Lord some part of a field of his possession, then thy estimation shall be according to the seed thereof: An Homer of barley seed shall be valued at fiftie shekels of siluer.",
         }),
 
         ("leviticus", 27, 17) => Some(Verse {
-            content: "",
+            content: "If hee sanctifie his field from the yeere of Iubile, according to thy estimation it shall stand.",
         }),
 
         ("leviticus", 27, 18) => Some(Verse {
-            content: "",
+            content: "But if hee sanctifie his field after the Iubile, then the Priest shall reckon vnto him the money, according to the yeeres that remaine, euen vnto the yeere of the Iubile, and it shall be abated from thy estimation.",
         }),
 
         ("leviticus", 27, 19) => Some(Verse {
-            content: "",
+            content: "And if he that sanctified the field, will in any wise redeeme it, then he shal adde the fift part of the money of thy estimation vnto it, and it shall be assured to him.",
         }),
 
         ("leviticus", 27, 20) => Some(Verse {
-            content: "",
+            content: "And if hee will not redeeme the field, or if he haue sold the field to another man, it shall not be redeemed any more.",
         }),
 
         ("leviticus", 27, 21) => Some(Verse {
-            content: "",
+            content: "But the field, when it goeth out in the Iubile, shall be holy vnto the Lord, as a field deuoted: the possession thereof shalbe the Priests.",
         }),
 
         ("leviticus", 27, 22) => Some(Verse {
-            content: "",
+            content: "And if a man sanctifie vnto the Lord a field which he hath bought, which is not of the fieldes of his possession:",
         }),
 
         ("leviticus", 27, 23) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall reckon vnto him the worth of thy estimation, euen vnto the yeere of the Iubile, and hee shall giue thine estimation in that day, as a holy thing vnto the Lord.",
         }),
 
         ("leviticus", 27, 24) => Some(Verse {
-            content: "",
+            content: "In the yeere of the Iubile, the field shall returne vnto him of whom it was bought, euen to him to whom the possession of the land did belong.",
         }),
 
         ("leviticus", 27, 25) => Some(Verse {
-            content: "",
+            content: "And all thy estimations shall be according to the shekel of the Sanctuarie: twentie Gerahs shall bee the shekel.",
         }),
 
         ("leviticus", 27, 26) => Some(Verse {
-            content: "",
+            content: "Onely the firstling of the beasts which should be the Lords firstling, no man shall sanctifie it, whether it bee oxe, or sheepe: It is the Lords.",
         }),
 
         ("leviticus", 27, 27) => Some(Verse {
-            content: "",
+            content: "And if it be of an vncleane beast, then hee shall redeeme it according to thine estimation, and shall adde a fifth part of it thereto: Or if it be not redeemed, then it shalbe sold according to thy estimation.",
         }),
 
         ("leviticus", 27, 28) => Some(Verse {
-            content: "",
+            content: "Notwithstanding, no deuoted thing that a man shall deuote vnto the Lord, of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: euery deuoted thing is most holy vnto the Lord.",
         }),
 
         ("leviticus", 27, 29) => Some(Verse {
-            content: "",
+            content: "None deuoted, which shalbe deuoted of men, shall be redeemed: but shall surely be put to death.",
         }),
 
         ("leviticus", 27, 30) => Some(Verse {
-            content: "",
+            content: "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the Lords: it is holy vnto the Lord.",
         }),
 
         ("leviticus", 27, 31) => Some(Verse {
-            content: "",
+            content: "And if a man will at all redeeme ought of his tithes, he shall adde thereto the fifth part thereof.",
         }),
 
         ("leviticus", 27, 32) => Some(Verse {
-            content: "",
+            content: "And concerning the tithe of the herde, or of the flocke, euen of whatsoeuer passeth vnder the rod, the tenth shalbe holy vnto the Lord.",
         }),
 
         ("leviticus", 27, 33) => Some(Verse {
-            content: "",
+            content: "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it, and the change thereof, shall be holy; it shall not be redeemed.",
         }),
 
         ("leviticus", 27, 34) => Some(Verse {
-            content: "",
+            content: "These are the Commandements which the Lord commanded Moses, for the children of Israel in mount Sinai.",
         }),
 
         ("numbers", 1, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses in the wildernesse of Sinai, in the Tabernacle of the Congregation, on the first day of the second moneth, in the second yeere, after they were come out of the land of Egypt, saying,",
         }),
 
         ("numbers", 1, 2) => Some(Verse {
-            content: "",
+            content: "Take yee the summe of all the Congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, euery male by their polle:",
         }),
 
         ("numbers", 1, 3) => Some(Verse {
-            content: "",
+            content: "From twentie yeeres old and vpward, all that are able to goe foorth to warre in Israel: thou and Aaron shall number them by their armies.",
         }),
 
         ("numbers", 1, 4) => Some(Verse {
-            content: "",
+            content: "And with you there shalbe a man of euery Tribe: euery one head of the house of his fathers.",
         }),
 
         ("numbers", 1, 5) => Some(Verse {
-            content: "",
+            content: "And these are the names of the men that shall stand with you: of the tribe of Reuben, Elizur the sonne of Shedeur.",
         }),
 
         ("numbers", 1, 6) => Some(Verse {
-            content: "",
+            content: "Of Simeon: Shelumiel the son of Zurishaddai.",
         }),
 
         ("numbers", 1, 7) => Some(Verse {
-            content: "",
+            content: "Of Iudah: Nahshon, the sonne of Amminadab.",
         }),
 
         ("numbers", 1, 8) => Some(Verse {
-            content: "",
+            content: "Of Issachar: Nethaneel, the sonne of Zuar.",
         }),
 
         ("numbers", 1, 9) => Some(Verse {
-            content: "",
+            content: "Of Zebulun: Eliab the sonne of Helon.",
         }),
 
         ("numbers", 1, 10) => Some(Verse {
-            content: "",
+            content: "Of the children of Ioseph: of Ephraim, Elishama the sonne of Ammihud: of Manasseh, Gamaliel the sonne of Pedahzur.",
         }),
 
         ("numbers", 1, 11) => Some(Verse {
-            content: "",
+            content: "Of Beniamin: Abidan, the sonne of Gideoni.",
         }),
 
         ("numbers", 1, 12) => Some(Verse {
-            content: "",
+            content: "Of Dan: Ahiezer, the sonne of Ammishaddai.",
         }),
 
         ("numbers", 1, 13) => Some(Verse {
-            content: "",
+            content: "Of Asher: Pagiel the sonne of Ocran.",
         }),
 
         ("numbers", 1, 14) => Some(Verse {
-            content: "",
+            content: "Of Gad: Eliasaph, the sonne of Deuel.",
         }),
 
         ("numbers", 1, 15) => Some(Verse {
-            content: "",
+            content: "Of Naphthali: Ahira the sonne of Enan.",
         }),
 
         ("numbers", 1, 16) => Some(Verse {
-            content: "",
+            content: "These were the renowned of the Congregation, Princes of the tribes of their fathers, heads of thousands in Israel.",
         }),
 
         ("numbers", 1, 17) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron tooke these men, which are expressed by their names.",
         }),
 
         ("numbers", 1, 18) => Some(Verse {
-            content: "",
+            content: "And they assembled all the Congregation together on the first day of the second moneth, and they declared their pedegrees after their families, by the house of their fathers, according to the number of the names, from twenty yeres old and vpward by their polle.",
         }),
 
         ("numbers", 1, 19) => Some(Verse {
-            content: "",
+            content: "As the Lord commaunded Moses, so he numbred them in the wildernesse of Sinai.",
         }),
 
         ("numbers", 1, 20) => Some(Verse {
-            content: "",
+            content: "And the children of Reuben Israels eldest sonne, by their generations after their families, by the house of their fathers, according to the number of the names, by their polle, euery male from twenty yeeres old and vpward, all that were able to go forth to warre:",
         }),
 
         ("numbers", 1, 21) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, euen of the tribe of Reuben, were fourty and sixe thousand and fiue hundred.",
         }),
 
         ("numbers", 1, 22) => Some(Verse {
-            content: "",
+            content: "Of the children of Simeon by their generations, after their families, by the house of their fathers, those that were numbred of them, according to the number of the names, by their polles, euery male from twenty yeeres old and vpward, all that were able to goe foorth to warre:",
         }),
 
         ("numbers", 1, 23) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, euen of the tribe of Simeon, were fiftie and nine thousand, and three hundred.",
         }),
 
         ("numbers", 1, 24) => Some(Verse {
-            content: "",
+            content: "Of the children of Gad by their generations, after their families by the house of their fathers, according to the number of the names, from twenty yeeres old and vpward, all that were able to goe foorth to warre:",
         }),
 
         ("numbers", 1, 25) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, euen of the tribe of Gad, were fourty and fiue thousand, sixe hundred and fiftie.",
         }),
 
         ("numbers", 1, 26) => Some(Verse {
-            content: "",
+            content: "Of the children of Iudah by their generations, after their families by the house of their fathers, according to the number of the names, from twenty yeeres old and vpward, all that were able to goe foorth to warre:",
         }),
 
         ("numbers", 1, 27) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, euen of the tribe of Iudah, were threescore and fourteene thousand, and sixe hundred.",
         }),
 
         ("numbers", 1, 28) => Some(Verse {
-            content: "",
+            content: "Of the children of Issachar, by their generations, after their families by the house of their fathers, according to the number of the names, from twenty yeres old and vpward, all that were able to goe foorth to warre:",
         }),
 
         ("numbers", 1, 29) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, euen of the tribe of Issachar, were fiftie and foure thousand, and foure hundred.",
         }),
 
         ("numbers", 1, 30) => Some(Verse {
-            content: "",
+            content: "Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty yeres old and vpward, all that were able to goe foorth to warre:",
         }),
 
         ("numbers", 1, 31) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, euen of the tribe of Zebulun, were fiftie and seuen thousand and foure hundred.",
         }),
 
         ("numbers", 1, 32) => Some(Verse {
-            content: "",
+            content: "Of the children of Ioseph; namely of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty yeres old and vpward, all that were able to goe foorth to warre:",
         }),
 
         ("numbers", 1, 33) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, euen of the tribe of Ephraim, were fourty thousand and fiue hundred.",
         }),
 
         ("numbers", 1, 34) => Some(Verse {
-            content: "",
+            content: "Of the children of Manasseh by their generations, after their families, by the house of their fathers according to the number of the names, from twenty yeeres old and vpward, all that were able to go forth to warre:",
         }),
 
         ("numbers", 1, 35) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, euen of the tribe of Manasseh, were thirty and two thousand, and two hundred.",
         }),
 
         ("numbers", 1, 36) => Some(Verse {
-            content: "",
+            content: "Of the children of Beniamin, by their generations, after their families, by the house of their fathers, according to the number of the names from twenty yeeres old and vpward, all that were able to goe foorth to warre:",
         }),
 
         ("numbers", 1, 37) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, euen of the tribe of Beniamin, were thirtie and fiue thousand, and foure hundred.",
         }),
 
         ("numbers", 1, 38) => Some(Verse {
-            content: "",
+            content: "Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twentie yeeres old and vpward, all that were able to goe forth to warre:",
         }),
 
         ("numbers", 1, 39) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, euen of the tribe of Dan, were threescore and two thousand, and seuen hundred.",
         }),
 
         ("numbers", 1, 40) => Some(Verse {
-            content: "",
+            content: "Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twentie yeres old and vpward, all that were able to goe forth to warre:",
         }),
 
         ("numbers", 1, 41) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, euen of the tribe of Asher, were fourtie and one thousand, and fiue hundred.",
         }),
 
         ("numbers", 1, 42) => Some(Verse {
-            content: "",
+            content: "Of the children of Naphtali, throughout their generations, after their families by the house of their fathers, according to the number of the names, from twentie yeeres olde and vpward, all that were able to goe forth to warre:",
         }),
 
         ("numbers", 1, 43) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, euen of the tribe of Naphtali, were fiftie and three thousand, and foure hundred.",
         }),
 
         ("numbers", 1, 44) => Some(Verse {
-            content: "",
+            content: "These are those that were numbred, which Moses and Aaron numbred, and the Princes of Israel, being twelue men: each one was for the house of his fathers.",
         }),
 
         ("numbers", 1, 45) => Some(Verse {
-            content: "",
+            content: "So were all those that were numbred of the children of Israel, by the house of their fathers, from twenty yeeres old and vpward, all that were able to goe forth to warre in Israel:",
         }),
 
         ("numbers", 1, 46) => Some(Verse {
-            content: "",
+            content: "Euen all they, that were numbred, were sixe hundred thousand, and three thousand, and fiue hundred and fiftie.",
         }),
 
         ("numbers", 1, 47) => Some(Verse {
-            content: "",
+            content: "But the Leuites after the tribe of their fathers, were not numbred among them.",
         }),
 
         ("numbers", 1, 48) => Some(Verse {
-            content: "",
+            content: "For the Lord had spoken vnto Moses, saying,",
         }),
 
         ("numbers", 1, 49) => Some(Verse {
-            content: "",
+            content: "Onely thou shalt not number the tribe of Leui, neither take the summe of them among the children of Israel.",
         }),
 
         ("numbers", 1, 50) => Some(Verse {
-            content: "",
+            content: "But thou shalt appoint the Leuites ouer the Tabernacle of Testimonie, and ouer all the vessels thereof, and ouer all things that belong to it: they shall beare the Tabernacle, and all the vessels thereof, and they shall minister vnto it, and shall encampe round about the Tabernacle.",
         }),
 
         ("numbers", 1, 51) => Some(Verse {
-            content: "",
+            content: "And when the Tabernacle setteth forward, the Leuites shall take it downe: and when the Tabernacle is to be pitched, the Leuites shall set it vp: and the stranger that commeth nigh, shall be put to death.",
         }),
 
         ("numbers", 1, 52) => Some(Verse {
-            content: "",
+            content: "And the children of Israel shall pitch their tents euery man by his own campe, and euery man by his owne standerd, throughout their hostes.",
         }),
 
         ("numbers", 1, 53) => Some(Verse {
-            content: "",
+            content: "But the Leuites shall pitch round about the Tabernacle of Testimonie, that there be no wrath vpon the Congregation of the children of Israel: and the Leuites shall keepe the charge of the Tabernacle of Testimonie.",
         }),
 
         ("numbers", 1, 54) => Some(Verse {
-            content: "",
+            content: "And the children of Israel did according to all that the Lord commanded Moses, so did they.",
         }),
 
         ("numbers", 2, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, and vnto Aaron, saying,",
         }),
 
         ("numbers", 2, 2) => Some(Verse {
-            content: "",
+            content: "Euery man of the children of Israel shall pitch by his owne standerd, with the ensigne of their fathers house: farre off about the Tabernacle of the Congregation shall they pitch.",
         }),
 
         ("numbers", 2, 3) => Some(Verse {
-            content: "",
+            content: "And on the East side toward the rising of the Sunne, shall they of the standerd of the campe of Iudah pitch, throughout their armies: and Nahshon the sonne of Amminadab, shall bee captaine of the children of Iudah.",
         }),
 
         ("numbers", 2, 4) => Some(Verse {
-            content: "",
+            content: "And his hoste, and those that were numbred of them, were threescore and fourteene thousand, and sixe hundred.",
         }),
 
         ("numbers", 2, 5) => Some(Verse {
-            content: "",
+            content: "And those that doe pitch next vnto him, shall be the tribe of Issachar: and Nethaneel the sonne of Zuar, shall bee captaine of the children of Issachar.",
         }),
 
         ("numbers", 2, 6) => Some(Verse {
-            content: "",
+            content: "And his hoste, and those that were numbred thereof, were fiftie and foure thousand, and foure hundred.",
         }),
 
         ("numbers", 2, 7) => Some(Verse {
-            content: "",
+            content: "Then the tribe of Zebulun: and Eliab the sonne of Helon, shalbe captaine of the children of Zebulun.",
         }),
 
         ("numbers", 2, 8) => Some(Verse {
-            content: "",
+            content: "And his hoste and those that were numbred thereof, were fiftie and seuen thousand, and foure hundred.",
         }),
 
         ("numbers", 2, 9) => Some(Verse {
-            content: "",
+            content: "All that were numbred in the Campe of Iudah, were an hundred thousand, and fourescore thousand, and sixe thousand, and foure hundred, throughout their armies: these shall first set foorth.",
         }),
 
         ("numbers", 2, 10) => Some(Verse {
-            content: "",
+            content: "On the Southside shall be the standerd of the Campe of Reuben, according to their armies: and the captaine of the children of Reuben shall be Elizur the sonne of Shedeur.",
         }),
 
         ("numbers", 2, 11) => Some(Verse {
-            content: "",
+            content: "And his hoste, and those that were numbred thereof, were fourtie and sixe thousand, and fiue hundred.",
         }),
 
         ("numbers", 2, 12) => Some(Verse {
-            content: "",
+            content: "And those which pitch by him, shall bee the tribe of Simeon, and the captaine of the children of Simeon shall be Shelumiel the sonne of Zurishaddai.",
         }),
 
         ("numbers", 2, 13) => Some(Verse {
-            content: "",
+            content: "And his hoste, and those that were numbred of them, were fiftie and nine thousand, and three hundred.",
         }),
 
         ("numbers", 2, 14) => Some(Verse {
-            content: "",
+            content: "Then the tribe of Gad: and the captaine of the sonnes of Gad shall be Eliasaph the sonne of Reuel.",
         }),
 
         ("numbers", 2, 15) => Some(Verse {
-            content: "",
+            content: "And his hoste, and those that were numbred of them, were fourtie and fiue thousand, and sixe hundred and fiftie.",
         }),
 
         ("numbers", 2, 16) => Some(Verse {
-            content: "",
+            content: "All that were numbred in the Campe of Reuben were an hundred thousand, and fiftie and one thousand, and foure hundred and fiftie throughout their armies: and they shall set foorth in the second ranke.",
         }),
 
         ("numbers", 2, 17) => Some(Verse {
-            content: "",
+            content: "Then the Tabernacle of the Congregation shall set forward with the Campe of the Leuites, in the midst of the Campe: as they encampe, so shall they set forward, euery man in his place by their standerds.",
         }),
 
         ("numbers", 2, 18) => Some(Verse {
-            content: "",
+            content: "On the West side shall bee the standerd of the Campe of Ephraim, according to their armies: and the captaine of the sonnes of Ephraim, shall be Elishama the sonne of Ammihud.",
         }),
 
         ("numbers", 2, 19) => Some(Verse {
-            content: "",
+            content: "And his hoste, and those that were numbred of them, were fourtie thousand and fiue hundred.",
         }),
 
         ("numbers", 2, 20) => Some(Verse {
-            content: "",
+            content: "And by him shall be the tribe of Manasseh: and the captaine of the children of Manasseh, shalbe Gamaliel the sonne of Pedahzur.",
         }),
 
         ("numbers", 2, 21) => Some(Verse {
-            content: "",
+            content: "And his hoste, and those that were numbred of them, were thirtie and two thousand, and two hundred.",
         }),
 
         ("numbers", 2, 22) => Some(Verse {
-            content: "",
+            content: "Then the tribe of Beniamin: and the captaine of the sonnes of Beniamin, shall bee Abidan the sonne of Gideoni.",
         }),
 
         ("numbers", 2, 23) => Some(Verse {
-            content: "",
+            content: "And his hoste, and those that were numbred of them, were thirtie and fiue thousand, and foure hundred.",
         }),
 
         ("numbers", 2, 24) => Some(Verse {
-            content: "",
+            content: "All that were numbred of the Campe of Ephraim, were an hundred thousand, and eight thousand, and an hundred, throughout their armies: and they shall goe forward in the third ranke.",
         }),
 
         ("numbers", 2, 25) => Some(Verse {
-            content: "",
+            content: "The standerd of the Campe of Dan shall be on the Northside by their armies: and the captaine of the children of Dan shall be Ahiezer, the sonne of Ammishaddai.",
         }),
 
         ("numbers", 2, 26) => Some(Verse {
-            content: "",
+            content: "And his hoste, and those that were numbred of them, were threescore and two thousand, and seuen hundred.",
         }),
 
         ("numbers", 2, 27) => Some(Verse {
-            content: "",
+            content: "And those that encampe by him, shalbe the tribe of Asher: and the captaine of the children of Asher, shalbe Pagiel the sonne of Ocran.",
         }),
 
         ("numbers", 2, 28) => Some(Verse {
-            content: "",
+            content: "And his hoste, and those that were numbred of them, were fourtie and one thousand, and fiue hundred.",
         }),
 
         ("numbers", 2, 29) => Some(Verse {
-            content: "",
+            content: "Then the tribe of Naphtali: and the captaine of the children of Naphtali, shall bee Ahira the sonne of Enan.",
         }),
 
         ("numbers", 2, 30) => Some(Verse {
-            content: "",
+            content: "And his hoste, and those that were numbred of them, were fiftie and three thousand, and foure hundred.",
         }),
 
         ("numbers", 2, 31) => Some(Verse {
-            content: "",
+            content: "All they that were numbred in the Campe of Dan, were an hundred thousand, and fifty and seuen thousand, and sixe hundred: they shall goe hindmost with their standerds.",
         }),
 
         ("numbers", 2, 32) => Some(Verse {
-            content: "",
+            content: "These are those which were numbred of the children of Israel, by the house of their fathers; all those that were numbred of the Campes throughout their hostes, were sixe hundred thousand, and three thousand, and fiue hundred and fiftie.",
         }),
 
         ("numbers", 2, 33) => Some(Verse {
-            content: "",
+            content: "But the Leuites were not numbred among the children of Israel, as the Lord commanded Moses.",
         }),
 
         ("numbers", 2, 34) => Some(Verse {
-            content: "",
+            content: "And the children of Israel did according to all that the Lord commanded Moses: so they pitched by their standerds, and so they set forward euery one after their families, according to the house of their fathers.",
         }),
 
         ("numbers", 3, 1) => Some(Verse {
-            content: "",
+            content: "These also are the generations of Aaron and Moses, in the day that the Lord spake with Moses in Mount Sinai.",
         }),
 
         ("numbers", 3, 2) => Some(Verse {
-            content: "",
+            content: "And these are the names of the sonnes of Aaron: Nadab the first borne, and Abihu, Eleazar and Ithamar.",
         }),
 
         ("numbers", 3, 3) => Some(Verse {
-            content: "",
+            content: "These are the names of the sonnes of Aaron the Priests, which were anointed, whom he consecrated to minister in the Priests office.",
         }),
 
         ("numbers", 3, 4) => Some(Verse {
-            content: "",
+            content: "And Nadab and Abihu died before the Lord, when they offered strange fire before the Lord in the wildernesse of Sinai, and they had no children: and Eleazar and Ithamar ministred in the Priests office in the sight of Aaron their father.",
         }),
 
         ("numbers", 3, 5) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 3, 6) => Some(Verse {
-            content: "",
+            content: "Bring the tribe of Leui neere, and present them before Aaron the Priest, that they may minister vnto him.",
         }),
 
         ("numbers", 3, 7) => Some(Verse {
-            content: "",
+            content: "And they shall keepe his charge, and the charge of the whole Congregation before the Tabernacle of the Congregation, to doe the seruice of the Tabernacle.",
         }),
 
         ("numbers", 3, 8) => Some(Verse {
-            content: "",
+            content: "And they shall keepe all the instruments of the Tabernacle of the Congregation, and the charge of the children of Israel, to doe the seruice of the Tabernacle.",
         }),
 
         ("numbers", 3, 9) => Some(Verse {
-            content: "",
+            content: "And thou shalt giue the Leuites vnto Aaron and to his sonnes: they are wholly giuen vnto him out of the children of Israel.",
         }),
 
         ("numbers", 3, 10) => Some(Verse {
-            content: "",
+            content: "And thou shalt appoint Aaron and his sonnes, and they shall waite on their priests office: and the stranger that commeth nigh, shall bee put to death.",
         }),
 
         ("numbers", 3, 11) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 3, 12) => Some(Verse {
-            content: "",
+            content: "And I, behold, I haue taken the Leuites from among the children of Israel, in stead of all the first borne that openeth the matrice among the children of Israel: therefore the Leuites shall be mine,",
         }),
 
         ("numbers", 3, 13) => Some(Verse {
-            content: "",
+            content: "Because all the first borne are mine: for on the day that I smote all the first borne in the land of Egypt, I halowed vnto mee all the first borne in Israel, both man, and beast, mine they shall be: I am the Lord.",
         }),
 
         ("numbers", 3, 14) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, in the wildernesse of Sinai, saying,",
         }),
 
         ("numbers", 3, 15) => Some(Verse {
-            content: "",
+            content: "Number the children of Leui, after the house of their fathers, by their families: euery male from a moneth old and vpward shalt thou number them.",
         }),
 
         ("numbers", 3, 16) => Some(Verse {
-            content: "",
+            content: "And Moses numbred them according to the word of the Lord, as he was commanded.",
         }),
 
         ("numbers", 3, 17) => Some(Verse {
-            content: "",
+            content: "And these were the sonnes of Leui, by their names: Gershon, and Kohath, and Merari.",
         }),
 
         ("numbers", 3, 18) => Some(Verse {
-            content: "",
+            content: "And these are the names of the sonnes of Gershon, by their families: Libni, and Shimei.",
         }),
 
         ("numbers", 3, 19) => Some(Verse {
-            content: "",
+            content: "And the sonnes of Kohath by their families: Amram, and Izehar, Hebron and Uzziel.",
         }),
 
         ("numbers", 3, 20) => Some(Verse {
-            content: "",
+            content: "And the sonnes of Merari by their families: Mahli, and Mushi: these are the families of the Leuites, according to the house of their fathers.",
         }),
         
         ("numbers", 3, 21) => Some(Verse {
-            content: "",
+            content: "Of Gershon was the familie of the Libnites, and the familie of the Shimites: these are the families of the Gershonites.",
         }),
 
         ("numbers", 3, 22) => Some(Verse {
-            content: "",
+            content: "Those that were numbred of them, according to the number of all the males, from a moneth old and vpward, euen those that were numbred of them, were seuen thousand and fiue hundred.",
         }),
 
         ("numbers", 3, 23) => Some(Verse {
-            content: "",
+            content: "The families of the Gershonites shal pitch behind the Tabernacle Westward.",
         }),
 
         ("numbers", 3, 24) => Some(Verse {
-            content: "",
+            content: "And the chiefe of the house of the father of the Gershonites, shall be Eliasaph the sonne of Lael.",
         }),
 
         ("numbers", 3, 25) => Some(Verse {
-            content: "",
+            content: "And the charge of the sonnes of Gershon, in the Tabernacle of the Congregation, shall be the Tabernacle, and the tent, the couering thereof, and the hanging for the doore of the Tabernacle of the Congregation:",
         }),
 
         ("numbers", 3, 26) => Some(Verse {
-            content: "",
+            content: "And the hangings of the Court, and the curtaine for the doore of the court, which is by the Tabernacle, and by the Altar round about, and the cords of it, for all the seruice therof.",
         }),
 
         ("numbers", 3, 27) => Some(Verse {
-            content: "",
+            content: "And of Kohath was the familie of the Amramites, and the familie of the Izeharites, and the familie of the Hebronites, and the familie of the Uzzielites: these are the families of the Kohathites.",
         }),
 
         ("numbers", 3, 28) => Some(Verse {
-            content: "",
+            content: "In the number of all the males, from a moneth olde and vpward, were eight thousand, and sixe hundred, keeping the charge of the Sanctuary.",
         }),
 
         ("numbers", 3, 29) => Some(Verse {
-            content: "",
+            content: "The families of the sonnes of Kohath, shall pitch on the side of the Tabernacle Southward.",
         }),
 
         ("numbers", 3, 30) => Some(Verse {
-            content: "",
+            content: "And the chiefe of the house of the father of the families of the Kohathites shalbe Elizaphan the sonne of Uzziel.",
         }),
 
         ("numbers", 3, 31) => Some(Verse {
-            content: "",
+            content: "And their charge shall be the Arke, and the Table, and the Candlesticke, and the altars, and the vessels of the Sanctuarie, wherewith they minister, and the hanging, and all the seruice thereof.",
         }),
 
         ("numbers", 3, 32) => Some(Verse {
-            content: "",
+            content: "And Eleazar the sonne of Aaron the Priest, shall be chiefe ouer the chiefe of the Leuites, and haue the ouersight of them that keepe the charge of the Sanctuary.",
         }),
 
         ("numbers", 3, 33) => Some(Verse {
-            content: "",
+            content: "Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari.",
         }),
 
         ("numbers", 3, 34) => Some(Verse {
-            content: "",
+            content: "And those that were numbred of them, according to the number of all the males from a moneth old & vpward, were sixe thousand and two hundred.",
         }),
 
         ("numbers", 3, 35) => Some(Verse {
-            content: "",
+            content: "And the chiefe of the house of the father of the families of Merari, was Zuriel the sonne of Abihail: these shall pitch on the side of the Tabernacle Northwards.",
         }),
 
         ("numbers", 3, 36) => Some(Verse {
-            content: "",
+            content: "And vnder the custody and charge of the sonnes of Merari, shall bee the boards of the Tabernacle, and the barres thereof, and the pillars thereof, and the sockets thereof, & all the vessels thereof, and all that serueth thereto:",
         }),
 
         ("numbers", 3, 37) => Some(Verse {
-            content: "",
+            content: "And the pillars of the Court round about, and their sockets, and their pinnes, and their cords.",
         }),
 
         ("numbers", 3, 38) => Some(Verse {
-            content: "",
+            content: "But those that encampe before the Tabernacle toward the East, euen before the Tabernacle of the Congregation Eastward, shall be Moses and Aaron, and his sonnes, keeping the charge of the Sanctuary, for the charge of the children of Israel: and the stranger that commeth nigh, shall be put to death.",
         }),
 
         ("numbers", 3, 39) => Some(Verse {
-            content: "",
+            content: "All that were numbred of the Leuites, which Moses and Aaron numbred at the commaundement of the Lord, throughout their families, all the males from a moneth old and vpward, were twenty and two thousand.",
         }),
 
         ("numbers", 3, 40) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Number all the first borne of the males of the children of Israel, from a moneth old and vpward, and take the number of their names.",
         }),
 
         ("numbers", 3, 41) => Some(Verse {
-            content: "",
+            content: "And thou shalt take the Leuites for me, (I am the Lord ) in stead of all the first borne among the children of Israel, and the cattell of the Leuites, in stead of all the firstlings among the cattell of the children of Israel.",
         }),
 
         ("numbers", 3, 42) => Some(Verse {
-            content: "",
+            content: "And Moses numbred as the Lord commanded him, all the first borne among the children of Israel.",
         }),
 
         ("numbers", 3, 43) => Some(Verse {
-            content: "",
+            content: "And all the first borne males, by the number of names, from a moneth old & vpward, of those that were numbred of them, were twenty and two thousand, two hundred, and threescore and thirteene.",
         }),
 
         ("numbers", 3, 44) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 3, 45) => Some(Verse {
-            content: "",
+            content: "Take the Leuites in stead of all the first borne among the children of Israel, and the cattell of the Leuites in stead of their cattell, and the Leuites shalbe mine: I am the Lord.",
         }),
 
         ("numbers", 3, 46) => Some(Verse {
-            content: "",
+            content: "And for those that are to be redeemed of the two hundred and threescore and thirteene, of the first borne of the children of Israel, which are more then the Leuites;",
         }),
 
         ("numbers", 3, 47) => Some(Verse {
-            content: "",
+            content: "Thou shalt euen take fiue shekels a piece, by the polle, after the shekel of the Sanctuary shalt thou take them; the shekel is twenty gerahs.",
         }),
 
         ("numbers", 3, 48) => Some(Verse {
-            content: "",
+            content: "And thou shalt giue the money, wherewith the odde number of them is to be redeemed, vnto Aaron and to his sonnes.",
         }),
 
         ("numbers", 3, 49) => Some(Verse {
-            content: "",
+            content: "And Moses tooke the redemption money, of them that were ouer and aboue them that were redeemed by the Leuites.",
         }),
 
         ("numbers", 3, 50) => Some(Verse {
-            content: "",
+            content: "Of the first borne of the children of Israel tooke he the money; a thousand, three hundred, and threescore and fiue shekels, after the shekel of the Sanctuary.",
         }),
 
         ("numbers", 3, 51) => Some(Verse {
-            content: "",
+            content: "And Moses gaue the money of them that were redeemed, vnto Aaron and to his sonnes, according to the word of the Lord, as the Lord commanded Moses.",
         }),
 
         ("numbers", 4, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, and vnto Aaron, saying,",
         }),
 
         ("numbers", 4, 2) => Some(Verse {
-            content: "",
+            content: "Take the summe of the sonnes of Kohath, from among the sonnes of Leui, after their families, by the house of their fathers.",
         }),
 
         ("numbers", 4, 3) => Some(Verse {
-            content: "",
+            content: "From thirty yeeres old and vpward, euen vntil fifty yeres old, all that enter into the hoste, to doe the worke in the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 4, 4) => Some(Verse {
-            content: "",
+            content: "This shall bee the seruice of the sonnes of Kohath, in the Tabernacle of the Congregation, about the most Holy things.",
         }),
 
         ("numbers", 4, 5) => Some(Verse {
-            content: "",
+            content: "And when the Campe setteth forward, Aaron shall come, and his sonnes, and they shall take downe the couering Uaile, and couer the Arke of Testimony with it:",
         }),
 
         ("numbers", 4, 6) => Some(Verse {
-            content: "",
+            content: "And shall put thereon the couering of badgers skinnes, & shall spread ouer it a cloth wholly of blew, and shall put in the staues thereof.",
         }),
 
         ("numbers", 4, 7) => Some(Verse {
-            content: "",
+            content: "And vpon the table of Shewbread they shall spread a cloth of blew, and put thereon the dishes, and the spoones, and the bowles, and couers to couer withall: and the continual bread shalbe thereon.",
         }),
 
         ("numbers", 4, 8) => Some(Verse {
-            content: "",
+            content: "And they shall spread vpon them a clothe of scarlet, and couer the same with a couering of badgers skinnes, and shall put in the staues thereof.",
         }),
 
         ("numbers", 4, 9) => Some(Verse {
-            content: "",
+            content: "And they shall take a cloth of blew, and couer the candlesticke of the light, and his lampes, and his tongs, and his snuffe dishes, and all the oyle vessels thereof, wherewith they minister vnto it.",
         }),
 
         ("numbers", 4, 10) => Some(Verse {
-            content: "",
+            content: "And they shall put it, and all the vessels thereof, within a couering of badgers skinnes, and shall put it vpon a barre.",
         }),
 
         ("numbers", 4, 11) => Some(Verse {
-            content: "",
+            content: "And vpon the golden Altar they shall spread a cloth of blew, and couer it with a couering of badgers skinnes, and shall put to the staues thereof.",
         }),
 
         ("numbers", 4, 12) => Some(Verse {
-            content: "",
+            content: "And they shall take all the instruments of ministery, wherewith they minister in the Sanctuary, and put them in a cloth of blew, and couer them with a couering of badgers skinnes, and shall put them on a barre.",
         }),
 
         ("numbers", 4, 13) => Some(Verse {
-            content: "",
+            content: "And they shall take away the ashes from the Altar, and spread a purple cloth thereon:",
         }),
 
         ("numbers", 4, 14) => Some(Verse {
-            content: "",
+            content: "And they shall put vpon it all the vessels thereof, wherewith they minister about it, euen the censers, the fleshhookes, and the shouels, and the basons, all the vessels of the Altar: and they shall spread vpon it a couering of badgers skinnes, and put to the staues of it.",
         }),
 
         ("numbers", 4, 15) => Some(Verse {
-            content: "",
+            content: "And when Aaron and his sonnes haue made an end of couering the Sanctuary, and all the vessels of the Sanctuary, as the campe is to set forward; after that, the sonnes of Kohath shall come to beare it: but they shal not touch any holy thing, lest they die. These things are the burden of the sonnes of Kohath in the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 4, 16) => Some(Verse {
-            content: "",
+            content: "And to the office of Eleazar the sonne of Aaron the Priest, perteineth the oile for the light, and the sweet incense, and the dayly meat offering, and the anoynting oyle, and the ouersight of all the Tabernacle, and of all that therein is, in the Sanctuary, and in the vessels thereof.",
         }),
 
         ("numbers", 4, 17) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, and vnto Aaron, saying,",
         }),
 
         ("numbers", 4, 18) => Some(Verse {
-            content: "",
+            content: "Cut ye not off the tribe of the families of the Kohathites, from among the Leuites.",
         }),
 
         ("numbers", 4, 19) => Some(Verse {
-            content: "",
+            content: "But thus doe vnto them, that they may liue, and not die: when they approche vnto the most Holy things, Aaron and his sonnes shall goe in, and appoint them euery one to his seruice, and to his burden.",
         }),
 
         ("numbers", 4, 20) => Some(Verse {
-            content: "",
+            content: "But they shall not goe in to see when the holy things are couered, lest they die.",
         }),
 
         ("numbers", 4, 21) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 4, 22) => Some(Verse {
-            content: "",
+            content: "Take also the summe of the sonnes of Gershon, throughout the houses of their fathers, by their families:",
         }),
 
         ("numbers", 4, 23) => Some(Verse {
-            content: "",
+            content: "From thirtie yeeres old and vpward, vntill fiftie yeeres old shalt thou number them: all that enter in to performe the seruice, to doe the worke in the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 4, 24) => Some(Verse {
-            content: "",
+            content: "This is the seruice of the families of the Gershonites, to serue, and for burdens.",
         }),
 
         ("numbers", 4, 25) => Some(Verse {
-            content: "",
+            content: "And they shall beare the curtaines of the Tabernacle, and the Tabernacle of the Congregation; his couering, and the couering of the badgers skinnes that is aboue vpon it, and the hanging for the doore of the Tabernacle of the Congregation:",
         }),
 
         ("numbers", 4, 26) => Some(Verse {
-            content: "",
+            content: "And the hangings of the Court, and the hanging for the doore of the gate of the Court which is by the Tabernacle, and by the Altar round about, and their cords, and all the instruments of their seruice, and all that is made for them: so shall they serue.",
         }),
 
         ("numbers", 4, 27) => Some(Verse {
-            content: "",
+            content: "At the appointment of Aaron and his sonnes, shall be all the seruice of the sonnes of the Gershonites, in all their burdens, and in all their seruice: and yee shall appoint vnto them in charge all their burdens.",
         }),
 
         ("numbers", 4, 28) => Some(Verse {
-            content: "",
+            content: "This is the seruice of the families of the sonnes of Gershon, in the Tabernacle of the Congregation: and their charge shalbe vnder the hande of Ithamar the sonne of Aaron the Priest.",
         }),
 
         ("numbers", 4, 29) => Some(Verse {
-            content: "",
+            content: "As for the sonnes of Merari, thou shalt number them after their families, by the house of their fathers:",
         }),
 
         ("numbers", 4, 30) => Some(Verse {
-            content: "",
+            content: "From thirty yeeres old and vpward, euen vnto fiftie yeeres old shalt thou number them, euery one that entreth in to the seruice, to doe the worke of the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 4, 31) => Some(Verse {
-            content: "",
+            content: "And this is the charge of their burden, according to all their seruice, in the Tabernacle of the Congregation, the boards of the Tabernacle, and the barres thereof, and the pillars thereof, and sockets thereof:",
         }),
 
         ("numbers", 4, 32) => Some(Verse {
-            content: "",
+            content: "And the pillars of the Court round about, and their sockets, and their pinnes, and their coards, with all their instruments, and with all their seruice: and by name yee shall reckon the instruments of the charge of their burden.",
         }),
 
         ("numbers", 4, 33) => Some(Verse {
-            content: "",
+            content: "This is the seruice of the families of the sonnes of Merari, according to all their seruice in the Tabernacle of the Congregation, vnder the hand of Ithamar the sonne of Aaron the Priest.",
         }),
 
         ("numbers", 4, 34) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron, and the chiefe of the Congregation, numbred the sonnes of the Kohathites, after their families, and after the house of their fathers;",
         }),
 
         ("numbers", 4, 35) => Some(Verse {
-            content: "",
+            content: "From thirtie yeeres old and vpward, euen vnto fiftie yeeres old, euery one that entreth in to the seruice, for the worke in the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 4, 36) => Some(Verse {
-            content: "",
+            content: "And those that were numbred of them by their families, were two thousand, seuen hundred and fiftie.",
         }),
 
         ("numbers", 4, 37) => Some(Verse {
-            content: "",
+            content: "These were they that were numbred of the families of the Kohathites; all that might doe seruice in the Tabernacle of the Congregation, which Moses and Aaron did number, according to the commandement of the Lord, by the hand of Moses.",
         }),
 
         ("numbers", 4, 38) => Some(Verse {
-            content: "",
+            content: "And those that were numbred of the sonnes of Gershon, throughout their families, and by the house of their fathers;",
         }),
 
         ("numbers", 4, 39) => Some(Verse {
-            content: "",
+            content: "From thirtie yeeres old and vpward, euen vnto fiftie yeeres old, euery one that entreth in to the seruice, for the worke in the Tabernacle of the Congregation:",
         }),
 
         ("numbers", 4, 40) => Some(Verse {
-            content: "",
+            content: "Euen those that were numbred of them, throughout their families, by the houses of their fathers, were two thousand, and sixe hundred and thirtie.",
         }),
 
         ("numbers", 4, 41) => Some(Verse {
-            content: "",
+            content: "These are they that were numbred of the families of the sonnes of Gershon, of all that might doe seruice in the Tabernacle of the Congregation, whom Moses and Aaron did number, according to the commandement of the Lord.",
         }),
 
         ("numbers", 4, 42) => Some(Verse {
-            content: "",
+            content: "And those that were numbred of the families of the sonnes of Merari, throughout their families, by the house of their fathers:",
         }),
 
         ("numbers", 4, 43) => Some(Verse {
-            content: "",
+            content: "From thirtie yeeres old and vpward, euen vnto fiftie yeeres old, euery one that entreth in to the seruice, for the worke in the Tabernacle of the Congregation:",
         }),
 
         ("numbers", 4, 44) => Some(Verse {
-            content: "",
+            content: "Euen those that were numbred of them after their families, were three thousand and two hundred.",
         }),
 
         ("numbers", 4, 45) => Some(Verse {
-            content: "",
+            content: "These be those that were numbred of the families of the sonnes of Merari, whom Moses & Aaron numbred according to the word of the Lord by the hand of Moses.",
         }),
 
         ("numbers", 4, 46) => Some(Verse {
-            content: "",
+            content: "All those that were numbred of the Leuites, whom Moses and Aaron, and the chiefe of Israel numbred, after their families, and after the house of their fathers:",
         }),
 
         ("numbers", 4, 47) => Some(Verse {
-            content: "",
+            content: "From thirty yeeres old and vpward, euen vnto fifty yeeres old, euery one that came to doe the seruice of the ministery, and the seruice of the burden in the Tabernacle of the Congregation:",
         }),
 
         ("numbers", 4, 48) => Some(Verse {
-            content: "",
+            content: "Euen those that were numbred of them, were eight thousand, and fiue hundred, and fourescore.",
         }),
 
         ("numbers", 4, 49) => Some(Verse {
-            content: "",
+            content: "According to the commandement of the Lord, they were numbred by the hand of Moses, euery one according to his seruice, and according to his burden: Thus were they numbred of him, as the Lord commanded Moses.",
         }),
 
         ("numbers", 5, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 5, 2) => Some(Verse {
-            content: "",
+            content: "Commaund the children of Israel, that they put out of the campe euery leper, and euery one that hath an issue, and whosoeuer is defiled by the dead:",
         }),
 
         ("numbers", 5, 3) => Some(Verse {
-            content: "",
+            content: "Both male and female shal ye put out, without the campe shall yee put them, that they defile not their campes in the middest whereof I dwell.",
         }),
 
         ("numbers", 5, 4) => Some(Verse {
-            content: "",
+            content: "And the children of Israel did so, and put them out, without the campe: as the Lord spake vnto Moses, so did the children of Israel.",
         }),
 
         ("numbers", 5, 5) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 5, 6) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, When a man or woman shall commit any sinne that men commit, to doe a trespasse against the Lord, and that person be guiltie;",
         }),
 
         ("numbers", 5, 7) => Some(Verse {
-            content: "",
+            content: "Then they shall confesse their sinne, which they haue done: and hee shall recompense his trespasse, with the principall thereof, and adde vnto it the fifth part thereof, and giue it vnto him against whom he hath trespassed.",
         }),
 
         ("numbers", 5, 8) => Some(Verse {
-            content: "",
+            content: "But if the man haue no kinsman to recompense the trespasse vnto, let the trespasse be recompensed vnto the Lord, euen to the Priest: beside the ramme of the atonement, whereby an atonement shall be made for him.",
         }),
 
         ("numbers", 5, 9) => Some(Verse {
-            content: "",
+            content: "And euery offering of all the holy things of the children of Israel, which they bring vnto the Priest, shall be his.",
         }),
 
         ("numbers", 5, 10) => Some(Verse {
-            content: "",
+            content: "And euery mans halowed things shall be his: whatsoeuer any man giueth the Priest, it shall be his.",
         }),
 
         ("numbers", 5, 11) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 5, 12) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and say vnto them, If any mans wife goe aside, and commit a trespasse against him;",
         }),
 
         ("numbers", 5, 13) => Some(Verse {
-            content: "",
+            content: "And a man lye with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witnesse against her, neither she be taken with the maner;",
         }),
 
         ("numbers", 5, 14) => Some(Verse {
-            content: "",
+            content: "And the spirit of ielousie come vpon him, and he be ielous of his wife, and shee be defiled: or if the spirit of ielousie come vpon him, and hee be ielous of his wife, and she be not defiled:",
         }),
 
         ("numbers", 5, 15) => Some(Verse {
-            content: "",
+            content: "Then shall the man bring his wife vnto the Priest, and he shall bring her offering for her, the tenth part of an Ephah of barley meale: hee shall powre no oyle vpon it, nor put frankincense thereon; for it is an offering of ielousie, an offering of memoriall, bringing iniquitie to remembrance:",
         }),
 
         ("numbers", 5, 16) => Some(Verse {
-            content: "",
+            content: "And the Priest shall bring her neere, and set her before the Lord.",
         }),
 
         ("numbers", 5, 17) => Some(Verse {
-            content: "",
+            content: "And the Priest shall take holy water in an earthen vessell, and of the dust that is in the floore of the Tabernacle the Priest shall take, and put it into the water:",
         }),
 
         ("numbers", 5, 18) => Some(Verse {
-            content: "",
+            content: "And the Priest shall set the woman before the Lord, and vncouer the womans head, and put the offering of memoriall in her hands, which is the Ielousie offering: and the Priest shall haue in his hand the bitter water that causeth the curse.",
         }),
 
         ("numbers", 5, 19) => Some(Verse {
-            content: "",
+            content: "And the Priest shall charge her by an othe, and say vnto the woman, If no man haue lyen with thee, and if thou hast not gone aside to vncleannesse with another in stead of thy husband, be thou free from this bitter water that causeth the curse.",
         }),
 
         ("numbers", 5, 20) => Some(Verse {
-            content: "",
+            content: "But if thou hast gone aside to another in stead of thy husband, and if thou be defiled, and some man hath lien with thee beside thine husband:",
         }),
 
         ("numbers", 5, 21) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall charge the woman with an othe of cursing, and the Priest shall say vnto the woman, The Lord make thee a curse, and an othe among thy people, when the Lord doth make thy thigh to rot, and thy belly to swell.",
         }),
 
         ("numbers", 5, 22) => Some(Verse {
-            content: "",
+            content: "And this water that causeth the curse, shall go into thy bowels, to make thy belly to swell, and thy thigh to rot: and the woman shall say, Amen, Amen.",
         }),
 
         ("numbers", 5, 23) => Some(Verse {
-            content: "",
+            content: "And the Priest shall write these curses in a booke, and hee shall blot them out with the bitter water:",
         }),
 
         ("numbers", 5, 24) => Some(Verse {
-            content: "",
+            content: "And he shall cause the woman to drinke the bitter water, that causeth the curse: and the water that causeth the curse shall enter into her, and become bitter.",
         }),
 
         ("numbers", 5, 25) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall take the ielousie offering out of the womans hand, and shall waue the offering before the Lord, and offer it vpon the Altar.",
         }),
 
         ("numbers", 5, 26) => Some(Verse {
-            content: "",
+            content: "And the Priest shal take an handfull of the offering, euen the memoriall thereof, and burne it vpon the Altar, and afterward shall cause the woman to drinke the water.",
         }),
 
         ("numbers", 5, 27) => Some(Verse {
-            content: "",
+            content: "And when he hath made her to drinke the water, then it shall come to passe, that if shee be defiled, and haue done trespasse against her husband, that the water that causeth the curse, shall enter into her, and become bitter, and her belly shall swell, and her thigh shal rot: and the woman shalbe a curse among her people.",
         }),
 
         ("numbers", 5, 28) => Some(Verse {
-            content: "",
+            content: "And if the woman be not defiled, but be cleane, then she shall be free, and shall conceiue seed.",
         }),
 
         ("numbers", 5, 29) => Some(Verse {
-            content: "",
+            content: "This is the law of ielousies, when a wife goeth aside to another in stead of her husband, and is defiled:",
         }),
 
         ("numbers", 5, 30) => Some(Verse {
-            content: "",
+            content: "Or when the spirit of ielousie commeth vpon him, and hee be ielous ouer his wife, and shall set the woman before the Lord, and the Priest shal execute vpon her all this law.",
         }),
 
         ("numbers", 5, 31) => Some(Verse {
-            content: "",
+            content: "Then shall the man bee guiltlesse from iniquitie, and this woman shall beare her iniquitie.",
         }),
 
         ("numbers", 6, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 6, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and say vnto them, When either man or woman shall separate themselues to vow a vow of a Nazarite, to separate themselues vnto the Lord:",
         }),
 
         ("numbers", 6, 3) => Some(Verse {
-            content: "",
+            content: "Hee shall separate himselfe from wine, and strong drinke, and shal drinke no vineger of wine, or vineger of strong drinke, neither shal he drinke any liquor of grapes, nor eate moist grapes, or dried.",
         }),
 
         ("numbers", 6, 4) => Some(Verse {
-            content: "",
+            content: "All the dayes of his separation shall he eat nothing that is made of the vine tree, from the kernels euen to the huske.",
         }),
 
         ("numbers", 6, 5) => Some(Verse {
-            content: "",
+            content: "All the dayes of the vow of his separation, there shall no rasour come vpon his head: vntill the dayes bee fulfilled in the which hee separateth himselfe vnto the Lord, he shall be holy, and shall let the lockes of the haire of his head grow.",
         }),
 
         ("numbers", 6, 6) => Some(Verse {
-            content: "",
+            content: "All the dayes that he separateth himselfe vnto the Lord, hee shall come at no dead body.",
         }),
 
         ("numbers", 6, 7) => Some(Verse {
-            content: "",
+            content: "Hee shall not make himselfe vncleane for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God is vpon his head.",
         }),
 
         ("numbers", 6, 8) => Some(Verse {
-            content: "",
+            content: "All the dayes of his separation he is holy vnto the Lord.",
         }),
 
         ("numbers", 6, 9) => Some(Verse {
-            content: "",
+            content: "And if any man die very suddenly by him, and he hath defiled the head of his consecration, then he shall shaue his head in the day of his cleansing, on the seuenth day shall he shaue it.",
         }),
 
         ("numbers", 6, 10) => Some(Verse {
-            content: "",
+            content: "And on the eight day he shal bring two turtles or two yong pigeons to the Priest, to the doore of the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 6, 11) => Some(Verse {
-            content: "",
+            content: "And the Priest shall offer the one for a sinne offering, and the other for a burnt offering, and make an atonement for him, for that hee sinned by the dead, and shall hallow his head that same day.",
         }),
 
         ("numbers", 6, 12) => Some(Verse {
-            content: "",
+            content: "And hee shall consecrate vnto the Lord the dayes of his separation, and shall bring a lambe of the first yeere for a trespasse offering: but the dayes that were before shall be lost, because his separation was defiled.",
         }),
 
         ("numbers", 6, 13) => Some(Verse {
-            content: "",
+            content: "And this is the Lawe of the Nazarite: when the dayes of his separation are fulfilled, he shall be brought vnto the doore of the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 6, 14) => Some(Verse {
-            content: "",
+            content: "And he shall offer his offring vnto the Lord, one hee lambe of the first yeere without blemish, for a burnt offering, and one ewe lambe of the first yeere without blemish, for a sinne offering, and one lambe without blemish for peace offerings,",
         }),
 
         ("numbers", 6, 15) => Some(Verse {
-            content: "",
+            content: "And a basket of vnleauened bread, cakes of fine flowre mingled with oyle, and wafers of vnleauened bread anointed with oyle, and their meate offering, and their drinke offerings.",
         }),
 
         ("numbers", 6, 16) => Some(Verse {
-            content: "",
+            content: "And the Priest shall bring them before the Lord, and shall offer his sinne offering, and his burnt offering.",
         }),
 
         ("numbers", 6, 17) => Some(Verse {
-            content: "",
+            content: "And he shall offer the ramme for a sacrifice of peace offerings vnto the Lord, with the basket of vnleauened bread: the Priest shall offer also his meate offering, and his drinke offering.",
         }),
 
         ("numbers", 6, 18) => Some(Verse {
-            content: "",
+            content: "And the Nazarite shal shaue the head of his separation, at the doore of the Tabernacle of the Congregation, and shall take the haire of the head of his separation, and put it in the fire which is vnder the sacrifice of the peace offerings.",
         }),
 
         ("numbers", 6, 19) => Some(Verse {
-            content: "",
+            content: "And the Priest shall take the sodden shoulder of the ramme, and one vnleauened cake out of the basket, and one vnleauened wafer, and shall put them vpon the hands of the Nazarite, after the haire of his separation is shauen.",
         }),
 
         ("numbers", 6, 20) => Some(Verse {
-            content: "",
+            content: "And the Priest shall waue them for a waue offring before the Lord: this is holy for the Priest, with the waue breast, and heaue shoulder: and after that, the Nazarite may drinke wine.",
         }),
 
         ("numbers", 6, 21) => Some(Verse {
-            content: "",
+            content: "This is the Law of the Nazarite, who hath vowed, and of his offering vnto the Lord for his separation, besides that, that his hand shall get: according to the vow which he vowed, so he must do after the law of his separation.",
         }),
 
         ("numbers", 6, 22) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 6, 23) => Some(Verse {
-            content: "",
+            content: "Speake vnto Aaron, and vnto his sonnes, saying, On this wise ye shall blesse the children of Israel, saying vnto them:",
         }),
 
         ("numbers", 6, 24) => Some(Verse {
-            content: "",
+            content: "The Lord blesse thee, and keepe thee:",
         }),
 
         ("numbers", 6, 25) => Some(Verse {
-            content: "",
+            content: "The Lord make his face shine vpon thee, and be gracious vnto thee:",
         }),
 
         ("numbers", 6, 26) => Some(Verse {
-            content: "",
+            content: "The Lord lift vp his countenance vpon thee, and giue thee peace.",
         }),
 
         ("numbers", 6, 27) => Some(Verse {
-            content: "",
+            content: "And they shall put my Name vpon the children of Israel, and I will blesse them.",
         }),
 
         ("numbers", 7, 1) => Some(Verse {
-            content: "",
+            content: "And it came to passe on the day that Moses had fully set vp the Tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the Altar, and all the vessels thereof, and had anointed them, and sanctified them:",
         }),
 
         ("numbers", 7, 2) => Some(Verse {
-            content: "",
+            content: "That the Princes of Israel, heads of the house of their fathers, (who were the Princes of the tribes, and were ouer them that were numbred) offered:",
         }),
 
         ("numbers", 7, 3) => Some(Verse {
-            content: "",
+            content: "And they brought their offering before the Lord, sixe couered wagons, and twelue oxen: a wagon for two of the Princes, and for each one an oxe, and they brought them before the Tabernacle.",
         }),
 
         ("numbers", 7, 4) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 7, 5) => Some(Verse {
-            content: "",
+            content: "Take it of them, that they may be to doe the seruice of the Tabernacle of the Congregation, and thou shalt giue them vnto the Leuites, to euery man according to his seruice.",
         }),
 
         ("numbers", 7, 6) => Some(Verse {
-            content: "",
+            content: "And Moses tooke the wagons, and the oxen, and gaue them vnto the Leuites.",
         }),
 
         ("numbers", 7, 7) => Some(Verse {
-            content: "",
+            content: "Two wagons and foure oxen he gaue vnto the sonnes of Gershon, according to their seruice.",
         }),
 
         ("numbers", 7, 8) => Some(Verse {
-            content: "",
+            content: "And foure wagons and eight oxen he gaue vnto the sonnes of Merari, according vnto their seruice, vnder the hand of Ithamar the sonne of Aaron the Priest.",
         }),
 
         ("numbers", 7, 9) => Some(Verse {
-            content: "",
+            content: "But vnto the sonnes of Kohath he gaue none: because the seruice of the Sanctuary belonging vnto them, was that they should beare vpon their shoulders.",
         }),
 
         ("numbers", 7, 10) => Some(Verse {
-            content: "",
+            content: "And the Princes offered for dedicating of the Altar, in the day that it was anointed, euen the Princes offered their offering before the Altar.",
         }),
 
         ("numbers", 7, 11) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, They shall offer their offering eche Prince on his day, for the dedicating of the Altar.",
         }),
 
         ("numbers", 7, 12) => Some(Verse {
-            content: "",
+            content: "And he that offered his offring the first day, was Nahshon the sonne of Amminadab, of the tribe of Iudah.",
         }),
 
         ("numbers", 7, 13) => Some(Verse {
-            content: "",
+            content: "And his offering was one siluer charger, the weight thereof was an hundred and thirty shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuary; both of them were full of fine flowre mingled with oile for a meat offering:",
         }),
 
         ("numbers", 7, 14) => Some(Verse {
-            content: "",
+            content: "One spoone of ten shekels of gold, full of incense:",
         }),
 
         ("numbers", 7, 15) => Some(Verse {
-            content: "",
+            content: "One yong bullocke, one ramme, one lambe of the first yeere, for a burnt offering,",
         }),
 
         ("numbers", 7, 16) => Some(Verse {
-            content: "",
+            content: "One kid of the goats for a sinne offering:",
         }),
 
         ("numbers", 7, 17) => Some(Verse {
-            content: "",
+            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goats, fiue lambes of the first yeere: this was the offering of Nahshon the sonne of Amminadab.",
         }),
 
         ("numbers", 7, 18) => Some(Verse {
-            content: "",
+            content: "On the second day Nethaneel the sonne of Zuar, Prince of Issachar did offer.",
         }),
 
         ("numbers", 7, 19) => Some(Verse {
-            content: "",
+            content: "He offered for his offering one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuenty shekels, after the shekel of the Sanctuary, both of them full of fine flowre mingled with oile, for a meat offering:",
         }),
 
         ("numbers", 7, 20) => Some(Verse {
-            content: "",
+            content: "One spoone of gold of ten shekels, full of incense:",
         }),
 
         ("numbers", 7, 21) => Some(Verse {
-            content: "",
+            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
         }),
 
         ("numbers", 7, 22) => Some(Verse {
-            content: "",
+            content: "One kid of the goats for a sinne offering:",
         }),
 
         ("numbers", 7, 23) => Some(Verse {
-            content: "",
+            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goats, fiue lambes of the first yeere: this was the offering of Nethaneel the sonne of Zuar.",
         }),
 
         ("numbers", 7, 24) => Some(Verse {
-            content: "",
+            content: "On the third day Eliab the sonne of Helon, Prince of the children of Zebulun did offer.",
         }),
 
         ("numbers", 7, 25) => Some(Verse {
-            content: "",
+            content: "His offering was one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuary, both of them full of fine flowre mingled with oile, for a meat offering:",
         }),
 
         ("numbers", 7, 26) => Some(Verse {
-            content: "",
+            content: "One golden spoone of ten shekels, full of incense:",
         }),
 
         ("numbers", 7, 27) => Some(Verse {
-            content: "",
+            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
         }),
 
         ("numbers", 7, 28) => Some(Verse {
-            content: "",
+            content: "One kid of the goats for a sinne offering:",
         }),
 
         ("numbers", 7, 29) => Some(Verse {
-            content: "",
+            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goats, fiue lambes of the first yeere: This was the offring of Eliab the sonne of Helon.",
         }),
 
         ("numbers", 7, 30) => Some(Verse {
-            content: "",
+            content: "On the fourth day Elizur the sonne of Shedeur, Prince of the children of Reuben did offer.",
         }),
 
         ("numbers", 7, 31) => Some(Verse {
-            content: "",
+            content: "His offering was one siluer charger of an hundred and thirty shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuary, both of them full of fine flowre mingled with oyle, for a meat offering:",
         }),
 
         ("numbers", 7, 32) => Some(Verse {
-            content: "",
+            content: "One golden spoone of tenne shekels, full of incense:",
         }),
 
         ("numbers", 7, 33) => Some(Verse {
-            content: "",
+            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
         }),
 
         ("numbers", 7, 34) => Some(Verse {
-            content: "",
+            content: "One kid of the goats for a sinne offering:",
         }),
 
         ("numbers", 7, 35) => Some(Verse {
-            content: "",
+            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goats, fiue lambs of the first yere: This was the offering of Elizur the sonne of Shedeur.",
         }),
 
         ("numbers", 7, 36) => Some(Verse {
-            content: "",
+            content: "On the fifth day Shelumiel the sonne of Zurishaddai Prince of the children of Simeon, did offer.",
         }),
 
         ("numbers", 7, 37) => Some(Verse {
-            content: "",
+            content: "His offring was one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuary, both of them full of fine flowre, mingled with oyle, for a meate offering:",
         }),
 
         ("numbers", 7, 38) => Some(Verse {
-            content: "",
+            content: "One golden spoone of ten shekels, full of incense:",
         }),
 
         ("numbers", 7, 39) => Some(Verse {
-            content: "",
+            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
         }),
 
         ("numbers", 7, 40) => Some(Verse {
-            content: "",
+            content: "One kidde of the goates for a sinne offering:",
         }),
 
         ("numbers", 7, 41) => Some(Verse {
-            content: "",
+            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goates, fiue lambes of the first yeere: This was the offering of Shelumiel the sonne of Zurishaddai.",
         }),
 
         ("numbers", 7, 42) => Some(Verse {
-            content: "",
+            content: "On the sixt day, Eliasaph the sonne of Deuel, Prince of the children of Gad, offered:",
         }),
 
         ("numbers", 7, 43) => Some(Verse {
-            content: "",
+            content: "His offering was one siluer charger of the weight of an hundred and thirtie shekels, a siluer bowle of seuentie shekels, after the shekel of the Sanctuarie, both of them ful of fine flowre mingled with oyle, for a meate offering:",
         }),
 
         ("numbers", 7, 44) => Some(Verse {
-            content: "",
+            content: "One golden spoone of ten shekels, full of incense:",
         }),
 
         ("numbers", 7, 45) => Some(Verse {
-            content: "",
+            content: "One yong bullocke, one ramme, one lambe of the first yeere, for a burnt offering:",
         }),
 
         ("numbers", 7, 46) => Some(Verse {
-            content: "",
+            content: "One kid of the goates for a sinne offering:",
         }),
 
         ("numbers", 7, 47) => Some(Verse {
-            content: "",
+            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goates, fiue lambes of the first yeere. This was the offering of Eliasaph the sonne of Deuel.",
         }),
 
         ("numbers", 7, 48) => Some(Verse {
-            content: "",
+            content: "On the seuenth day, Elishama the sonne of Ammiud, Prince of the children of Ephraim offered.",
         }),
 
         ("numbers", 7, 49) => Some(Verse {
-            content: "",
+            content: "His offering was one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuarie, both of them full of fine flowre mingled with oile for a meat offering:",
         }),
 
         ("numbers", 7, 50) => Some(Verse {
-            content: "",
+            content: "One golden spoone of ten shekels, full of incense:",
         }),
 
         ("numbers", 7, 51) => Some(Verse {
-            content: "",
+            content: "One yong bullocke, one ramme, one lambe of the first yeere, for a burnt offering:",
         }),
 
         ("numbers", 7, 52) => Some(Verse {
-            content: "",
+            content: "One kid of the goates for a sinne offering:",
         }),
 
         ("numbers", 7, 53) => Some(Verse {
-            content: "",
+            content: "And for a sacrifice of peace offrings, two oxen, fiue rammes, fiue hee goats, fiue lambes of the first yeere. This was the offering of Elishama the sonne of Ammiud.",
         }),
 
         ("numbers", 7, 54) => Some(Verse {
-            content: "",
+            content: "On the eight day offered Gamaliel the sonne of Pedazur, Prince of the children of Manasseh.",
         }),
 
         ("numbers", 7, 55) => Some(Verse {
-            content: "",
+            content: "His offering was one siluer charger of an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuary, both of them full of fine flowre mingled with oile, for a meate offering:",
         }),
 
         ("numbers", 7, 56) => Some(Verse {
-            content: "",
+            content: "One golden spoone of ten shekels, full of incense:",
         }),
 
         ("numbers", 7, 57) => Some(Verse {
-            content: "",
+            content: "One yong bullocke, one ramme, one lambe of the first yeere, for a burnt offering:",
         }),
 
         ("numbers", 7, 58) => Some(Verse {
-            content: "",
+            content: "One kid of the goates for a sinne offering:",
         }),
 
         ("numbers", 7, 59) => Some(Verse {
-            content: "",
+            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goats, fiue lambes of the first yeere. This was the offering of Gamaliel the sonne of Pedazur.",
         }),
 
         ("numbers", 7, 60) => Some(Verse {
-            content: "",
+            content: "On the ninth day, Abidan the sonne of Gideoni, prince of the children of Beniamin offered.",
         }),
 
         ("numbers", 7, 61) => Some(Verse {
-            content: "",
+            content: "His offering was one siluer charger, the weight whereof was an hundred and thirtie shekels, a siluer bowle of seuentie shekels, after the shekel of the Sanctuary, both of them full of fine flowre mingled with oyle, for a meate offering:",
         }),
 
         ("numbers", 7, 62) => Some(Verse {
-            content: "",
+            content: "One golden spoone of ten shekels, full of incense:",
         }),
 
         ("numbers", 7, 63) => Some(Verse {
-            content: "",
+            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
         }),
 
         ("numbers", 7, 64) => Some(Verse {
-            content: "",
+            content: "One kid of the goats for a sinne offering:",
         }),
 
         ("numbers", 7, 65) => Some(Verse {
-            content: "",
+            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goates, fiue lambes of the first yeere. This was the offering of Abidan, the sonne of Gideoni.",
         }),
 
         ("numbers", 7, 66) => Some(Verse {
-            content: "",
+            content: "On the tenth day Ahiezer the sonne of Ammishaddai, Prince of the children of Dan offered.",
         }),
 
         ("numbers", 7, 67) => Some(Verse {
-            content: "",
+            content: "His offring was one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuarie, both of them full of fine flowre mingled with oyle, for a meate offering:",
         }),
 
         ("numbers", 7, 68) => Some(Verse {
-            content: "",
+            content: "One golden spoone of ten shekels, full of incense:",
         }),
 
         ("numbers", 7, 69) => Some(Verse {
-            content: "",
+            content: "One yong bullocke, one ramme, one lambe of the first yeere, for a burnt offering:",
         }),
 
         ("numbers", 7, 70) => Some(Verse {
-            content: "",
+            content: "One kid of the goates for a sinne offering:",
         }),
 
         ("numbers", 7, 71) => Some(Verse {
-            content: "",
+            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goats, fiue lambes of the first yeere. This was the offering of Ahiezer the sonne of Ammishaddai.",
         }),
 
         ("numbers", 7, 72) => Some(Verse {
-            content: "",
+            content: "On the eleuenth day, Pagiel the sonne of Ocran, Prince of the children of Asher offered.",
         }),
 
         ("numbers", 7, 73) => Some(Verse {
-            content: "",
+            content: "His offering was one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuarie, both of them full of fine flowre mingled with oyle, for a meat offering:",
         }),
 
         ("numbers", 7, 74) => Some(Verse {
-            content: "",
+            content: "One golden spoone of ten shekels, full of incense:",
         }),
 
         ("numbers", 7, 75) => Some(Verse {
-            content: "",
+            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
         }),
 
         ("numbers", 7, 76) => Some(Verse {
-            content: "",
+            content: "One kid of the goates for a sinne offering:",
         }),
 
         ("numbers", 7, 77) => Some(Verse {
-            content: "",
+            content: "And for a sacrifice of peace offrings, two oxen, fiue rammes, fiue hee goats, fiue lambs of the first yeere. This was the offering of Pagiel the sonne of Ocran.",
         }),
 
         ("numbers", 7, 78) => Some(Verse {
-            content: "",
+            content: "On the twelfth day, Ahira the sonne of Enan, Prince of the children of Naphtali, offered.",
         }),
 
         ("numbers", 7, 79) => Some(Verse {
-            content: "",
+            content: "His offering was one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuary, both of them full of fine flowre mingled with oyle, for a meate offering:",
         }),
 
         ("numbers", 7, 80) => Some(Verse {
-            content: "",
+            content: "One golden spoone of ten shekels, full of incense:",
         }),
 
         ("numbers", 7, 81) => Some(Verse {
-            content: "",
+            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
         }),
 
         ("numbers", 7, 82) => Some(Verse {
-            content: "",
+            content: "One kidde of the goats for a sinne offering:",
         }),
 
         ("numbers", 7, 83) => Some(Verse {
-            content: "",
+            content: "And for a sacrifice of peace offrings, two oxen, fiue rammes, fiue hee goats, fiue lambs of the first yeere. This was the offering of Ahira the sonne of Enan.",
         }),
 
         ("numbers", 7, 84) => Some(Verse {
-            content: "",
+            content: "This was the dedication of the Altar (in the day when it was annointed) by the Princes of Israel: twelue chargers of siluer, twelue siluer bowles, twelue spoones of gold:",
         }),
 
         ("numbers", 7, 85) => Some(Verse {
-            content: "",
+            content: "Each charger of siluer weighing an hundred and thirtie shekels, each bowle seuentie: all the siluer vessels weighed two thousand and foure hundred shekels, after the shekel of the Sanctuary.",
         }),
 
         ("numbers", 7, 86) => Some(Verse {
-            content: "",
+            content: "The golden spoones were twelue, full of incense, weighing ten shekels a piece, after the shekel of the Sanctuary: all the gold of the spoones, was an hundred and twentie shekels.",
         }),
 
         ("numbers", 7, 87) => Some(Verse {
-            content: "",
+            content: "All the oxen for the burnt offering, were twelue bullocks, the rams twelue, the lambes of the first yeere twelue, with their meat offering: and the kids of the goats for sinne offering, twelue.",
         }),
 
         ("numbers", 7, 88) => Some(Verse {
-            content: "",
+            content: "And all the oxen for the sacrifice of the peace offerings, were twenty and foure bullocks, the rammes sixtie, the hee goates sixtie, the lambes of the first yeere sixtie. This was the dedication of the Altar, after that it was anoynted.",
         }),
 
         ("numbers", 7, 89) => Some(Verse {
-            content: "",
+            content: "And when Moses was gone into the Tabernacle of the Congregation, to speake with him, then he heard the voyce of one speaking vnto him, from off the Mercie seat, that was vpon the Arke of Testimony from betweene the two Cherubims: and he spake vnto him.",
         }),
 
         ("numbers", 8, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 8, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto Aaron, and say vnto him, When thou lightest the lampes, the seuen lampes shall giue light, ouer against the candlesticke.",
         }),
 
         ("numbers", 8, 3) => Some(Verse {
-            content: "",
+            content: "And Aaron did so; he lighted the lampes therof, ouer against the candlestick, as the Lord comanded Moses.",
         }),
 
         ("numbers", 8, 4) => Some(Verse {
-            content: "",
+            content: "And this worke of the candlestick was of beaten gold, vnto the shaft thereof, vnto the flowres thereof was beaten worke: according vnto the paterne which the Lord had shewed Moses, so he made the candlesticke.",
         }),
 
         ("numbers", 8, 5) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 8, 6) => Some(Verse {
-            content: "",
+            content: "Take the Leuites from among the children of Israel, and cleanse them.",
         }),
 
         ("numbers", 8, 7) => Some(Verse {
-            content: "",
+            content: "And thus shalt thou doe vnto them, to cleanse them: sprinkle water of purifying vpon them, and let them shaue all their flesh, and let them wash their clothes, and so make themselues cleane.",
         }),
 
         ("numbers", 8, 8) => Some(Verse {
-            content: "",
+            content: "Then let them take a yong bullocke with his meat offering, euen fine flowre mingled with oyle, and an other yong bullock shalt thou take for a sinne offering.",
         }),
 
         ("numbers", 8, 9) => Some(Verse {
-            content: "",
+            content: "And thou shalt bring the Leuites before the Tabernacle of the Congregation; and thou shalt gather the whole assembly of the children of Israel together.",
         }),
 
         ("numbers", 8, 10) => Some(Verse {
-            content: "",
+            content: "And thou shalt bring the Leuites before the Lord, and the children of Israel shall put their hands vpon the Leuites.",
         }),
 
         ("numbers", 8, 11) => Some(Verse {
-            content: "",
+            content: "And Aaron shall offer the Leuites before the Lord for an offring of the children of Israel, that they may execute the seruice of the Lord.",
         }),
 
         ("numbers", 8, 12) => Some(Verse {
-            content: "",
+            content: "And the Leuites shall lay their hands vpon the heads of the bullocks: and thou shalt offer the one for a sinne offering, and the other for a burnt offering vnto the Lord, to make an atonement for the Leuites.",
         }),
 
         ("numbers", 8, 13) => Some(Verse {
-            content: "",
+            content: "And thou shalt set the Leuites before Aaron, and before his sonnes, and offer them for an offering vnto the Lord.",
         }),
 
         ("numbers", 8, 14) => Some(Verse {
-            content: "",
+            content: "Thus shalt thou separate the Leuites from among the children of Israel: and the Leuites shalbe mine.",
         }),
 
         ("numbers", 8, 15) => Some(Verse {
-            content: "",
+            content: "And after that, shall the Leuites goe in; to doe the seruice of the Tabernacle of the Congregation: and thou shalt clense them, and offer them for an offering.",
         }),
 
         ("numbers", 8, 16) => Some(Verse {
-            content: "",
+            content: "For they are wholly giuen vnto me, from among the children of Israel: in stead of such as open euery wombe, euen in stead of the first borne of all the children of Israel, haue I taken them vnto me.",
         }),
 
         ("numbers", 8, 17) => Some(Verse {
-            content: "",
+            content: "For all the first borne of the children of Israel, are mine, both man and beast: on the day that I smote euery first borne in the land of Egypt, I sanctified them for my selfe.",
         }),
 
         ("numbers", 8, 18) => Some(Verse {
-            content: "",
+            content: "And I haue taken the Leuites for all the first borne of the children of Israel.",
         }),
 
         ("numbers", 8, 19) => Some(Verse {
-            content: "",
+            content: "And I haue giuen the Leuites as a gift to Aaron, and to his sonnes, from among the children of Israel, to do the seruice of the children of Israel, in the Tabernacle of the Congregation, and to make an atonement for the children of Israel: that there bee no plague among the children of Israel, when the children of Israel come nigh vnto the Sanctuarie.",
         }),
 
         ("numbers", 8, 20) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron, and all the Congregation of the children of Israel did to the Leuites according vnto all that the Lord commanded Moses, concerning the Leuites, so did the children of Israel vnto them.",
         }),
 
         ("numbers", 8, 21) => Some(Verse {
-            content: "",
+            content: "And the Leuites were purified, and they washed their clothes: and Aaron offered them as an offering before the Lord, and Aaron made an atonement for them to cleanse them.",
         }),
 
         ("numbers", 8, 22) => Some(Verse {
-            content: "",
+            content: "And after that, went the Leuites in, to do their seruice in the Tabernacle of the Congregation before Aaron and and before his sonnes: as the Lord had commanded Moses concerning the Leuites, so did they vnto them.",
         }),
 
         ("numbers", 8, 23) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 8, 24) => Some(Verse {
-            content: "",
+            content: "This is it that belongeth vnto the Leuites: from twentie and fiue yeeres old, and vpward, they shall goe in to waite vpon the seruice of the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 8, 25) => Some(Verse {
-            content: "",
+            content: "And from the age of fiftie yeeres they shall cease waiting vpon the seruice thereof, and shall serue no more:",
         }),
 
         ("numbers", 8, 26) => Some(Verse {
-            content: "",
+            content: "But shall minister with their brethren in the Tabernacle of the Congregation, to keepe the charge, and shall doe no seruice: thus shalt thou doe vnto the Leuites, touching their charge.",
         }),
 
         ("numbers", 9, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses in the wildernesse of Sinai, in the first moneth of the second yeere; after they were come out of the land of Egypt, saying,",
         }),
 
         ("numbers", 9, 2) => Some(Verse {
-            content: "",
+            content: "Let the children of Israel also keepe the Passeouer, at his appointed season.",
         }),
 
         ("numbers", 9, 3) => Some(Verse {
-            content: "",
+            content: "In the fourteenth day of this moneth at euen, ye shall keepe it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof shall ye keepe it.",
         }),
 
         ("numbers", 9, 4) => Some(Verse {
-            content: "",
+            content: "And Moses spake vnto the children of Israel that they should keepe the Passeouer.",
         }),
 
         ("numbers", 9, 5) => Some(Verse {
-            content: "",
+            content: "And they kept the Passeouer on the fourteenth day of the first moneth at Euen, in the wildernesse of Sinai: according to all that the Lord commanded Moses, so did the children of Israel.",
         }),
 
         ("numbers", 9, 6) => Some(Verse {
-            content: "",
+            content: "And there were certaine men who were defiled by the dead body of a man, that they could not keepe the Passeouer on that day: and they came before Moses, and before Aaron on that day.",
         }),
 
         ("numbers", 9, 7) => Some(Verse {
-            content: "",
+            content: "And those men said vnto him, We are defiled by the dead body of a man: wherefore are we kept backe, that wee may not offer an offring of the Lord in his appointed season among the children of Israel?",
         }),
 
         ("numbers", 9, 8) => Some(Verse {
-            content: "",
+            content: "And Moses saide vnto them, Stand still, and I will heare what the Lord wil command concerning you.",
         }),
 
         ("numbers", 9, 9) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 9, 10) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, saying, If any man of you, or of your posteritie shall be vncleane by reason of a dead body, or bee in a iourney afarre off, yet he shall keepe the Passeouer vnto the Lord.",
         }),
 
         ("numbers", 9, 11) => Some(Verse {
-            content: "",
+            content: "The fourteenth day of the second moneth at Euen they shall keepe it, and eat it with vnleauened bread and bitter herbes.",
         }),
 
         ("numbers", 9, 12) => Some(Verse {
-            content: "",
+            content: "They shall leaue none of it vnto the morning, nor breake any bone of it: according to all the ordinances of the Passeouer they shall keepe it.",
         }),
 
         ("numbers", 9, 13) => Some(Verse {
-            content: "",
+            content: "But the man that is cleane, and is not in a iourney, and forbeareth to keep the Passeouer, euen the same soule shall be cut off from his people, because hee brought not the offering of the Lord in his appointed season: that man shall beare his sinne.",
         }),
 
         ("numbers", 9, 14) => Some(Verse {
-            content: "",
+            content: "And if a stranger shall soiourne among you, and will keepe the Passeouer vnto the Lord; according to the ordinance of the Passeouer, and according to the maner thereof, so shall he doe: ye shall haue one ordinance, both for the stranger, and for him that was borne in the land.",
         }),
 
         ("numbers", 9, 15) => Some(Verse {
-            content: "",
+            content: "And on the day that the Tabernacle was reared vp, the cloud couered the Tabernacle, namely the Tent of the Testimony: and at Euen there was vpon the Tabernacle, as it were the appearance of fire, vntill the morning.",
         }),
 
         ("numbers", 9, 16) => Some(Verse {
-            content: "",
+            content: "So it was always: the cloud couered it by day, and the appearance of fire by night.",
         }),
 
         ("numbers", 9, 17) => Some(Verse {
-            content: "",
+            content: "And when the cloud was taken vp from the Tabernacle, then after that, the children of Israel iourneyed, and in the place where the cloud abode, there the children of Israel pitched their tents.",
         }),
 
         ("numbers", 9, 18) => Some(Verse {
-            content: "",
+            content: "At the commandement of the Lord the children of Israel iourneied, and at the commandement of the Lord they pitched: as long as the cloud abode vpon the Tabernacle, they rested in the tents.",
         }),
 
         ("numbers", 9, 19) => Some(Verse {
-            content: "",
+            content: "And when the cloud taried long vpon the Tabernacle many daies, then the children of Israel kept the charge of the Lord, and iourneyed not.",
         }),
 
         ("numbers", 9, 20) => Some(Verse {
-            content: "",
+            content: "And so it was when the cloude was a few daies vpon the Tabernacle, according to the commandement of the Lord, they abode in their tents, and according to the commandement of the Lord, they iourneyed.",
         }),
 
         ("numbers", 9, 21) => Some(Verse {
-            content: "",
+            content: "And so it was when the cloude abode from Euen vnto the morning, and that the cloude was taken vp in the morning, then they iourneyed: whether it was by day or by night that the cloude was taken vp, they iourneyed.",
         }),
 
         ("numbers", 9, 22) => Some(Verse {
-            content: "",
+            content: "Or whether it were two dayes, or a moneth, or a yeere that the cloude taried vpon the Tabernacle, remayning thereon, the children of Israel abode in their tents, and iourneyed not: but when it was taken vp, they iourneyed.",
         }),
 
         ("numbers", 9, 23) => Some(Verse {
-            content: "",
+            content: "At the commandement of the Lord they rested in the tents, and at the commaundement of the Lord they iourneyed: they kept the charge of the Lord, at the commandement of the Lord by the hand of Moses.",
         }),
 
         ("numbers", 10, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 10, 2) => Some(Verse {
-            content: "",
+            content: "Make thee two trumpets of siluer: of an whole piece shalt thou make them, that thou mayest vse them for the calling of the assembly, and for the iourneying of the campes.",
         }),
 
         ("numbers", 10, 3) => Some(Verse {
-            content: "",
+            content: "And when they shall blow with them, all the assembly shall assemble themselues to thee, at the doore of the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 10, 4) => Some(Verse {
-            content: "",
+            content: "And if they blow but with one trumpet, then the Princes, which are heads of the thousands of Israel, shall gather themselues vnto thee.",
         }),
 
         ("numbers", 10, 5) => Some(Verse {
-            content: "",
+            content: "When ye blow an alarme, then the campes that lie on the East parts, shall goe forward.",
         }),
 
         ("numbers", 10, 6) => Some(Verse {
-            content: "",
+            content: "When you blow an alarme the second time, then the campes that lye on the Southside, shall take their iourney: they shall blow an alarme for their iourneys.",
         }),
 
         ("numbers", 10, 7) => Some(Verse {
-            content: "",
+            content: "But when the Congregation is to be gathered together, you shal blow: but you shall not sound an alarme.",
         }),
 
         ("numbers", 10, 8) => Some(Verse {
-            content: "",
+            content: "And the sonnes of Aaron the Priests shall blow with the trumpets; and they shalbe to you for an ordinance for euer throughout your generations.",
         }),
 
         ("numbers", 10, 9) => Some(Verse {
-            content: "",
+            content: "And if ye goe to warre in your land, against the enemie that oppresseth you, then ye shall blow an alarme with the trumpets, and ye shalbe remembred before the Lord your God, and yee shalbe saued from your enemies.",
         }),
 
         ("numbers", 10, 10) => Some(Verse {
-            content: "",
+            content: "Also in the day of your gladnesse, and in your solemne dayes, and in the beginnings of your monethes, ye shall blow with the trumpets ouer your burnt offerings, and ouer the sacrifices of your peace offerings, that they may bee to you for a memoriall before your God: I am the Lord your God.",
         }),
 
         ("numbers", 10, 11) => Some(Verse {
-            content: "",
+            content: "And it came to passe on the twentieth day of the second moneth, in the second yeere, that the cloude was taken vp from off the Tabernacle of the Testimony.",
         }),
 
         ("numbers", 10, 12) => Some(Verse {
-            content: "",
+            content: "And the children of Israel tooke their iourneys out of the wildernesse of Sinai; and the cloud rested in the wildernesse of Paran.",
         }),
 
         ("numbers", 10, 13) => Some(Verse {
-            content: "",
+            content: "And they first tooke their iourney, according to the commandement of the Lord, by the hand of Moses.",
         }),
 
         ("numbers", 10, 14) => Some(Verse {
-            content: "",
+            content: "In the first place went the standerd of the campe of the children of Iudah, according to their armies, and ouer his hoste was Nahshon the sonne of Amminadab.",
         }),
 
         ("numbers", 10, 15) => Some(Verse {
-            content: "",
+            content: "And ouer the hoste of the tribe of the children of Issachar, was Nethaneel the sonne of Zuar.",
         }),
 
         ("numbers", 10, 16) => Some(Verse {
-            content: "",
+            content: "And ouer the hoste of the tribe of the children of Zebulun, was Eliab the sonne of Helon.",
         }),
 
         ("numbers", 10, 17) => Some(Verse {
-            content: "",
+            content: "And the Tabernacle was taken downe, and the sonnes of Gershon, and the sonnes of Merari set forward, bearing the Tabernacle.",
         }),
 
         ("numbers", 10, 18) => Some(Verse {
-            content: "",
+            content: "And the standerd of the campe of Reuben set forward according to their armies: and ouer his hoste was Elizur the sonne of Shedeur.",
         }),
 
         ("numbers", 10, 19) => Some(Verse {
-            content: "",
+            content: "And ouer the hoste of the tribe of the children of Simeon, was Shelumiel the sonne of Zurishaddai.",
         }),
 
         ("numbers", 10, 20) => Some(Verse {
-            content: "",
+            content: "And ouer the hoste of the tribe of the children of Gad, was Eliasaph the sonne of Deuel.",
         }),
 
         ("numbers", 10, 21) => Some(Verse {
-            content: "",
+            content: "And the Kohathites set forward, bearing the Sanctuary, and the other did set vp the Tabernacle against they came.",
         }),
 
         ("numbers", 10, 22) => Some(Verse {
-            content: "",
+            content: "And the standerd of the campe of the children of Ephraim set forward, according to their armies, and ouer his hoste was Elishama the sonne of Ammiud.",
         }),
 
         ("numbers", 10, 23) => Some(Verse {
-            content: "",
+            content: "And ouer the hoste of the tribe of the children of Manasseh was Gamaliel the sonne of Pedazur.",
         }),
 
         ("numbers", 10, 24) => Some(Verse {
-            content: "",
+            content: "And ouer the hoste of the tribe of the children of Beniamin, was Abidan the soune of Gideoni.",
         }),
 
         ("numbers", 10, 25) => Some(Verse {
-            content: "",
+            content: "And the standerd of the campe of the children of Dan set forward, which was the rere-ward of all the campes throughout their hostes: and ouer his hoste was Ahiezer the sonne of Ammishaddai.",
         }),
 
         ("numbers", 10, 26) => Some(Verse {
-            content: "",
+            content: "And ouer the hoste of the tribe of the children of Asher, was Pagiel the sonne of Ocran.",
         }),
 
         ("numbers", 10, 27) => Some(Verse {
-            content: "",
+            content: "And ouer the hoste of the tribe of the children of Naphtali was Ahira the sonne of Enan.",
         }),
 
         ("numbers", 10, 28) => Some(Verse {
-            content: "",
+            content: "Thus were the iourneyings of the children of Israel, according to their armies, when they set forward.",
         }),
 
         ("numbers", 10, 29) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto Hobab the sonne of Raguel the Midianite Moses father in law, Wee are iourneying vnto the place of which the Lord said, I wil giue it you: come thou with vs, and we will doe thee good: for the Lord hath spoken good concerning Israel.",
         }),
 
         ("numbers", 10, 30) => Some(Verse {
-            content: "",
+            content: "And he said vnto him, I will not goe, but I will depart to mine owne land, and to my kinred.",
         }),
 
         ("numbers", 10, 31) => Some(Verse {
-            content: "",
+            content: "And he said, Leaue vs not, I pray thee, forasmuch as thou knowest how we are to encampe in the wilderuesse, and thou mayest bee to vs in stead of eyes.",
         }),
 
         ("numbers", 10, 32) => Some(Verse {
-            content: "",
+            content: "And it shall bee if thou goe with vs, yea it shall be, that what goodnesse the Lord shall doe vnto vs, the same will we doe vnto thee.",
         }),
 
         ("numbers", 10, 33) => Some(Verse {
-            content: "",
+            content: "And they departed from the Mount of the Lord three dayes iourney: and the Arke of the Couenant of the Lord went before them in the three dayes iourney, to search out a resting place for them.",
         }),
 
         ("numbers", 10, 34) => Some(Verse {
-            content: "",
+            content: "And the cloude of the Lord was vpon them by day, when they went out of the campe.",
         }),
 
         ("numbers", 10, 35) => Some(Verse {
-            content: "",
+            content: "And it came to passe when the Arke set forward, that Moses said, Rise vp Lord, and let thine enemies be scattered, and let them that hate thee, flee before thee.",
         }),
 
         ("numbers", 10, 36) => Some(Verse {
-            content: "",
+            content: "And when it rested, he said, Returne, O Lord, vnto the many thousands of Israel.",
         }),
 
         ("numbers", 11, 1) => Some(Verse {
-            content: "",
+            content: "And when the people complained, it displeased the Lord: and the Lord heard it: and his anger was kindled, and the fire of the Lord burnt among them, and consumed them that were in the vttermost parts of the campe.",
         }),
 
         ("numbers", 11, 2) => Some(Verse {
-            content: "",
+            content: "And the people cried vnto Moses, and when Moses prayed vnto the Lord, the fire was quenched.",
         }),
 
         ("numbers", 11, 3) => Some(Verse {
-            content: "",
+            content: "And hee called the name of the place Taberah: because the fire of the Lord burnt among them.",
         }),
 
         ("numbers", 11, 4) => Some(Verse {
-            content: "",
+            content: "And the mixt multitude that was among them, fell a lusting, and the children of Israel also wept againe, and said, Who shal giue vs flesh to eate?",
         }),
 
         ("numbers", 11, 5) => Some(Verse {
-            content: "",
+            content: "We remember the fish which wee did eate in Egypt freely: the cucumbers and the melons, and the leekes, and the onions, and the garlicke.",
         }),
 
         ("numbers", 11, 6) => Some(Verse {
-            content: "",
+            content: "But now our soule is dried away, there is nothing at all, besides this Manna, before our eyes.",
         }),
 
         ("numbers", 11, 7) => Some(Verse {
-            content: "",
+            content: "And the Manna was as Coriander seed, and the colour thereof as the colour of Bdelium:",
         }),
 
         ("numbers", 11, 8) => Some(Verse {
-            content: "",
+            content: "And the people went about, and gathered it, and ground it in milles, or beat it in a morter, and baked it in pans, and made cakes of it: and the taste of it was as the taste of fresh oyle.",
         }),
 
         ("numbers", 11, 9) => Some(Verse {
-            content: "",
+            content: "And when the dew fell vpon the campe in the night, the Manna fell vpon it.",
         }),
 
         ("numbers", 11, 10) => Some(Verse {
-            content: "",
+            content: "Then Moses heard the people weepe throughout their families, euery man in the doore of his tent, and the anger of the Lord was kindled greatly, Moses also was displeased.",
         }),
 
         ("numbers", 11, 11) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto the Lord, Wherefore hast thou afflicted thy seruant? and wherefore haue I not found fauour in thy sight, that thou layest the burden of all this people vpon me?",
         }),
 
         ("numbers", 11, 12) => Some(Verse {
-            content: "",
+            content: "Haue I conceiued all this people? haue I begotten them, that thou shouldest say vnto me, Cary them in thy bosome (as a nursing father beareth the sucking child) vnto the land which thou swarest vnto their fathers?",
         }),
 
         ("numbers", 11, 13) => Some(Verse {
-            content: "",
+            content: "Whence should I haue flesh to giue vnto all this people? for they weep vnto me, saying, Giue vs flesh, that we may eate.",
         }),
 
         ("numbers", 11, 14) => Some(Verse {
-            content: "",
+            content: "I am not able to beare all this people alone, because it is too heauie for mee.",
         }),
 
         ("numbers", 11, 15) => Some(Verse {
-            content: "",
+            content: "And if thou deale thus with mee, kill me, I pray thee out of hand, if I haue found fauour in thy sight, and let me not see my wretchednesse.",
         }),
 
         ("numbers", 11, 16) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Gather vnto me seuentie men, of the Elders of Israel, whome thou knowest to be the elders of the people, and officers ouer them: and bring them vnto the Tabernacle of the Congregation, that they may stand there with thee.",
         }),
 
         ("numbers", 11, 17) => Some(Verse {
-            content: "",
+            content: "And I will come downe and talke with thee there, and I will take of the spirit which is vpon thee, and wil put it vpon them, and they shall beare the burden of the people with thee, that thou beare it not thy selfe alone.",
         }),
 
         ("numbers", 11, 18) => Some(Verse {
-            content: "",
+            content: "And say thou vnto the people, Sanctifie your selues against to morrow, and yee shall eate flesh: (for you haue wept in the eares of the Lord, saying, Who shall giue vs flesh to eate? for it was well with vs in Egypt:) therfore the Lord wil giue you flesh, and ye shall eate.",
         }),
 
         ("numbers", 11, 19) => Some(Verse {
-            content: "",
+            content: "Ye shall not eate one day, nor two dayes, nor fiue dayes, neither ten dayes, nor twentie dayes:",
         }),
 
         ("numbers", 11, 20) => Some(Verse {
-            content: "",
+            content: "But euen a whole moneth, vntill it come out at your nostrels, and it bee loathsome vnto you, because that yee haue despised the Lord which is among you, and haue wept before him, saying, Why came we foorth out of Egypt?",
         }),
 
         ("numbers", 11, 21) => Some(Verse {
-            content: "",
+            content: "And Moses said, The people amongst whome I am, are sixe hundred thousand footmen, and thou hast said, I will giue them flesh, that they may eate a whole moneth.",
         }),
 
         ("numbers", 11, 22) => Some(Verse {
-            content: "",
+            content: "Shall the flockes and the herds be slaine for them to suffice them? or shal all the fish of the sea bee gathered together for them, to suffice them?",
         }),
 
         ("numbers", 11, 23) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Is the Lords hand waxed short? thou shalt see now whether my word shall come to passe vnto thee, or not.",
         }),
 
         ("numbers", 11, 24) => Some(Verse {
-            content: "",
+            content: "And Moses went out, and tolde the people the wordes of the Lord, and gathered the seuenty men of the Elders of the people, and set them round about the Tabernacle.",
         }),
 
         ("numbers", 11, 25) => Some(Verse {
-            content: "",
+            content: "And the Lord came downe in a cloude, and spake vnto him, and tooke of the spirit that was vpon him, and gaue it vnto the seuentie Elders: and it came to passe that when the spirit rested vpon them, they prophesied, and did not cease.",
         }),
 
         ("numbers", 11, 26) => Some(Verse {
-            content: "",
+            content: "But there remained two of the men in the campe, the name of the one was Eldad, & the name of the other Medad: and the Spirit rested vpon them, (and they were of them that were written, but went not out vnto the Tabernacle) and they prophesied in the campe.",
         }),
 
         ("numbers", 11, 27) => Some(Verse {
-            content: "",
+            content: "And there ranne a yong man, and tolde Moses, and said, Eldad and Medad doe prophesie in the campe.",
         }),
 
         ("numbers", 11, 28) => Some(Verse {
-            content: "",
+            content: "And Ioshua the sonne of Nun the seruant of Moses, one of his yong men, answered and said, My lord Moses, Forbid them.",
         }),
 
         ("numbers", 11, 29) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto him, Enuiest thou for my sake? Would God that all the Lords people were Prophets, and that the Lord would put his Spirit vpon them.",
         }),
 
         ("numbers", 11, 30) => Some(Verse {
-            content: "",
+            content: "And Moses gate him into the campe, he, and the Elders of Israel.",
         }),
 
         ("numbers", 11, 31) => Some(Verse {
-            content: "",
+            content: "And there went forth a winde from the Lord, and brought quailes from the sea, and let them fall by the campe, as it were a dayes iourney on this side, and as it were a dayes iourney on the other side round about the campe, and as it were two cubits high vpon the face of the earth.",
         }),
 
         ("numbers", 11, 32) => Some(Verse {
-            content: "",
+            content: "And the people stood vp all that day, and all that night, and all the next day, and they gathered the quailes: he that gathered least, gathered ten homers: and they spread them all abroad for themselues round about the campe.",
         }),
 
         ("numbers", 11, 33) => Some(Verse {
-            content: "",
+            content: "And while the flesh was yet betweene their teeth, yer it was chewed, the wrath of the Lord was kindled against the people, and the Lord smote the people with a very great plague.",
         }),
 
         ("numbers", 11, 34) => Some(Verse {
-            content: "",
+            content: "And he called the name of that place, Kibroth-Hattaauah: because there they buried the people that lusted.",
         }),
 
         ("numbers", 11, 35) => Some(Verse {
-            content: "",
+            content: "And the people iourneyed from Kibroth-Hattaauah, vnto Hazeroth: and abode at Hazeroth.",
         }),
 
         ("numbers", 12, 1) => Some(Verse {
-            content: "",
+            content: "And Miriam and Aaron spake against Moses, because of the Ethiophian woman, whom hee had married: for he had married an Ethiopian woman.",
         }),
 
         ("numbers", 12, 2) => Some(Verse {
-            content: "",
+            content: "And they said, Hath the Lord indeed spoken onely by Moses? Hath hee not spoken also by vs? And the Lord heard it.",
         }),
 
         ("numbers", 12, 3) => Some(Verse {
-            content: "",
+            content: "(Now the man Moses was very meeke, aboue all the men which were vpon the face of the earth.)",
         }),
 
         ("numbers", 12, 4) => Some(Verse {
-            content: "",
+            content: "And the Lord spake suddenly vnto Moses, and vnto Aaron, and vnto Miriam, Come out ye three vnto the Tabernacle of the Congregation: and they three came out.",
         }),
 
         ("numbers", 12, 5) => Some(Verse {
-            content: "",
+            content: "And the Lord came downe in the pillar of the cloude, and stood in the doore of the Tabernacle, and called Aaron and Miriam: and they both came foorth.",
         }),
 
         ("numbers", 12, 6) => Some(Verse {
-            content: "",
+            content: "And hee saide, Heare now my words: If there be a Prophet among you, I the Lord will make my selfe knowen vnto him in a vision, and will speake vnto him in a dreame:",
         }),
 
         ("numbers", 12, 7) => Some(Verse {
-            content: "",
+            content: "My seruant Moses is not so, who is faithfull in all mine house.",
         }),
 
         ("numbers", 12, 8) => Some(Verse {
-            content: "",
+            content: "With him will I speake mouth to mouth euen apparantly, and not in darke speeches, and the similitude of the Lord shall hee behold: wherefore then were yee not afraid to speake against my seruant Moses?",
         }),
 
         ("numbers", 12, 9) => Some(Verse {
-            content: "",
+            content: "And the anger of the Lord was kindled against them, and he departed.",
         }),
 
         ("numbers", 12, 10) => Some(Verse {
-            content: "",
+            content: "And the cloud departed from off the Tabernacle, and behold, Miriam became leprous, white as snow: and Aaron looked vpon Miriam, and behold, she was leprous.",
         }),
 
         ("numbers", 12, 11) => Some(Verse {
-            content: "",
+            content: "And Aaron said vnto Moses, Alas my lord, I beseech thee, lay not the sinne vpon vs, wherein we haue done foolishly, and wherein we haue sinned:",
         }),
 
         ("numbers", 12, 12) => Some(Verse {
-            content: "",
+            content: "Let her not bee as one dead, of whom the flesh is halfe consumed, when he commeth out of his mothers wombe.",
         }),
 
         ("numbers", 12, 13) => Some(Verse {
-            content: "",
+            content: "And Moses cryed vnto the Lord, saying, Heale her now, O God, I beseech thee.",
         }),
 
         ("numbers", 12, 14) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, If her father had but spit in her face, should she not bee ashamed seuen dayes? let her be shut out from the campe seuen dayes, and after that let her be receiued in againe.",
         }),
 
         ("numbers", 12, 15) => Some(Verse {
-            content: "",
+            content: "And Miriam was shut out from the campe seuen dayes: and the people iourneied not, til Miriam was brought in againe.",
         }),
 
         ("numbers", 12, 16) => Some(Verse {
-            content: "",
+            content: "And afterward the people remoued from Hazeroth, and pitched in the wildernesse of Paran.",
         }),
 
         ("numbers", 13, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 13, 2) => Some(Verse {
-            content: "",
+            content: "Send thou men, that they may search the lande of Canaan, which I giue vnto the children of Israel: of euery tribe of their fathers shal ye send a man, euery one a ruler among them.",
         }),
 
         ("numbers", 13, 3) => Some(Verse {
-            content: "",
+            content: "And Moses by the commaundement of the Lord, sent them from the wildernes of Paran: all those men were heads of the children of Israel.",
         }),
 
         ("numbers", 13, 4) => Some(Verse {
-            content: "",
+            content: "And these were their names. Of the tribe of Reuben, Shammua the sonne of Zaccur.",
         }),
 
         ("numbers", 13, 5) => Some(Verse {
-            content: "",
+            content: "Of the tribe of Simeon, Shaphat the sonne of Hori.",
         }),
 
         ("numbers", 13, 6) => Some(Verse {
-            content: "",
+            content: "Of the tribe of Iudah, Caleb the sonne of Iephunneh.",
         }),
 
         ("numbers", 13, 7) => Some(Verse {
-            content: "",
+            content: "Of the tribe of Issachar, Igal the sonne of Ioseph.",
         }),
 
         ("numbers", 13, 8) => Some(Verse {
-            content: "",
+            content: "Of the tribe of Ephraim, Oshea the sonne of Nun.",
         }),
 
         ("numbers", 13, 9) => Some(Verse {
-            content: "",
+            content: "Of the tribe of Beniamin, Palti the sonne of Raphu.",
         }),
 
         ("numbers", 13, 10) => Some(Verse {
-            content: "",
+            content: "Of the tribe of Zebulun, Gaddiel the sonne of Sodi.",
         }),
 
         ("numbers", 13, 11) => Some(Verse {
-            content: "",
+            content: "Of the tribe of Ioseph, namely of the tribe of Manasseh, Gaddi the sonne of Susi.",
         }),
 
         ("numbers", 13, 12) => Some(Verse {
-            content: "",
+            content: "Of the tribe of Dan, Ammiel the sonne of Gemalli.",
         }),
 
         ("numbers", 13, 13) => Some(Verse {
-            content: "",
+            content: "Of the tribe of Asher, Sethur the sonne of Michael.",
         }),
 
         ("numbers", 13, 14) => Some(Verse {
-            content: "",
+            content: "Of the tribe of Naphtali, Nahbi the sonne of Uophsi.",
         }),
 
         ("numbers", 13, 15) => Some(Verse {
-            content: "",
+            content: "Of the tribe of Gad, Geuel the sonne of Machi.",
         }),
 
         ("numbers", 13, 16) => Some(Verse {
-            content: "",
+            content: "These are the names of the men which Moses sent to spie out the land: and Moses called Oshea the sonne of Nun, Iehoshua.",
         }),
 
         ("numbers", 13, 17) => Some(Verse {
-            content: "",
+            content: "And Moses sent them to spie out the land of Canaan, and said vnto them, Get you by this way Southward, and goe vp into the mountaine:",
         }),
 
         ("numbers", 13, 18) => Some(Verse {
-            content: "",
+            content: "And see the lande what it is, and the people that dwelleth therein, whether they bee strong or weake, fewe or many:",
         }),
 
         ("numbers", 13, 19) => Some(Verse {
-            content: "",
+            content: "And what the lande is that they dwell in, whether it be good or bad, and what cities they bee that they dwell in, whether in tents, or in strong holds:",
         }),
 
         ("numbers", 13, 20) => Some(Verse {
-            content: "",
+            content: "And what the land is, whether it be fat or leane, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land: (Now the time was the time of the first ripe grapes)",
         }),
 
         ("numbers", 13, 21) => Some(Verse {
-            content: "",
+            content: "So they went vp, and searched the land, from the wildernesse of Zin, vnto Rehob, as men come to Hamath.",
         }),
 
         ("numbers", 13, 22) => Some(Verse {
-            content: "",
+            content: "And they ascended by the South, and came vnto Hebron: where Ahiman, Sheshai, and Talmai, the children of Anak were: Now Hebron was built seuen yeeres before Zoan in Egypt.",
         }),
 
         ("numbers", 13, 23) => Some(Verse {
-            content: "",
+            content: "And they came vnto the brooke of Eshcol, and cut downe from thence a branch with one cluster of grapes, and they bare it betweene two vpon a staffe, and they brought of the pomegranates and of the figs.",
         }),
 
         ("numbers", 13, 24) => Some(Verse {
-            content: "",
+            content: "The place was called the brooke Eshcol, because of the cluster of grapes which the children of Israel cut downe from thence.",
         }),
 
         ("numbers", 13, 25) => Some(Verse {
-            content: "",
+            content: "And they returned from searching of the land after fourty dayes.",
         }),
 
         ("numbers", 13, 26) => Some(Verse {
-            content: "",
+            content: "And they went and came to Moses, and to Aaron, and to all the Congregation of the children of Israel vnto the wildernesse of Paran, to Kadesh, and brought backe word vnto them, and vnto all the Congregation, and shewed them the fruit of the land.",
         }),
 
         ("numbers", 13, 27) => Some(Verse {
-            content: "",
+            content: "And they told him, and said, We came vnto the land whither thou sentest vs, & surely it floweth with milke and honie; and this is the fruit of it.",
         }),
 
         ("numbers", 13, 28) => Some(Verse {
-            content: "",
+            content: "Neuerthelesse, the people bee strong that dwell in the land, and the cities are walled and very great: and moreouer, we saw the children of Anak there.",
         }),
 
         ("numbers", 13, 29) => Some(Verse {
-            content: "",
+            content: "The Amalekites dwell in the land of the South: and the Hittites, and the Iebusites, and the Amorites dwell in the mountaines: and the Canaanites dwell by the sea, and by the coast of Iordane.",
         }),
 
         ("numbers", 13, 30) => Some(Verse {
-            content: "",
+            content: "And Caleb stilled the people before Moses, and said, Let vs goe vp at once, and possesse it, for we are well able to ouercome it.",
         }),
 
         ("numbers", 13, 31) => Some(Verse {
-            content: "",
+            content: "But the men that went vp with him, said, Wee be not able to goe vp against the people, for they are stronger then we.",
         }),
 
         ("numbers", 13, 32) => Some(Verse {
-            content: "",
+            content: "And they brought vp an euill report of the land which they had searched, vnto the children of Israel, saying, The land through which we haue gone, to search it, is a land that eateth vp the inhabitants thereof, and all the people that we saw in it, are men of a great stature.",
         }),
 
         ("numbers", 13, 33) => Some(Verse {
-            content: "",
+            content: "And there we saw the giants, the sonnes of Anak, which come of the giants: and wee were in our owne sight as grashoppers, and so wee were in their sight.",
         }),
 
         ("numbers", 14, 1) => Some(Verse {
-            content: "",
+            content: "And all the Congregation lifted vp their voyce and cried; and the people wept that night.",
         }),
 
         ("numbers", 14, 2) => Some(Verse {
-            content: "",
+            content: "And all the children of Israel murmured against Moses, and against Aaron: and the whole Congregation said vnto them, Would God that we had died in the land of Egypt, or would God we had died in this wildernesse.",
         }),
 
         ("numbers", 14, 3) => Some(Verse {
-            content: "",
+            content: "And wherefore hath the Lord brought vs vnto this land, to fall by the sword, that our wiues, and our children should be a pray? Were it not better for vs to returne into Egypt?",
         }),
 
         ("numbers", 14, 4) => Some(Verse {
-            content: "",
+            content: "And they saide one to another, Let vs make a captaine, and let vs returne into Egypt.",
         }),
 
         ("numbers", 14, 5) => Some(Verse {
-            content: "",
+            content: "Then Moses and Aaron fell on their faces before all the assembly of the Congregation of the children of Israel.",
         }),
 
         ("numbers", 14, 6) => Some(Verse {
-            content: "",
+            content: "And Ioshua the sonne of Nun, and Caleb the sonne of Iephunneh, which were of them that searched the land, rent their clothes.",
         }),
 
         ("numbers", 14, 7) => Some(Verse {
-            content: "",
+            content: "And they spake vnto all the company of the children of Israel, saying. The land which wee passed thorow to search it, is an exceeding good land.",
         }),
 
         ("numbers", 14, 8) => Some(Verse {
-            content: "",
+            content: "If the Lord delight in vs, then he will bring vs into this land, and giue it vs, a land which floweth with milke and hony.",
         }),
 
         ("numbers", 14, 9) => Some(Verse {
-            content: "",
+            content: "Onely rebell not yee against the Lord, neither feare yee the people of the land, for they are bread for vs: their defence is departed from them, and the Lord is with vs: feare them not.",
         }),
 
         ("numbers", 14, 10) => Some(Verse {
-            content: "",
+            content: "But all the Congregation bade stone them with stones: and the glory of the Lord appeared in the Tabernacle of the Congregation, before all the children of Israel.",
         }),
 
         ("numbers", 14, 11) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, How long will this people provoke me? and how long will it bee, yer they beleeue me, for all the signes which I haue shewed among them?",
         }),
 
         ("numbers", 14, 12) => Some(Verse {
-            content: "",
+            content: "I will smite them with the pestilence, and disinherite them, and will make of thee a greater nation, and mightier then they.",
         }),
 
         ("numbers", 14, 13) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto the Lord, Then the Egyptians shall heare it, (for thou broughtest vp this people in thy might from among them:)",
         }),
 
         ("numbers", 14, 14) => Some(Verse {
-            content: "",
+            content: "And they will tell it to the inhabitants of this land: for they haue heard that thou Lord art among this people, that thou Lord art seene face to face, and that thy cloud standeth ouer them, and that thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night.",
         }),
 
         ("numbers", 14, 15) => Some(Verse {
-            content: "",
+            content: "Now if thou shalt kill all this people, as one man, then the nations which haue heard the fame of thee, will speake, saying,",
         }),
 
         ("numbers", 14, 16) => Some(Verse {
-            content: "",
+            content: "Because the Lord was not able to bring this people into the lande which he sware vnto them, therefore he hath slaine them in the wildernesse.",
         }),
 
         ("numbers", 14, 17) => Some(Verse {
-            content: "",
+            content: "And now, I beseech thee, let the power of my Lord be great, according as thou hast spoken, saying,",
         }),
 
         ("numbers", 14, 18) => Some(Verse {
-            content: "",
+            content: "The Lord is long suffering, and of great mercie, forgiuing iniquitie and transgression, and by no meanes clearing the guiltie, visiting the iniquity of the fathers vpon the chldren, vnto the third and fourth generation.",
         }),
 
         ("numbers", 14, 19) => Some(Verse {
-            content: "",
+            content: "Pardon, I beseech thee, the iniquitie of this people, according vnto the greatnesse of thy mercie, and as thou hast forgiuen this people, from Egypt, euen vntill now.",
         }),
 
         ("numbers", 14, 20) => Some(Verse {
-            content: "",
+            content: "And the Lord said, I haue pardoned, according to thy word.",
         }),
 
         ("numbers", 14, 21) => Some(Verse {
-            content: "",
+            content: "But as truly as I liue, all the earth shalbe filled with the glory of the Lord.",
         }),
 
         ("numbers", 14, 22) => Some(Verse {
-            content: "",
+            content: "Because all those men which haue seene my glory, and my miracles which I did in Egypt, and in the wildernesse, and haue tempted mee now these ten times, and haue not hearkened to my voice,",
         }),
 
         ("numbers", 14, 23) => Some(Verse {
-            content: "",
+            content: "Surely they shall not see the land which I sware vnto their fathers, neither shall any of them that prouoked me, see it.",
         }),
 
         ("numbers", 14, 24) => Some(Verse {
-            content: "",
+            content: "But my seruant Caleb, because hee had another spirit with him, (and hath followed mee fully) him will I bring into the land, whereinto he went, and his seed shall possesse it.",
         }),
 
         ("numbers", 14, 25) => Some(Verse {
-            content: "",
+            content: "(Now the Amalekites, and the Canaanites dwelt in the valley) to morrow turne you and get you into the wildernesse, by the way of the Red sea.",
         }),
 
         ("numbers", 14, 26) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, and vnto Aaron, saying,",
         }),
 
         ("numbers", 14, 27) => Some(Verse {
-            content: "",
+            content: "How long shall I beare with this euil congregation which murmure against mee? I haue heard the murmurings of the children of Israel, which they murmure against mee.",
         }),
 
         ("numbers", 14, 28) => Some(Verse {
-            content: "",
+            content: "Say vnto them, As truly as I liue, saith the Lord, as ye haue spoken in mine eares, so will I doe to you:",
         }),
 
         ("numbers", 14, 29) => Some(Verse {
-            content: "",
+            content: "Your carcases shall fall in this wildernesse, and all that were numbred of you, according to your whole number from twentie yeeres old and vpward, which haue murmured against mee,",
         }),
 
         ("numbers", 14, 30) => Some(Verse {
-            content: "",
+            content: "Doubtlesse ye shall not come into the land concerning which I sware to make you dwell therein, saue Caleb the sonne of Iephunneh, and Ioshua the sonne of Nun.",
         }),
 
         ("numbers", 14, 31) => Some(Verse {
-            content: "",
+            content: "But your little ones, which yee said should be a pray, them will I bring in, and they shall know the land which ye haue despised.",
         }),
 
         ("numbers", 14, 32) => Some(Verse {
-            content: "",
+            content: "But as for you, your carkases, they shall fall in this wildernesse.",
         }),
 
         ("numbers", 14, 33) => Some(Verse {
-            content: "",
+            content: "And your children shall wander in the wildernes forty yeres, and beare your whoredomes, vntill your carkases be wasted in the wildernesse.",
         }),
 
         ("numbers", 14, 34) => Some(Verse {
-            content: "",
+            content: "After the number of the dayes in which ye searched the land, euen fortie dayes (each day for a yeere) shall yee beare your iniquities, euen forty yeeres, and yee shall know my breach of promise.",
         }),
 
         ("numbers", 14, 35) => Some(Verse {
-            content: "",
+            content: "I the Lord haue said, I will surely doe it vnto all this euill Congregation, that are gathered together against mee: in this wildernesse they shalbe consumed, & there they shall die.",
         }),
 
         ("numbers", 14, 36) => Some(Verse {
-            content: "",
+            content: "And the men which Moses sent to search the land, who returned, and made all the Congregation to murmure against him, by bringing vp a slander vpon the land,",
         }),
 
         ("numbers", 14, 37) => Some(Verse {
-            content: "",
+            content: "Euen those men that did bring vp the euill report vpon the land, died by the plague, before the Lord.",
         }),
 
         ("numbers", 14, 38) => Some(Verse {
-            content: "",
+            content: "But Ioshua the sonne of Nun, and Caleb the sonne of Iephunneh, which were of the men that went to search the land, liued still.",
         }),
 
         ("numbers", 14, 39) => Some(Verse {
-            content: "",
+            content: "And Moses told these sayings vnto all the children of Israel, and the people mourned greatly.",
         }),
 
         ("numbers", 14, 40) => Some(Verse {
-            content: "",
+            content: "And they rose vp early in the morning, and gate them vp into the top of the mountaine, saying, Loe, we be here, and will goe vp vnto the place which the Lord hath promised: for we haue sinned.",
         }),
 
         ("numbers", 14, 41) => Some(Verse {
-            content: "",
+            content: "And Moses said, Wherefore now doe you transgresse the commaundement of the Lord ? but it shall not prosper.",
         }),
 
         ("numbers", 14, 42) => Some(Verse {
-            content: "",
+            content: "Goe not vp, for the Lord is not among you, that ye be not smitten before your enemies.",
         }),
 
         ("numbers", 14, 43) => Some(Verse {
-            content: "",
+            content: "For the Amalekites, and the Canaanites are there before you, and yee shall fall by the sword, because yee are turned away from the Lord; therefore the Lord will not bee with you.",
         }),
 
         ("numbers", 14, 44) => Some(Verse {
-            content: "",
+            content: "But they presumed to go vp vnto the hill top: neuertheles the Arke of the Couenant of the Lord, and Moses departed not out of the campe.",
         }),
 
         ("numbers", 14, 45) => Some(Verse {
-            content: "",
+            content: "Then the Amalekites came downe, and the Canaanites which dwelt in that hill, and smote them, and discomfited them, euen vnto Hormah.",
         }),
 
         ("numbers", 15, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 15, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and say vnto them, When ye be come into the land of your habitations, which I giue vnto you,",
         }),
 
         ("numbers", 15, 3) => Some(Verse {
-            content: "",
+            content: "And will make an offering by fire vnto the Lord, a burnt offering or a sacrifice in performing a vow, or in a free will offering, or in your solemne feasts, to make a sweet sauour vnto the Lord, of the herd or of the flocke:",
         }),
 
         ("numbers", 15, 4) => Some(Verse {
-            content: "",
+            content: "Then shall he that offereth his offering vnto the Lord, bring a meat offring of a tenth deale of flowre, mingled with the fourth part of an Hyn of oyle.",
         }),
 
         ("numbers", 15, 5) => Some(Verse {
-            content: "",
+            content: "And the fourth part of an Hyn of wine for a drinke offring shalt thou prepare, with the burnt offering or sacrifice for one lambe.",
         }),
 
         ("numbers", 15, 6) => Some(Verse {
-            content: "",
+            content: "Or for a ramme, thou shalt prepare for a meate offering two tenth deales of flowre mingled with the third part of an Hyn of oyle.",
         }),
 
         ("numbers", 15, 7) => Some(Verse {
-            content: "",
+            content: "And for a drinke offering, thou shalt offer the third part of an Hyn of wine, for a sweete sauour vnto the Lord.",
         }),
 
         ("numbers", 15, 8) => Some(Verse {
-            content: "",
+            content: "And when thou preparest a bullocke for a burnt offering, or for a sacrifice in performing a vow, or peace offerings vnto the Lord:",
         }),
 
         ("numbers", 15, 9) => Some(Verse {
-            content: "",
+            content: "Then shall hee bring with a bullocke a meate offering of three tenth deales of flowre, mingled with halfe an Hyn of oyle.",
         }),
 
         ("numbers", 15, 10) => Some(Verse {
-            content: "",
+            content: "And thou shalt bring for a drinke offering halfe an Hyn of wine, for an offering made by fire of a sweet sauour vnto the Lord.",
         }),
 
         ("numbers", 15, 11) => Some(Verse {
-            content: "",
+            content: "Thus shall it be done for one bullocke, or for one ramme, or for a lambe, or a kidde.",
         }),
 
         ("numbers", 15, 12) => Some(Verse {
-            content: "",
+            content: "According to the number that yee shall prepare, so shall yee doe to euery one, according to their number.",
         }),
 
         ("numbers", 15, 13) => Some(Verse {
-            content: "",
+            content: "All that are borne of the countrey shall doe these things after this maner, in offering an offering made by fire of a sweet sauour, vnto the Lord.",
         }),
 
         ("numbers", 15, 14) => Some(Verse {
-            content: "",
+            content: "And if a stranger soiourne with you, or whosoeuer bee among you in your generations, and will offer an offering made by fire of a sweete sauour vnto the Lord: as ye doe, so hee shall doe.",
         }),
 
         ("numbers", 15, 15) => Some(Verse {
-            content: "",
+            content: "One ordinance shall be both for you of the Congregation, and also for the stranger that soiourneth with you, an ordinance for euer in your generations: as ye are, so shall the stranger bee, before the Lord.",
         }),
 
         ("numbers", 15, 16) => Some(Verse {
-            content: "",
+            content: "One law, and one maner shall be for you, and for the stranger that soiourneth with you.",
         }),
 
         ("numbers", 15, 17) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 15, 18) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and say vnto them, When ye come into the land whither I bring you,",
         }),
 
         ("numbers", 15, 19) => Some(Verse {
-            content: "",
+            content: "Then it shall be that when ye eate of the bread of the land, yee shall offer vp an heaue offring vnto the Lord.",
         }),
 
         ("numbers", 15, 20) => Some(Verse {
-            content: "",
+            content: "Ye shall offer vp a cake of the first of your dough, for an heaue offring: as ye doe the heaue offering of the threshing floore, so shall ye heaue it.",
         }),
 
         ("numbers", 15, 21) => Some(Verse {
-            content: "",
+            content: "Of the first of your dough ye shal giue vnto the Lord, an heaue offering in your generations.",
         }),
 
         ("numbers", 15, 22) => Some(Verse {
-            content: "",
+            content: "And if yee haue erred, and not obserued all these Commaundements which the Lord hath spoken vnto Moses,",
         }),
 
         ("numbers", 15, 23) => Some(Verse {
-            content: "",
+            content: "Euen all that the Lord hath commanded you, by the hand of Moses from the day that the Lord commanded Moses, and henceforward among your generations:",
         }),
 
         ("numbers", 15, 24) => Some(Verse {
-            content: "",
+            content: "Then it shalbe, if ought be committed by ignorance without the knowledge of the Congregation, that all the Congregation shall offer one yong bullocke for a burnt offering, for a sweet sauour vnto the Lord, with his meate offering, and his drinke offering, according to the manner, and one kid of the goats for a sinne offering.",
         }),
 
         ("numbers", 15, 25) => Some(Verse {
-            content: "",
+            content: "And the Priest shall make an atonement for all the Congregation of the children of Israel, and it shal be forgiuen them, for it is ignorance: and they shall bring their offring, a sacrifice made by fire vnto the Lord, and their sinne offering before the Lord, for their ignorance.",
         }),
 
         ("numbers", 15, 26) => Some(Verse {
-            content: "",
+            content: "And it shall bee forgiuen all the Congregation of the children of Israel, and the stranger that soiourneth among them, seeing all the people were in ignorance.",
         }),
 
         ("numbers", 15, 27) => Some(Verse {
-            content: "",
+            content: "And if any soule sinne through ignorance, then hee shall bring a shee goat of the first yeere for a sinne offring.",
         }),
 
         ("numbers", 15, 28) => Some(Verse {
-            content: "",
+            content: "And the Priest shall make an atonement for the soule that sinneth ignorantly, when he sinneth by ignorance before the Lord, to make an atonement for him, & it shalbe forgiuen him.",
         }),
 
         ("numbers", 15, 29) => Some(Verse {
-            content: "",
+            content: "You shall haue one law for him that sinneth through ignorance, both for him that is borne amongst the children of Israel, and for the stranger that soiourneth among them.",
         }),
 
         ("numbers", 15, 30) => Some(Verse {
-            content: "",
+            content: "But the soule that doeth ought presumptuously, whether he be borne in the land, or a stranger, the same reprocheth the Lord: and that soule shall be cut off from among his people.",
         }),
 
         ("numbers", 15, 31) => Some(Verse {
-            content: "",
+            content: "Because he hath despised the word of the Lord, and hath broken his commandement, that soule shall vtterly be cut off: his iniquitie shall be vpon him.",
         }),
 
         ("numbers", 15, 32) => Some(Verse {
-            content: "",
+            content: "And while the children of Israel were in the wildernes, they found a man that gathered stickes vpon the Sabbath day.",
         }),
 
         ("numbers", 15, 33) => Some(Verse {
-            content: "",
+            content: "And they that found him gathering sticks, brought him vnto Moses and Aaron, and vnto all the Congregation.",
         }),
 
         ("numbers", 15, 34) => Some(Verse {
-            content: "",
+            content: "And they put him in ward, because it was not declared what should be done to him.",
         }),
 
         ("numbers", 15, 35) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, The man shall bee surely put to death: all the Congregation shall stone him with stones without the campe.",
         }),
 
         ("numbers", 15, 36) => Some(Verse {
-            content: "",
+            content: "And all the Cogregation brought him without the campe, and stoned him with stones, and he died, as the Lord commanded Moses.",
         }),
 
         ("numbers", 15, 37) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 15, 38) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and bidde them that they make them fringes in the borders of their garments, throughout their generations, and that they put vpon the fringe of the borders a ribband of blew.",
         }),
 
         ("numbers", 15, 39) => Some(Verse {
-            content: "",
+            content: "And it shall bee vnto you for a fringe, that ye may looke vpon it, and remember all the commandements of the Lord, and doe them: and that ye seeke not after your owne heart, and your owne eyes, after which ye vse to goe a whoring:",
         }),
 
         ("numbers", 15, 40) => Some(Verse {
-            content: "",
+            content: "That ye may remember, and doe all my commandements, and be holy vnto your God.",
         }),
 
         ("numbers", 15, 41) => Some(Verse {
-            content: "",
+            content: "I am the Lord your God, which brought you out of the land of Egypt, to bee your God: I am the Lord your God.",
         }),
 
         ("numbers", 16, 1) => Some(Verse {
-            content: "",
+            content: "Now Korah the sonne of Izhar, the sonne of Kohath, the sonne of Leui, and Dathan, and Abiram the sonnes of Eliab, and On the sonne of Peleth, sonnes of Reuben, tooke men.",
         }),
 
         ("numbers", 16, 2) => Some(Verse {
-            content: "",
+            content: "And they rose vp before Moses, with certaine of the children of Israel, two hundred and fiftie Princes of the assembly, famous in the Congregation, men of renowne.",
         }),
 
         ("numbers", 16, 3) => Some(Verse {
-            content: "",
+            content: "And they gathered themselues together against Moses, and against Aaron, and said vnto them, Ye take too much vpon you, seeing all the Congregation are holy euery one of them, and the Lord is among them: wherfore then lift you vp your selues aboue the Congregation of the Lord ?",
         }),
 
         ("numbers", 16, 4) => Some(Verse {
-            content: "",
+            content: "And when Moses heard it, he fell vpon his face.",
         }),
 
         ("numbers", 16, 5) => Some(Verse {
-            content: "",
+            content: "And hee spake vnto Korah, and vnto all his company, saying, Euen to morrow the Lord will shew who are his, and who is holy, and will cause him to come neere vnto him: euen him whom he hath chosen, will he cause to come neere vnto him.",
         }),
 
         ("numbers", 16, 6) => Some(Verse {
-            content: "",
+            content: "This doe: take you censers, Korah, and all his company:",
         }),
 
         ("numbers", 16, 7) => Some(Verse {
-            content: "",
+            content: "And put fire therein, and put incense in them, before the Lord to morrow; And it shall be, that the man whom the Lord doeth choose, hee shall be holy: yee take too much vpon you, ye sonnes of Leui.",
         }),
 
         ("numbers", 16, 8) => Some(Verse {
-            content: "",
+            content: "And Moses saide vnto Korah, Heare, I pray you, ye sonnes of Leui.",
         }),
 
         ("numbers", 16, 9) => Some(Verse {
-            content: "",
+            content: "Seemeth it but a small thing vnto you, that the God of Israel hath separated you from the Congregation of Israel, to bring you neere to himselfe, to doe the seruice of the Tabernacle of the Lord, and to stand before the Congregation to minister vnto them?",
         }),
 
         ("numbers", 16, 10) => Some(Verse {
-            content: "",
+            content: "And he hath brought thee neere to him, and all thy brethren the sonnes of Leui with thee: and seeke ye the Priesthood also?",
         }),
 
         ("numbers", 16, 11) => Some(Verse {
-            content: "",
+            content: "For which cause both thou, and all thy company are gathered together against the Lord: and what is Aaron, that ye murmure against him?",
         }),
 
         ("numbers", 16, 12) => Some(Verse {
-            content: "",
+            content: "And Moses sent to call Dathan and Abiram the sonnes of Eliab: which said, We will not come vp.",
         }),
 
         ("numbers", 16, 13) => Some(Verse {
-            content: "",
+            content: "Is it a small thing that thou hast brought vs vp out of a land that floweth with milke and hony, to kill vs in the wildernesse, except thou make thy selfe altogether a prince ouer vs?",
         }),
 
         ("numbers", 16, 14) => Some(Verse {
-            content: "",
+            content: "Moreouer, thou hast not brought vs into a land that floweth with milke and hony, or giuen vs inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come vp.",
         }),
 
         ("numbers", 16, 15) => Some(Verse {
-            content: "",
+            content: "And Moses was very wroth, and said vnto the Lord, Respect not thou their offering: I haue not taken one asse from them, neither haue I hurt one of them.",
         }),
 
         ("numbers", 16, 16) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto Korah, Be thou and all thy company before the Lord, thou, and they, and Aaron to morrow.",
         }),
 
         ("numbers", 16, 17) => Some(Verse {
-            content: "",
+            content: "And take euery man his censer, and put incense in them, and bring yee before the Lord euery man his censer, two hundred and fiftie censers, thou also and Aaron, each of you his censer.",
         }),
 
         ("numbers", 16, 18) => Some(Verse {
-            content: "",
+            content: "And they tooke euery man his censer, and put fire in them, and laide incense thereon, and stood in the doore of the Tabernacle of the Congregation with Moses and Aaron.",
         }),
 
         ("numbers", 16, 19) => Some(Verse {
-            content: "",
+            content: "And Korah gathered all the Congregation against them, vnto the doore of the Tabernacle of the Congregation: and the glory of the Lord appeared vnto all the Congregation.",
         }),
 
         ("numbers", 16, 20) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, and vnto Aaron, saying,",
         }),
 
         ("numbers", 16, 21) => Some(Verse {
-            content: "",
+            content: "Separate your selues from among this Congregation, that I may consume them in a moment.",
         }),
 
         ("numbers", 16, 22) => Some(Verse {
-            content: "",
+            content: "And they fell vpon their faces, and said, O God, the God of the spirits of all flesh, shal one man sinne, and wilt thou be wroth with all the Congregation?",
         }),
 
         ("numbers", 16, 23) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 16, 24) => Some(Verse {
-            content: "",
+            content: "Speake vnto the Congregation, saying, Get you vp from about the tabernacle of Korah, Dathan, and Abiram.",
         }),
 
         ("numbers", 16, 25) => Some(Verse {
-            content: "",
+            content: "And Moses rose vp, and went vnto Dathan and Abiram: and the Elders of Israel followed him.",
         }),
 
         ("numbers", 16, 26) => Some(Verse {
-            content: "",
+            content: "And hee spake vnto the Congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest ye be consumed in all their sinnes.",
         }),
 
         ("numbers", 16, 27) => Some(Verse {
-            content: "",
+            content: "So they gate vp from the tabernacle of Korah, Dathan, and Abiram, on euery side: and Dathan and Abiram came out, and stood in the doore of their tents, and their wiues, & their sonnes, and their little children.",
         }),
 
         ("numbers", 16, 28) => Some(Verse {
-            content: "",
+            content: "And Moses said, Hereby ye shall know that the Lord hath sent me to doe all these workes: for I haue not done them of mine owne mind.",
         }),
 
         ("numbers", 16, 29) => Some(Verse {
-            content: "",
+            content: "If these men die the common death of all men, or if they be visited after the visitation of all men, then the Lord hath not sent me:",
         }),
 
         ("numbers", 16, 30) => Some(Verse {
-            content: "",
+            content: "But if the Lord make a new thing, and the earth open her mouth, and swallow them vp, with all that appertaine vnto them, and they go downe quicke into the pit: then ye shall vnderstand that these men haue prouoked the Lord.",
         }),
 
         ("numbers", 16, 31) => Some(Verse {
-            content: "",
+            content: "And it came to passe as he had made an ende of speaking all these words, that the ground claue asunder that was vnder them:",
         }),
 
         ("numbers", 16, 32) => Some(Verse {
-            content: "",
+            content: "And the earth opened her mouth, and swallowed them vp, and their houses, and all the men that appertained vnto Korah, and all their goods.",
         }),
 
         ("numbers", 16, 33) => Some(Verse {
-            content: "",
+            content: "They, and all that appertained to them, went downe aliue into the pit, and the earth closed vpon them: and they perished from among the Congregation.",
         }),
 
         ("numbers", 16, 34) => Some(Verse {
-            content: "",
+            content: "And all Israel that were round about them, fled at the crie of them: for they said, Lest the earth swallow vs vp also.",
         }),
 
         ("numbers", 16, 35) => Some(Verse {
-            content: "",
+            content: "And there came out a fire from the Lord, and consumed the two hundred and fiftie men that offered incense.",
         }),
 
         ("numbers", 16, 36) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 16, 37) => Some(Verse {
-            content: "",
+            content: "Speake vnto Eleazar the sonne of Aaron the Priest, that he take vp the censers out of the burning, and scatter thou the fire yonder, for they are hallowed.",
         }),
 
         ("numbers", 16, 38) => Some(Verse {
-            content: "",
+            content: "The censers of these sinners against their owne soules, let them make them broad plates for a couering of the Altar: for they offered them before the Lord, therefore they are hallowed, and they shall be a signe vnto the children of Israel.",
         }),
 
         ("numbers", 16, 39) => Some(Verse {
-            content: "",
+            content: "And Eleazar the Priest tooke the brasen censers, wherewith they that were burnt had offered, and they were made broad plates for a couering of the Altar:",
         }),
 
         ("numbers", 16, 40) => Some(Verse {
-            content: "",
+            content: "To bee a memoriall vnto the children of Israel, that no stranger, which is not of the seed of Aaron, come neere to offer incense before the Lord, that he be not as Korah, and as his company, as the Lord said to him by the hand of Moses.",
         }),
 
         ("numbers", 16, 41) => Some(Verse {
-            content: "",
+            content: "But on the morrow, all the Congregation of the children of Israel murmured against Moses and against Aaron, saying, Ye haue killed the people of the Lord.",
         }),
 
         ("numbers", 16, 42) => Some(Verse {
-            content: "",
+            content: "And it came to passe when the Congregation was gathered against Moses and against Aaron, that they looked toward the Tabernacle of the Congregation: and behold, the cloud couered it, and the glory of the Lord appeared.",
         }),
 
         ("numbers", 16, 43) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron came before the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 16, 44) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 16, 45) => Some(Verse {
-            content: "",
+            content: "Get you vp from among this Congregation, that I may consume them, as in a moment: and they fell vpon their faces.",
         }),
 
         ("numbers", 16, 46) => Some(Verse {
-            content: "",
+            content: "And Moses said vnto Aaron, Take a censer, and put fire therein from off the Altar, and put on incense, and goe quickly vnto the Congregation, and make an atonement for them: for there is wrath gone out from the Lord; the plague is begun.",
         }),
 
         ("numbers", 16, 47) => Some(Verse {
-            content: "",
+            content: "And Aaron tooke as Moses commanded, and ranne into the midst of the Congregation: and behold, the plague was begun among the people, and he put on incense, and made an atonement for the people.",
         }),
 
         ("numbers", 16, 48) => Some(Verse {
-            content: "",
+            content: "And he stood betweene the dead and the liuing, and the plague was stayed.",
         }),
 
         ("numbers", 16, 49) => Some(Verse {
-            content: "",
+            content: "Now they that died in the plague, were foureteene thousand and seuen hundred, beside them that died about the matter of Korah.",
         }),
 
         ("numbers", 16, 50) => Some(Verse {
-            content: "",
+            content: "And Aaron returned vnto Moses, vnto the doore of the Tabernacle of the Congregation; and the plague was stayed.",
         }),
 
         ("numbers", 17, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 17, 2) => Some(Verse {
-            content: "",
+            content: "Speake vnto the children of Israel, and take of euery one of them a rod, according to the house of their fathers, of all their princes, according to the house of their fathers, twelue rods: write thou euery mans name vpon his rodde.",
         }),
 
         ("numbers", 17, 3) => Some(Verse {
-            content: "",
+            content: "And thou shalt write Aarons name vpon the rod of Leui: for one rod shall be for the head of the house of their fathers.",
         }),
 
         ("numbers", 17, 4) => Some(Verse {
-            content: "",
+            content: "And thou shalt lay them vp in the Tabernacle of the Congregation, before the Testimony, where I will meet with you.",
         }),
 
         ("numbers", 17, 5) => Some(Verse {
-            content: "",
+            content: "And it shall come to passe, that the mans rod whom I shall choose, shall blossome: and I will make to cease from mee the murmurings of the children of Israel, whereby they murmure against you.",
         }),
 
         ("numbers", 17, 6) => Some(Verse {
-            content: "",
+            content: "And Moses spake vnto the children of Israel, and euery one of their Princes gaue him a rod a piece, for each Prince one, according to their fathers houses, euen twelue rods: and the rod of Aaron was among their rods.",
         }),
 
         ("numbers", 17, 7) => Some(Verse {
-            content: "",
+            content: "And Moses layd vp the rods before the Lord, in the Tabernacle of Witnesse.",
         }),
 
         ("numbers", 17, 8) => Some(Verse {
-            content: "",
+            content: "And it came to passe that on the morrow Moses went into the Tabernacle of Witnesse, and behold, the rod of Aaron for the house of Leui was budded, and brought forth buds, and bloomed blossomes, and yeelded almonds.",
         }),
 
         ("numbers", 17, 9) => Some(Verse {
-            content: "",
+            content: "And Moses brought out all the rods from before the Lord, vnto all the children of Israel: and they looked, and tooke euery man his rod.",
         }),
 
         ("numbers", 17, 10) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Bring Aarons rod againe before the Testimony, to be kept for a token against the rebels, and thou shalt quite take away their murmurings from me, that they die not.",
         }),
 
         ("numbers", 17, 11) => Some(Verse {
-            content: "",
+            content: "And Moses did so: as the Lord commanded him, so did he.",
         }),
 
         ("numbers", 17, 12) => Some(Verse {
-            content: "",
+            content: "And the children of Israel spake vnto Moses, saying, Behold, wee die, we perish, we all perish.",
         }),
 
         ("numbers", 17, 13) => Some(Verse {
-            content: "",
+            content: "Whosoeuer commeth any thing neere vnto the Tabernacle of the Lord, shall die: Shall wee be consumed with dying?",
         }),
 
         ("numbers", 18, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord sayd vnto Aaron, Thou and thy sonnes, and thy fathers house with thee, shall beare the iniquitie of the Sanctuary: and thou and thy sonnes with thee, shall beare the iniquitie of your Priesthood.",
         }),
 
         ("numbers", 18, 2) => Some(Verse {
-            content: "",
+            content: "And thy brethren also of the tribe of Leui, the tribe of thy father, bring thou with thee, that they may be ioyned vnto thee, and minister vnto thee: but thou and thy sonnes with thee shall minister before the Tabernacle of Witnesse.",
         }),
 
         ("numbers", 18, 3) => Some(Verse {
-            content: "",
+            content: "And they shall keepe thy charge, and the charge of all the Tabernacle: onely they shall not come nigh the vessels of the Sanctuarie, and the Altar, that neither they, nor you also die.",
         }),
 
         ("numbers", 18, 4) => Some(Verse {
-            content: "",
+            content: "And they shall bee ioyned vnto thee, and keepe the charge of the Tabernacle of the Congregation, for all the seruice of the Tabernacle: and a stranger shall not come nigh vnto you.",
         }),
 
         ("numbers", 18, 5) => Some(Verse {
-            content: "",
+            content: "And yee shall keepe the charge of the Sanctuary, and the charge of the Altar, that there be no wrath any more vpon the children of Israel.",
         }),
 
         ("numbers", 18, 6) => Some(Verse {
-            content: "",
+            content: "And I, beholde, I haue taken your brethren the Leuites from among the children of Israel: to you they are giuen as a gift for the Lord, to doe the seruice of the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 18, 7) => Some(Verse {
-            content: "",
+            content: "Therefore thou and thy sonnes with thee, shall keepe your Priests office for euery thing of the Altar, and within the Uaile, and yee shall serue: I haue giuen your Priests office vnto you, as a seruice of gift: and the stranger that commeth nigh, shall bee put to death.",
         }),
 
         ("numbers", 18, 8) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Aaron, Behold, I also haue giuen thee the charge of mine heaue offerings, of all the hallowed things of the children of Israel, vnto thee haue I giuen them by reason of the anointing, and to thy sonnes by an ordinance for euer.",
         }),
 
         ("numbers", 18, 9) => Some(Verse {
-            content: "",
+            content: "This shall bee thine of the most holy things, reserued from the fire: euery oblation of theirs, euery meat offering of theirs, and euery sinne offering of theirs, and euery trespasse offering of theirs, which they shal render vnto me, shall be most holy for thee, and for thy sonnes.",
         }),
 
         ("numbers", 18, 10) => Some(Verse {
-            content: "",
+            content: "In the most holy place shalt thou eate it, euery male shall eate it: it shall be holy vnto thee.",
         }),
 
         ("numbers", 18, 11) => Some(Verse {
-            content: "",
+            content: "And this is thine: the heaue offering of their gift, with all the waue offrings of the children of Israel: I haue giuen them vnto thee, & to thy sonnes, and to thy daughters with thee, by a statute for euer: euery one that is cleane in thy house, shall eate of it.",
         }),
 
         ("numbers", 18, 12) => Some(Verse {
-            content: "",
+            content: "All the best of the oyle, and all the best of the wine, and of the wheat, the first fruits of them which they shall offer vnto the Lord, them haue I giuen thee.",
         }),
 
         ("numbers", 18, 13) => Some(Verse {
-            content: "",
+            content: "And whatsoeuer is first ripe in the land, which they shall bring vnto the Lord, shall be thine, euery one that is cleane in thine house, shall eat of it.",
         }),
 
         ("numbers", 18, 14) => Some(Verse {
-            content: "",
+            content: "Euery thing deuoted in Israel, shall be thine.",
         }),
 
         ("numbers", 18, 15) => Some(Verse {
-            content: "",
+            content: "Euery thing that openeth the matrice in all flesh, which they bring vnto the Lord, whether it bee of men or beasts, shall be thine: Neuertheles the first borne of man shalt thou surely redeeme, and the firstling of vncleane beasts shalt thou redeeme.",
         }),
 
         ("numbers", 18, 16) => Some(Verse {
-            content: "",
+            content: "And those that are to be redeemed, from a moneth old shalt thou redeeme according to thine estimation, for the money of fiue shekels, after the shekel of the Sanctuary, which is twentie gerahs.",
         }),
 
         ("numbers", 18, 17) => Some(Verse {
-            content: "",
+            content: "But the firstling of a cowe, or the firstling of a sheepe, or the firstling of a goat thou shalt not redeeme, they are holy: thou shalt sprinckle their blood vpon the Altar, and shalt burne their fat for an offering made by fire, for a sweet sauour vnto the Lord.",
         }),
 
         ("numbers", 18, 18) => Some(Verse {
-            content: "",
+            content: "And the flesh of them shall bee thine: as the waue breast, and as the right shoulder are thine.",
         }),
 
         ("numbers", 18, 19) => Some(Verse {
-            content: "",
+            content: "All the heaue offerings of the holy things, which the children of Israel offer vnto the Lord, haue I giuen thee and thy sonnes, and thy daughters with thee, by a statute for euer: it is a couenant of salt for euer, before the Lord vnto thee, and to thy seed with thee.",
         }),
 
         ("numbers", 18, 20) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Aaron, Thou shalt haue no inheritance in their land, neither shalt thou haue any part among them: I am thy part, and thine inheritance among the children of Israel.",
         }),
 
         ("numbers", 18, 21) => Some(Verse {
-            content: "",
+            content: "And behold, I haue giuen the children of Leui all the tenth in Israel, for an inheritance, for their seruice which they serue, euen the seruice of the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 18, 22) => Some(Verse {
-            content: "",
+            content: "Neither must the children of Israel hencefoorth come nigh the Tabernacle of the Congregation, lest they beare sinne, and die.",
         }),
 
         ("numbers", 18, 23) => Some(Verse {
-            content: "",
+            content: "But the Leuites shall doe the seruice of the Tabernacle of the Congregation, and they shal beare their iniquitie: it shall be a statute for euer throughout your generations, that among the children of Israel they haue no inheritance.",
         }),
 
         ("numbers", 18, 24) => Some(Verse {
-            content: "",
+            content: "But the tithes of the children of Israel which they offer as an heaue offering vnto the Lord, I haue giuen to the Leuites to inherite: therefore I haue said vnto them, Among the children of Israel they shall haue no inheritance.",
         }),
 
         ("numbers", 18, 25) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 18, 26) => Some(Verse {
-            content: "",
+            content: "Thus speake vnto the Leuites, and say vnto them, When ye take of the children of Israel the tithes, which I haue giuen you from them for your inheritance, then ye shal offer vp an heaue offering of it for the Lord, euen a tenth part of the tithe.",
         }),
 
         ("numbers", 18, 27) => Some(Verse {
-            content: "",
+            content: "And this your heaue offering shall be reckoned vnto you, as though it were the corne of the threshing floore, and as the fulnesse of the wine presse.",
         }),
 
         ("numbers", 18, 28) => Some(Verse {
-            content: "",
+            content: "Thus you also shal offer an heaue offering vnto the Lord of all your tithes which ye receiue of the children of Israel, and ye shall giue thereof the Lords heaue offering to Aaron the Priest.",
         }),
 
         ("numbers", 18, 29) => Some(Verse {
-            content: "",
+            content: "Out of all your gifts ye shall offer euery heaue offering of the Lord, of all the best thereof, euen the hallowed part thereof, out of it.",
         }),
 
         ("numbers", 18, 30) => Some(Verse {
-            content: "",
+            content: "Therefore thou shalt say vnto them, When yee haue heaued the best thereof from it, then it shall be counted vnto the Leuites, as the encrease of the threshing floore, and as the encrease of the wine presse.",
         }),
 
         ("numbers", 18, 31) => Some(Verse {
-            content: "",
+            content: "And ye shall eate it in euery place, ye and your housholds: for it is your reward for your seruice, in the Tabernacle of the Congregation.",
         }),
 
         ("numbers", 18, 32) => Some(Verse {
-            content: "",
+            content: "And yee shall beare no sinne by reason of it, when ye haue heaued from it the best of it: neither shall ye pollute the holy things of the children of Israel, lest ye die.",
         }),
 
         ("numbers", 19, 1) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, and vnto Aaron, saying,",
         }),
 
         ("numbers", 19, 2) => Some(Verse {
-            content: "",
+            content: "This is the ordinance of the Law, which the Lord hath commaunded, saying, Speake vnto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and vpon which neuer came yoke.",
         }),
 
         ("numbers", 19, 3) => Some(Verse {
-            content: "",
+            content: "And ye shall giue her vnto Eleazar the Priest, that hee may bring her forth without the campe, and one shall slay her before his face.",
         }),
 
         ("numbers", 19, 4) => Some(Verse {
-            content: "",
+            content: "And Eleazar the Priest shall take of her blood with his finger, and sprinckle of her blood directly before the Tabernacle of the Congregation seuen times.",
         }),
 
         ("numbers", 19, 5) => Some(Verse {
-            content: "",
+            content: "And one shall burne the heifer in his sight: her skinne, and her flesh, and her blood, with her doung, shall he burne.",
         }),
 
         ("numbers", 19, 6) => Some(Verse {
-            content: "",
+            content: "And the Priest shall take Cedarwood, and hysope, and scarlet, and cast it into the midst of the burning of the heifer.",
         }),
 
         ("numbers", 19, 7) => Some(Verse {
-            content: "",
+            content: "Then the Priest shall wash his clothes, and hee shall bathe his flesh in water, and afterward he shall come into the campe, and the Priest shalbe vncleane vntill the euen.",
         }),
 
         ("numbers", 19, 8) => Some(Verse {
-            content: "",
+            content: "And he that burneth her, shall wash his clothes in water, and bathe his flesh in water, and shall be vncleane vntill the Euen.",
         }),
 
         ("numbers", 19, 9) => Some(Verse {
-            content: "",
+            content: "And a man that is cleane, shall gather vp the ashes of the heifer, and lay them vp without the campe in a cleane place, and it shall bee kept for the Congregation of the children of Israel, for a water of separation: it is a purification for sinne.",
         }),
 
         ("numbers", 19, 10) => Some(Verse {
-            content: "",
+            content: "And he that gathereth the ashes of the heifer, shall wash his clothes, and be vncleane vntil the Euen: and it shall be vnto the children of Israel, and vnto the stranger that soiourneth among them, for a statute for euer.",
         }),
 
         ("numbers", 19, 11) => Some(Verse {
-            content: "",
+            content: "He that toucheth the dead body of any man, shall bee vncleane seuen dayes.",
         }),
 
         ("numbers", 19, 12) => Some(Verse {
-            content: "",
+            content: "He shall purifie himselfe with it on the third day, and on the seuenth day he shall be cleane: but if he purifie not himselfe the third day, then the seuenth day he shall not be cleane.",
         }),
 
         ("numbers", 19, 13) => Some(Verse {
-            content: "",
+            content: "Whosoeuer toucheth the dead bodie of any man that is dead, and purifieth not himselfe, defileth the Tabernacle of the Lord, and that soule shall be cut off from Israel, because the water of separation was not sprinckled vpon him: he shall be vncleane, his vncleannesse is yet vpon him.",
         }),
 
         ("numbers", 19, 14) => Some(Verse {
-            content: "",
+            content: "This is the law, when a man dieth in a tent; all that come into the tent, and all that is in the tent, shalbe vnclean seuen dayes.",
         }),
 
         ("numbers", 19, 15) => Some(Verse {
-            content: "",
+            content: "And euery open vessel which hath no couering bound vpon it, is vncleane.",
         }),
 
         ("numbers", 19, 16) => Some(Verse {
-            content: "",
+            content: "And whosoeuer toucheth one that is slaine with a sword in the open fields, or a dead body, or a bone of a man, or a graue, shall be vncleane seuen dayes.",
         }),
 
         ("numbers", 19, 17) => Some(Verse {
-            content: "",
+            content: "And for an vncleane person they shall take of the ashes of the burnt heifer of purification for sinne, and running water shall bee put thereto in a vessell:",
         }),
 
         ("numbers", 19, 18) => Some(Verse {
-            content: "",
+            content: "And a cleane person shall take hysope, and dippe it in the water, and sprinckle it vpon the tent, and vpon all the vessels, and vpon the persons that were there, and vpon him that touched a bone, or one slaine, or one dead, or a graue.",
         }),
 
         ("numbers", 19, 19) => Some(Verse {
-            content: "",
+            content: "And the cleane person shal sprinkle vpon the vncleane on the third day, and on the seuenth day: and on the seuenth day he shall purifie himselfe, and wash his clothes, and bathe himselfe in water, and shall be cleane at Euen.",
         }),
 
         ("numbers", 19, 20) => Some(Verse {
-            content: "",
+            content: "But the man that shall bee vncleane, and shall not purifie himselfe, that soule shall bee cut off from among the Congregation: because he hath defiled the Sanctuary of the Lord, the water of separation hath not beene sprinkled vpon him, he is vncleane.",
         }),
 
         ("numbers", 19, 21) => Some(Verse {
-            content: "",
+            content: "And it shall be a perpetuall statute vnto them, that he that sprinkleth the water of separation, shall wash his clothes: and he that toucheth the water of separation, shall be vncleane vntill Euen.",
         }),
 
         ("numbers", 19, 22) => Some(Verse {
-            content: "",
+            content: "And whatsoeuer the vncleane person toucheth, shall be vncleane: and the soule that toucheth it, shall bee vncleane vntill Euen.",
         }),
 
         ("numbers", 20, 1) => Some(Verse {
-            content: "",
+            content: "Then came the children of Israel, euen the whole Congregation, into the desert of Zin, in the first moneth: and the people abode in Kadesh, and Miriam died there, and was buried there.",
         }),
 
         ("numbers", 20, 2) => Some(Verse {
-            content: "",
+            content: "And there was no water for the Congregation: and they gathered themselues together against Moses and against Aaron.",
         }),
 
         ("numbers", 20, 3) => Some(Verse {
-            content: "",
+            content: "And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the Lord.",
         }),
 
         ("numbers", 20, 4) => Some(Verse {
-            content: "",
+            content: "And why haue yee brought vp the Congregation of the Lord into this wildernesse, that we and our cattell should die there?",
         }),
 
         ("numbers", 20, 5) => Some(Verse {
-            content: "",
+            content: "And wherefore haue ye made vs to come vp out of Egypt, to bring vs in vnto this euil place? it is no place of seed, or of figges, or vines, or of pomegranates, neither is there any water to drinke.",
         }),
 
         ("numbers", 20, 6) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron went from the presence of the assembly, vnto the doore of the Tabernacle of the congregation, and they fell vpon their faces: and the glory of the Lord appeared vnto them.",
         }),
 
         ("numbers", 20, 7) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses, saying,",
         }),
 
         ("numbers", 20, 8) => Some(Verse {
-            content: "",
+            content: "Take the rodde, and gather thou the assembly together, thou and Aaron thy brother, and speake yee vnto the rocke before their eyes, and it shall giue foorth his water, and thou shalt bring foorth to them, water out of the rocke: so thou shalt giue the Congregation, and their beasts drinke.",
         }),
 
         ("numbers", 20, 9) => Some(Verse {
-            content: "",
+            content: "And Moses tooke the rod from before the Lord, as he commanded him.",
         }),
 
         ("numbers", 20, 10) => Some(Verse {
-            content: "",
+            content: "And Moses and Aaron gathered the Congregation together before the rocke, and hee said vnto them, Heare now, ye rebels; must we fetch you water out of this rocke?",
         }),
 
         ("numbers", 20, 11) => Some(Verse {
-            content: "",
+            content: "And Moses lift vp his hand, and with his rod he smote the rocke twice: and the water came out abundantly, and the Congregation dranke, and their beasts also.",
         }),
 
         ("numbers", 20, 12) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses and Aaron, Because ye beleeue me not, to sanctifie me in the eyes of the children of Israel, therefore ye shall not bring this Congregation into the land which I haue giuen them.",
         }),
 
         ("numbers", 20, 13) => Some(Verse {
-            content: "",
+            content: "This is the water of Meribah, because the children of Israel stroue with the Lord; and he was sanctified in them.",
         }),
 
         ("numbers", 20, 14) => Some(Verse {
-            content: "",
+            content: "And Moses sent messengers from Kadesh, vnto the King of Edom; Thus saith thy brother Israel, Thou knowest all the trauaile that hath befallen vs:",
         }),
 
         ("numbers", 20, 15) => Some(Verse {
-            content: "",
+            content: "How our fathers went downe into Egypt, and we haue dwelt in Egypt a long time: and the Egyptians vexed vs, and our fathers.",
         }),
 
         ("numbers", 20, 16) => Some(Verse {
-            content: "",
+            content: "And when wee cryed vnto the Lord, he heard our voyce, and sent an Angel, and hath brought vs foorth out of Egypt: and behold, wee are in Kadesh, a citie in the vttermost of thy border.",
         }),
 
         ("numbers", 20, 17) => Some(Verse {
-            content: "",
+            content: "Let vs passe, I pray thee, thorow thy countrey: we will not passe thorow the fields, or thorow the Uineyards, neither will we drinke of the water of the wells: wee will goe by the Kings high-way, we wil not turne to the right hand nor to the left, vntill wee haue passed thy borders.",
         }),
 
         ("numbers", 20, 18) => Some(Verse {
-            content: "",
+            content: "And Edom said vnto him, Thou shalt not passe by me, lest I come out against thee with the sword.",
         }),
 
         ("numbers", 20, 19) => Some(Verse {
-            content: "",
+            content: "And the children of Israel said vnto him, We will goe by the high-way: and if I and my cattell drinke of thy water, then I will pay for it: I will onely (without doing any thing else) go thorow on my feet.",
         }),
 
         ("numbers", 20, 20) => Some(Verse {
-            content: "",
+            content: "And he said, Thou shalt not goe thorow. And Edom came out against him with much people, and with a strong hand.",
         }),
 
         ("numbers", 20, 21) => Some(Verse {
-            content: "",
+            content: "Thus Edom refused to giue Israel passage thorow his border: wherefore Israel turned away from him.",
         }),
 
         ("numbers", 20, 22) => Some(Verse {
-            content: "",
+            content: "And the children of Israel, euen the whole Congregation, iourneyed from Kadesh, and came vnto mount Hor.",
         }),
 
         ("numbers", 20, 23) => Some(Verse {
-            content: "",
+            content: "And the Lord spake vnto Moses and Aaron in mount Hor, by the coast of the land of Edom, saying;",
         }),
 
         ("numbers", 20, 24) => Some(Verse {
-            content: "",
+            content: "Aaron shall bee gathered vnto his people: for hee shall not enter into the land which I haue giuen vnto the children of Israel, because yee rebelled against my word at the water of Meribah.",
         }),
 
         ("numbers", 20, 25) => Some(Verse {
-            content: "",
+            content: "Take Aaron, and Eleazar his sonne, and bring them vp vnto mount Hor.",
         }),
 
         ("numbers", 20, 26) => Some(Verse {
-            content: "",
+            content: "And strippe Aaron of his garments, and put them vpon Eleazar his sonne, and Aaron shall be gathered vnto his people, and shall die there.",
         }),
 
         ("numbers", 20, 27) => Some(Verse {
-            content: "",
+            content: "And Moses did as the Lord commaunded: and they went vp into mount Hor, in the sight of all the Congregation.",
         }),
 
         ("numbers", 20, 28) => Some(Verse {
-            content: "",
+            content: "And Moses stripped Aaron of his garments, and put them vpon Eleazar his sonne, and Aaron died there in the top of the mount: and Moses and Eleazar came downe from the mount.",
         }),
 
         ("numbers", 20, 29) => Some(Verse {
-            content: "",
+            content: "And when all the Congregation saw that Aaron was dead, they mourned for Aaron thirty dayes, euen all the house of Israel.",
         }),
 
         ("numbers", 21, 1) => Some(Verse {
-            content: "",
+            content: "And when king Arad the Canaanite, which dwelt in the South, heard tell that Israel came by the way of the spies, then hee fought against Israel, and tooke some of them prisoners.",
         }),
 
         ("numbers", 21, 2) => Some(Verse {
-            content: "",
+            content: "And Israel vowed a vow vnto the Lord, and said, If thou wilt in deed deliuer this people into my hand, then I wil vtterly destroy their cities.",
         }),
 
         ("numbers", 21, 3) => Some(Verse {
-            content: "",
+            content: "And the Lord hearkened to the voyce of Israel, and deliuered vp the Canaanites: and they vtterly destroyed them, and their cities, and hee called the name of the place Hormah.",
         }),
 
         ("numbers", 21, 4) => Some(Verse {
-            content: "",
+            content: "And they iourneyed from mount Hor, by the way of the red sea, to compasse the land of Edom: and the soule of the people was much discouraged because of the way.",
         }),
 
         ("numbers", 21, 5) => Some(Verse {
-            content: "",
+            content: "And the people spake against God and against Moses, Wherefore haue ye brought vs vp out of Egypt, to die in the wildernesse? for there is no bread, neither is there any water, and our soule loatheth this light bread.",
         }),
 
         ("numbers", 21, 6) => Some(Verse {
-            content: "",
+            content: "And the Lord sent fierie serpents among the people, and they bit the people, and much people of Israel died.",
         }),
 
         ("numbers", 21, 7) => Some(Verse {
-            content: "",
+            content: "Therefore the people came to Moses, and said, We haue sinned: for wee haue spoken against the Lord, and against thee: pray vnto the Lord that hee take away the serpents from vs: and Moses prayed for the people.",
         }),
 
         ("numbers", 21, 8) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Make thee a fierie serpent, and set it vpon a pole: and it shall come to passe, that euery one that is bitten, when hee looketh vpon it, shall liue.",
         }),
 
         ("numbers", 21, 9) => Some(Verse {
-            content: "",
+            content: "And Moses made a serpent of brasse, and put it vpon a pole, and it came to passe, that if a serpent had bitten any man, when hee beheld the serpent of brasse, he liued.",
         }),
 
         ("numbers", 21, 10) => Some(Verse {
-            content: "",
+            content: "And the children of Israel set forward, and pitched in Oboth.",
         }),
 
         ("numbers", 21, 11) => Some(Verse {
-            content: "",
+            content: "And they iourneyed from Oboth, and pitched at Iie-Abarim, in the wildernes which is before Moab, toward the Sunne rising.",
         }),
 
         ("numbers", 21, 12) => Some(Verse {
-            content: "",
+            content: "From thence they remooued, and pitched in the valley of Zared.",
         }),
 
         ("numbers", 21, 13) => Some(Verse {
-            content: "",
+            content: "From thence they remooued, and pitched on the other side of Arnon, which is in the wildernesse that commeth out of the coasts of the Amorites: for Arnon is the border of Moab, betweene Moab and the Amorites.",
         }),
 
         ("numbers", 21, 14) => Some(Verse {
-            content: "",
+            content: "Wherefore it is said in the booke of the warres of the Lord, what he did in the Red sea, and in the brookes of Arnon,",
         }),
 
         ("numbers", 21, 15) => Some(Verse {
-            content: "",
+            content: "And at the streame of the brookes that goeth downe to the dwelling of Ar, & lieth vpon the border of Moab.",
         }),
 
         ("numbers", 21, 16) => Some(Verse {
-            content: "",
+            content: "And from thence they went to Beer: that is the well whereof the Lord spake vnto Moses, Gather the people together, and I will giue them water.",
         }),
 
         ("numbers", 21, 17) => Some(Verse {
-            content: "",
+            content: "Then Israel sang this song, Spring vp O well, Sing ye vnto it:",
         }),
 
         ("numbers", 21, 18) => Some(Verse {
-            content: "",
+            content: "The Princes digged the well, the nobles of the people digged it, by the direction of the Law-giuer, with their staues. And from the wildernesse they went to Mattanah:",
         }),
 
         ("numbers", 21, 19) => Some(Verse {
-            content: "",
+            content: "And from Mattanah, to Nahaliel, and from Nahaliel to Bamoth:",
         }),
 
         ("numbers", 21, 20) => Some(Verse {
-            content: "",
+            content: "And from Bamoth in the valley, that is in the countrey of Moab, to the toppe of Pisgah, which looketh toward Ieshimon.",
         }),
 
         ("numbers", 21, 21) => Some(Verse {
-            content: "",
+            content: "And Israel sent messengers vnto Sihon king of the Amorites, saying,",
         }),
 
         ("numbers", 21, 22) => Some(Verse {
-            content: "",
+            content: "Let me passe thorow thy land, we will not turne into the fields, or into the vineyards, we will not drinke of the waters of the well: but we will goe along by the kings high way, vntill wee be past thy borders.",
         }),
 
         ("numbers", 21, 23) => Some(Verse {
-            content: "",
+            content: "And Sihon would not suffer Israel to passe thorow his border: but Sihon gathered all his people together, and went out against Israel into the wildernes: and he came to Iahaz, and fought against Israel.",
         }),
 
         ("numbers", 21, 24) => Some(Verse {
-            content: "",
+            content: "And Israel smote him with the edge of the sword, and possessed his land from Arnon vnto Iabok, euen vnto the children of Ammon: for the border of the children of Ammon was strong.",
         }),
 
         ("numbers", 21, 25) => Some(Verse {
-            content: "",
+            content: "And Israel tooke all these cities: and Israel dwelt in all the cities of the Amorites, in Heshbon, and in all the villages thereof.",
         }),
 
         ("numbers", 21, 26) => Some(Verse {
-            content: "",
+            content: "For Heshbon was the citie of Sihon the King of the Amorites, who had fought against the former King of Moab, and taken all his land out of his hand, euen vnto Arnon.",
         }),
 
         ("numbers", 21, 27) => Some(Verse {
-            content: "",
+            content: "Wherefore they that speake in prouerbes, say, Come into Heshbon: let the citie of Sihon bee built and prepared.",
         }),
 
         ("numbers", 21, 28) => Some(Verse {
-            content: "",
+            content: "For there is a fire gone out of Heshbon, a flame from the citie of Sihon: it hath consumed Ar of Moab, and the lordes of the high places of Arnon.",
         }),
 
         ("numbers", 21, 29) => Some(Verse {
-            content: "",
+            content: "Woe to thee, Moab, thou art vndone, O people of Chemosh: he hath giuen his sonnes that escaped, and his daughters, into captiuitie vnto Sihon King of the Amorites.",
         }),
 
         ("numbers", 21, 30) => Some(Verse {
-            content: "",
+            content: "We haue shot at them; Heshbon is perished euen vnto Dibon, and we haue layde them waste euen vnto Nophah, which reacheth vnto Medeba.",
         }),
 
         ("numbers", 21, 31) => Some(Verse {
-            content: "",
+            content: "Thus Israel dwelt in the land of the Amorites.",
         }),
 
         ("numbers", 21, 32) => Some(Verse {
-            content: "",
+            content: "And Moses sent to spy out Iaazer, and they tooke the villages thereof, and droue out the Amorites that were there.",
         }),
 
         ("numbers", 21, 33) => Some(Verse {
-            content: "",
+            content: "And they turned and went vp by the way of Bashan: and Og the King of Bashan went out against them, he, and all his people, to the battell at Edrei.",
         }),
 
         ("numbers", 21, 34) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Moses, Feare him not: for I haue deliuered him into thy hand, and all his people, and his land, and thou shalt doe to him as thou didst vnto Sihon King of the Amorites, which dwelt at Heshbon.",
         }),
 
         ("numbers", 21, 35) => Some(Verse {
-            content: "",
+            content: "So they smote him & his sonnes, and all his people, vntill there was none left him aliue, and they possessed his land.",
         }),
 
         ("numbers", 22, 1) => Some(Verse {
-            content: "",
+            content: "And the children of Israel set forward, and pitched in the plaines of Moab, on this side Iordane by Iericho.",
         }),
 
         ("numbers", 22, 2) => Some(Verse {
-            content: "",
+            content: "And Balak the sonne of Zippor, saw all that Israel had done to the Amorites.",
         }),
 
         ("numbers", 22, 3) => Some(Verse {
-            content: "",
+            content: "And Moab was sore afraid of the people, because they were many, and Moab was distressed, because of the children of Israel.",
         }),
 
         ("numbers", 22, 4) => Some(Verse {
-            content: "",
+            content: "And Moab said vnto the elders of Midian; Now shall this company licke vp all that are round about vs, as the oxe licketh vp the grasse of the field. And Balak the sonne of Zippor, was King of the Moabites at that time.",
         }),
 
         ("numbers", 22, 5) => Some(Verse {
-            content: "",
+            content: "He sent messengers therefore vnto Balaam the sonne of Beor, to Pethor, which is by the riuer of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: beholde, they couer the face of the earth, and they abide ouer against me.",
         }),
 
         ("numbers", 22, 6) => Some(Verse {
-            content: "",
+            content: "Come now therefore, I pray thee, curse mee this people, for they are too mightie for me: peraduenture I shall preuaile, that we may smite them, and that I may driue them out of the land: for I wot that he whom thou blessest, is blessed, and hee whom thou cursest, is cursed.",
         }),
 
         ("numbers", 22, 7) => Some(Verse {
-            content: "",
+            content: "And the elders of Moab, and the elders of Midian departed, with the rewards of diuination in their hand; and they came vnto Balaam, and spake vnto him the words of Balak.",
         }),
 
         ("numbers", 22, 8) => Some(Verse {
-            content: "",
+            content: "And hee said vnto them, Lodge here this night, and I will bring you word againe as the Lord shal speake vnto mee: and the Princes of Moab abode with Balaam.",
         }),
 
         ("numbers", 22, 9) => Some(Verse {
-            content: "",
+            content: "And God came vnto Balaam, and said, What men are these with thee?",
         }),
 
         ("numbers", 22, 10) => Some(Verse {
-            content: "",
+            content: "And Balaam said vnto God, Balak the sonne of Zippor, King of Moab, hath sent vnto me, saying;",
         }),
 
         ("numbers", 22, 11) => Some(Verse {
-            content: "",
+            content: "Behold, there is a people come out of Egypt, which couereth the face of the earth: Come now, curse me them; peraduenture I shalbe able to ouercome them, and driue them out.",
         }),
 
         ("numbers", 22, 12) => Some(Verse {
-            content: "",
+            content: "And God saide vnto Balaam; Thou shalt not goe with them, thou shalt not curse the people: for they are blessed.",
         }),
 
         ("numbers", 22, 13) => Some(Verse {
-            content: "",
+            content: "And Balaam rose vp in the morning, and said vnto the Princes of Balak, Get you into your land: for the Lord refuseth to giue mee leaue to goe with you.",
         }),
 
         ("numbers", 22, 14) => Some(Verse {
-            content: "",
+            content: "And the Princes of Moab rose vp, and they went vnto Balak, and said, Balaam refuseth to come with vs.",
         }),
 
         ("numbers", 22, 15) => Some(Verse {
-            content: "",
+            content: "And Balak sent yet againe Princes, moe, and more honourable then they.",
         }),
 
         ("numbers", 22, 16) => Some(Verse {
-            content: "",
+            content: "And they came to Balaam, and said to him, Thus saith Balak the son of Zippor; Let nothing, I pray thee, hinder thee from comming vnto me:",
         }),
 
         ("numbers", 22, 17) => Some(Verse {
-            content: "",
+            content: "For I wil promote thee vnto very great honour, and I will do whatsoeuer thou saiest vnto me: Come therefore, I pray thee, curse me this people.",
         }),
 
         ("numbers", 22, 18) => Some(Verse {
-            content: "",
+            content: "And Balaam answered and said vnto the seruants of Balak, If Balak would giue me his house full of siluer and gold, I cannot goe beyond the word of the Lord my God, to doe lesse or more.",
         }),
 
         ("numbers", 22, 19) => Some(Verse {
-            content: "",
+            content: "Now therefore, I pray you, tarie yee also here this night, that I may know what the Lord will say vnto me more.",
         }),
 
         ("numbers", 22, 20) => Some(Verse {
-            content: "",
+            content: "And God came vnto Balaam at night, and said vnto him, If the men come to call thee, rise vp, and goe with them: but yet the word which I shall say vnto thee, that shalt thou doe.",
         }),
 
         ("numbers", 22, 21) => Some(Verse {
-            content: "",
+            content: "And Balaam rose vp in the morning, and sadled his asse, and went with the princes of Moab.",
         }),
 
         ("numbers", 22, 22) => Some(Verse {
-            content: "",
+            content: "And Gods anger was kindled, because he went: and the Angel of the Lord stood in the way for an aduersarie against him: Now he was riding vpon his asse, and his two seruants were with him.",
         }),
 
         ("numbers", 22, 23) => Some(Verse {
-            content: "",
+            content: "And the Asse sawe the Angel of the Lord standing in the way, and his sword drawen in his hand: and the asse turned aside out of the way, and went into the field: and Balaam smote the asse, to turne her into the way.",
         }),
 
         ("numbers", 22, 24) => Some(Verse {
-            content: "",
+            content: "But the Angel of the Lord stood in a path of the vineyards, a wall being on this side, & a wall on that side.",
         }),
 
         ("numbers", 22, 25) => Some(Verse {
-            content: "",
+            content: "And when the asse saw the Angel of the Lord, she thrust her selfe vnto the wall, and crusht Balaams foote against the wall: and hee smote her againe.",
         }),
 
         ("numbers", 22, 26) => Some(Verse {
-            content: "",
+            content: "And the Angel of the Lord went further, and stood in a narrowe place, where was no way to turne, either to the right hand, or to the left.",
         }),
 
         ("numbers", 22, 27) => Some(Verse {
-            content: "",
+            content: "And when the asse sawe the Angel of the Lord, shee fell downe vnder Balaam, and Balaams anger was kindled, and hee smote the asse with a staffe.",
         }),
 
         ("numbers", 22, 28) => Some(Verse {
-            content: "",
+            content: "And the Lord opened the mouth of the asse, and shee saide vnto Balaam, What haue I done vnto thee, that thou hast smitten mee these three times?",
         }),
 
         ("numbers", 22, 29) => Some(Verse {
-            content: "",
+            content: "And Balaam said vnto the asse, Because thou hast mocked mee: I would there were a sword in mine hand, for now would I kill thee.",
         }),
 
         ("numbers", 22, 30) => Some(Verse {
-            content: "",
+            content: "And the asse said vnto Balaam, Am not I thine asse, vpon which thou hast ridden euer since I was thine, vnto this day? was I euer wont to do so vnto thee? And he said, Nay.",
         }),
 
         ("numbers", 22, 31) => Some(Verse {
-            content: "",
+            content: "Then the Lord opened the eyes of Balaam, and hee saw the Angel of the Lord standing in the way, and his sword drawen in his hand: and hee bowed downe his head, and fell flat on his face.",
         }),
 
         ("numbers", 22, 32) => Some(Verse {
-            content: "",
+            content: "And the Angel of the Lord said vnto him, Wherefore hast thou smitten thine asse these three times? Behold, I went out to withstand thee, because thy way is peruerse before me.",
         }),
 
         ("numbers", 22, 33) => Some(Verse {
-            content: "",
+            content: "And the asse saw me, and turned from me these three times: vnlesse shee had turned from me, surely now also I had slaine thee, and saued her aliue.",
         }),
 
         ("numbers", 22, 34) => Some(Verse {
-            content: "",
+            content: "And Balaam said vnto the Angel of the Lord, I haue sinned: for I knew not that thou stoodest in the way against mee: Now therefore if it displease thee, I will get mee backe againe.",
         }),
 
         ("numbers", 22, 35) => Some(Verse {
-            content: "",
+            content: "And the Angel of the Lord said vnto Balaam, Goe with the men: but onely the word that I shall speake vnto thee, that thou shalt speake: So Balaam went with the princes of Balak.",
         }),
 
         ("numbers", 22, 36) => Some(Verse {
-            content: "",
+            content: "And when Balak heard that Balaam was come, hee went out to meete him, vnto a citie of Moab, which is in the border of Arnon, which is in the vtmost coast.",
         }),
 
         ("numbers", 22, 37) => Some(Verse {
-            content: "",
+            content: "And Balak said vnto Balaam, Did I not earnestly send vnto thee to call thee? wherefore camest thou not vnto me? Am I not able indeed to promote thee to honour?",
         }),
 
         ("numbers", 22, 38) => Some(Verse {
-            content: "",
+            content: "And Balaam saide vnto Balak, Loe, I am come vnto thee: haue I now any power at all to say any thing? the worde that God putteth in my mouth, that shall I speake.",
         }),
 
         ("numbers", 22, 39) => Some(Verse {
-            content: "",
+            content: "And Balaam went with Balak, and they came vnto Kiriath-Huzoth.",
         }),
 
         ("numbers", 22, 40) => Some(Verse {
-            content: "",
+            content: "And Balak offered oxen, and sheepe, and sent to Balaam, and to the princes that were with him.",
         }),
 
         ("numbers", 22, 41) => Some(Verse {
-            content: "",
+            content: "And it came to passe on the morrow, that Balak tooke Balaam, and brought him vp into the high places of Baal, that thence hee might see the vtmost part of the people.",
         }),
 
         ("numbers", 23, 1) => Some(Verse {
-            content: "",
+            content: "And Balaam saide vnto Balak, Build me here seuen Altars, and prepare mee here seuen oxen, and seuen rammes.",
         }),
 
         ("numbers", 23, 2) => Some(Verse {
-            content: "",
+            content: "And Balak did as Balaam had spoken, and Balak & Balaam offered on euery altar a bullocke and a ramme.",
         }),
 
         ("numbers", 23, 3) => Some(Verse {
-            content: "",
+            content: "And Balaam said vnto Balak, Stand by thy burnt offring, and I wil goe: peraduenture the Lord will come to meete mee; and whatsoeuer he sheweth me, I will tell thee. And he went to an high place.",
         }),
 
         ("numbers", 23, 4) => Some(Verse {
-            content: "",
+            content: "And God met Balaam, and he said vnto him, I haue prepared seuen altars, and I haue offered vpon euery altar a bullocke and a ramme.",
         }),
 
         ("numbers", 23, 5) => Some(Verse {
-            content: "",
+            content: "And the Lord put a word in Balaams mouth, and said, Returne vnto Balak, & thus thou shalt speake.",
         }),
 
         ("numbers", 23, 6) => Some(Verse {
-            content: "",
+            content: "And he returned vnto him, and loe, he stood by his burnt sacrifice, hee, and all the Princes of Moab.",
         }),
 
         ("numbers", 23, 7) => Some(Verse {
-            content: "",
+            content: "And he tooke vp his parable, and said, Balak the King of Moab hath brought mee from Aram, out of the mountaines of the East, saying, Come, curse me Iacob, and come, defie Israel.",
         }),
 
         ("numbers", 23, 8) => Some(Verse {
-            content: "",
+            content: "How shall I curse, whom God hath not cursed? or how shall I defie, whom the Lord hath not defied?",
         }),
 
         ("numbers", 23, 9) => Some(Verse {
-            content: "",
+            content: "For from the top of the rockes I see him, and from the hilles I behold him: loe, the people shall dwell alone, and shall not bee reckoned among the nations.",
         }),
 
         ("numbers", 23, 10) => Some(Verse {
-            content: "",
+            content: "Who can count the dust of Iacob, and the number of the fourth part of Israel? Let mee die the death of the righteous, & let my last end be like his.",
         }),
 
         ("numbers", 23, 11) => Some(Verse {
-            content: "",
+            content: "And Balak saide vnto Balaam, What hast thou done vnto me? I tooke thee to curse mine enemies, and behold, thou hast blessed them altogether.",
         }),
 
         ("numbers", 23, 12) => Some(Verse {
-            content: "",
+            content: "And he answered, and said, Must I not take heede to speake that which the Lord hath put in my mouth?",
         }),
 
         ("numbers", 23, 13) => Some(Verse {
-            content: "",
+            content: "And Balak said vnto him, Come, I pray thee, with me, vnto another place, from whence thou mayest see them: thou shalt see but the vtmost part of them, and shalt not see them all: and curse me them from thence.",
         }),
 
         ("numbers", 23, 14) => Some(Verse {
-            content: "",
+            content: "And hee brought him into the fielde of Zophim, to the toppe of Pisgah, and built seuen altars, and offered a bullocke and a ramme on euery altar.",
         }),
 
         ("numbers", 23, 15) => Some(Verse {
-            content: "",
+            content: "And he said vnto Balak, Stand here by thy burnt offering, while I meete the Lord yonder.",
         }),
 
         ("numbers", 23, 16) => Some(Verse {
-            content: "",
+            content: "And the Lord met Balaam, and put a word in his mouth, and saide, Goe againe vnto Balak, and say thus.",
         }),
 
         ("numbers", 23, 17) => Some(Verse {
-            content: "",
+            content: "And when hee came to him, behold, he stood by his burnt offring, and the Princes of Moab with him. And Balak said vnto him, What hath the Lord spoken?",
         }),
 
         ("numbers", 23, 18) => Some(Verse {
-            content: "",
+            content: "And he tooke vp his parable, and said, Rise vp Balak, & heare; hearken vnto me, thou sonne of Zippor:",
         }),
 
         ("numbers", 23, 19) => Some(Verse {
-            content: "",
+            content: "God is not a man that he should lie, neither the sonne of man, that hee should repent: hath he said, and shall he not doe it? or, hath hee spoken, and shall he not make it good?",
         }),
 
         ("numbers", 23, 20) => Some(Verse {
-            content: "",
+            content: "Behold, I haue receiued commandement to blesse: and hee hath blessed, and I cannot reuerse it.",
         }),
 
         ("numbers", 23, 21) => Some(Verse {
-            content: "",
+            content: "Hee hath not beheld iniquitie in Iacob, neither hath he seene peruersenesse in Israel: the Lord his God is with him, and the shoute of a King is among them.",
         }),
 
         ("numbers", 23, 22) => Some(Verse {
-            content: "",
+            content: "God brought them out of Egypt; he hath as it were the strength of an Unicorne.",
         }),
 
         ("numbers", 23, 23) => Some(Verse {
-            content: "",
+            content: "Surely there is no inchantment against Iacob, neither is there any diuination against Israel: according to this time it shalbe said of Iacob, and of Israel, What hath God wrought!",
         }),
 
         ("numbers", 23, 24) => Some(Verse {
-            content: "",
+            content: "Beholde, the people shall rise vp as a great Lion, and lift vp himselfe as a yong Lion: hee shall not lie downe vntill he eate of the pray, and drinke the blood of the slaine.",
         }),
 
         ("numbers", 23, 25) => Some(Verse {
-            content: "",
+            content: "And Balak said vnto Balaam, Neither curse them at all, nor blesse them at all.",
         }),
 
         ("numbers", 23, 26) => Some(Verse {
-            content: "",
+            content: "But Balaam answered, and said vnto Balak, Told not I thee, saying, All that the Lord speaketh, that I must doe?",
         }),
 
         ("numbers", 23, 27) => Some(Verse {
-            content: "",
+            content: "And Balak saide vnto Balaam, Come, I pray thee, I will bring thee vnto another place, peraduenture it will please God, that thou mayest curse me them from thence.",
         }),
 
         ("numbers", 23, 28) => Some(Verse {
-            content: "",
+            content: "And Balak brought Balaam vnto the top of Peor, that looketh toward Ieshimon.",
         }),
 
         ("numbers", 23, 29) => Some(Verse {
-            content: "",
+            content: "And Balaam saide vnto Balak, Build mee here seuen altars, and prepare me here seuen bullocks, and seuen rammes.",
         }),
 
         ("numbers", 23, 30) => Some(Verse {
-            content: "",
+            content: "And Balak did as Balaam had said, and offred a bullocke and a ramme on euery altar.",
         }),
 
         ("numbers", 24, 1) => Some(Verse {
-            content: "",
+            content: "And when Balaam sawe that it pleased the Lord to blesse Israel, hee went not, as at other times to seeke for inchantments, but hee set his face toward the wildernesse.",
         }),
 
         ("numbers", 24, 2) => Some(Verse {
-            content: "",
+            content: "And Balaam lift vp his eyes, and he saw Israel abiding in his tents, according to their Tribes: and the Spirit of God came vpon him.",
         }),
 
         ("numbers", 24, 3) => Some(Verse {
-            content: "",
+            content: "And he tooke vp his parable, and said, Balaam the sonne of Beor hath said, and the man whose eyes are open hath said:",
         }),
 
         ("numbers", 24, 4) => Some(Verse {
-            content: "",
+            content: "Hee hath said, which heard the words of God, which saw the vision of the Almightie, falling into a trance, but hauing his eyes open:",
         }),
 
         ("numbers", 24, 5) => Some(Verse {
-            content: "",
+            content: "How goodly are thy tents, O Iacob, and thy Tabernacles, O Israel!",
         }),
 
         ("numbers", 24, 6) => Some(Verse {
-            content: "",
+            content: "As the valleyes are they spread forth, as gardens by the riuer side, as the trees of Lign-Aloes which the Lord hath planted, and as Cedar trees beside the waters.",
         }),
 
         ("numbers", 24, 7) => Some(Verse {
-            content: "",
+            content: "He shall powre the water out of his buckets, and his seed shall be in many waters, and his King shall be higher then Agag, and his Kingdome shall be exalted.",
         }),
 
         ("numbers", 24, 8) => Some(Verse {
-            content: "",
+            content: "God brought him forth out of Egypt, he hath as it were the strength of an Unicorne: he shall eate vp the nations his enemies, and shall breake their bones, and pierce them thorow with his arrowes.",
         }),
 
         ("numbers", 24, 9) => Some(Verse {
-            content: "",
+            content: "Hee couched, he lay downe as a Lyon, and as a great Lyon: who shal stirre him vp? Blessed is hee that blesseth thee, and cursed is hee that curseth thee.",
         }),
 
         ("numbers", 24, 10) => Some(Verse {
-            content: "",
+            content: "And Balaks anger was kindled against Balaam, and hee smote his hands together: and Balak said vnto Balaam, I called thee to curse mine enemies, and behold, thou hast altogether blessed them these three times.",
         }),
 
         ("numbers", 24, 11) => Some(Verse {
-            content: "",
+            content: "Therefore now, flee thou to thy place: I thought to promote thee vnto great honour, but loe, the Lord hath kept thee backe from honour.",
         }),
 
         ("numbers", 24, 12) => Some(Verse {
-            content: "",
+            content: "And Balaam said vnto Balak, Spake I not also to thy messengers which thou sentest vnto me, saying,",
         }),
 
         ("numbers", 24, 13) => Some(Verse {
-            content: "",
+            content: "If Balak would give mee his house full of siluer and gold, I cannot goe beyond the commandement of the Lord, to doe either good or bad of mine owne mind? But what the Lord saith, that will I speake.",
         }),
 
         ("numbers", 24, 14) => Some(Verse {
-            content: "",
+            content: "And now beholde, I goe vnto my people: come therefore, and I will aduertise thee, what this people shall doe to thy people in the latter dayes.",
         }),
 
         ("numbers", 24, 15) => Some(Verse {
-            content: "",
+            content: "And hee tooke vp his parable, and said, Balaam the sonne of Beor hath said, and the man whose eyes are open, hath said:",
         }),
 
         ("numbers", 24, 16) => Some(Verse {
-            content: "",
+            content: "He hath said which heard the words of God, and knewe the knowledge of the most High, which sawe the vision of the Almightie, falling into a trance, but hauing his eyes open.",
         }),
 
         ("numbers", 24, 17) => Some(Verse {
-            content: "",
+            content: "I shall see him, but not now: I shall behold him, but not nigh: There shall come a starre out of Iacob, and a Scepter shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.",
         }),
 
         ("numbers", 24, 18) => Some(Verse {
-            content: "",
+            content: "And Edom shall bee a possession, Seir also shall be a possession for his enemies, and Israel shall doe valiantly.",
         }),
 
         ("numbers", 24, 19) => Some(Verse {
-            content: "",
+            content: "Out of Iacob shall come he that shall haue dominion, and shall destroy him that remaineth of the citie.",
         }),
 
         ("numbers", 24, 20) => Some(Verse {
-            content: "",
+            content: "And when he looked on Amalek, he tooke vp his parable, and sayd, Amalek was the first of the nations, but his latter end shall bee, that hee perish for euer.",
         }),
 
         ("numbers", 24, 21) => Some(Verse {
-            content: "",
+            content: "And hee looked on the Kenites, and tooke vp his parable, and saide, Strong is thy dwelling place, and thou puttest thy nest in a rocke:",
         }),
 
         ("numbers", 24, 22) => Some(Verse {
-            content: "",
+            content: "Neuerthelesse, the Kenite shall be wasted, vntil Asshur shal carie thee away captiue.",
         }),
 
         ("numbers", 24, 23) => Some(Verse {
-            content: "",
+            content: "And he tooke vp his parable, and said, Alas! who shall liue when God doeth this?",
         }),
 
         ("numbers", 24, 24) => Some(Verse {
-            content: "",
+            content: "And shippes shall come from the coast of Chittim, and shal afflict Asshur, and shall afflict Eber, and hee also shall perish for euer.",
         }),
 
         ("numbers", 24, 25) => Some(Verse {
-            content: "",
+            content: "And Balaam rose vp, and went and returned to his place: and Balak also went his way.",
         }),
 
         ("numbers", 25, 1) => Some(Verse {
@@ -22437,10 +22441,6 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("deuteronomy", 27, 26) => Some(Verse {
-            content: "",
-        }),
-
-        ("deuteronomy", 28, 1) => Some(Verse {
             content: "",
         }),
 
