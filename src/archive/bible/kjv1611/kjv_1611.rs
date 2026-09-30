@@ -19584,7 +19584,3888 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "",
         }),
 
+        ("deuteronomy", 1, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 45) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 1, 46) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 2, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 3, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 41) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 42) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 43) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 44) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 45) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 46) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 47) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 48) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 4, 49) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 5, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 6, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 7, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 8, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 9, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 10, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 11, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 12, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 13, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 14, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 15, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 16, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 17, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 18, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 19, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 20, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 21, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 22, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 23, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 24, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 25, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 26, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 27, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 41) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 42) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 43) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 44) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 45) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 46) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 47) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 48) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 49) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 50) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 51) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 52) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 53) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 54) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 55) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 56) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 57) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 58) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 59) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 60) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 61) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 62) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 63) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 64) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 65) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 66) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 67) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 28, 68) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 29, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 30, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 31, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 41) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 42) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 43) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 44) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 45) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 46) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 47) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 48) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 49) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 50) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 51) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 32, 52) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 33, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 34, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 34, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 34, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 34, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 34, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 34, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 34, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 34, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 34, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 34, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 34, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("deuteronomy", 34, 12) => Some(Verse {
+            content: "",
+        }),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
