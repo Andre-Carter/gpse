@@ -28539,6 +28539,349 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "",
         }),
 
+        ("ruth", 1, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 2, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 3, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 4, 22) => Some(Verse {
+            content: "",
+        }),
+
+
+
+
+
+
+
+
 
 
 
