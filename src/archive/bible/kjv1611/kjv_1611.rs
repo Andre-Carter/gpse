@@ -26059,6 +26059,2509 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "",
         }),
 
+        ("judges", 1, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 1, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 2, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 3, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 4, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 5, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 6, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 7, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 8, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 41) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 42) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 43) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 44) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 45) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 46) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 47) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 48) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 49) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 50) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 51) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 52) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 53) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 54) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 55) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 56) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 9, 57) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 10, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 11, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 12, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 13, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 14, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 15, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 16, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 17, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 18, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 19, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 26) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 27) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 28) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 29) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 30) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 31) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 32) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 33) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 34) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 35) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 36) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 37) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 38) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 39) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 40) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 41) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 42) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 43) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 44) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 45) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 46) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 47) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 20, 48) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 1) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 2) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 3) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 4) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 5) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 6) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 7) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 8) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 9) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 10) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 11) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 12) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 13) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 14) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 15) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 16) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 17) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 18) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 19) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 20) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 21) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 22) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 23) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 24) => Some(Verse {
+            content: "",
+        }),
+
+        ("judges", 21, 25) => Some(Verse {
+            content: "",
+        }),
+
+        ("ruth", 1, 1) => Some(Verse {
+            content: "",
+        }),
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
 
 
 
