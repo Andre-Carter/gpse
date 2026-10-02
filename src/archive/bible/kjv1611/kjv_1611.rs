@@ -26053,2822 +26053,2818 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("judges", 1, 1) => Some(Verse {
-            content: "",
+            content: "Now after the death of Ioshua, it came to passe, that the children of Israel asked the Lord, saying, Who shal goe vp for vs against the Canaanites first, to fight against them?",
         }),
 
         ("judges", 1, 2) => Some(Verse {
-            content: "",
+            content: "And the Lord sayd, Iudah shall goe vp: Behold, I haue deliuered the land into his hand.",
         }),
 
         ("judges", 1, 3) => Some(Verse {
-            content: "",
+            content: "And Iudah saide vnto Simeon his brother, Come vp with me into my lot, that wee may fight against the Canaanites, and I likewise will goe with thee into thy lot. So Simeon went with him.",
         }),
 
         ("judges", 1, 4) => Some(Verse {
-            content: "",
+            content: "And Iudah went vp, and the Lord deliuered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men.",
         }),
 
         ("judges", 1, 5) => Some(Verse {
-            content: "",
+            content: "And they found Adoni-bezek in Bezek: and they fought against him, and they slew the Canaanites, and the Perizzites.",
         }),
 
         ("judges", 1, 6) => Some(Verse {
-            content: "",
+            content: "But Adoni-bezek fled, and they pursued after him, and caught him, and cut off his thumbes, and his great toes.",
         }),
 
         ("judges", 1, 7) => Some(Verse {
-            content: "",
+            content: "And Adoni-bezek said, Threescore & ten kings, hauing their thumbs and their great toes cut off, gathered their meate vnder my table: as I haue done, so God hath requited mee, and they brought him to Ierusalem, and there he died.",
         }),
 
         ("judges", 1, 8) => Some(Verse {
-            content: "",
+            content: "(Now the children of Iudah had fought against Ierusalem, and had taken it, and smitten it with the edge of the sword, and set the citie on fire)",
         }),
 
         ("judges", 1, 9) => Some(Verse {
-            content: "",
+            content: "And afterward the children of Iudah went downe to fight against the Canaanites that dwelt in the moūtaine, & in the South, and in the valley.",
         }),
 
         ("judges", 1, 10) => Some(Verse {
-            content: "",
+            content: "And Iudah went against the Canaanites that dwelt in Hebron (nowe the name of Hebron before was Kiriath-arba) and they slew Sheshai, and Ahiman, and Talmai.",
         }),
 
         ("judges", 1, 11) => Some(Verse {
-            content: "",
+            content: "And from thence he went against the inhabitants of Debir, (& the name of Debir before was Kiriath-sepher)",
         }),
 
         ("judges", 1, 12) => Some(Verse {
-            content: "",
+            content: "And Caleb said, Hee that smiteth Kiriath-sepher, and taketh it, to him will I giue Achsah my daughter to wife.",
         }),
 
         ("judges", 1, 13) => Some(Verse {
-            content: "",
+            content: "And Othniel the sonne of Kenaz Calebs yonger brother tooke it: and he gaue him Achsah his daughter to wife.",
         }),
 
         ("judges", 1, 14) => Some(Verse {
-            content: "",
+            content: "And it came to passe when shee came to him, that she moued him to aske of her father a field: and shee lighted from off her asse, and Caleb said vnto her, What wilt thou?",
         }),
 
         ("judges", 1, 15) => Some(Verse {
-            content: "",
+            content: "And she said vnto him, Giue me a blessing: for thou hast giuen mee a South land, giue me also springs of water. And Caleb gaue her the vpper springs, and the nether springs.",
         }),
 
         ("judges", 1, 16) => Some(Verse {
-            content: "",
+            content: "And the children of the Kenite, Moses father in law, went vp out of the citie of palme trees, with the children of Iudah into the wildernesse of Iudah, which lieth in the South of Arad, and they went and dwelt among the people.",
         }),
 
         ("judges", 1, 17) => Some(Verse {
-            content: "",
+            content: "And Iudah went with Simeon his brother, and they slew the Canaanites that inhabited Zephath, and vtterly destroyed it, (and the name of the citie was called Hormah.)",
         }),
 
         ("judges", 1, 18) => Some(Verse {
-            content: "",
+            content: "Also Iudah tooke Gaza with the coast thereof, and Askelon with the coast thereof, and Ekron with the coast thereof.",
         }),
 
         ("judges", 1, 19) => Some(Verse {
-            content: "",
+            content: "And the Lord was with Iudah, and hee draue out the inhabitants of the mountaine, but could not driue out the inhabitants of the valley, because they had charets of yron.",
         }),
 
         ("judges", 1, 20) => Some(Verse {
-            content: "",
+            content: "And they gaue Hebron vnto Caleb, as Moses saide: and hee expelled thence the three sonnes of Anak.",
         }),
 
         ("judges", 1, 21) => Some(Verse {
-            content: "",
+            content: "And the children of Beniamin did not driue out the Iebusites that inhabited Ierusalem: but the Iebusites dwel with the children of Beniamin in Ierusalem, vnto this day.",
         }),
 
         ("judges", 1, 22) => Some(Verse {
-            content: "",
+            content: "And the house of Ioseph, they also went vp against Bethel: and the Lord was with them.",
         }),
 
         ("judges", 1, 23) => Some(Verse {
-            content: "",
+            content: "And the house of Ioseph sent to descrie Bethel (now the name of the citie before was Luz)",
         }),
 
         ("judges", 1, 24) => Some(Verse {
-            content: "",
+            content: "And the spies sawe a man come forth out of the citie, and they said vnto him, Shew vs, wee pray thee, the entrance into the citie, and we will shew thee mercie.",
         }),
 
         ("judges", 1, 25) => Some(Verse {
-            content: "",
+            content: "And when hee shewed them the entrance into the citie, they smote the citie with the edge of the sword: but they let goe the man and all his familie.",
         }),
 
         ("judges", 1, 26) => Some(Verse {
-            content: "",
+            content: "And the man went into the lande of the Hittites, and built a citie, and called the name thereof Luz: which is the name thereof vnto this day.",
         }),
 
         ("judges", 1, 27) => Some(Verse {
-            content: "",
+            content: "Neither did Manasseh driue out the inhabitants of Bethshean, and her townes, nor Taanach and her townes, nor the inhabitants of Dor, and her townes, nor the inhabitants of Ibleam, and her townes, nor the inhabitants of Megiddo, and her townes: but the Canaanites would dwel in that land.",
         }),
 
         ("judges", 1, 28) => Some(Verse {
-            content: "",
+            content: "And it came to passe when Israel was strong, that they put the Canaanites to tribute, and did not vtterly driue them out.",
         }),
 
         ("judges", 1, 29) => Some(Verse {
-            content: "",
+            content: "Neither did Ephraim driue out the Canaanites that dwelt in Gezer: but the Canaanites dwelt in Gezer among them.",
         }),
 
         ("judges", 1, 30) => Some(Verse {
-            content: "",
+            content: "Neither did Zebulun driue out the inhabitants of Kitron, nor the inhabitants of Nahalol: but the Canaanites dwelt among them, and became tributaries.",
         }),
 
         ("judges", 1, 31) => Some(Verse {
-            content: "",
+            content: "Neither did Asher driue out the inhabitants of Accho, nor the inhabitants of Zidon, nor of Ahlab, nor Achzib, nor Helbath, nor Aphik, nor of Rehob:",
         }),
 
         ("judges", 1, 32) => Some(Verse {
-            content: "",
+            content: "But the Asherites dwelt among the Canaanites, the inhabitants of the land: for they did not driue them out.",
         }),
 
         ("judges", 1, 33) => Some(Verse {
-            content: "",
+            content: "Neither did Naphtali driue out the inhabitants of Bethshemesh, nor the inhabitants of Bethanath, but hee dwelt among the Canaanites, the inhabitants of the land: neuerthelesse, the inhabitants of Bethshemesh, and of Bethanath, became tributaries vnto them.",
         }),
 
         ("judges", 1, 34) => Some(Verse {
-            content: "",
+            content: "And the Amorites forced the children of Dan into the mountaine: for they would not suffer them to come downe to the valley.",
         }),
 
         ("judges", 1, 35) => Some(Verse {
-            content: "",
+            content: "But the Amorites would dwell in mount Heres in Aiialon, & in Shaalbim: yet the hand of the house of Ioseph preuailed, so that they became tributaries.",
         }),
 
         ("judges", 1, 36) => Some(Verse {
-            content: "",
+            content: "And the coast of the Amorites was from the going vp to Akrabbim, from the rocke, and vpward.",
         }),
 
         ("judges", 2, 1) => Some(Verse {
-            content: "",
+            content: "And an Angel of the Lord came vp from Gilgal to Bochim, and said, I made you to goe vp out of Egypt, and haue brought you vnto the land which I sware vnto your fathers, and I said, I will neuer breake my Couenant with you.",
         }),
 
         ("judges", 2, 2) => Some(Verse {
-            content: "",
+            content: "And yee shall make no league with the inhabitants of this land, you shal throw downe their altars: But ye haue not obeyed my voyce; Why haue ye done this?",
         }),
 
         ("judges", 2, 3) => Some(Verse {
-            content: "",
+            content: "Wherefore I also said, I will not driue them out from before you: but they shalbe as thornes in your sides, and their gods shalbe a snare vnto you.",
         }),
 
         ("judges", 2, 4) => Some(Verse {
-            content: "",
+            content: "And it came to passe when the Angel of the Lord spake these words vnto all the children of Israel, that the people lift vp their voice, and wept.",
         }),
 
         ("judges", 2, 5) => Some(Verse {
-            content: "",
+            content: "And they called the name of that place Bochim: and they sacrificed there vnto the Lord.",
         }),
 
         ("judges", 2, 6) => Some(Verse {
-            content: "",
+            content: "And when Ioshua had let the people goe, the children of Israel went euery man vnto his inheritance, to possesse the land.",
         }),
 
         ("judges", 2, 7) => Some(Verse {
-            content: "",
+            content: "And the people serued the Lord all the dayes of Ioshua, and all the dayes of the Elders that outliued Ioshua, who had seene all the great workes of the Lord, that hee did for Israel.",
         }),
 
         ("judges", 2, 8) => Some(Verse {
-            content: "",
+            content: "And Ioshua the sonne of Nun, the seruant of the Lord died, being an hundred and ten yeeres old.",
         }),
 
         ("judges", 2, 9) => Some(Verse {
-            content: "",
+            content: "And they buried him in the border of his inheritance in Timnath-Heres, in the mount of Ephraim, on the North side of the hill Gaash.",
         }),
 
         ("judges", 2, 10) => Some(Verse {
-            content: "",
+            content: "And also all that generation were gathered vnto their fathers: and there arose another generation after them, which knew not the Lord, nor yet the woorkes which hee had done for Israel.",
         }),
 
         ("judges", 2, 11) => Some(Verse {
-            content: "",
+            content: "And the children of Israel did euil in the sight of the Lord, and serued Baalim:",
         }),
 
         ("judges", 2, 12) => Some(Verse {
-            content: "",
+            content: "And they forsooke the Lord God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that were round about them, and bowed themselues vnto them, and prouoked the Lord to anger.",
         }),
 
         ("judges", 2, 13) => Some(Verse {
-            content: "",
+            content: "And they forsooke the Lord, and serued Baal and Ashtaroth.",
         }),
 
         ("judges", 2, 14) => Some(Verse {
-            content: "",
+            content: "And the anger of the Lord was hote against Israel, and he deliuered them into the hands of spoilers that spoiled them, and he sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies.",
         }),
 
         ("judges", 2, 15) => Some(Verse {
-            content: "",
+            content: "Whither soeuer they went out, the hand of the Lord was against them for euill, as the Lord had said, and as the Lord had sworne vnto them: and they were greatly distressed.",
         }),
 
         ("judges", 2, 16) => Some(Verse {
-            content: "",
+            content: "Neuerthelesse, the Lord raysed vp Iudges, which deliuered them out of the hand of those that spoyled them.",
         }),
 
         ("judges", 2, 17) => Some(Verse {
-            content: "",
+            content: "And yet they would not hearken vnto their Iudges, but they went a whoring after other gods, and bowed themselues vnto them: they turned quickly out of the way, which their fathers walked in, obeying the Commandements of the Lord; but they did not so.",
         }),
 
         ("judges", 2, 18) => Some(Verse {
-            content: "",
+            content: "And when the Lord raised them vp Iudges, then the Lord was with the Iudge, and deliuered them out of the hand of their enemies, all the dayes of the Iudge (for it repented the Lord, because of their gronings by reason of them that oppressed them, and vexed them:)",
         }),
 
         ("judges", 2, 19) => Some(Verse {
-            content: "",
+            content: "And it came to passe when the Iudge was dead, that they returned, and corrupted themselues more then their fathers, in following other gods, to serue them, and to bow downe vnto them: they ceased not from their owne doings, nor from their stubborne way.",
         }),
 
         ("judges", 2, 20) => Some(Verse {
-            content: "",
+            content: "And the anger of the Lord was hote against Israel, and he said, Because that this people hath transgressed my Couenant which I commanded their fathers, and haue not hearkened vnto my voice:",
         }),
 
         ("judges", 2, 21) => Some(Verse {
-            content: "",
+            content: "I also will not henceforth driue out any from before them of the nations which Ioshua left when he died:",
         }),
 
         ("judges", 2, 22) => Some(Verse {
-            content: "",
+            content: "That through them I may proue Israel, whether they will keepe the way of the Lord, to walke therein, as their fathers did keepe it, or not.",
         }),
 
         ("judges", 2, 23) => Some(Verse {
-            content: "",
+            content: "Therefore the Lord left those nations, without driuing them out hastily, neither deliuered he them into the hand of Ioshua.",
         }),
 
         ("judges", 3, 1) => Some(Verse {
-            content: "",
+            content: "Now these are the nations which the Lord left, to prooue Israel by them, (euen as many of Israel as had not knowen all the warres of Canaan;",
         }),
 
         ("judges", 3, 2) => Some(Verse {
-            content: "",
+            content: "Onely that the generations of the children of Israel might know to teach them warre, at the least such as before knew nothing thereof:)",
         }),
 
         ("judges", 3, 3) => Some(Verse {
-            content: "",
+            content: "Namely fiue lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hiuites that dwelt in mount Lebanon, from mount Baal-Hermon, vnto the entring in of Hamath.",
         }),
 
         ("judges", 3, 4) => Some(Verse {
-            content: "",
+            content: "And they were to prooue Israel by them, to know whether they would hearken vnto the Commandements of the Lord, which hee commaunded their fathers by the hand of Moses.",
         }),
 
         ("judges", 3, 5) => Some(Verse {
-            content: "",
+            content: "And the children of Israel dwelt among the Canaanites, Hittites, and Amorites, and Perizzites, and Hiuites, and Iebusites,",
         }),
 
         ("judges", 3, 6) => Some(Verse {
-            content: "",
+            content: "And they tooke their daughters to be their wiues, and gaue their daughters to their sonnes, and serued their gods.",
         }),
 
         ("judges", 3, 7) => Some(Verse {
-            content: "",
+            content: "And the children of Israel did euill in the sight of the Lord, and forgate the Lord their God, and serued Baalim, and the groues.",
         }),
 
         ("judges", 3, 8) => Some(Verse {
-            content: "",
+            content: "Therefore the anger of the Lord was hote against Israel, and he sold them into the hand of Chushan-Rishathaim king of Mesopotamia: and the children of Israel serued Chushan-Rishathaim eight yeeres.",
         }),
 
         ("judges", 3, 9) => Some(Verse {
-            content: "",
+            content: "And when the children of Israel cryed vnto the Lord, the Lord raised vp a deliuerer to the children of Israel, who deliuered them, euen Othniel the sonne of Kenaz, Calebs yonger brother.",
         }),
 
         ("judges", 3, 10) => Some(Verse {
-            content: "",
+            content: "And the Spirit of the Lord came vpon him, and he iudged Israel, and went out to warre, & the Lord deliuered Chushan-Rishathaim king of Mesopotamia into his hand; and his hand preuailed against Chushan-Rishathaim.",
         }),
 
         ("judges", 3, 11) => Some(Verse {
-            content: "",
+            content: "And the land had rest forty yeres: and Othniel the sonne of Kenaz died.",
         }),
 
         ("judges", 3, 12) => Some(Verse {
-            content: "",
+            content: "And the children of Israel did euill againe in the sight of the Lord: and the Lord strengthened Eglon the king of Moab against Israel, because they had done euill in the sight of the Lord.",
         }),
 
         ("judges", 3, 13) => Some(Verse {
-            content: "",
+            content: "And hee gathered vnto him the children of Ammon, and Amalek, and went and smote Israel, and possessed the city of Palme-trees.",
         }),
 
         ("judges", 3, 14) => Some(Verse {
-            content: "",
+            content: "So the children of Israel serued Eglon the King of Moab eighteene yeeres.",
         }),
 
         ("judges", 3, 15) => Some(Verse {
-            content: "",
+            content: "But when the children of Israel cried vnto the Lord, the Lord raised them vp a deliuerer, Ehud the sonne of Gera, a Beniamite, a man left handed: and by him the children of Israel sent a Present vnto Eglon the king of Moab.",
         }),
 
         ("judges", 3, 16) => Some(Verse {
-            content: "",
+            content: "But Ehud made him a dagger (which had two edges) of a cubite length, and he did gird it vnder his raiment, vpon his right thigh,",
         }),
 
         ("judges", 3, 17) => Some(Verse {
-            content: "",
+            content: "And he brought the present vnto Eglon king of Moab: and Eglon was a very fat man.",
         }),
 
         ("judges", 3, 18) => Some(Verse {
-            content: "",
+            content: "And when he had made an end to offer the Present, he sent away the people that bare the Present.",
         }),
 
         ("judges", 3, 19) => Some(Verse {
-            content: "",
+            content: "But hee himselfe turned againe from the quarries that were by Gilgal, and said, I haue a secret errand vnto thee, O king: who said, Keepe silence. And all that stood by him, went out from him.",
         }),
 
         ("judges", 3, 20) => Some(Verse {
-            content: "",
+            content: "And Ehud came vnto him, and he was sitting in a Summer parlour, which hee had for himselfe alone: And Ehud said, I haue a message from God vnto thee. And he arose out of his seat.",
         }),
 
         ("judges", 3, 21) => Some(Verse {
-            content: "",
+            content: "And Ehud put forth his left hand, and tooke the dagger from his right thigh, and thrust it into his belly.",
         }),
 
         ("judges", 3, 22) => Some(Verse {
-            content: "",
+            content: "And the haft also went in after the blade: and the fatte closed vpon the blade, so that hee could not drawe the dagger out of his belly, and the dirt came out.",
         }),
 
         ("judges", 3, 23) => Some(Verse {
-            content: "",
+            content: "Then Ehud went forth through the porche, and shut the doores of the parlour vpon him, and locked them.",
         }),
 
         ("judges", 3, 24) => Some(Verse {
-            content: "",
+            content: "When he was gone out, his seruants came, and when they saw, that behold, the doores of the parlour were locked, they said, Surely he couereth his feet in his Summer chamber.",
         }),
 
         ("judges", 3, 25) => Some(Verse {
-            content: "",
+            content: "And they taried till they were ashamed: and behold, he opened not the doores of the parlour, therefore they tooke a key, and opened them: and behold, their lord was fallen downe dead on the earth.",
         }),
 
         ("judges", 3, 26) => Some(Verse {
-            content: "",
+            content: "And Ehud escaped while they taried: and passed beyond the quarries, and escaped vnto Seirath.",
         }),
 
         ("judges", 3, 27) => Some(Verse {
-            content: "",
+            content: "And it came to passe when hee was come, that hee blew a trumpet in the mountaine of Ephraim, and the children of Israel went downe with him from the mount, & he before them.",
         }),
 
         ("judges", 3, 28) => Some(Verse {
-            content: "",
+            content: "And hee said vnto them, Follow after me: for the Lord hath deliuered your enemies the Moabites into your hand. And they went downe after him, and tooke the foords of Iordan toward Moab, and suffered not a man to passe ouer.",
         }),
 
         ("judges", 3, 29) => Some(Verse {
-            content: "",
+            content: "And they slewe of Moab at that time about ten thousand men, all lusty, and all men of valour, and there escaped not a man.",
         }),
 
         ("judges", 3, 30) => Some(Verse {
-            content: "",
+            content: "So Moab was subdued that day vnder the hand of Israel: and the land had rest fourescore yeeres.",
         }),
 
         ("judges", 3, 31) => Some(Verse {
-            content: "",
+            content: "And after him was Shamgar the sonne of Anath, which slew of the Philistines sixe hundred men with an oxe goad, and he also deliuered Israel.",
         }),
 
         ("judges", 4, 1) => Some(Verse {
-            content: "",
+            content: "And the children of Israel againe did euil in the sight of the Lord, when Ehud was dead.",
         }),
 
         ("judges", 4, 2) => Some(Verse {
-            content: "",
+            content: "And the Lord sold them into the hande of Iabin king of Canaan: that reigned in Hazor, the captaine of whose host was Sisera, which dwelt in Harosheth of the Gentiles.",
         }),
 
         ("judges", 4, 3) => Some(Verse {
-            content: "",
+            content: "And the children of Israel cried vnto the Lord: for he had nine hundred charets of yron: and twentie yeres hee mightily oppressed the children of Israel.",
         }),
 
         ("judges", 4, 4) => Some(Verse {
-            content: "",
+            content: "And Deborah a prophetesse, the wife of Lapidoth, shee iudged Israel at that time.",
         }),
 
         ("judges", 4, 5) => Some(Verse {
-            content: "",
+            content: "And shee dwelt vnder the palme tree of Deborah, betweene Ramah and Bethel in mount Ephraim: and the children of Israel came vp to her for iudgement.",
         }),
 
         ("judges", 4, 6) => Some(Verse {
-            content: "",
+            content: "And shee sent and called Barak the sonne of Abinoam, out of Kedesh-Naphtali, and said vnto him, Hath not the Lord God of Israel commaunded, saying, Goe, and drawe toward mount Tabor, and take with thee ten thousand men of the children of Naphtali, and of the children of Zebulun?",
         }),
 
         ("judges", 4, 7) => Some(Verse {
-            content: "",
+            content: "And I wil draw vnto thee to the riuer Kishon, Sisera the captaine of Iabins army, with his charets, and his multitude, and I will deliuer him into thine hand.",
         }),
 
         ("judges", 4, 8) => Some(Verse {
-            content: "",
+            content: "And Barak said vnto her, If thou wilt goe with me, then I wil goe: but if thou wilt not goe with mee, then I will not goe.",
         }),
 
         ("judges", 4, 9) => Some(Verse {
-            content: "",
+            content: "And she said, I wil surely go with thee, notwithstanding the iourney that thou takest, shal not be for thine honor: for the Lord shall sell Sisera into the hand of a woman. And Deborah arose, & went with Barak to Kedesh.",
         }),
 
         ("judges", 4, 10) => Some(Verse {
-            content: "",
+            content: "And Barak called Zebulun, and Naphtali to Kedesh, and he went vp with ten thousand men at his feete: and Deborah went vp with him.",
         }),
 
         ("judges", 4, 11) => Some(Verse {
-            content: "",
+            content: "Now Heber the Kenite, which was of the children of Hobab the father in law of Moses, had seuered himselfe from the Kenites, and pitched his tent vnto the plaine of Zaanaim, which is by Kedesh.",
         }),
 
         ("judges", 4, 12) => Some(Verse {
-            content: "",
+            content: "And they shewed Sisera, that Barak the sonne of Abinoam was gone vp to mount Tabor.",
         }),
 
         ("judges", 4, 13) => Some(Verse {
-            content: "",
+            content: "And Sisera gathered together all his charets, euen nine hundred charets of iron, and al the people that were with him, from Harosheth of the Gentiles, vnto the riuer of Kishon.",
         }),
 
         ("judges", 4, 14) => Some(Verse {
-            content: "",
+            content: "And Deborah said vnto Barak, Up, for this is the day in which the Lord hath deliuered Sisera into thine hand: Is not the Lord gone out before thee? so Barak went downe from mount Tabor, and ten thousand men after him.",
         }),
 
         ("judges", 4, 15) => Some(Verse {
-            content: "",
+            content: "And the Lord discomfited Sisera, and all his charets, and all his hoste with the edge of the sword, before Barak: so that Sisera lighted downe off his charet, and fled away on his feet.",
         }),
 
         ("judges", 4, 16) => Some(Verse {
-            content: "",
+            content: "But Barak pursued after the charets, and after the hoste vnto Harosheth of the Gentiles, and all the host of Sisera fell vpon the edge of the sword; and there was not a man left.",
         }),
 
         ("judges", 4, 17) => Some(Verse {
-            content: "",
+            content: "Howbeit Sisera fled away on his feet, to the tent of Iael the wife of Heber the Kenite: for there was peace betweene Iabin the king of Hazor, and the house of Heber the Kenite.",
         }),
 
         ("judges", 4, 18) => Some(Verse {
-            content: "",
+            content: "And Iael went out to meete Sisera, and said vnto him, Turne in, my lord, turne in to me, feare not. And when hee had turned in vnto her, into the tent, shee couered him with a mantle.",
         }),
 
         ("judges", 4, 19) => Some(Verse {
-            content: "",
+            content: "And he said vnto her, Giue me, I pray thee, a litle water to drinke, for I am thirstie. And she opened a bottle of milke, and gaue him drinke, and couered him.",
         }),
 
         ("judges", 4, 20) => Some(Verse {
-            content: "",
+            content: "Againe he said vnto her, Stand in the doore of the tent, and it shall bee when any man doeth come and enquire of thee and say, Is there any man here? that thou shalt say, No.",
         }),
 
         ("judges", 4, 21) => Some(Verse {
-            content: "",
+            content: "Then Iael Hebers wife, tooke a naile of the tent, and tooke an hammer in her hand, and went softly vnto him, and smote the naile into his temples, and fastened it into the ground: (for he was fast asleepe, and weary;) so he died.",
         }),
 
         ("judges", 4, 22) => Some(Verse {
-            content: "",
+            content: "And behold, as Barak pursued Sisera, Iael came out to meet him, and said vnto him, Come, and I will shew thee the man whom thou seekest. And when he came into her tent, behold, Sisera lay dead, and the naile was in his temples.",
         }),
 
         ("judges", 4, 23) => Some(Verse {
-            content: "",
+            content: "So God subdued on that day, Iabin the king of Canaan, before the children of Israel.",
         }),
 
         ("judges", 4, 24) => Some(Verse {
-            content: "",
+            content: "And the hand of the children of Israel prospered, & preuailed against Iabin the king of Canaan, vntill they had destroyed Iabin king of Canaan.",
         }),
 
         ("judges", 5, 1) => Some(Verse {
-            content: "",
+            content: "Then sang Deborah, and Barak the son of Abinoam, on that day, saying,",
         }),
 
         ("judges", 5, 2) => Some(Verse {
-            content: "",
+            content: "Praise ye the Lord, for the auenging of Israel, when the people willingly offered themselues.",
         }),
 
         ("judges", 5, 3) => Some(Verse {
-            content: "",
+            content: "Heare, O ye kings, giue eare, O ye Princes: I, euen I will sing vnto the Lord, I wil sing praise to the Lord God of Israel.",
         }),
 
         ("judges", 5, 4) => Some(Verse {
-            content: "",
+            content: "Lord, when thou wentest out of Seir, when thou marchedst out of the field of Edom, the earth trembled, and the heauens dropped, the clouds also dropped water.",
         }),
 
         ("judges", 5, 5) => Some(Verse {
-            content: "",
+            content: "The mountaines melted from before the Lord, euen that Sinai, from before the Lord God of Israel.",
         }),
 
         ("judges", 5, 6) => Some(Verse {
-            content: "",
+            content: "In the dayes of Shamgar the son of Anath, in the dayes of Iael, the high wayes were vnoccupied, and the traueilers walked thorow by-wayes.",
         }),
 
         ("judges", 5, 7) => Some(Verse {
-            content: "",
+            content: "The inhabitants of the villages ceased, they ceased in Israel, vntill that I Deborah arose, that I arose a mother in Israel.",
         }),
 
         ("judges", 5, 8) => Some(Verse {
-            content: "",
+            content: "They chose new gods; then was warre in the gates: was there a shield or speare seene among fourtie thousand in Israel?",
         }),
 
         ("judges", 5, 9) => Some(Verse {
-            content: "",
+            content: "My heart is toward the gouernours of Israel, that offered themselues willingly among the people: Blesse ye the Lord.",
         }),
 
         ("judges", 5, 10) => Some(Verse {
-            content: "",
+            content: "Speake yee that ride on white asses, yee that sit in Iudgement, and walke by the way.",
         }),
 
         ("judges", 5, 11) => Some(Verse {
-            content: "",
+            content: "They that are deliuered from the noise of Archers in the places of drawing water; there shall they rehearse the righteous acts of the Lord, euen the righteous acts towards the inhabitants of his villages in Israel: then shall the people of the Lord goe downe to the gates.",
         }),
 
         ("judges", 5, 12) => Some(Verse {
-            content: "",
+            content: "Awake, awake Deborah: awake, awake, vtter a song: arise Barak, and leade thy captiuitie captiue, thou sonne of Abinoam.",
         }),
 
         ("judges", 5, 13) => Some(Verse {
-            content: "",
+            content: "Then hee made him that remaineth, haue dominion ouer the Nobles among the people: the Lord made me haue dominion ouer the mightie.",
         }),
 
         ("judges", 5, 14) => Some(Verse {
-            content: "",
+            content: "Out of Ephraim was there a roote of them against Amalek, after thee Beniamin, among thy people: Out of Machir came downe gouernours, and out of Zebulun they that handle the pen of the writer.",
         }),
 
         ("judges", 5, 15) => Some(Verse {
-            content: "",
+            content: "And the princes of Issachar were with Deborah: euen Issachar, and also Barak, he was sent on foot into the valley: for the diuisions of Reuben, there were great thoughts of heart.",
         }),
 
         ("judges", 5, 16) => Some(Verse {
-            content: "",
+            content: "Why abodest thou among the sheepefolds, to heare the bleatings of the flocks? for the diuisions of Reuben there were great searchings of heart.",
         }),
 
         ("judges", 5, 17) => Some(Verse {
-            content: "",
+            content: "Gilead abode beyond Iordan: and why did Dan remaine in ships? Asher continued on the sea shore, and abode in his breaches.",
         }),
 
         ("judges", 5, 18) => Some(Verse {
-            content: "",
+            content: "Zebulun and Naphtali were a people that ieoparded their liues vnto the death, in the high places of the field.",
         }),
 
         ("judges", 5, 19) => Some(Verse {
-            content: "",
+            content: "The kings came and fought, then fought the kings of Canaan in Taanach by the waters of Megiddo, they tooke no gaine of money.",
         }),
 
         ("judges", 5, 20) => Some(Verse {
-            content: "",
+            content: "They fought from heauen, the starres in their courses fought against Sisera.",
         }),
 
         ("judges", 5, 21) => Some(Verse {
-            content: "",
+            content: "The riuer of Kishon swept them away, that ancient riuer, the riuer Kishon: O my soule, thou hast troden downe strength.",
         }),
 
         ("judges", 5, 22) => Some(Verse {
-            content: "",
+            content: "Then were the horse hoofes broken, by the meanes of the pransings, the pransings of their mightie ones.",
         }),
 
         ("judges", 5, 23) => Some(Verse {
-            content: "",
+            content: "Curse ye Meroz (said the Angel of the Lord ) curse ye bitterly the inhabitants thereof: because they came not to the helpe of the Lord, to the helpe of the Lord against the mighty.",
         }),
 
         ("judges", 5, 24) => Some(Verse {
-            content: "",
+            content: "Blessed aboue women shal Iael the wife of Heber the Kenite be, blessed shall she be aboue women in the tent.",
         }),
 
         ("judges", 5, 25) => Some(Verse {
-            content: "",
+            content: "He asked water, and she gaue him milke, shee brought foorth butter in a lordly dish.",
         }),
 
         ("judges", 5, 26) => Some(Verse {
-            content: "",
+            content: "Shee put her hand to the naile, and her right hand to the workemens hammer: and with the hammer shee smote Sisera, shee smote off his head, when she had pearsed & striken through his temples.",
         }),
 
         ("judges", 5, 27) => Some(Verse {
-            content: "",
+            content: "At her feete he bowed, he fell, he lay downe: at her feet he bowed, he fell; where he bowed, there he fel down dead.",
         }),
 
         ("judges", 5, 28) => Some(Verse {
-            content: "",
+            content: "The mother of Sisera looked out at a window, and cried through the lattesse, Why is his charet so long in comming? Why tarie the wheeles of his charets?",
         }),
 
         ("judges", 5, 29) => Some(Verse {
-            content: "",
+            content: "Her wise ladies answered her, yea she returned answere to her selfe,",
         }),
 
         ("judges", 5, 30) => Some(Verse {
-            content: "",
+            content: "Haue they not sped? haue they not diuided the pray to euery man a damosell or two? To Sisera a pray of diuers colours, a pray of diuers colours, of needle worke, of diuers colours of needle worke on both sides, meet for the necks of them that take the spoile?",
         }),
 
         ("judges", 5, 31) => Some(Verse {
-            content: "",
+            content: "So let all thine enemies perish, O Lord: but let them that loue him, be as the Sunne when he goeth foorth in his might. And the land had rest fourtie yeeres.",
         }),
 
         ("judges", 6, 1) => Some(Verse {
-            content: "",
+            content: "And the children of Israel did euill in the sight of the Lord: and the Lord deliuered them into the hande of Midian seuen yeeres.",
         }),
 
         ("judges", 6, 2) => Some(Verse {
-            content: "",
+            content: "And the hand of Midian preuailed against Israel: and because of the Midianites, the children of Israel made them the dennes which are in the mountaines, and caues, & strong holds.",
         }),
 
         ("judges", 6, 3) => Some(Verse {
-            content: "",
+            content: "And so it was when Israel had sowen, that the Midianites came vp, & the Amalekites, & the children of the East, euen they came vp against them,",
         }),
 
         ("judges", 6, 4) => Some(Verse {
-            content: "",
+            content: "And they encamped against them, and destroyed the encrease of the earth, till thou come vnto Gaza, and left no sustenance for Israel, neither sheepe, nor oxe, nor asse.",
         }),
 
         ("judges", 6, 5) => Some(Verse {
-            content: "",
+            content: "For they came vp with their cattell and their tents, and they came as Grashoppers for multitude, for both they and their camels were without number: and they entred into the land to destroy it.",
         }),
 
         ("judges", 6, 6) => Some(Verse {
-            content: "",
+            content: "And Israel was greatly impouerished, because of the Midianites, and the children of Israel cryed vnto the Lord.",
         }),
 
         ("judges", 6, 7) => Some(Verse {
-            content: "",
+            content: "And it came to passe when the children of Israel cryed vnto the Lord, because of the Midianites,",
         }),
 
         ("judges", 6, 8) => Some(Verse {
-            content: "",
+            content: "That the Lord sent a Prophet vnto the children of Israel, which said vnto them; Thus saith the Lord God of Israel, I brought you vp from Egypt, and brought you forth out of the house of bondage,",
         }),
 
         ("judges", 6, 9) => Some(Verse {
-            content: "",
+            content: "And I deliuered you out of the hand of the Egyptians, and out of the hand of al that oppressed you, and draue them out from before you, and gaue you their land:",
         }),
 
         ("judges", 6, 10) => Some(Verse {
-            content: "",
+            content: "And I said vnto you, I am the Lord your God, feare not the gods of the Amorites in whose land ye dwel: But ye haue not obeyed my voice.",
         }),
 
         ("judges", 6, 11) => Some(Verse {
-            content: "",
+            content: "And there came an Angel of the Lord, and sate vnder an Oake which was in Ophrah, that pertained vnto Ioash the Abi-Ezrite: and his sonne Gideon threshed wheat by the winepresse, to hide it from the Midianites.",
         }),
 
         ("judges", 6, 12) => Some(Verse {
-            content: "",
+            content: "And the Angel of the Lord appeared vnto him, and said vnto him, The Lord is with thee, thou mightie man of valour.",
         }),
 
         ("judges", 6, 13) => Some(Verse {
-            content: "",
+            content: "And Gideon said vnto him, Oh my Lord, if the Lord bee with vs, why then is all this befallen vs? and where be all his miracles which our fathers tolde vs of, saying, Did not the Lord bring vs vp from Egypt? But now the Lord hath forsaken vs, and deliuered vs into the hands of the Midianites.",
         }),
 
         ("judges", 6, 14) => Some(Verse {
-            content: "",
+            content: "And the Lord looked vpon him, and said, Goe in this thy might, and thou shalt saue Israel from the hand of the Midianites: haue not I sent thee?",
         }),
 
         ("judges", 6, 15) => Some(Verse {
-            content: "",
+            content: "And hee said vnto him, Oh my lord, wherewith shall I saue Israel? behold, my family is poore in Manasseh, and I am the least in my fathers house.",
         }),
 
         ("judges", 6, 16) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto him, Surely I will be with thee, and thou shalt smite the Midianites, as one man.",
         }),
 
         ("judges", 6, 17) => Some(Verse {
-            content: "",
+            content: "And he said vnto him, If now I haue found grace in thy sight, then shew me a signe, that thou talkest with me.",
         }),
 
         ("judges", 6, 18) => Some(Verse {
-            content: "",
+            content: "Depart not hence, I pray thee, vntil I come vnto thee, and bring forth my Present, and set it before thee. And hee saide, I will tary vntill thou come againe.",
         }),
 
         ("judges", 6, 19) => Some(Verse {
-            content: "",
+            content: "And Gideon went in, and made ready a kid, and vnleauened cakes of an Ephah of floure: the flesh he put in a basket, and he put the broth in a pot, and brought it out vnto him vnder the oake, and presented it.",
         }),
 
         ("judges", 6, 20) => Some(Verse {
-            content: "",
+            content: "And the Angel of God sayd vnto him, Take the flesh, and the vnleauened cakes, and lay them vpon this rocke, and powre out the broth. And he did so.",
         }),
 
         ("judges", 6, 21) => Some(Verse {
-            content: "",
+            content: "Then the Angel of the Lord put foorth the end of the staffe that was in his hand, and touched the flesh, and the vnleauened cakes, and there rose vp fire out of the rocke, and consumed the flesh and the vnleauened cakes: then the Angel of the Lord departed out of his sight.",
         }),
 
         ("judges", 6, 22) => Some(Verse {
-            content: "",
+            content: "And when Gideon perceiued that hee was an Angel of the Lord, Gideon said, Alas, O Lord God: for because I haue seene an Angel of the Lord face to face.",
         }),
 
         ("judges", 6, 23) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto him, Peace be vnto thee, feare not, thou shalt not die.",
         }),
 
         ("judges", 6, 24) => Some(Verse {
-            content: "",
+            content: "Then Gideon built an Altar there vnto the Lord, and called it Iehouah shalom: vnto this day it is yet in Ophrah, of the Abi-Ezrites.",
         }),
 
         ("judges", 6, 25) => Some(Verse {
-            content: "",
+            content: "And it came to passe the same night, that the Lord said vnto him, Take thy fathers yong bullocke, euen the second bullocke of seuen yeeres old, and throw downe the altar of Baal that thy father hath, and cut downe the groue that is by it:",
         }),
 
         ("judges", 6, 26) => Some(Verse {
-            content: "",
+            content: "And builde an Altar vnto the Lord thy God vpon the top of this rocke, in the ordered place, and take the second bullocke, and offer a burnt sacrifice with the wood of the groue, which thou shalt cut downe.",
         }),
 
         ("judges", 6, 27) => Some(Verse {
-            content: "",
+            content: "Then Gideon tooke ten men of his seruants, and did as the Lord had said vnto him: And so it was because hee feared his fathers houshold, and the men of the city, that he could not doe it by day, that hee did it by night.",
         }),
 
         ("judges", 6, 28) => Some(Verse {
-            content: "",
+            content: "And when the men of the citie arose earely in the morning, behold, the altar of Baal was cast downe, and the groue was cut downe that was by it, and the second bullocke was offered vpon the altar that was built.",
         }),
 
         ("judges", 6, 29) => Some(Verse {
-            content: "",
+            content: "And they said one to another, Who hath done this thing? And when they enquired and asked, they said, Gideon the sonne of Ioash hath done this thing.",
         }),
 
         ("judges", 6, 30) => Some(Verse {
-            content: "",
+            content: "Then the men of the citie said vnto Ioash, Bring out thy sonne, that he may die: because he hath cast downe the altar of Baal, and because hee hath cut downe the groue that was by it.",
         }),
 
         ("judges", 6, 31) => Some(Verse {
-            content: "",
+            content: "And Ioash said vnto all that stood against him, Will ye pleade for Baal? will ye saue him? He that will plead for him, let him be put to death whilest it is yet morning: if he be a god, let him plead for himselfe, because one hath cast down his altar.",
         }),
 
         ("judges", 6, 32) => Some(Verse {
-            content: "",
+            content: "Therefore on that day hee called him Ierubbaal, saying, Let Baal plead against him, because hee hath throwen downe his altar.",
         }),
 
         ("judges", 6, 33) => Some(Verse {
-            content: "",
+            content: "Then all the Midianites, and the Amalekites, and the children of the East were gathered together, and went ouer, and pitched in the valley of Iezreel.",
         }),
 
         ("judges", 6, 34) => Some(Verse {
-            content: "",
+            content: "But the Spirit of the Lord came vpon Gideon, and hee blewe a trumpet, and Abiezer was gathered after him.",
         }),
 
         ("judges", 6, 35) => Some(Verse {
-            content: "",
+            content: "And he sent messengers throughout all Manasseh, who also was gathered after him, and hee sent messengers vnto Asher, and vnto Zebulun, and vnto Naphtali, and they came vp to meete them.",
         }),
 
         ("judges", 6, 36) => Some(Verse {
-            content: "",
+            content: "And Gideon said vnto God, If thou wilt saue Israel by mine hand, as thou hast said,",
         }),
 
         ("judges", 6, 37) => Some(Verse {
-            content: "",
+            content: "Beholde, I will put a fleece of wooll in the floore: and if the deaw be on the fleece onely, and it bee drie vpon all the earth beside, then shall I know that thou wilt saue Israel by my hande, as thou hast said.",
         }),
 
         ("judges", 6, 38) => Some(Verse {
-            content: "",
+            content: "And it was so: for he rose vp early on the morrow, and thrust the fleece together, and wringed the deaw out of the fleece, a bowle full of water.",
         }),
 
         ("judges", 6, 39) => Some(Verse {
-            content: "",
+            content: "And Gideon said vnto God, Let not thine anger be hote against me, and I will speake but this once: Let mee prooue, I pray thee, but this once with the fleece. Let it now be drie onely vpon the fleece, and vpon all the ground let there be deaw.",
         }),
 
         ("judges", 6, 40) => Some(Verse {
-            content: "",
+            content: "And God did so that night: for it was drie vpon the fleece onely, and there was deaw on all the ground.",
         }),
 
         ("judges", 7, 1) => Some(Verse {
-            content: "",
+            content: "Then Ierubbaal (who is Gideon) and all the people that were with him, rose vp earely, and pitched beside the well of Harod: so that the hoste of the Midianites were on the North side of them by the hill of Moreh, in the valley.",
         }),
 
         ("judges", 7, 2) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Gideon, The people that are with thee, are too many for me to giue the Midianites into their handes, lest Israel vaunt themselues against mee, saying, Mine owne hand hath saued me.",
         }),
 
         ("judges", 7, 3) => Some(Verse {
-            content: "",
+            content: "Now therefore go to, proclaime in the eares of the people, saying, Whosoeuer is fearefull and afraid, let him returne and depart earely from mount Gilead: and there returned of the people twentie and two thousand, & there remained ten thousand.",
         }),
 
         ("judges", 7, 4) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Gideon, The people are yet too many: bring them downe vnto the water, and I wil trie them for thee there: and it shall bee that of whome I say vnto thee, This shall goe with thee, the same shall goe with thee: and of whomsoeuer I say vnto thee, This shal not goe with thee, the same shall not goe.",
         }),
 
         ("judges", 7, 5) => Some(Verse {
-            content: "",
+            content: "So he brought downe the people vnto the water: and the Lord sayd vnto Gideon, Euery one that lappeth of the water with his tongue as a dog lappeth, him shalt thou set by himselfe, likewise euery one that boweth downe vpon his knees to drinke.",
         }),
 
         ("judges", 7, 6) => Some(Verse {
-            content: "",
+            content: "And the number of them that lapped putting their hand to their mouth, were three hundred men: but all the rest of the people bowed downe vpon their knees to drinke water.",
         }),
 
         ("judges", 7, 7) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto Gideon, By the three hundred men that lapped, will I saue you, and deliuer the Midianites into thine hand: and let all the other people goe euery man vnto his place.",
         }),
 
         ("judges", 7, 8) => Some(Verse {
-            content: "",
+            content: "So the people tooke victuals in their hand, and their trumpets: and he sent all the rest of Israel, euery man vnto his tent, and reteined those three hundred men: and the hoste of Midian was beneath him in the valley.",
         }),
 
         ("judges", 7, 9) => Some(Verse {
-            content: "",
+            content: "And it came to passe the same night, that the Lord sayd vnto him, Arise, get thee downe vnto the hoste, for I haue deliuered it into thine hand.",
         }),
 
         ("judges", 7, 10) => Some(Verse {
-            content: "",
+            content: "But if thou feare to goe downe, goe thou with Phurah thy seruant downe to the hoste.",
         }),
 
         ("judges", 7, 11) => Some(Verse {
-            content: "",
+            content: "And thou shalt heare what they say, and afterward shall thine handes be strengthened to goe downe vnto the hoste. Then went hee downe, with Phurah his seruant, vnto the outside of the armed men, that were in the hoste.",
         }),
 
         ("judges", 7, 12) => Some(Verse {
-            content: "",
+            content: "And the Midianites, and the Amalekites, and all the children of the East, lay along in the valley like grashoppers for multitude, and their camels were without number, as the sand by the Sea side for multitude.",
         }),
 
         ("judges", 7, 13) => Some(Verse {
-            content: "",
+            content: "And when Gideon was come, beholde, there was a man that tolde a dreame vnto his fellow, and sayd, Behold, I dreamed a dreame, and loe, a cake of Barley bread tumbled into the hoste of Midian, and came vnto a tent, and smote it that it fell, and ouerturned it, that the tent lay along.",
         }),
 
         ("judges", 7, 14) => Some(Verse {
-            content: "",
+            content: "And his fellow answered, and said, This is nothing els saue the sword of Gideon the sonne of Ioash, a man of Israel: for into his hand hath God deliuered Midian, and all the hoste.",
         }),
 
         ("judges", 7, 15) => Some(Verse {
-            content: "",
+            content: "And it was so, when Gideon heard the telling of the dreame, and the interpretation thereof, that hee worshipped, and returned into the host of Israel, and sayd, Arise, for the Lord hath deliuered into your hand the host of Midian.",
         }),
 
         ("judges", 7, 16) => Some(Verse {
-            content: "",
+            content: "And he diuided the three hundred men into three companies, and hee put a trumpet in euery mans hand, with empty pitchers, and lampes within the pitchers,",
         }),
 
         ("judges", 7, 17) => Some(Verse {
-            content: "",
+            content: "And hee said vnto them, Looke on mee, and doe likewise; and beholde, when I come to the outside of the campe, it shall be that as I doe, so shall ye doe.",
         }),
 
         ("judges", 7, 18) => Some(Verse {
-            content: "",
+            content: "When I blow with a trumpet, I and all that are with mee, then blow ye the trumpets also on euery side of all the campe, and say, The sword of the Lord, and of Gideon.",
         }),
 
         ("judges", 7, 19) => Some(Verse {
-            content: "",
+            content: "So Gideon and the hundred men that were with him, came vnto the outside of the campe, in the beginning of the middle watch, and they had but newly set the watch, and they blew the trumpets, and brake the pitchers that were in their hands.",
         }),
 
         ("judges", 7, 20) => Some(Verse {
-            content: "",
+            content: "And the three companies blew the trumpets, and brake the pitchers, and held the lampes in their left hands, and the trumpets in their right hands to blow withall: and they cryed, The sword of the Lord, and of Gideon.",
         }),
 
         ("judges", 7, 21) => Some(Verse {
-            content: "",
+            content: "And they stood euery man in his place, round about the campe: and all the host ranne, and cried, and fled.",
         }),
 
         ("judges", 7, 22) => Some(Verse {
-            content: "",
+            content: "And the three hundred blew the trumpets, and the Lord set euery mans sword against his fellow, euen throughout all the host: and the host fled to Beth-shittah, in Zererath, and to the border of Abel Meholah, vnto Tabbath.",
         }),
 
         ("judges", 7, 23) => Some(Verse {
-            content: "",
+            content: "And the men of Israel gathered themselues together out of Naphtali, and out of Asher, and out of all Manasseh, and pursued after the Midianites.",
         }),
 
         ("judges", 7, 24) => Some(Verse {
-            content: "",
+            content: "And Gideon sent messengers throughout all mount Ephraim, saying; Come downe against the Midianites, and take before them the waters vnto Beth-barah, and Iordan. Then all the men of Ephraim gathered themselues together, and tooke the waters vnto Beth-barah, and Iordane.",
         }),
 
         ("judges", 7, 25) => Some(Verse {
-            content: "",
+            content: "And they tooke two Princes of the Midianites, Oreb, and Zeeb; and they slew Oreb vpon the rocke Oreb, and Zeeb they slew at the winepresse of Zeeb, and pursued Midian, and brought the heads of Oreb and Zeeb, to Gideon on the other side Iordan.",
         }),
 
         ("judges", 8, 1) => Some(Verse {
-            content: "",
+            content: "And the men of Ephraim said vnto him, Why hast thou serued vs thus, that thou calledst vs not when thou wentest to fight with the Midianites? And they did chide with him sharpely.",
         }),
 
         ("judges", 8, 2) => Some(Verse {
-            content: "",
+            content: "And he said vnto them, What haue I done now in comparison of you? Is not the gleaning of the grapes of Ephraim better then the vintage of Abiezer?",
         }),
 
         ("judges", 8, 3) => Some(Verse {
-            content: "",
+            content: "God hath deliuered into your hands the princes of Midian, Oreb and Zeeb: and what was I able to doe in comparison of you? then their anger was abated toward him, when he had said that.",
         }),
 
         ("judges", 8, 4) => Some(Verse {
-            content: "",
+            content: "And Gideon came to Iordan, and passed ouer, hee, and the three hundred men that were with him, faint, yet pursuing them.",
         }),
 
         ("judges", 8, 5) => Some(Verse {
-            content: "",
+            content: "And he said vnto the men of Succoth, Giue, I pray you, loaues of bread vnto the people that follow me, for they bee faint, and I am pursuing after Zebah and Zalmunna, kings of Midian.",
         }),
 
         ("judges", 8, 6) => Some(Verse {
-            content: "",
+            content: "And the princes of Succoth said, Are the hands of Zebah and Zalmunna now in thine hands, that wee should giue bread vnto thine armie?",
         }),
 
         ("judges", 8, 7) => Some(Verse {
-            content: "",
+            content: "And Gideon said, Therfore when the Lord hath deliuered Zebah and Zalmunna into mine hand, then I wil teare your flesh with the thornes of the wildernesse, and with briers.",
         }),
 
         ("judges", 8, 8) => Some(Verse {
-            content: "",
+            content: "And he went vp thence to Penuel, and spake vnto them likewise: and the men of Penuel answered him, as the men of Succoth had answered him.",
         }),
 
         ("judges", 8, 9) => Some(Verse {
-            content: "",
+            content: "And he spake also vnto the men of Penuel, saying, When I come againe in peace, I will breake downe this towre.",
         }),
 
         ("judges", 8, 10) => Some(Verse {
-            content: "",
+            content: "Now Zebah and Zalmunna were in Karkor, and their hostes with them, about fifteene thousand men, all that were left of all the hosts of the children of the East: for there fell an hundred and twentie thousand men that drew sword.",
         }),
 
         ("judges", 8, 11) => Some(Verse {
-            content: "",
+            content: "And Gideon went vp by the way of them that dwelt in tents, on the East of Nobah, and Iogbehah, and smote the host: for the host was secure.",
         }),
 
         ("judges", 8, 12) => Some(Verse {
-            content: "",
+            content: "And when Zebah and Zalmunna fled, he pursued after them, and took the two kings of Midian, Zebah, and Zalmunna, & discomfited all the host.",
         }),
 
         ("judges", 8, 13) => Some(Verse {
-            content: "",
+            content: "And Gideon the sonne of Ioash returned from battel before the Sunne was vp,",
         }),
 
         ("judges", 8, 14) => Some(Verse {
-            content: "",
+            content: "And caught a yong man of the men of Succoth, and enquired of him: and he described vnto him the princes of Succoth and the elders thereof, euen threescore and seuenteene men.",
         }),
 
         ("judges", 8, 15) => Some(Verse {
-            content: "",
+            content: "And he came vnto the men of Succoth, and said, Behold Zebah and Zalmunna, with whom ye did vpbraid me, saying, Are the handes of Zebah and Zalmunna now in thine hand, that we should giue bread vnto thy men that are wearie?",
         }),
 
         ("judges", 8, 16) => Some(Verse {
-            content: "",
+            content: "And hee tooke the Elders of the citie, and thornes of the wildernes, and briers, and with them hee taught the men of Succoth.",
         }),
 
         ("judges", 8, 17) => Some(Verse {
-            content: "",
+            content: "And he beat downe the towre of Penuel, and slew the men of the citie.",
         }),
 
         ("judges", 8, 18) => Some(Verse {
-            content: "",
+            content: "Then said he vnto Zebah and Zalmunna, What maner of men were they whom ye slew at Tabor? And they answered, As thou art, so were they, ech one resembled the children of a king.",
         }),
 
         ("judges", 8, 19) => Some(Verse {
-            content: "",
+            content: "And hee said, They were my brethren, euen the sonnes of my mother: as the Lord liueth, if yee had saued them aliue, I would not slay you.",
         }),
 
         ("judges", 8, 20) => Some(Verse {
-            content: "",
+            content: "And he said vnto Iether his first borne, Up, and slay them: but the youth drew not his sword: for he feared, because he was yet a youth.",
         }),
 
         ("judges", 8, 21) => Some(Verse {
-            content: "",
+            content: "Then Zebah and Zalmunna said, Rise thou, and fall vpon vs: for as the man is, so is his strength. And Gideon arose, and slewe Zebah and Zalmunna, & tooke away the ornaments that were on their camels neckes.",
         }),
 
         ("judges", 8, 22) => Some(Verse {
-            content: "",
+            content: "Then the men of Israel saide vnto Gideon, Rule thou ouer vs, both thou, and thy sonne, & thy sonnes sonne also: for thou hast deliuered vs from the hand of Midian.",
         }),
 
         ("judges", 8, 23) => Some(Verse {
-            content: "",
+            content: "And Gideon said vnto them, I will not rule ouer you, neither shall my sonne rule ouer you: the Lord shall rule ouer you.",
         }),
 
         ("judges", 8, 24) => Some(Verse {
-            content: "",
+            content: "And Gideon said vnto them, I would desire a request of you, that you would giue me euery man the earerings of his pray. For they had golden eare-rings, because they were Ishmaelites.",
         }),
 
         ("judges", 8, 25) => Some(Verse {
-            content: "",
+            content: "And they answered, We will willingly giue them. And they spread a garment, and did cast therein, euery man the earerings of his pray.",
         }),
 
         ("judges", 8, 26) => Some(Verse {
-            content: "",
+            content: "And the weight of the golden eare-rings that hee requested, was a thousand and seuen hundred shekels of gold, beside ornaments, and collars, & purple raiment that was on the kings of Midian, and beside the chaines that were about their camels necks.",
         }),
 
         ("judges", 8, 27) => Some(Verse {
-            content: "",
+            content: "And Gideon made an Ephod thereof, and put it in his citie, euen in Ophrah: and all Israel went thither a whoring after it; which thing became a snare vnto Gideon, and to his house.",
         }),
 
         ("judges", 8, 28) => Some(Verse {
-            content: "",
+            content: "Thus was Midian subdued before the children of Israel; so that they lifted vp their heads no more: and the countrey was in quietnesse fourtie yeeres, in the dayes of Gideon.",
         }),
 
         ("judges", 8, 29) => Some(Verse {
-            content: "",
+            content: "And Ierubbaal the sonne of Ioash went & dwelt in his owne house.",
         }),
 
         ("judges", 8, 30) => Some(Verse {
-            content: "",
+            content: "And Gideon had threescore and ten sonnes of his body begotten: for he had many wiues.",
         }),
 
         ("judges", 8, 31) => Some(Verse {
-            content: "",
+            content: "And his concubine that was in Shechem, shee also bare him a sonne, whose name he called Abimelech.",
         }),
 
         ("judges", 8, 32) => Some(Verse {
-            content: "",
+            content: "And Gideon the sonne of Ioash died, in a good olde age, and was buried in the sepulchre of Ioash his father, in Ophrah of the Abi-Ezrites.",
         }),
 
         ("judges", 8, 33) => Some(Verse {
-            content: "",
+            content: "And it came to passe as soone as Gideon was dead, that the children of Israel turned againe, and went a whoring after Baalim, and made Baal-Berith their god.",
         }),
 
         ("judges", 8, 34) => Some(Verse {
-            content: "",
+            content: "And the children of Israel remembred not the Lord their God, who had deliuered them out of the hands of all their enemies, on euery side:",
         }),
 
         ("judges", 8, 35) => Some(Verse {
-            content: "",
+            content: "Neither shewed they kindnesse to the house of Ierubbaal, namely Gideon, according to all the goodnesse which he had shewed vnto Israel.",
         }),
 
         ("judges", 9, 1) => Some(Verse {
-            content: "",
+            content: "And Abimelech the sonne of Ierubbaal went to Shechem, vnto his mothers brethren, and communed with them, and with all the family of the house of his mothers father, saying;",
         }),
 
         ("judges", 9, 2) => Some(Verse {
-            content: "",
+            content: "Speake, I pray you, in the eares of all the men of Shechem; Whether is better for you, either that all the sonnes of Ierubbaal (which are threescore and ten persons) reigne ouer you, or that one reigne ouer you? Remember also, that I am your bone, and your flesh.",
         }),
 
         ("judges", 9, 3) => Some(Verse {
-            content: "",
+            content: "And his mothers brethren spake of him in the eares of all the men of Shechem, all these wordes, and their hearts inclined to follow Abimelech: for they said, He is our brother.",
         }),
 
         ("judges", 9, 4) => Some(Verse {
-            content: "",
+            content: "And they gaue him threescore and ten pieces of siluer, out of the house of Baal-Berith, wherewith Abimelech hired vaine & light persons, which followed him.",
         }),
 
         ("judges", 9, 5) => Some(Verse {
-            content: "",
+            content: "And hee went vnto his fathers house at Ophrah, and slewe his brethren the sonnes of Ierubbaal, being threescore and tenne persons, vpon one stone: notwithstanding, yet Iotham the youngest sonne of Ierubbaal was left; for he hid himselfe.",
         }),
 
         ("judges", 9, 6) => Some(Verse {
-            content: "",
+            content: "And all the men of Shechem gathered together, and all the house of Millo, and went, and made Abimelech King, by the plaine of the pillar that was in Shechem.",
         }),
 
         ("judges", 9, 7) => Some(Verse {
-            content: "",
+            content: "And when they told it to Iotham, he went and stood in the top of mount Gerizim, and lift vp his voice, and cried, and said vnto them, Hearken vnto mee, you men of Shechem, that God may hearken vnto you.",
         }),
 
         ("judges", 9, 8) => Some(Verse {
-            content: "",
+            content: "The trees went foorth on a time to annoint a King ouer them, and they said vnto the Oliue tree, Reigne thou ouer vs.",
         }),
 
         ("judges", 9, 9) => Some(Verse {
-            content: "",
+            content: "But the Oliue tree saide vnto them, Should I leaue my fatnesse, wherewith by mee they honour God and man, and goe to bee promoted ouer the trees?",
         }),
 
         ("judges", 9, 10) => Some(Verse {
-            content: "",
+            content: "And the trees said to the Figge tree, Come thou, and reigne ouer vs.",
         }),
 
         ("judges", 9, 11) => Some(Verse {
-            content: "",
+            content: "But the Figge tree saide vnto them, Should I forsake my sweetenesse, and my good fruit, and goe to be promoted ouer the trees?",
         }),
 
         ("judges", 9, 12) => Some(Verse {
-            content: "",
+            content: "Then saide the trees vnto the Uine, Come thou, and reigne ouer vs.",
         }),
 
         ("judges", 9, 13) => Some(Verse {
-            content: "",
+            content: "And the Uine said vnto them, Should I leaue my wine, which cheareth God and man, and goe to bee promoted ouer the trees?",
         }),
 
         ("judges", 9, 14) => Some(Verse {
-            content: "",
+            content: "Then said all the trees vnto the Bramble, Come thou, and reigne ouer vs.",
         }),
 
         ("judges", 9, 15) => Some(Verse {
-            content: "",
+            content: "And the Bramble said vnto the trees, If in trueth ye anoint me King ouer you, then come, and put your trust in my shadow: and if not, let fire come out of the Bramble, and deuoure the Cedars of Lebanon.",
         }),
 
         ("judges", 9, 16) => Some(Verse {
-            content: "",
+            content: "Now therefore, if yee haue done truely and sincerely, in that yee haue made Abimelech King, and if yee haue dealt well with Ierubbaal, and his house, and haue done vnto him according to the deseruing of his hands:",
         }),
 
         ("judges", 9, 17) => Some(Verse {
-            content: "",
+            content: "(For my father fought for you, and aduentured his life farre, and deliuered you out of the hand of Midian:",
         }),
 
         ("judges", 9, 18) => Some(Verse {
-            content: "",
+            content: "And yee are risen vp against my fathers house this day, and haue slaine his sonnes, threescore aud ten persons, vpon one stone, and haue made Abimelech the sonne of his maidseruant, king ouer the men of Shechem, because he is your brother.)",
         }),
 
         ("judges", 9, 19) => Some(Verse {
-            content: "",
+            content: "If yee then haue dealt truely and sincerely with Ierubbaal, and with his house this day, then reioyce yee in Abimelech, aud let him also reioyce in you.",
         }),
 
         ("judges", 9, 20) => Some(Verse {
-            content: "",
+            content: "But if not, let fire come out from Abimelech, and deuoure the men of Shechem and the house of Millo: and let fire come out from the men of Shechem, and from the house of Millo, and deuoure Abimeleeh.",
         }),
 
         ("judges", 9, 21) => Some(Verse {
-            content: "",
+            content: "And Iotham ran away, and fled, and went to Beer, and dwelt there for feare of Abimeleeh his brother.",
         }),
 
         ("judges", 9, 22) => Some(Verse {
-            content: "",
+            content: "When Abimelech had reigned three yeeres ouer Israel,",
         }),
 
         ("judges", 9, 23) => Some(Verse {
-            content: "",
+            content: "Then God sent an euill spirit betweene Abimelech & the men of Shechem: and the men of Shechem dealt treacherously with Abimelech:",
         }),
 
         ("judges", 9, 24) => Some(Verse {
-            content: "",
+            content: "That the crueltie done to the threescore and ten sonnes of Ierubbaal might come, and their blood be laid vpon Abimelech their brother which slew them, and vpon the men of Shechem which aided him in the killing of his brethren.",
         }),
 
         ("judges", 9, 25) => Some(Verse {
-            content: "",
+            content: "And the men of Shechem set lyers in wait for him in the toppe of the mountaines, and they robbed all that came along that way by them: and it was told Abimelech.",
         }),
 
         ("judges", 9, 26) => Some(Verse {
-            content: "",
+            content: "And Gaal the sonne of Ebed came with his brethren, and went ouer to Shechem: and the men of Shechem put their confidence in him.",
         }),
 
         ("judges", 9, 27) => Some(Verse {
-            content: "",
+            content: "And they went out into the fields, and gathered their vineyards, and trode the grapes, and made merry, and went into the house of their god, and did eate and drinke, and cursed Abimelech.",
         }),
 
         ("judges", 9, 28) => Some(Verse {
-            content: "",
+            content: "And Gaal the sonne of Ebed said, Who is Abimelech, and who is Shechem, that we should serue him? Is not he the sonne of Ierubbaal? and Zebul his officer? serue the men of Hamor the father of Shechem: for why should we serue him?",
         }),
 
         ("judges", 9, 29) => Some(Verse {
-            content: "",
+            content: "And would to God this people were vnder my hand; then would I remoue Abimelech. And he said to Abimelech, Increase thine armie and come out.",
         }),
 
         ("judges", 9, 30) => Some(Verse {
-            content: "",
+            content: "And when Zebul the ruler of the citie heard the wordes of Gaal the sonne of Ebed, his anger was kindled.",
         }),
 
         ("judges", 9, 31) => Some(Verse {
-            content: "",
+            content: "And he sent messengers vnto Abimelech priuily, saying, Behold, Gaal the sonne of Ebed, and his brethren, be come to Shechem, and behold, they fortifie the citie against thee.",
         }),
 
         ("judges", 9, 32) => Some(Verse {
-            content: "",
+            content: "Now therefore vp by night, thou and the people that is with thee, and lie in wait in the field.",
         }),
 
         ("judges", 9, 33) => Some(Verse {
-            content: "",
+            content: "And it shalbe, that in the morning assoone as the Sunne is vp, thou shalt rise earely, and set vpon the citie: and behold, when he and the people that is with him, come out against thee, then mayest thou doe to them as thou shalt finde occasion.",
         }),
 
         ("judges", 9, 34) => Some(Verse {
-            content: "",
+            content: "And Abimelech rose vp, and all the people that were with him, by night, and they laid wait against Shechem in foure companies.",
         }),
 
         ("judges", 9, 35) => Some(Verse {
-            content: "",
+            content: "And Gaal the sonne of Ebed went out, and stood in the entring of the gate of the citie: and Abimelech rose vp, and the people that were with him, from lying in waite.",
         }),
 
         ("judges", 9, 36) => Some(Verse {
-            content: "",
+            content: "And when Gaal saw the people, he said to Zebul, Behold, there come people downe frō the top of the mountaines. And Zebul saide vnto him, Thou seest the shadow of the mountaines, as if they were men.",
         }),
 
         ("judges", 9, 37) => Some(Verse {
-            content: "",
+            content: "And Gaal spake againe, and said, See, there come people downe by the middle of the land, and another companie come along by the plaine of Meonenim.",
         }),
 
         ("judges", 9, 38) => Some(Verse {
-            content: "",
+            content: "Then said Zebul vnto him, Where is now thy mouth, wherwith thou saidst, Who is Abimelech, that wee should serue him? Is not this the people that thou hast despised? Goe out, I pray now, and fight with them.",
         }),
 
         ("judges", 9, 39) => Some(Verse {
-            content: "",
+            content: "And Gaal went out before the men of Shechem, and fought with Abimelech.",
         }),
 
         ("judges", 9, 40) => Some(Verse {
-            content: "",
+            content: "And Abimelech chased him, and hee fledde before him, and many were ouerthrowen and wounded, euen vnto the entring of the gate.",
         }),
 
         ("judges", 9, 41) => Some(Verse {
-            content: "",
+            content: "And Abimelech dwelt at Arumah: and Zebul thrust out Gaal and his brethren, that they should not dwell in Shechem.",
         }),
 
         ("judges", 9, 42) => Some(Verse {
-            content: "",
+            content: "And it came to passe on the morrow, that the people went out into the field, and they tolde Abimelech.",
         }),
 
         ("judges", 9, 43) => Some(Verse {
-            content: "",
+            content: "And he tooke the people, and diuided them into three companies, and laide waite in the field, and looked, and behold, the people were come forth out of the citie, and he rose vp against them, and smote them.",
         }),
 
         ("judges", 9, 44) => Some(Verse {
-            content: "",
+            content: "And Abimelech, and the companie that was with him, rushed forward, and stood in the entring of the gate of the citie: and the two other companies ranne vpon all the people that were in the fields, and slew them.",
         }),
 
         ("judges", 9, 45) => Some(Verse {
-            content: "",
+            content: "And Abimelech fought against the citie all that day, and he tooke the citie, and slewe the people that was therein, and beat downe the citie, and sowed it with salt.",
         }),
 
         ("judges", 9, 46) => Some(Verse {
-            content: "",
+            content: "And when all the men of the tower of Shechem heard that, they entred into an holde of the house of the god Berith.",
         }),
 
         ("judges", 9, 47) => Some(Verse {
-            content: "",
+            content: "And it was told Abimelech, that all the men of the towre of Shechem were gathered together.",
         }),
 
         ("judges", 9, 48) => Some(Verse {
-            content: "",
+            content: "And Abimelech gate him vp to mount Zalmon, hee and all the people that were with him, & Abimelech tooke an axe in his hand, and cut downe a bough from the trees, and tooke it, and laide it on his shoulder, and said vnto the people that were with him, What ye haue seene me doe, make haste, and doe as I haue done.",
         }),
 
         ("judges", 9, 49) => Some(Verse {
-            content: "",
+            content: "And all the people likewise cut downe euery man his bough, and followed Abimelech, and put them to the holde, and set the holde on fire vpon them: so that all the men of the towre of Shechem died also, about a thousand men and women.",
         }),
 
         ("judges", 9, 50) => Some(Verse {
-            content: "",
+            content: "Then went Abimelech to Thebez, and encamped against Thebez, and tooke it.",
         }),
 
         ("judges", 9, 51) => Some(Verse {
-            content: "",
+            content: "But there was a strong towre within the city, and thither fled all the men and women, and all they of the citie, and shut it to them, and gate them vp to the top of the towre.",
         }),
 
         ("judges", 9, 52) => Some(Verse {
-            content: "",
+            content: "And Abimelech came vnto the towre, and fought against it, and went hard vnto the doore of the towre, to burne it with fire.",
         }),
 
         ("judges", 9, 53) => Some(Verse {
-            content: "",
+            content: "And a certaine woman cast a piece of a milstone vpon Abimelechs head, and all to brake his scull.",
         }),
 
         ("judges", 9, 54) => Some(Verse {
-            content: "",
+            content: "Then hee called hastily vnto the young man his armour-bearer, and said vnto him, Draw thy sword, and slay me, that men say not of me, A woman slewe him: and his young man thrust him through, and he died.",
         }),
 
         ("judges", 9, 55) => Some(Verse {
-            content: "",
+            content: "And when the men of Israel saw that Abimelech was dead, they departed euery man vnto his place.",
         }),
 
         ("judges", 9, 56) => Some(Verse {
-            content: "",
+            content: "Thus God rendred the wickednesse of Abimelech which hee did vnto his father, in slaying his seuentie brethren.",
         }),
 
         ("judges", 9, 57) => Some(Verse {
-            content: "",
+            content: "And all the euill of the men of Shechem, did God render vpon their heads: and vpon them came the curse of Iotham the sonne of Ierubbaal.",
         }),
 
         ("judges", 10, 1) => Some(Verse {
-            content: "",
+            content: "And after Abimelech, there arose to defend Israel, Tola the sonne of Puah, the sonne of Dodo, a man of Issachar, and he dwelt in Shamir in mount Ephraim.",
         }),
 
         ("judges", 10, 2) => Some(Verse {
-            content: "",
+            content: "And he iudged Israel twenty and three yeeres, and died, and was buried in Shamir.",
         }),
 
         ("judges", 10, 3) => Some(Verse {
-            content: "",
+            content: "And after him arose Iair a Gileadite, and iudged Israel twentie and two yeeres.",
         }),
 
         ("judges", 10, 4) => Some(Verse {
-            content: "",
+            content: "And hee had thirtie sonnes that rode on thirtie asse-colts, and they had thirtie cities, which are called Hauoth-Iair vnto this day, which are in the land of Gilead.",
         }),
 
         ("judges", 10, 5) => Some(Verse {
-            content: "",
+            content: "And Iair died, and was buried in Camon.",
         }),
 
         ("judges", 10, 6) => Some(Verse {
-            content: "",
+            content: "And the children of Israel did euill againe in the sight of the Lord, and serued Baalim and Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines, and forsooke the Lord, and serued not him.",
         }),
 
         ("judges", 10, 7) => Some(Verse {
-            content: "",
+            content: "And the anger of the Lord was hot agaiust Israel, and hee solde them into the hands of the Philistines, and into the hands of the children of Ammon.",
         }),
 
         ("judges", 10, 8) => Some(Verse {
-            content: "",
+            content: "And that yere they vexed and oppressed the children of Israel: eighteene yeeres, all the children of Israel that were on the other side Iordan, in the land of the Amorites, which is in Gilead.",
         }),
 
         ("judges", 10, 9) => Some(Verse {
-            content: "",
+            content: "Moreouer, the children of Ammon passed ouer Iordan, to fight also against Iudah, and against Beniamin, and against the house of Ephraim; so that Israel was sore distressed.",
         }),
 
         ("judges", 10, 10) => Some(Verse {
-            content: "",
+            content: "And the children of Israel cried vnto the Lord, saying, Wee haue sinned against thee, both because wee haue forsaken our God, and also serued Baalim.",
         }),
 
         ("judges", 10, 11) => Some(Verse {
-            content: "",
+            content: "And the Lord said vnto the children of Israel, Did not I deliuer you from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines?",
         }),
 
         ("judges", 10, 12) => Some(Verse {
-            content: "",
+            content: "The Zidonians also and the Amalekites, and the Maonites did oppresse you, and ye cried to me, and I deliuered you out of their hand.",
         }),
 
         ("judges", 10, 13) => Some(Verse {
-            content: "",
+            content: "Yet ye haue forsaken me, and serued other gods: wherefore I will deliuer you no more.",
         }),
 
         ("judges", 10, 14) => Some(Verse {
-            content: "",
+            content: "Go, and cry vnto the gods which ye haue chosen, let them deliuer you in the time of your tribulation.",
         }),
 
         ("judges", 10, 15) => Some(Verse {
-            content: "",
+            content: "And the children of Israel said vnto the Lord, We haue sinned, doe thou vnto vs whatsoeuer seemeth good vnto thee, deliuer vs onely, wee pray thee, this day.",
         }),
 
         ("judges", 10, 16) => Some(Verse {
-            content: "",
+            content: "And they put away the strange gods from among them, and serued the Lord: and his soule was grieued for the misery of Israel.",
         }),
 
         ("judges", 10, 17) => Some(Verse {
-            content: "",
+            content: "Then the children of Ammon were gathered together, and encamped in Gilead: and the children of Israel assembled themselues together, and encamped in Mizpeh.",
         }),
 
         ("judges", 10, 18) => Some(Verse {
-            content: "",
+            content: "And the people and Princes of Gilead, said one to another, What man is hee that will begin to fight against the children of Ammon? he shall be Head ouer all the inhabitants of Gilead.",
         }),
 
         ("judges", 11, 1) => Some(Verse {
-            content: "",
+            content: "Now Iephthah the Gileadite was a mightie man of valour, and he was the sonne of an harlot: and Gilead begate Iephthah.",
         }),
 
         ("judges", 11, 2) => Some(Verse {
-            content: "",
+            content: "And Gileads wife bare him sonnes, and his wiues sonnes grew vp, and they thrust out Iephthah, and said vnto him, Thou shalt not inherite in our fathers house, for thou art the son of a strange woman.",
         }),
 
         ("judges", 11, 3) => Some(Verse {
-            content: "",
+            content: "Then Iephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vaine men to Iephthah, and went out with him.",
         }),
 
         ("judges", 11, 4) => Some(Verse {
-            content: "",
+            content: "And it came to passe, in processe of time, that the children of Ammon made warre against Israel.",
         }),
 
         ("judges", 11, 5) => Some(Verse {
-            content: "",
+            content: "And it was so, that when the children of Ammon made war against Israel, the Elders of Gilead went to fetch Iephthah out of the land of Tob,",
         }),
 
         ("judges", 11, 6) => Some(Verse {
-            content: "",
+            content: "And they said vnto Iephthah, Come and bee our Captaine, that wee may fight with the children of Ammon.",
         }),
 
         ("judges", 11, 7) => Some(Verse {
-            content: "",
+            content: "And Iephthah said vnto the Elders of Gilead, Did not ye hate me, and expell me out of my fathers house? And why are ye come vnto mee now when ye are in distresse?",
         }),
 
         ("judges", 11, 8) => Some(Verse {
-            content: "",
+            content: "And the Elders of Gilead said vnto Iephthah, Therefore we turne againe to thee now, that thou mayest go with vs, and fight against the children of Ammon, and bee our head ouer all the inhabitants of Gilead.",
         }),
 
         ("judges", 11, 9) => Some(Verse {
-            content: "",
+            content: "And Iephthah said vnto the Elders of Gilead, If ye bring me home againe to fight against the children of Ammon, and the Lord deliuer them before me; shall I be your Head?",
         }),
 
         ("judges", 11, 10) => Some(Verse {
-            content: "",
+            content: "And the Elders of Gilead said vnto Iephthah, The Lord be witnes betweene vs, if we doe not so according to thy words.",
         }),
 
         ("judges", 11, 11) => Some(Verse {
-            content: "",
+            content: "Then Iephthah went with the Elders of Gilead, and the people made him head and captaine ouer them: and Iephthah vttered all his words before the Lord in Mizpeh.",
         }),
 
         ("judges", 11, 12) => Some(Verse {
-            content: "",
+            content: "And Iephthah sent messengers vnto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against mee to fight in my land?",
         }),
 
         ("judges", 11, 13) => Some(Verse {
-            content: "",
+            content: "And the king of the children of Ammon answered vnto the messengers of Iephthah; Because Israel tooke away my land when they came vp out of Egypt, from Arnon euen vnto Iabbok, and vnto Iordan: now therfore restore those lands againe peaceably.",
         }),
 
         ("judges", 11, 14) => Some(Verse {
-            content: "",
+            content: "And Iephthah sent messengers againe vnto the king of the children of Ammon:",
         }),
 
         ("judges", 11, 15) => Some(Verse {
-            content: "",
+            content: "And said vnto him, Thus saith Iephthah; Israel tooke not away the land of Moab, nor the land of the children of Ammon:",
         }),
 
         ("judges", 11, 16) => Some(Verse {
-            content: "",
+            content: "But when Israel came vp from Egypt, and walked through the wildernesse, vnto the red sea, and came to Kadesh;",
         }),
 
         ("judges", 11, 17) => Some(Verse {
-            content: "",
+            content: "Then Israel sent messengers vnto the king of Edom saying, Let me, I pray thee, passe through thy land. But the king of Edom would not hearken thereto: And in like maner they sent vnto the king of Moab: but hee would not consent: & Israel abode in Kadesh.",
         }),
 
         ("judges", 11, 18) => Some(Verse {
-            content: "",
+            content: "Then they went along through the wildernes, and compassed the land of Edom, and the land of Moab, and came by the Eastside of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon was the border of Moab.",
         }),
 
         ("judges", 11, 19) => Some(Verse {
-            content: "",
+            content: "And Israel sent messengers vnto Sihon king of the Amorites, the king of Heshbon, and Israel said vnto him, Let vs passe, we pray thee, thorow thy land, vnto my place.",
         }),
 
         ("judges", 11, 20) => Some(Verse {
-            content: "",
+            content: "But Sihon trusted not Israel, to passe through his coast: but Sihon gathered all his people together, and pitched in Iahaz, and fought against Israel.",
         }),
 
         ("judges", 11, 21) => Some(Verse {
-            content: "",
+            content: "And the Lord God of Israel deliuered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that countrey.",
         }),
 
         ("judges", 11, 22) => Some(Verse {
-            content: "",
+            content: "And they possessed all the coasts of the Amorites, from Arnon euen vnto Iabbok, and from the wildernesse euen vnto Iordan.",
         }),
 
         ("judges", 11, 23) => Some(Verse {
-            content: "",
+            content: "So nowe the Lord God of Israel hath dispossessed the Amorites from before his people Israel, and shouldest thou possesse it?",
         }),
 
         ("judges", 11, 24) => Some(Verse {
-            content: "",
+            content: "Wilt not thou possesse that which Chemosh thy god giueth thee to possesse? so whomsoeuer the Lord our God shal driue out from before vs, them will we possesse.",
         }),
 
         ("judges", 11, 25) => Some(Verse {
-            content: "",
+            content: "And now, art thou any thing better then Balak the sonne of Zippor king of Moab? Did hee euer striue against Israel, or did hee euer fight against them,",
         }),
 
         ("judges", 11, 26) => Some(Verse {
-            content: "",
+            content: "While Israel dwelt in Heshbon, and her townes, and in Aroer, and her townes, and in all the cities that bee along by the coasts of Arnon, three hundred yeeres? Why therefore did yee not recouer them within that time?",
         }),
 
         ("judges", 11, 27) => Some(Verse {
-            content: "",
+            content: "Wherefore, I haue not sinned against thee, but thou doest me wrong to warre against mee: the Lord the Iudge, bee Iudge this day betweene the children of Israel, and the children of Ammon.",
         }),
 
         ("judges", 11, 28) => Some(Verse {
-            content: "",
+            content: "Howbeit, the king of the children of Ammon hearkened not vnto the words of Iephthah which hee sent him.",
         }),
 
         ("judges", 11, 29) => Some(Verse {
-            content: "",
+            content: "Then the Spirit of the Lord came vpon Iephthah, and he passed ouer Gilead and Manasseh, and passed ouer Mizpeh of Gilead, and from Mizpeh of Gilead hee passed ouer vnto the children of Ammon.",
         }),
 
         ("judges", 11, 30) => Some(Verse {
-            content: "",
+            content: "And Iephthah vowed a vowe vnto the Lord, and said, If thou shalt without faile deliuer the children of Ammon into mine hands,",
         }),
 
         ("judges", 11, 31) => Some(Verse {
-            content: "",
+            content: "Then it shall be, that whatsoeuer commeth forth of the doores of my house to meete me, when I returne in peace from the children of Ammon, shall surely be the Lords, and I will offer it vp for a burnt offering.",
         }),
 
         ("judges", 11, 32) => Some(Verse {
-            content: "",
+            content: "So Iephthah passed ouer vnto the children of Ammon to fight against them, and the Lord deliuered them into his hands.",
         }),
 
         ("judges", 11, 33) => Some(Verse {
-            content: "",
+            content: "And he smote them from Aroer, euen till thou come to Minnith, euen twentie cities, and vnto the plaine of the vineyards, with a very great slaughter: thus the children of Ammon were subdued before the children of Israel.",
         }),
 
         ("judges", 11, 34) => Some(Verse {
-            content: "",
+            content: "And Iephthah came to Mizpeh vnto his house, and beholde, his daughter came out to meete him with timbrels and with dances, and she was his onely childe: beside her he had neither sonne nor daughter.",
         }),
 
         ("judges", 11, 35) => Some(Verse {
-            content: "",
+            content: "And it came to passe when he saw her, that he rent his clothes, and said, Alas, my daughter, thou hast brought me very low, and thou art one of them that trouble me: for I haue opened my mouth vnto the Lord, and I cannot goe backe.",
         }),
 
         ("judges", 11, 36) => Some(Verse {
-            content: "",
+            content: "And she said vnto him, My father, if thou hast opened thy mouth vnto the Lord, doe to me according to that which hath proceeded out of thy mouth; forasmuch as the Lord hath taken vengeance for thee of thine enemies, euen of the children of Ammon.",
         }),
 
         ("judges", 11, 37) => Some(Verse {
-            content: "",
+            content: "And she said vnto her father, Let this thing be done for me: Let me alone two moneths, that I may goe vp and downe vpon the mountaines, and bewaile my virginitie, I, and my fellowes.",
         }),
 
         ("judges", 11, 38) => Some(Verse {
-            content: "",
+            content: "And he said, Goe. And he sent her away for two moneths, and shee went with her companions, and bewailed her virginitie vpon the mountaines.",
         }),
 
         ("judges", 11, 39) => Some(Verse {
-            content: "",
+            content: "And it came to passe at the ende of two moneths that shee returned vnto her father, who did with her according to his vow which he had vowed: and she knew no man: & it was a custome in Israel,",
         }),
 
         ("judges", 11, 40) => Some(Verse {
-            content: "",
+            content: "That the daughters of Israel went yeerely to lament the daughter of Iephthah the Gileadite foure dayes in a yeere.",
         }),
 
         ("judges", 12, 1) => Some(Verse {
-            content: "",
+            content: "And the men of Ephraim gathered themselues together, and went Northward, & said vnto Iephthah, Wherefore passedst thou ouer to fight against the children of Ammon, and didst not call vs to goe with thee? Wee will burne thine house vpon thee with fire.",
         }),
 
         ("judges", 12, 2) => Some(Verse {
-            content: "",
+            content: "And Iephthah saide vnto them, I and my people were at great strife with the children of Ammon: and when I called you, ye deliuered me not out of their hands.",
         }),
 
         ("judges", 12, 3) => Some(Verse {
-            content: "",
+            content: "And when I sawe that ye deliuered me not, I put my life in my handes, and passed ouer against the children of Ammon, and the Lord deliuered them into my hand: Wherfore then are ye come vp vnto me this day, to fight against me?",
         }),
 
         ("judges", 12, 4) => Some(Verse {
-            content: "",
+            content: "Then Iephthah gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Yee Gileadites are fugitiues of Ephraim, among the Ephraimites and among the Manassites.",
         }),
 
         ("judges", 12, 5) => Some(Verse {
-            content: "",
+            content: "And the Gileadites tooke the passages of Iordan before the Ephraimites: and it was so that when those Ephraimites which were escaped saide, Let me go ouer, that the men of Gilead said vnto him, Art thou an Ephraimite? If he said, Nay:",
         }),
 
         ("judges", 12, 6) => Some(Verse {
-            content: "",
+            content: "Then said they vnto him, Say now, Shibboleth: and he said, Sibboleth: for hee could not frame to pronounce it right. Then they tooke him, and slewe him at the passages of Iordan: and there fell at that time of the Ephraimites, fourtie & two thousand.",
         }),
 
         ("judges", 12, 7) => Some(Verse {
-            content: "",
+            content: "And Iephthah iudged Israel sixe yeeres: then died Iephthah the Gileadite, and was buried in one of the cities of Gilead.",
         }),
 
         ("judges", 12, 8) => Some(Verse {
-            content: "",
+            content: "And after him Ibzan of Bethlehem iudged Israel.",
         }),
 
         ("judges", 12, 9) => Some(Verse {
-            content: "",
+            content: "And hee had thirtie sonnes, and thirtie daughters, whome hee sent abroad, and tooke in thirtie daughters from abroad for his sonnes. And hee iudged Israel seuen yeeres.",
         }),
 
         ("judges", 12, 10) => Some(Verse {
-            content: "",
+            content: "Then died Ibzan, and was buried at Bethlehem.",
         }),
 
         ("judges", 12, 11) => Some(Verse {
-            content: "",
+            content: "And after him, Elon, a Zebulonite iudged Israel, and he iudged Israel ten yeeres.",
         }),
 
         ("judges", 12, 12) => Some(Verse {
-            content: "",
+            content: "And Elon the Zebulonite died, and was buried in Aiialon in the countrey of Zebulun.",
         }),
 
         ("judges", 12, 13) => Some(Verse {
-            content: "",
+            content: "And after him, Abdon, the sonne of Hillel a Pirathonite iudged Israel.",
         }),
 
         ("judges", 12, 14) => Some(Verse {
-            content: "",
+            content: "And he had fourty sonnes, and thirtie nephewes, that rode on threescore and ten asse-colts: and he iudged Israel eight yeeres,",
         }),
 
         ("judges", 12, 15) => Some(Verse {
-            content: "",
+            content: "And Abdon the sonne of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.",
         }),
 
         ("judges", 13, 1) => Some(Verse {
-            content: "",
+            content: "And the children of Israel did euill againe in the sight of the Lord, and the Lord deliuered them into the hand of the Philistines forty yeeres.",
         }),
 
         ("judges", 13, 2) => Some(Verse {
-            content: "",
+            content: "And there was a certaine man of Zorah, of the family of the Danites, whose name was Manoah, and his wife was barren, and bare not.",
         }),
 
         ("judges", 13, 3) => Some(Verse {
-            content: "",
+            content: "And the Angel of the Lord appeared vnto the woman, and said vnto her, Behold now, thou art barren, and bearest not: but thou shalt conceiue and beare a sonne.",
         }),
 
         ("judges", 13, 4) => Some(Verse {
-            content: "",
+            content: "Now therefore beware I pray thee, and drinke not wine, nor strong drinke, and eat not any vncleane thing.",
         }),
 
         ("judges", 13, 5) => Some(Verse {
-            content: "",
+            content: "For loe, thou shalt conceiue, and beare a sonne, and no rasor shall come on his head: for the child shall be a Nazarite vnto God from the wombe: and he shall begin to deliuer Israel out of the hand of the Philistines.",
         }),
 
         ("judges", 13, 6) => Some(Verse {
-            content: "",
+            content: "Then the woman came, and told her husband, saying; A man of God came vnto mee, and his countenance was like the countenance of an Angel of God, very terrible: but I asked him not whence he was, neither told he me his name:",
         }),
 
         ("judges", 13, 7) => Some(Verse {
-            content: "",
+            content: "But he said vnto mee, Behold, thou shalt conceiue and beare a sonne; and now, drinke no wine nor strong drinke, neither eate any vncleane thing: for the childe shal be a Nazarite to God, from the wombe, to the day of his death.",
         }),
 
         ("judges", 13, 8) => Some(Verse {
-            content: "",
+            content: "Then Manoah entreated the Lord, and said, O my Lord, let the man of God which thou didst send, come againe vnto vs, & teach vs what we shall do vnto the childe that shall be borne.",
         }),
 
         ("judges", 13, 9) => Some(Verse {
-            content: "",
+            content: "And God hearkened to the voyce of Manoah; and the Angel of God came againe vnto the woman as shee sate in the field: But Manoah her husband was not with her.",
         }),
 
         ("judges", 13, 10) => Some(Verse {
-            content: "",
+            content: "And the woman made haste, and ranne, and shewed her husband, and said vnto him; Behold, the man hath appeared vnto me, that came vnto me the other day.",
         }),
 
         ("judges", 13, 11) => Some(Verse {
-            content: "",
+            content: "And Manoah arose, and went after his wife, and came to the man, and said vnto him, Art thou the man that spakest vnto the woman? And he said, I am.",
         }),
 
         ("judges", 13, 12) => Some(Verse {
-            content: "",
+            content: "And Manoah said, Now let thy words come to passe: How shall wee order the childe, and how shall we doe vnto him?",
         }),
 
         ("judges", 13, 13) => Some(Verse {
-            content: "",
+            content: "And the Angel of the Lord said vnto Manoah, Of all that I said vnto the woman, let her beware.",
         }),
 
         ("judges", 13, 14) => Some(Verse {
-            content: "",
+            content: "She may not eate of any thing that commeth of the Uine, neither let her drinke wine or strong drinke, nor eat any vncleane thing: all that I commanded her, let her obserue.",
         }),
 
         ("judges", 13, 15) => Some(Verse {
-            content: "",
+            content: "And Manoah saide vnto the Angel of the Lord, I pray thee let vs deteine thee, vntill wee shall haue made ready a kid for thee.",
         }),
 
         ("judges", 13, 16) => Some(Verse {
-            content: "",
+            content: "And the Angel of the Lord said vnto Manoah, Though thou deteine mee, I will not eat of thy bread: and if thou wilt offer a burnt offering, thou must offer it vnto the Lord: for Manoah knew not that he was an Angel of the Lord.",
         }),
 
         ("judges", 13, 17) => Some(Verse {
-            content: "",
+            content: "And Manoah said vnto the Angel of the Lord, What is thy name, that when thy sayings come to passe, we may doe thee honour?",
         }),
 
         ("judges", 13, 18) => Some(Verse {
-            content: "",
+            content: "And the Angel of the Lord said vnto him, Why askest thou thus after my name, seeing it is secret?",
         }),
 
         ("judges", 13, 19) => Some(Verse {
-            content: "",
+            content: "So Manoah tooke a kid, with a meat offering, and offered it vpon a rocke vnto the Lord: and the Angel did wonderously, and Manoah and his wife looked on.",
         }),
 
         ("judges", 13, 20) => Some(Verse {
-            content: "",
+            content: "For it came to passe, when the flame went vp toward heauen from off the altar, that the Angel of the Lord ascended in the flame of the altar: and Manoah and his wife looked on it, and fell on their faces to the ground.",
         }),
 
         ("judges", 13, 21) => Some(Verse {
-            content: "",
+            content: "(But the Angel of the Lord did no more appeare to Manoah and to his wife:) then Manoah knewe that he was an Angel of the Lord.",
         }),
 
         ("judges", 13, 22) => Some(Verse {
-            content: "",
+            content: "And Manoah said vnto his wife, Wee shall surely die, because wee haue seene God.",
         }),
 
         ("judges", 13, 23) => Some(Verse {
-            content: "",
+            content: "But his wife said vnto him, If the Lord were pleased to kill vs, he would not haue receiued a burnt offering and a meat offering at our hands, neither would hee haue shewed vs all these things, nor would as at this time haue told vs such things as these.",
         }),
 
         ("judges", 13, 24) => Some(Verse {
-            content: "",
+            content: "And the woman bare a sonne, and called his name Samson: and the child grew, & the Lord blessed him.",
         }),
 
         ("judges", 13, 25) => Some(Verse {
-            content: "",
+            content: "And the Spirit of the Lord beganne to mooue him at times in the campe of Dan, betweene Zorah and Eshtaol.",
         }),
 
         ("judges", 14, 1) => Some(Verse {
-            content: "",
+            content: "And Samson went down to Timnath, and sawe a woman in Timnath, of the daughters of the Philistines.",
         }),
 
         ("judges", 14, 2) => Some(Verse {
-            content: "",
+            content: "And hee came vp, and told his father and his mother, and said, I haue seene a woman in Timnath, of the daughters of the Philistines: nowe therefore get her for me to wife.",
         }),
 
         ("judges", 14, 3) => Some(Verse {
-            content: "",
+            content: "Then his father and his mother said vnto him, Is there neuer a woman among the daughters of thy brethren, or among all my people, that thou goest to take a wife of the vncircumcised Philistines? And Samson said vnto his father, Get her for me, for shee pleaseth me well.",
         }),
 
         ("judges", 14, 4) => Some(Verse {
-            content: "",
+            content: "But his father and his mother knew not that it was of the Lord, that hee sought an occasion against the Philistines: for at that time the Philistines had dominion ouer Israel.",
         }),
 
         ("judges", 14, 5) => Some(Verse {
-            content: "",
+            content: "Then went Samson downe, and his father & his mother, to Timnath, and came, to the vineyards of Timnath: and behold, a young Lion roared against him.",
         }),
 
         ("judges", 14, 6) => Some(Verse {
-            content: "",
+            content: "And the Spirit of the Lord came mightily vpon him, and hee rent him as he would haue rent a kid, and he had nothing in his hand: but hee told not his father or his mother what hee had done.",
         }),
 
         ("judges", 14, 7) => Some(Verse {
-            content: "",
+            content: "And hee went downe and talked with the woman, and she pleased Samson well.",
         }),
 
         ("judges", 14, 8) => Some(Verse {
-            content: "",
+            content: "And after a time hee returned to take her, and he turned aside to see the carkeis of the Lion: and beholde, there was a swarme of Bees, and honie in the carkeis of the Lion.",
         }),
 
         ("judges", 14, 9) => Some(Verse {
-            content: "",
+            content: "And hee tooke thereof in his handes, and went on eating, and came to his father and mother, and hee gaue them, and they did eate: but he told not them that he had taken the hony out of the carkeis of the Lion.",
         }),
 
         ("judges", 14, 10) => Some(Verse {
-            content: "",
+            content: "So his father went downe vnto the woman, and Samson made there a feast: for so vsed the young men to doe.",
         }),
 
         ("judges", 14, 11) => Some(Verse {
-            content: "",
+            content: "And it came to passe when they saw him, that they brought thirtie companions to be with him.",
         }),
 
         ("judges", 14, 12) => Some(Verse {
-            content: "",
+            content: "And Samson said vnto them, I will now put foorth a riddle vnto you: if you can certeinly declare it me, within the seuen dayes of the feast, and finde it out, then I will giue you thirtie sheetes, and thirtie change of garments:",
         }),
 
         ("judges", 14, 13) => Some(Verse {
-            content: "",
+            content: "But if ye cannot declare it me, then shall yee giue me thirtie sheetes, and thirtie change of garments. And they said vnto him, Put foorth thy riddle, that we may heare it.",
         }),
 
         ("judges", 14, 14) => Some(Verse {
-            content: "",
+            content: "And hee said vnto them, Out of the eater came foorth meate, aud out of the strong came foorth sweetnesse. And they could not in three dayes expound the riddle.",
         }),
 
         ("judges", 14, 15) => Some(Verse {
-            content: "",
+            content: "And it came to passe on the seuenth day, that they said vnto Samsons wife, Entice thy husband, that hee may declare vnto vs the riddle, lest we burne thee and thy fathers house with fire: Haue yee called vs, to take that wee haue? is it not so?",
         }),
 
         ("judges", 14, 16) => Some(Verse {
-            content: "",
+            content: "And Samsons wife wept before him, and said, Thou doest but hate me, and louest me not: thou hast put foorth a riddle vnto the children of my people, and hast not tolde it me. And hee said vnto her, Behold, I haue not tolde it my father nor my mother, and shall I tell it thee?",
         }),
 
         ("judges", 14, 17) => Some(Verse {
-            content: "",
+            content: "And shee wept before him the seuen dayes, while the feast lasted: and it came to passe on the seuenth day, that he tolde her, because shee lay sore vpon him: and she tolde the riddle to the children of her people.",
         }),
 
         ("judges", 14, 18) => Some(Verse {
-            content: "",
+            content: "And the men of the city said vnto him on the seuenth day before the sunne went downe, What is sweeter then honie? and what is stronger then a Lion? And he said vnto them, If ye had not plowed with my heifer, yee had not found out my riddle.",
         }),
 
         ("judges", 14, 19) => Some(Verse {
-            content: "",
+            content: "And the Spirit of the Lord came vpon him, and hee went downe to Ashkelon, and slewe thirtie men of them, and tooke their spoile, and gaue change of garments vnto them which expounded the riddle, and his anger was kindled; and hee went vp to his fathers house.",
         }),
 
         ("judges", 14, 20) => Some(Verse {
-            content: "",
+            content: "But Samsons wife was giuen to his companion, whom hee had vsed as his friend.",
         }),
 
         ("judges", 15, 1) => Some(Verse {
-            content: "",
+            content: "But it came to passe within a while after, in the time of wheat haruest, that Samson visited his wife with a kid, and he said, I will goe in to my wife into the chamber. But her father would not suffer him to goe in.",
         }),
 
         ("judges", 15, 2) => Some(Verse {
-            content: "",
+            content: "And her father saide, I verily thought that thou haddest vtterly hated her, therfore I gaue her to thy companion: is not her younger sister fairer then she? take her, I pray thee, in stead of her.",
         }),
 
         ("judges", 15, 3) => Some(Verse {
-            content: "",
+            content: "And Samson said concerning them, Now shal I be more blamelesse then the Philistines, though I do them a displeasure.",
         }),
 
         ("judges", 15, 4) => Some(Verse {
-            content: "",
+            content: "And Samson went and caught three hundred foxes, and tooke firebrands, and turned taile to taile, and put a firebrand in the midst betweene two tailes.",
         }),
 
         ("judges", 15, 5) => Some(Verse {
-            content: "",
+            content: "And when hee had set the brands on fire, he let them goe into the standing corne of the Philistines, and burnt vp both the shockes, and also the standing corne, with the vineyards and oliues.",
         }),
 
         ("judges", 15, 6) => Some(Verse {
-            content: "",
+            content: "Then the Philistines saide, Who hath done this? and they answered, Samson the sonne in law of the Timnite, because hee had taken his wife, and giuen her to his companion. And the Philistines came vp, and burnt her and her father with fire.",
         }),
 
         ("judges", 15, 7) => Some(Verse {
-            content: "",
+            content: "And Samson said vnto them, Though ye haue done this, yet will I be auenged of you, and after that, I wil cease.",
         }),
 
         ("judges", 15, 8) => Some(Verse {
-            content: "",
+            content: "And he smote them hip and thigh, with a great slaughter; and hee went down and dwelt in the top of the rocke Etam.",
         }),
 
         ("judges", 15, 9) => Some(Verse {
-            content: "",
+            content: "Then the Philistines went vp, and pitched in Iudah, and spread themselues in Lehi.",
         }),
 
         ("judges", 15, 10) => Some(Verse {
-            content: "",
+            content: "And the men of Iudah said, Why are ye come vp against vs? and they answered, To bind Samson are we come vp, to doe to him, as he hath done to vs.",
         }),
 
         ("judges", 15, 11) => Some(Verse {
-            content: "",
+            content: "Then three thousand men of Iudah went to the top of the rocke Etam, and sayd to Samson; Knowest thou not that the Philistines are rulers ouer vs? What is this that thou hast done vnto vs? And he said vnto them, As they did vnto me, so haue I done vnto them.",
         }),
 
         ("judges", 15, 12) => Some(Verse {
-            content: "",
+            content: "And they said vnto him, Wee are come downe to binde thee, that we may deliuer thee into the hand of the Philistines. And Samson said vnto them, Sweare vnto me, that yee will not fall vpon me your selues.",
         }),
 
         ("judges", 15, 13) => Some(Verse {
-            content: "",
+            content: "And they spake vnto him, saying; No: but wee will binde thee fast, and deliuer thee into their hand: but surely we will not kill thee. And they bound him with two new cordes, and brought him vp from the rocke.",
         }),
 
         ("judges", 15, 14) => Some(Verse {
-            content: "",
+            content: "And when he came vnto Lehi, the Philistines shouted against him: and the Spirit of the Lord came mightily vpon him, and the cordes that were vpon his armes became as flaxe that was burnt with fire, & his bands loosed from off his hands.",
         }),
 
         ("judges", 15, 15) => Some(Verse {
-            content: "",
+            content: "And he found a new iawbone of an asse, and put foorth his hand, and tooke it, and slewe a thousand men therewith.",
         }),
 
         ("judges", 15, 16) => Some(Verse {
-            content: "",
+            content: "And Samson said, With the iawbone of an asse, heapes vpon heapes, with the iaw of an asse haue I slaine a thousand men.",
         }),
 
         ("judges", 15, 17) => Some(Verse {
-            content: "",
+            content: "And it came to passe when he had made an end of speaking, that hee cast away the iaw bone out of his hand, and called that place Ramath-Lehi.",
         }),
 
         ("judges", 15, 18) => Some(Verse {
-            content: "",
+            content: "And hee was sore athirst, and called on the Lord, and said, Thou hast giuen this great deliuerance into the hand of thy seruant: and now shall I die for thirst, and fall into the hand of the vncircumcised?",
         }),
 
         ("judges", 15, 19) => Some(Verse {
-            content: "",
+            content: "But God claue an hollow place that was in the iawe, and there came water thereout, & when he had drunke, his spirit came againe, and he reuiued: wherefore hee called the name thereof En-hakkore, which is in Lehi, vnto this day:",
         }),
 
         ("judges", 15, 20) => Some(Verse {
-            content: "",
+            content: "And he iudged Israel in the dayes of the Philistines twentie yeeres.",
         }),
 
         ("judges", 16, 1) => Some(Verse {
-            content: "",
+            content: "Then went Samson to Gaza, and saw there an harlot, and went in vnto her.",
         }),
 
         ("judges", 16, 2) => Some(Verse {
-            content: "",
+            content: "And it was told the Gazites, saying, Samson is come hither. And they compassed him in, and layd wait for him all night in the gate of the citie, and were quiet all the night, saying, In the morning when it is day, we shall kill him.",
         }),
 
         ("judges", 16, 3) => Some(Verse {
-            content: "",
+            content: "And Samson lay till midnight, and arose at midnight, and tooke the doores of the gate of the city, and the two posts, and went away with them, barre and all, and put them vpon his shoulders, and caried them vp to the toppe of an hill that is before Hebron.",
         }),
 
         ("judges", 16, 4) => Some(Verse {
-            content: "",
+            content: "And it came to passe afterward, that he loued a woman in the valley of Sorek, whose name was Delilah.",
         }),
 
         ("judges", 16, 5) => Some(Verse {
-            content: "",
+            content: "And the lords of the Philistines came vp vnto her, and said vnto her, Entice him, and see wherein his great strength lieth, and by what meanes we may preuaile against him, that we may bind him, to afflict him: and we will giue thee euery one of vs, eleuen hundreth pieces of siluer.",
         }),
 
         ("judges", 16, 6) => Some(Verse {
-            content: "",
+            content: "And Delilah said to Samson, Tel me, I pray thee, wherein thy great strength lyeth, and wherewith thou mightest be bound, to afflict thee.",
         }),
 
         ("judges", 16, 7) => Some(Verse {
-            content: "",
+            content: "And Samson said vnto her, If they binde mee with seuen greene withs, that were neuer dried, then shall I be weake, and be as another man.",
         }),
 
         ("judges", 16, 8) => Some(Verse {
-            content: "",
+            content: "Then the lords of the Philistines brought vp to her seuen greene withs, which had not bene dried, & she bound him with them.",
         }),
 
         ("judges", 16, 9) => Some(Verse {
-            content: "",
+            content: "Now there were men lying in wait, abiding with her in the chamber: and she said vnto him, The Philistines be vpon thee, Samson. And he brake the withs, as a threed of tow is broken, when it toucheth the fire: so his strength was not knowen.",
         }),
 
         ("judges", 16, 10) => Some(Verse {
-            content: "",
+            content: "And Delilah said vnto Samson, Behold, thou hast mocked me, and told mee lies: now tell mee, I pray thee, wherewith thou mightest be bound.",
         }),
 
         ("judges", 16, 11) => Some(Verse {
-            content: "",
+            content: "And he said vnto her, If they bind me fast with newe ropes that neuer were occupied, then shall I bee weake, and be as another man.",
         }),
 
         ("judges", 16, 12) => Some(Verse {
-            content: "",
+            content: "Delilah therfore tooke new ropes, and bound him therewith, and said vnto him, The Philistines be vpon thee, Samson. (And there were liers in wait abiding in the chamber.) and hee brake them from off his armes, like a threed.",
         }),
 
         ("judges", 16, 13) => Some(Verse {
-            content: "",
+            content: "And Delilah said vnto Samson, Hitherto thou hast mocked me, and told me lies: tell me wherewith thou mightest be bound. And he said vnto her, If thou weauest the seuen lockes of my head with the web.",
         }),
 
         ("judges", 16, 14) => Some(Verse {
-            content: "",
+            content: "And she fastened it with the pinne, and said vnto him, The Philistines be vpon thee, Samson. And hee awaked out of his sleepe, and went away with the pinne of the beame, & with the web.",
         }),
 
         ("judges", 16, 15) => Some(Verse {
-            content: "",
+            content: "And shee said vnto him, How canst thou say, I loue thee, when thine heart is not with mee? Thou hast mocked mee these three times, and hast not told me wherin thy great strength lieth.",
         }),
 
         ("judges", 16, 16) => Some(Verse {
-            content: "",
+            content: "And it came to passe, when she pressed him daily with her wordes, and vrged him so that his soule was vexed vnto death,",
         }),
 
         ("judges", 16, 17) => Some(Verse {
-            content: "",
+            content: "That he told her all his heart, and said vnto her, There hath not come a rasor vpon mine head: for I haue bene a Nazarite vnto God from my mothers wombe: If I bee shauen, then my strength will goe from me, and I shall become weake, and bee like any other man.",
         }),
 
         ("judges", 16, 18) => Some(Verse {
-            content: "",
+            content: "And when Delilah saw that he had told her all his heart, she sent and called for the Lords of the Philistines, saying, Come vp this once, for hee hath shewed me all his heart. Then the lords of the Philistines came vp vnto her, & brought money in their hand.",
         }),
 
         ("judges", 16, 19) => Some(Verse {
-            content: "",
+            content: "And she made him sleepe vpon her knees, and she called for a man, and she caused him to shaue off the seuen lockes of his head, and she began to afflict him, and his strength went from him.",
         }),
 
         ("judges", 16, 20) => Some(Verse {
-            content: "",
+            content: "And she said, The Philistines be vpon thee, Samson. And hee awoke out of his sleepe, and said, I will go out as at other times before, and shake my selfe. And he wist not that the Lord was departed from him.",
         }),
 
         ("judges", 16, 21) => Some(Verse {
-            content: "",
+            content: "But the Philistines tooke him and put out his eyes, and brought him downe to Gaza, and bound him with fetters of brasse, and he did grind in the prison house.",
         }),
 
         ("judges", 16, 22) => Some(Verse {
-            content: "",
+            content: "Howbeit, the haire of his head began to grow againe, after he was shauen.",
         }),
 
         ("judges", 16, 23) => Some(Verse {
-            content: "",
+            content: "Then the lords of the Philistines gathered them together, for to offer a great sacrifice vnto Dagon their god, and to reioyce: for they said, Our god hath deliuered Samson our enemy into our hand.",
         }),
 
         ("judges", 16, 24) => Some(Verse {
-            content: "",
+            content: "And when the people saw him, they praised their god: for they said, Our god hath deliuered into our hands our enemy, and the destroyer of our countrey, which slew many of vs.",
         }),
 
         ("judges", 16, 25) => Some(Verse {
-            content: "",
+            content: "And it came to passe when their hearts were merry, that they said, Call for Samson, that hee may make vs sport. And they called for Samson out of the prison house, and he made them sport, and they set him betweene the pillars.",
         }),
 
         ("judges", 16, 26) => Some(Verse {
-            content: "",
+            content: "And Samson said vnto the lad that held him by the hand, Suffer mee, that I may feele the pillars whereupon the house standeth, that I may leane vpon them.",
         }),
 
         ("judges", 16, 27) => Some(Verse {
-            content: "",
+            content: "Now the house was full of men and women, and all the lords of the Philistines were there: and there were vpon the roofe about three thousand men and women, that behelde while Samson made sport.",
         }),
 
         ("judges", 16, 28) => Some(Verse {
-            content: "",
+            content: "And Samson called vnto the Lord, and said, O Lord God, remember me, I pray thee, & strengthen mee, I pray thee, onely this once, O God, that I may be at once auenged of the Philistines, for my two eyes.",
         }),
 
         ("judges", 16, 29) => Some(Verse {
-            content: "",
+            content: "And Samson tooke hold of the two middle pillars, vpon which the house stood, and on which it was borne vp, of the one with his right hand, and of the other with his left.",
         }),
 
         ("judges", 16, 30) => Some(Verse {
-            content: "",
+            content: "And Samson said, Let me die with the Philistines: & he bowed himselfe with all his might: and the house fel vpon the lords, and vpon all the people that were therein: so the dead which he slew at his death, were moe, then they which he slew in his life.",
         }),
 
         ("judges", 16, 31) => Some(Verse {
-            content: "",
+            content: "Then his brethren, and all the house of his father, came downe, and tooke him, and brought him vp, and buried him betweene Zorah and Eshtaol, in the burying place of Manoah his father: and hee iudged Israel twentie yeeres.",
         }),
 
         ("judges", 17, 1) => Some(Verse {
-            content: "",
+            content: "And there was a man of mount Ephraim, whose name was Micah.",
         }),
 
         ("judges", 17, 2) => Some(Verse {
-            content: "",
+            content: "And he said vnto his mother, The eleuen hundred shekels of siluer, that were taken from thee, about which thou cursedst, and spakest of also in mine eares, behold, the siluer is with mee, I tooke it. And his mother said, Blessed be thou of the Lord, my sonne.",
         }),
 
         ("judges", 17, 3) => Some(Verse {
-            content: "",
+            content: "And when hee had restored the eleuen hundred shekels of siluer to his mother, his mother said, I had wholly dedicated the siluer vnto the Lord, from my hand, for my sonne, to make a grauen image and a molten image: now therefore I will restore it vnto thee.",
         }),
 
         ("judges", 17, 4) => Some(Verse {
-            content: "",
+            content: "Yet hee restored the money vnto his mother, and his mother tooke two hundred shekels of siluer, and gaue them to the founder, who made thereof a grauen image and a molten image, and they were in the house of Micah.",
         }),
 
         ("judges", 17, 5) => Some(Verse {
-            content: "",
+            content: "And the man Micah had an house of gods, and made an Ephod, and Teraphim, and consecrated one of his sonnes, who became his Priest.",
         }),
 
         ("judges", 17, 6) => Some(Verse {
-            content: "",
+            content: "In those dayes there was no king in Israel, but euery man did that which was right in his owne eyes.",
         }),
 
         ("judges", 17, 7) => Some(Verse {
-            content: "",
+            content: "And there was a young man out of Bethlehem Iudah, of the family of Iudah, who was a Leuite, and he soiourned there.",
         }),
 
         ("judges", 17, 8) => Some(Verse {
-            content: "",
+            content: "And the man departed out of the citie from Bethlehem Iudah, to soiourne where he could finde a place: and he came to mount Ephraim to the house of Micah, as he iourneyed.",
         }),
 
         ("judges", 17, 9) => Some(Verse {
-            content: "",
+            content: "And Micah said vnto him, Whence commest thou? And he said vnto him, I am a Leuite, of Bethlehem Iudah, and I goe to soiourne where I may finde a place.",
         }),
 
         ("judges", 17, 10) => Some(Verse {
-            content: "",
+            content: "And Micah said vnto him, Dwell with me, and be vnto me a father and a Priest, and I will giue thee ten shekels of siluer by the yeere, and a suite of apparell, and thy victuals. So the Leuite went in.",
         }),
 
         ("judges", 17, 11) => Some(Verse {
-            content: "",
+            content: "And the Leuite was content to dwell with the man, and the yong man was vnto him as one of his sonnes.",
         }),
 
         ("judges", 17, 12) => Some(Verse {
-            content: "",
+            content: "And Micah consecrated the Leuite, and the young man became his Priest, and was in the house of Micah.",
         }),
 
         ("judges", 17, 13) => Some(Verse {
-            content: "",
+            content: "Then said Micah, Now know I that the Lord will doe me good, seeing I haue a Leuite to my Priest.",
         }),
 
         ("judges", 18, 1) => Some(Verse {
-            content: "",
+            content: "In those dayes there was no king in Israel: and in those daies the tribe of the Danites sought them an inheritance to dwel in: for vnto that day, all their inheritance had not fallen vnto them, among the tribes of Israel.",
         }),
 
         ("judges", 18, 2) => Some(Verse {
-            content: "",
+            content: "And the children of Dan sent of their family, fiue men from their coasts, men of valour, from Zorah, and from Eshtaol, to spy out the land, and to search it, and they said vnto them, Goe, search the land: Who when they came to mount Ephraim, to the house of Micah, they lodged there.",
         }),
 
         ("judges", 18, 3) => Some(Verse {
-            content: "",
+            content: "When they were by the house of Micah, they knew the voice of the yong man the Leuite: and they turned in thither, & said vnto him, Who brought thee hither? And what makest thou in this place? and what hast thou here?",
         }),
 
         ("judges", 18, 4) => Some(Verse {
-            content: "",
+            content: "And hee said vnto them, Thus and thus dealeth Micah with me, and hath hired me, and I am his Priest.",
         }),
 
         ("judges", 18, 5) => Some(Verse {
-            content: "",
+            content: "And they sayd vnto him, Aske counsell, we pray thee, of God, that we may know, whether our way which we goe, shall be prosperous.",
         }),
 
         ("judges", 18, 6) => Some(Verse {
-            content: "",
+            content: "And the Priest said vnto them, Goe in peace: before the Lord is your way wherein ye goe.",
         }),
 
         ("judges", 18, 7) => Some(Verse {
-            content: "",
+            content: "Then the fiue men departed, and came to Laish, and saw the people that were therein, how they dwelt carelesse, after the maner of the Zidonians, quiet and secure, and there was no magistrate in the land that might put them to shame in any thing, and they were farre from the Zidonians, and had no businesse with any man.",
         }),
 
         ("judges", 18, 8) => Some(Verse {
-            content: "",
+            content: "And they came vnto their brethren to Zorah, and Eshtaol: and their brethren said vnto them, What say yee?",
         }),
 
         ("judges", 18, 9) => Some(Verse {
-            content: "",
+            content: "And they said, Arise, that we may goe vp against them: for we haue seene the land, and behold, it is very good: and are ye still? Bee not slothfull to goe, and to enter to possesse the land.",
         }),
 
         ("judges", 18, 10) => Some(Verse {
-            content: "",
+            content: "When ye goe, ye shall come vnto a people secure, and to a large land: for God hath giuen it into your handes: a place where there is no want of any thing, that is in the earth.",
         }),
 
         ("judges", 18, 11) => Some(Verse {
-            content: "",
+            content: "And there went from thence of the family of the Danites out of Zorah, and out of Eshtaol, sixe hundred men, appoynted with weapons of warre.",
         }),
 
         ("judges", 18, 12) => Some(Verse {
-            content: "",
+            content: "And they went vp, and pitched in Kiriath-iearim, in Iudah: Wherefore they called that place Mahaneh-Dan, vnto this day: behold, it is behinde Kiriath-iearim.",
         }),
 
         ("judges", 18, 13) => Some(Verse {
-            content: "",
+            content: "And they passed thence vnto mount Ephraim, and came vnto the house of Micah.",
         }),
 
         ("judges", 18, 14) => Some(Verse {
-            content: "",
+            content: "Then answered the fiue men that went to spie out the countrey of Laish, and saide vnto their brethren, Doe ye know that there is in these houses an Ephod, and Teraphim, and a grauen image, and a molten image? Now therefore consider what ye haue to doe.",
         }),
 
         ("judges", 18, 15) => Some(Verse {
-            content: "",
+            content: "And they turned thitherward, and came to the house of the yong man the Leuite, euen vnto the house of Micah, and saluted him.",
         }),
 
         ("judges", 18, 16) => Some(Verse {
-            content: "",
+            content: "And the six hundred men appointed with their weapons of war, which were of the children of Dan, stood by the entring of the gate.",
         }),
 
         ("judges", 18, 17) => Some(Verse {
-            content: "",
+            content: "And the fiue men that went to spie out the land, went vp and came in thither, and tooke the grauen image, and the Ephod, and the Teraphim, and the molten image: and the Priest stood in the entring of the gate, with the sixe hundreth men that were appointed with weapons of warre.",
         }),
 
         ("judges", 18, 18) => Some(Verse {
-            content: "",
+            content: "And these went into Micahs house, and fetched the carued image, the Ephod, and the Teraphim, and the molten image: then said the Priest vnto them, What doe ye?",
         }),
 
         ("judges", 18, 19) => Some(Verse {
-            content: "",
+            content: "And they said vnto him, Hold thy peace, lay thine hand vpon thy mouth, and goe with vs, and bee to vs a father and a Priest: Is it better for thee to bee a Priest vnto the house of one man, or that thou be a Priest vnto a tribe and a family in Israel?",
         }),
 
         ("judges", 18, 20) => Some(Verse {
-            content: "",
+            content: "And the Priests heart was glad, and he tooke the Ephod, and the Teraphim, and the grauen image, and went in the middest of the people.",
         }),
 
         ("judges", 18, 21) => Some(Verse {
-            content: "",
+            content: "So they turned, and departed, and put the little ones, and the cattell, and the cariage before them.",
         }),
 
         ("judges", 18, 22) => Some(Verse {
-            content: "",
+            content: "And when they were a good way from the house of Micah, the men that were in the houses neere to Micahs house, were gathered together, and ouertooke the children of Dan.",
         }),
 
         ("judges", 18, 23) => Some(Verse {
-            content: "",
+            content: "And they cried vnto the children of Dan: and they turned their faces, and said vnto Micah, What aileth thee, that thou commest with such a company?",
         }),
 
         ("judges", 18, 24) => Some(Verse {
-            content: "",
+            content: "And he said, Yee haue taken away my gods which I made, and the Priest, and ye are gone away: and what haue I more? and what is this that yee say vnto me, What aileth thee?",
         }),
 
         ("judges", 18, 25) => Some(Verse {
-            content: "",
+            content: "And the children of Dan said vnto him, Let not thy voyce bee heard among vs, lest angry fellowes run vpon thee, and thou lose thy life, with the liues of thy houshold.",
         }),
 
         ("judges", 18, 26) => Some(Verse {
-            content: "",
+            content: "And the children of Dan went their way: and when Micah sawe that they were too strong for him, he turned and went backe vnto his house.",
         }),
 
         ("judges", 18, 27) => Some(Verse {
-            content: "",
+            content: "And they tooke the things which Micah had made, and the Priest which hee had, and came vnto Laish, vnto a people that were at quiet, and secure, and they smote them with the edge of the sword, and burnt the citie with fire.",
         }),
 
         ("judges", 18, 28) => Some(Verse {
-            content: "",
+            content: "And there was no deliuerer, because it was farre from Zidon, and they had no businesse with any man: and it was in the valley that lieth by Beth-rehob, and they built a citie, and dwelt therein.",
         }),
 
         ("judges", 18, 29) => Some(Verse {
-            content: "",
+            content: "And they called the name of the city, Dan, after the name of Dan their father, who was borne vnto Israel: howbeit the name of the citie was Laish at the first.",
         }),
 
         ("judges", 18, 30) => Some(Verse {
-            content: "",
+            content: "And the children of Dan set vp the grauen image: and Ionathan the sonne of Gershom, the sonne of Manasseh, hee and his sonnes, were Priests to the tribe of Dan, vntill the day of the captiuitie of the land.",
         }),
 
         ("judges", 18, 31) => Some(Verse {
-            content: "",
-        }),
-
-        ("judges", 18, 32) => Some(Verse {
-            content: "",
-        }),
-
-        ("judges", 18, 33) => Some(Verse {
-            content: "",
+            content: "And they set them vp Micahs grauen image, which hee made, all the time that the house of God was in Shiloh.",
         }),
 
         ("judges", 19, 1) => Some(Verse {
-            content: "",
+            content: "And it came to passe in those dayes, when there was no King in Israel, that there was a certaine Leuite soiourning on the side of mount Ephraim, who tooke to him a concubine out of Bethlehem Iudah.",
         }),
 
         ("judges", 19, 2) => Some(Verse {
-            content: "",
+            content: "And his concubine played the whore against him, and went away from him vnto her fathers house to Bethlehem Iudah, and was there foure whole moneths.",
         }),
 
         ("judges", 19, 3) => Some(Verse {
-            content: "",
+            content: "And her husband arose, and went after her to speake friendly vnto her, and to bring her againe, hauing his seruant with him, and a couple of asses: and shee brought him into her fathers house, and when the father of the damsell saw him, he reioyced to meet him.",
         }),
 
         ("judges", 19, 4) => Some(Verse {
-            content: "",
+            content: "And his father in law, the damosels father, reteined him, and hee abode with him three dayes: so they did eate and drinke, and lodged there.",
         }),
 
         ("judges", 19, 5) => Some(Verse {
-            content: "",
+            content: "And it came to passe on the fourth day, when they arose earely in the morning, that he rose vp to depart: and the damosels father saide vnto his sonne in lawe, Comfort thine heart with a morsell of bread, and afterward goe your way.",
         }),
 
         ("judges", 19, 6) => Some(Verse {
-            content: "",
+            content: "And they sate downe, and did eat and drinke both of them together: for the damosels father had saide vnto the man, Be content, I pray thee, and tary all night, and let thine heart be merrie.",
         }),
 
         ("judges", 19, 7) => Some(Verse {
-            content: "",
+            content: "And when the man rose vp to depart, his father in law vrged him: therfore he lodged there againe.",
         }),
 
         ("judges", 19, 8) => Some(Verse {
-            content: "",
+            content: "And hee arose early in the morning on the fift day to depart, and the damosels father sayd, Comfort thine heart, I pray thee. And they taried vntill after noone, and they did eate both of them.",
         }),
 
         ("judges", 19, 9) => Some(Verse {
-            content: "",
+            content: "And when the man rose vp to depart, hee and his concubine, and his seruant; his father in law, the damsels father, said vnto him, Behold, now the day draweth towardes euening, I pray you tarie all night: behold, the day groweth to an ende, lodge heere, that thine heart may be merrie; and to morrow get you early on your way, that thou mayest goe home.",
         }),
 
         ("judges", 19, 10) => Some(Verse {
-            content: "",
+            content: "But the man would not tary that night, but he rose vp and departed, and came ouer against Iebus (which is Ierusalem:) and there were with him two asses sadled, his concubine also was with him.",
         }),
 
         ("judges", 19, 11) => Some(Verse {
-            content: "",
+            content: "And when they were by Iebus, the day was farre spent, and the seruant said vnto his master, Come, I pray thee, and let vs turne in into this citie of the Iebusites, and lodge in it.",
         }),
 
         ("judges", 19, 12) => Some(Verse {
-            content: "",
+            content: "And his master said vnto him, We will not turne aside hither into the citie of a stranger, that is not of the children of Israel, we will passe ouer to Gibeah.",
         }),
 
         ("judges", 19, 13) => Some(Verse {
-            content: "",
+            content: "And hee sayde vnto his seruant, Come, and let vs draw neere to one of these places to lodge all night, in Gibeah, or in Ramah.",
         }),
 
         ("judges", 19, 14) => Some(Verse {
-            content: "",
+            content: "And they passed on and went their way, and the sunne went downe vpon them when they were by Gibeah, which belongeth to Beniamin.",
         }),
 
         ("judges", 19, 15) => Some(Verse {
-            content: "",
+            content: "And they turned aside thither, to go in and to lodge in Gibeah: and when he went in, he sate him downe in a street of the citie: for there was no man that tooke them into his house to lodging.",
         }),
 
         ("judges", 19, 16) => Some(Verse {
-            content: "",
+            content: "And behold, there came an olde man from his worke out of the field at euen, which was also of mount Ephraim; and hee soiourned in Gibeah, but the men of the place were Beniamites.",
         }),
 
         ("judges", 19, 17) => Some(Verse {
-            content: "",
+            content: "And when he had lift vp his eyes, he saw a wayfaring man in the streete of the citie: and the old man said, Whither goest thou? and whence commest thou?",
         }),
 
         ("judges", 19, 18) => Some(Verse {
-            content: "",
+            content: "And he said vnto him, We are passing from Bethlehem Iudah, toward the side of mount Ephraim, from thence am I: and I went to Bethlehem Iudah, but I am now going to the house of the Lord, and there is no man that receiueth me to house.",
         }),
 
         ("judges", 19, 19) => Some(Verse {
-            content: "",
+            content: "Yet there is both straw and prouender for our asses, and there is bread and wine also for me and for thy handmaid, and for the young man which is with thy seruants: there is no want of any thing.",
         }),
 
         ("judges", 19, 20) => Some(Verse {
-            content: "",
+            content: "And the olde man said, Peace be with thee; howsoeuer, let all thy wants lie vpon me; only lodge not in the street.",
         }),
 
         ("judges", 19, 21) => Some(Verse {
-            content: "",
+            content: "So he brought him into his house, and gaue prouender vnto the asses: and they washed their feet, and did eate and drinke.",
         }),
 
         ("judges", 19, 22) => Some(Verse {
-            content: "",
+            content: "Now as they were making their hearts merrie, behold, the men of the citie, certaine sonnes of Belial, beset the house round about, and beat at the doore, and spake to the master of the house, the olde man, saying; Bring foorth the man that came into thine house, that we may know him.",
         }),
 
         ("judges", 19, 23) => Some(Verse {
-            content: "",
+            content: "And the man, the master of the house, went out vnto them, and said vnto them, Nay my brethren, nay, I pray you doe not so wickedly; seeing that this man is come into mine house, doe not this folly.",
         }),
 
         ("judges", 19, 24) => Some(Verse {
-            content: "",
+            content: "Behold, here is my daughter, a maiden, and his concubine, them I wil bring out now, and humble yee them, and doe with them what seemeth good vnto you: but vnto this man doe not so vile a thing.",
         }),
 
         ("judges", 19, 25) => Some(Verse {
-            content: "",
+            content: "But the men would not hearken to him: so the man tooke his concubine, and brought her foorth vnto them, and they knew her, and abused her all the night vntil the morning: and when the day began to spring, they let her goe.",
         }),
 
         ("judges", 19, 26) => Some(Verse {
-            content: "",
+            content: "Then came the woman in the dawning of the day, and fell downe at the doore of the mans house, where her lord was, till it was light.",
         }),
 
         ("judges", 19, 27) => Some(Verse {
-            content: "",
+            content: "And her lord rose vp in the morning, & opened the doores of the house, and went out to goe his way: and behold, the woman his concubine was fallen downe at the doore of the house, and her hands were vpon the threshold.",
         }),
 
         ("judges", 19, 28) => Some(Verse {
-            content: "",
+            content: "And he said vnto her, Up, and let vs be going. But none answered: then the man tooke her vp vpon an asse, and the man rose vp, and gate him vnto his place.",
         }),
 
         ("judges", 19, 29) => Some(Verse {
-            content: "",
+            content: "And when he was come into his house, hee tooke a knife, and layd hold on his concubine, and diuided her, together with her bones, into twelue pieces, and sent her into all the coasts of Israel.",
         }),
 
         ("judges", 19, 30) => Some(Verse {
-            content: "",
+            content: "And it was so that all that saw it, said, There was no such deed done nor seene, from the day that the children of Israel came vp out of the land of Egypt, vnto this day: consider of it, take aduise, and speake your mindes.",
         }),
 
         ("judges", 20, 1) => Some(Verse {
-            content: "",
+            content: "Then all the children of Israel went out, and the Congregation was gathered together as one man, from Dan euen to Beer-sheba, with the land of Gilead, vnto the Lord in Mizpeh.",
         }),
 
         ("judges", 20, 2) => Some(Verse {
-            content: "",
+            content: "And the chiefe of al the people, euen of all the tribes of Israel, presented themselues in the assembly of the people of God, foure hundred thousand footmen that drew sword.",
         }),
 
         ("judges", 20, 3) => Some(Verse {
-            content: "",
+            content: "(Now the children of Beniamin heard that the children of Israel were gone vp to Mizpeh.) Then said the children of Israel, Tell vs, how was this wickednesse?",
         }),
 
         ("judges", 20, 4) => Some(Verse {
-            content: "",
+            content: "And the Leuite the husband of the woman that was slaine, answered and said, I came into Gibeah that belongeth to Beniamin, I and my concubine, to lodge.",
         }),
 
         ("judges", 20, 5) => Some(Verse {
-            content: "",
+            content: "And the men of Gibeah rose against me, and beset the house round about vpon me by night, and thought to haue slaine mee, and my concubine haue they forced that she is dead.",
         }),
 
         ("judges", 20, 6) => Some(Verse {
-            content: "",
+            content: "And I tooke my concubine, and cut her in pieces, and sent her throughout all the countrey of the inheritance of Israel: for they haue committed lewdnesse and folly in Israel.",
         }),
 
         ("judges", 20, 7) => Some(Verse {
-            content: "",
+            content: "Behold, ye are all children of Israel, giue here your aduise and counsell.",
         }),
 
         ("judges", 20, 8) => Some(Verse {
-            content: "",
+            content: "And all the people arose as one man, saying, We will not any of vs goe to his tent, neither will wee any of vs turne into his house:",
         }),
 
         ("judges", 20, 9) => Some(Verse {
-            content: "",
+            content: "But now, this shall bee the thing which we will doe to Gibeah, we will goe vp by lot against it:",
         }),
 
         ("judges", 20, 10) => Some(Verse {
-            content: "",
+            content: "And we wil take ten men of a hundred throughout all the tribes of Israel, and an hundred of a thousand, and a thousand out of ten thousand, to fetch victuall for the people, that they may doe, when they come to Gibeah of Beniamin, according to all the folly that they haue wrought in Israel.",
         }),
 
         ("judges", 20, 11) => Some(Verse {
-            content: "",
+            content: "So all the men of Israel were gathered against the citie, knit together as one man.",
         }),
 
         ("judges", 20, 12) => Some(Verse {
-            content: "",
+            content: "And the tribes of Israel sent men thorow all the tribe of Beniamin, saying, What wickednesse is this that is done among you?",
         }),
 
         ("judges", 20, 13) => Some(Verse {
-            content: "",
+            content: "Now therfore deliuer vs the men, the children of Belial which are in Gibeah, that wee may put them to death, and put away euill from Israel: but the children of Beniamin would not hearken to the voice of their brethren the children of Israel.",
         }),
 
         ("judges", 20, 14) => Some(Verse {
-            content: "",
+            content: "But the children of Beniamin gathered themselues together out of the cities, vnto Gibeah, to goe out to battell against the children of Israel.",
         }),
 
         ("judges", 20, 15) => Some(Verse {
-            content: "",
+            content: "And the children of Beniamin were numbred at that time out of the cities, twentie and sixe thousand men that drew sword, beside the inhabitants of Gibeah, which were numbred seuen hundred chosen men.",
         }),
 
         ("judges", 20, 16) => Some(Verse {
-            content: "",
+            content: "Among all this people there were seuen hundred chosen men left handed, euery one could sling stones at an haire breadth, and not misse.",
         }),
 
         ("judges", 20, 17) => Some(Verse {
-            content: "",
+            content: "And the men of Israel, beside Beniamin, were numbred foure hundred thousand men that drewe sword; all these were men of warre.",
         }),
 
         ("judges", 20, 18) => Some(Verse {
-            content: "",
+            content: "And the children of Israel arose, and went vp to the house of God, and asked counsell of God, and saide, Which of vs shall goe vp first to the battell against the children of Beniamin? And the Lord said, Iudah shall goe vp first.",
         }),
 
         ("judges", 20, 19) => Some(Verse {
-            content: "",
+            content: "And the children of Israel rose vp in the morning, and encamped against Gibeah.",
         }),
 
         ("judges", 20, 20) => Some(Verse {
-            content: "",
+            content: "And the men of Israel went out to battell against Beniamin, and the men of Israel put themselues in aray to fight against them at Gibeah.",
         }),
 
         ("judges", 20, 21) => Some(Verse {
-            content: "",
+            content: "And the children of Beniamin came forth out of Gibeah, and destroied downe to the ground of the Israelites that day, twenty & two thousand men.",
         }),
 
         ("judges", 20, 22) => Some(Verse {
-            content: "",
+            content: "And the people the men of Israel incouraged themselues, & set their battel againe in aray, in the place where they put themselues in aray the first day.",
         }),
 
         ("judges", 20, 23) => Some(Verse {
-            content: "",
+            content: "(And the children of Israel went vp and wept before the Lord vntill Euen, and asked counsel of the Lord, saying, Shall I goe vp againe to battell against the children of Beniamin my brother? And the Lord saide, Goe vp against him.)",
         }),
 
         ("judges", 20, 24) => Some(Verse {
-            content: "",
+            content: "And the children of Israel came neere against the children of Beniamin, the second day.",
         }),
 
         ("judges", 20, 25) => Some(Verse {
-            content: "",
+            content: "And Beniamin went foorth against them out of Gibeah the second day, & destroyed down to the ground of the children of Israel againe, eighteene thousand men, all these drew the sword.",
         }),
 
         ("judges", 20, 26) => Some(Verse {
-            content: "",
+            content: "Then all the children of Israel, and all the people went vp, and came vnto the house of God, and wept, and sate there before the Lord, and fasted that day vntill Euen, and offered burnt offerings, and peace offerings before the Lord.",
         }),
 
         ("judges", 20, 27) => Some(Verse {
-            content: "",
+            content: "And the children of Israel enquired of the Lord, (for the Arke of þe couenant of God was there in those daies,",
         }),
 
         ("judges", 20, 28) => Some(Verse {
-            content: "",
+            content: "And Phinehas the sonne of Eleazar the sonne of Aaron stood before it in those dayes.) saying; Shall I yet againe goe out to battel against the children of Beniamin my brother, or shall I cease? And the Lord said, Goe vp; for to morrow I will deliuer them into thine hand.",
         }),
 
         ("judges", 20, 29) => Some(Verse {
-            content: "",
+            content: "And Israel set lyers in waite round about Gibeah.",
         }),
 
         ("judges", 20, 30) => Some(Verse {
-            content: "",
+            content: "And the children of Israel went vp against the children of Beniamin on the third day, and put themselues in aray against Gibeah, as at other times.",
         }),
 
         ("judges", 20, 31) => Some(Verse {
-            content: "",
+            content: "And the children of Beniamin went out against the people, and were drawen away from the citie, and they began to smite of the people and kill as at other times, in the high wayes, of which one goeth vp to the house of God, and the other to Gibeah in the field, about thirtie men of Israel.",
         }),
 
         ("judges", 20, 32) => Some(Verse {
-            content: "",
+            content: "And the children of Beniamin said, They are smitten downe before vs, as at the first: But the children of Israel said, Let vs flee, and draw them from the citie, vnto the high wayes.",
         }),
 
         ("judges", 20, 33) => Some(Verse {
-            content: "",
+            content: "And all the men of Israel rose vp out of their place, and put themselues in aray at Baal Tamar: and the lyers in waite of Israel came foorth out of their places, euen out of the medowes of Gibeah.",
         }),
 
         ("judges", 20, 34) => Some(Verse {
-            content: "",
+            content: "And there came against Gibeah ten thousand chosen men, out of all Israel, and the battell was sore: but they knew not that euill was neere them.",
         }),
 
         ("judges", 20, 35) => Some(Verse {
-            content: "",
+            content: "And the Lord smote Beniamin before Israel, and the children of Israel destroyed of the Beniamites that day, twentie and fiue thousand, and an hundred men; all these drew the sword.",
         }),
 
         ("judges", 20, 36) => Some(Verse {
-            content: "",
+            content: "So the children of Beniamin saw that they were smitten: for the men of Israel gaue place to the Beniamites, because they trusted vnto the lyers in wait, which they had set beside Gibeah.",
         }),
 
         ("judges", 20, 37) => Some(Verse {
-            content: "",
+            content: "And the liers in wait hasted, and rushed vpon Gibeah, and the liers in wait drew themselues along, and smote all the citie with the edge of the sword.",
         }),
 
         ("judges", 20, 38) => Some(Verse {
-            content: "",
+            content: "Nowe there was an appointed signe between the men of Israel and the liers in wait, that they should make a great flame with smoke rise vp out of the citie.",
         }),
 
         ("judges", 20, 39) => Some(Verse {
-            content: "",
+            content: "And when the men of Israel retired in the battell, Beniamin began to smite and kill of the men of Israel about thirtie persons; for they saide, Surely they are smitten downe before vs, as in the first battell.",
         }),
 
         ("judges", 20, 40) => Some(Verse {
-            content: "",
+            content: "But when the flame began to arise vp out of the citie, with a pillar of smoke, the Beniamites looked behind them, and behold, the flame of the citie ascended vp to heauen.",
         }),
 
         ("judges", 20, 41) => Some(Verse {
-            content: "",
+            content: "And when the men of Israel turned againe, the men of Beniamin were amased; for they saw that euill was come vpon them.",
         }),
 
         ("judges", 20, 42) => Some(Verse {
-            content: "",
+            content: "Therefore they turned their backs before the men of Israel, vnto þe way of the wildernes, but the battel ouertooke them: & them which came out of the cities, they destroyed in the midst of them.",
         }),
 
         ("judges", 20, 43) => Some(Verse {
-            content: "",
+            content: "Thus they inclosed the Beniamites round about, and chased them, and trode them downe with ease ouer against Gibeah toward the sunne rising.",
         }),
 
         ("judges", 20, 44) => Some(Verse {
-            content: "",
+            content: "And there fell of Beniamin eighteene thousand men; all these were men of valour.",
         }),
 
         ("judges", 20, 45) => Some(Verse {
-            content: "",
+            content: "And they turned and fled toward the wildernesse vnto the rocke of Rimmon: and they gleaned of them in the high wayes fiue thousand men: and pursued hard after them vnto Gidom, and slew two thousand men of them.",
         }),
 
         ("judges", 20, 46) => Some(Verse {
-            content: "",
+            content: "So that all which fell that day of Beniamin, were twentie and fiue thousand men that drew the sword; all these were men of valour.",
         }),
 
         ("judges", 20, 47) => Some(Verse {
-            content: "",
+            content: "But sixe hundred men turned and fledde to the wildernesse vnto the rocke Rimmon, and abode in the rocke Rimmon foure moneths.",
         }),
 
         ("judges", 20, 48) => Some(Verse {
-            content: "",
+            content: "And the men of Israel turned againe vpon the children of Beniamin, and smote them with the edge of the sword, as well the men of euery citie, as the beast, and all that came to hand: also they set on fire all the cities that they came to.",
         }),
 
         ("judges", 21, 1) => Some(Verse {
-            content: "",
+            content: "Nowe the men of Israel had sworne in Mizpeh, saying, There shall not any of vs giue his daughter vnto Beniamin to wife.",
         }),
 
         ("judges", 21, 2) => Some(Verse {
-            content: "",
+            content: "And the people came to the house of God, and abode there till euen before God, and lift vp their voices, and wept sore:",
         }),
 
         ("judges", 21, 3) => Some(Verse {
-            content: "",
+            content: "And said, O Lord God of Israel, why is this come to passe in Israel, that there should bee to day one tribe lacking in Israel?",
         }),
 
         ("judges", 21, 4) => Some(Verse {
-            content: "",
+            content: "And it came to passe on the morrow, that the people rose early, and built there an Altar, and offered burnt offerings, and peace offerings.",
         }),
 
         ("judges", 21, 5) => Some(Verse {
-            content: "",
+            content: "And the children of Israel sayd, Who is there among all the tribes of Israel, that came not vp with the congregation vnto the Lord ? for they had made a great oath concerning him that came not vp to the Lord to Mizpeh, saying, He shall surely be put to death.",
         }),
 
         ("judges", 21, 6) => Some(Verse {
-            content: "",
+            content: "And the children of Israel repented them for Beniamin their brother, and said, There is one tribe cut off from Israel this day:",
         }),
 
         ("judges", 21, 7) => Some(Verse {
-            content: "",
+            content: "How shall wee doe for wiues for them that remaine, seeing wee haue sworne by the Lord, that wee will not giue them of our daughters to wiues?",
         }),
 
         ("judges", 21, 8) => Some(Verse {
-            content: "",
+            content: "And they said, What one is there of the tribes of Israel, that came not vp to Mizpeh to the Lord ? And beholde, there came none to the campe from Iabesh Gilead to the assembly.",
         }),
 
         ("judges", 21, 9) => Some(Verse {
-            content: "",
+            content: "For the people were numbred, and behold, there were none of the inhabitants of Iabesh Gilead there.",
         }),
 
         ("judges", 21, 10) => Some(Verse {
-            content: "",
+            content: "And the congregation sent thither twelue thousand men of the valiantest, and commaunded them, saying, Goe, and smite the inhabitants of Iabesh Gilead with the edge of the sword, with the women and the children.",
         }),
 
         ("judges", 21, 11) => Some(Verse {
-            content: "",
+            content: "And this is the thing that yee shall doe, Yee shall vtterly destroy euery male, and euery woman that hath lien by man.",
         }),
 
         ("judges", 21, 12) => Some(Verse {
-            content: "",
+            content: "And they found among the inhabitants of Iabesh Gilead, foure hundred yong virgins that had knowen no man, by lying with any male: and they brought them vnto the campe to Shiloh, which is in the land of Canaan.",
         }),
 
         ("judges", 21, 13) => Some(Verse {
-            content: "",
+            content: "And the whole Congregation sent some to speake to the children of Beniamin that were in the rocke Rimmon, and to call peaceably vnto them.",
         }),
 
         ("judges", 21, 14) => Some(Verse {
-            content: "",
+            content: "And Beniamin came againe at that time, and they gaue them wiues which they had saued aliue of the women of Iabesh Gilead: and yet so they sufficed them not.",
         }),
 
         ("judges", 21, 15) => Some(Verse {
-            content: "",
+            content: "And the people repented them for Beniamin, because that the Lord had made a breach in the tribes of Israel.",
         }),
 
         ("judges", 21, 16) => Some(Verse {
-            content: "",
+            content: "Then the Elders of the Congregation said, How shall we doe for wiues for them that remaine? seeing the women are destroyed out of Beniamin.",
         }),
 
         ("judges", 21, 17) => Some(Verse {
-            content: "",
+            content: "And they said, There must be an inheritance for them that bee escaped of Beniamin, that a tribe be not destroyed out of Israel.",
         }),
 
         ("judges", 21, 18) => Some(Verse {
-            content: "",
+            content: "Howbeit wee may not giue them wiues of our daughters. For the children of Israel haue sworne, saying, Cursed be he that giueth a wife to Beniamin.",
         }),
 
         ("judges", 21, 19) => Some(Verse {
-            content: "",
+            content: "Then they said, Behold, there is a feast of the Lord in Shiloh yerely, in a place which is on the Northside of Bethel on the East side of the hie way that goeth vp from Bethel to Shechem, and on the South of Lebanon.",
         }),
 
         ("judges", 21, 20) => Some(Verse {
-            content: "",
+            content: "Therefore they commanded the children of Beniamin, saying, Goe and lie in wait in the vineyards.",
         }),
 
         ("judges", 21, 21) => Some(Verse {
-            content: "",
+            content: "And see, and behold, if the daughters of Shiloh come out to daunce in daunces, then come yee out of the vineyards, and catch you euery man his wife of the daughters of Shiloh, and goe to the land of Beniamin.",
         }),
 
         ("judges", 21, 22) => Some(Verse {
-            content: "",
+            content: "And it shall bee when their fathers or their brethren come vnto vs to complaine, that we will say vnto them, Bee fauourable vnto them for our sakes: because we reserued not to each man his wife in the warre: for yee did not giue vnto them at this time, that you should be guiltie.",
         }),
 
         ("judges", 21, 23) => Some(Verse {
-            content: "",
+            content: "And the children of Beniamin did so, and tooke them wiues according to their number, of them that daunced, whome they caught: and they went and returned vnto their inheritance, and repaired the cities, and dwelt in them.",
         }),
 
         ("judges", 21, 24) => Some(Verse {
-            content: "",
+            content: "And the children of Israel departed thence at that time, euery man to his tribe, and to his family, and they went out from thence euery man to his inheritance.",
         }),
 
         ("judges", 21, 25) => Some(Verse {
-            content: "",
+            content: "In those dayes there was no King in Israel: euery man did that which was right in his owne eyes.",
         }),
 
         ("ruth", 1, 1) => Some(Verse {
-            content: "",
+            content: "Nowe it came to passe in the dayes when þe Iudges ruled, that there was a famine in the land: and a certaine man of Bethlehem Iudah, went to soiourne in the countrey of Moab, he, and his wife, and his two sonnes.",
         }),
 
         ("ruth", 1, 2) => Some(Verse {
-            content: "",
+            content: "And the name of the man was Elimelech, and the name of his wife, Naomi, and the name of his two sonnes, Mahlon, and Chilion, Ephrathites of Bethlehem Iudah: and they came into the countrey of Moab, and continued there.",
         }),
 
         ("ruth", 1, 3) => Some(Verse {
-            content: "",
+            content: "And Elimelech Naomies husband died, and shee was left, and her two sonnes;",
         }),
 
         ("ruth", 1, 4) => Some(Verse {
-            content: "",
+            content: "And they tooke them wiues of the women of Moab: the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten yeeres.",
         }),
 
         ("ruth", 1, 5) => Some(Verse {
-            content: "",
+            content: "And Mahlon and Chilion died also both of them, and the woman was left of her two sonnes, and her husband.",
         }),
 
         ("ruth", 1, 6) => Some(Verse {
-            content: "",
+            content: "Then shee arose with her daughters in law, that shee might returne from the countrey of Moab: for shee had heard in the countrey of Moab, how that the Lord had visited his people, in giuing them bread.",
         }),
 
         ("ruth", 1, 7) => Some(Verse {
-            content: "",
+            content: "Wherefore she went foorth out of the place where she was, and her two daughters in law with her: and they went on the way to returne vnto the land of Iudah.",
         }),
 
         ("ruth", 1, 8) => Some(Verse {
-            content: "",
+            content: "Aud Naomi said vnto her two daughters in law, Goe, returne each to her mothers house: the Lord deale kindly with you, as ye haue dealt with the dead, and with me.",
         }),
 
         ("ruth", 1, 9) => Some(Verse {
-            content: "",
+            content: "The Lord graunt you, that you may finde rest each of you in the house of her husband. Then she kissed them, and they lift vp their voyce and wept.",
         }),
 
         ("ruth", 1, 10) => Some(Verse {
-            content: "",
+            content: "And they said vnto her, Surely wee will returne with thee, vnto thy people.",
         }),
 
         ("ruth", 1, 11) => Some(Verse {
-            content: "",
+            content: "And Naomi said, Turne againe, my daughters: why will you goe with mee? Are there yet any moe sonnes in my wombe, that they may be your husbands?",
         }),
 
         ("ruth", 1, 12) => Some(Verse {
-            content: "",
+            content: "Turne againe, my daughters, go your way, for I am too old to haue an husband: if I should say, I haue hope, if I should haue a husband also to night, and should also beare sonnes:",
         }),
 
         ("ruth", 1, 13) => Some(Verse {
-            content: "",
+            content: "Would ye tary for them till they were growen? would ye stay for them from hauing husbands? nay my daughters: for it grieueth me much for your sakes, that the hand of the Lord is gone out against me.",
         }),
 
         ("ruth", 1, 14) => Some(Verse {
-            content: "",
+            content: "And they lift vp their voyce, and wept againe: and Orpah kissed her mother in law, but Ruth claue vnto her.",
         }),
 
         ("ruth", 1, 15) => Some(Verse {
-            content: "",
+            content: "And she said, Behold, thy sister in law is gone backe vnto her people, and vnto her gods: returne thou after thy sister in law.",
         }),
 
         ("ruth", 1, 16) => Some(Verse {
-            content: "",
+            content: "And Ruth said, Intreate mee not to leaue thee, or to returne from following after thee: for whither thou goest, I will goe; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:",
         }),
 
         ("ruth", 1, 17) => Some(Verse {
-            content: "",
+            content: "Where thou diest, wil I die, and there will I bee buried: the Lord doe so to me, and more also, if ought but death part thee and me.",
         }),
 
         ("ruth", 1, 18) => Some(Verse {
-            content: "",
+            content: "When shee sawe that shee was stedfastly minded to goe with her, then shee left speaking vnto her.",
         }),
 
         ("ruth", 1, 19) => Some(Verse {
-            content: "",
+            content: "So they two went vntill they came to Bethlehem: And it came to passe when they were come to Bethlehem, that all the citie was mooued about them, and they said, Is this Naomi?",
         }),
 
         ("ruth", 1, 20) => Some(Verse {
-            content: "",
+            content: "And she said vnto them, Call me not Naomi; call mee Mara: for the Almightie hath dealt very bitterly with me.",
         }),
 
         ("ruth", 1, 21) => Some(Verse {
-            content: "",
+            content: "I went out full, and the Lord hath bought me home againe emptie: Why then call ye me Naomi, seeing the Lord hath testified against me, and the Almighty hath afflicted me?",
         }),
 
         ("ruth", 1, 22) => Some(Verse {
-            content: "",
+            content: "So Naomi returned, and Ruth the Moabitesse her daughter in law with her, which returned out of the countrey of Moab: and they came to Bethlehem, in the beginning of barley haruest.",
         }),
 
         ("ruth", 2, 1) => Some(Verse {
-            content: "",
+            content: "And Naomi had a kinseman of her husbands, a mighty man of wealth, of the familie of Elimelech, and his name was Boaz.",
         }),
 
         ("ruth", 2, 2) => Some(Verse {
-            content: "",
+            content: "And Ruth the Moabitesse saide vnto Naomi, Let me now goe to the field, and gleane eares of corne after him, in whose sight I shall finde grace. And shee saide vnto her, Goe, my daughter.",
         }),
 
         ("ruth", 2, 3) => Some(Verse {
-            content: "",
+            content: "And she went, and came, and gleaned in the field after the reapers: and her happe was to light on a part of the fielde belonging vnto Boaz, who was of the kinred of Elimelech.",
         }),
 
         ("ruth", 2, 4) => Some(Verse {
-            content: "",
+            content: "And behold, Boaz came from Bethlehem, and said vnto the reapers, The Lord bee with you; and they answered him, The Lord blesse thee.",
         }),
 
         ("ruth", 2, 5) => Some(Verse {
-            content: "",
+            content: "Then said Boaz vnto his seruant, that was set ouer the reapers, Whose damosell is this?",
         }),
 
         ("ruth", 2, 6) => Some(Verse {
-            content: "",
+            content: "And the seruaunt that was set ouer the reapers, answered and said, It is the Moabitish damosell that came backe with Naomi out of the countrey of Moab:",
         }),
 
         ("ruth", 2, 7) => Some(Verse {
-            content: "",
+            content: "And she said, I pray you, let mee gleane and gather after the reapers amongst the sheaues: so shee came, and hath continued euen from the morning vntill now, that she taried a little in the house.",
         }),
 
         ("ruth", 2, 8) => Some(Verse {
-            content: "",
+            content: "Then said Boaz vnto Ruth, Hearest thou not, my daughter? Goe not to gleane in another field, neither goe from hence, but abide here fast by my maidens.",
         }),
 
         ("ruth", 2, 9) => Some(Verse {
-            content: "",
+            content: "Let thine eyes be on the field that they doe reape, and go thou after them: Haue I not charged the young men, that they shall not touch thee? and when thou art athirst, goe vnto the vessels, and drinke of that which the yong men haue drawen.",
         }),
 
         ("ruth", 2, 10) => Some(Verse {
-            content: "",
+            content: "Then she fel on her face, and bowed her selfe to the ground, and said vnto him, Why haue I found grace in thine eyes, that thou shouldest take knowledge of me, seeing I am a stranger?",
         }),
 
         ("ruth", 2, 11) => Some(Verse {
-            content: "",
+            content: "And Boaz answered and said vnto her, It hath fully bene shewed me, all that thou hast done vnto thy mother in law since the death of thine husband: and how thou hast left thy father and thy mother, and the land of thy natiuitie, and art come vnto a people, which thou knewest not heretofore.",
         }),
 
         ("ruth", 2, 12) => Some(Verse {
-            content: "",
+            content: "The Lord recompense thy worke, and a full reward be giuen thee of the Lord God of Israel, vnder whose wings thou art come to trust.",
         }),
 
         ("ruth", 2, 13) => Some(Verse {
-            content: "",
+            content: "Then she said, Let me finde fauour in thy sight, my lord, for that thou hast comforted mee, and for that thou hast spoken friendly vnto thine handmaid, though I be not like vnto one of thy hand-maidens.",
         }),
 
         ("ruth", 2, 14) => Some(Verse {
-            content: "",
+            content: "And Boaz sayde vnto her, At meale time come thou hither, and eate of the bread, and dip thy morsell in the vineger. And shee sate beside the reapers: and he reached her parched corne, and she did eate, and was sufficed, and left.",
         }),
 
         ("ruth", 2, 15) => Some(Verse {
-            content: "",
+            content: "And when shee was risen vp to gleane, Boaz commanded his young men, saying, Let her gleane euen among the sheaues, & reproch her not.",
         }),
 
         ("ruth", 2, 16) => Some(Verse {
-            content: "",
+            content: "And let fall also some of the handfuls of purpose for her, and leaue them that she may gleane them, and rebuke her not.",
         }),
 
         ("ruth", 2, 17) => Some(Verse {
-            content: "",
+            content: "So she gleaned in the field vntill euen, and beat out that she had gleaned: and it was about an Ephah of barley.",
         }),
 
         ("ruth", 2, 18) => Some(Verse {
-            content: "",
+            content: "And shee tooke it vp, and went into the citie: and her mother in lawe saw what shee had gleaned; and shee brought foorth, and gaue to her that she had reserued, after she was sufficed.",
         }),
 
         ("ruth", 2, 19) => Some(Verse {
-            content: "",
+            content: "And her mother in law said vnto her, Where hast thou gleaned to day? and where wroughtest thou? blessed be hee that did take knowledge of thee. And shee shewed her mother in lawe with whom shee had wrought, and said, The mans name with whom I wrought to day, is Boaz.",
         }),
 
         ("ruth", 2, 20) => Some(Verse {
-            content: "",
+            content: "And Naomi said vnto her daughter in law, Blessed be he of the Lord, who hath not left off his kindnesse to the liuing and to the dead. And Naomi said vnto her, The man is neere of kin vnto vs, one of our next kinsemen.",
         }),
 
         ("ruth", 2, 21) => Some(Verse {
-            content: "",
+            content: "And Ruth the Moabitesse said, He said vnto me also, Thou shalt keepe fast by my yong men, vntill they haue ended all my haruest.",
         }),
 
         ("ruth", 2, 22) => Some(Verse {
-            content: "",
+            content: "And Naomi said vnto Ruth her daughter in law, It is good, my daughter, that thou goe out with his maidens, that they meete thee not in any other field.",
         }),
 
         ("ruth", 2, 23) => Some(Verse {
-            content: "",
+            content: "So shee kept fast by the maidens of Boaz to gleane, vnto the end of barley haruest, and of wheat haruest, and dwelt with her mother in law.",
         }),
 
         ("ruth", 3, 1) => Some(Verse {
-            content: "",
+            content: "Then Naomi her mother in law said vnto her, My daughter, shal I not seeke rest for thee, that it may be well with thee?",
         }),
 
         ("ruth", 3, 2) => Some(Verse {
-            content: "",
+            content: "And now is not Boaz of our kinred, with whose maidens thou wast? Behold, he winnoweth barley to night in the threshing floore.",
         }),
 
         ("ruth", 3, 3) => Some(Verse {
-            content: "",
+            content: "Wash thy selfe therefore, and annoint thee, and put thy raiment vpon thee, and get thee downe to the floore: but make not thy selfe knowen vnto the man, vntill hee shall haue done eating and drinking.",
         }),
 
         ("ruth", 3, 4) => Some(Verse {
-            content: "",
+            content: "And it shall be when hee lieth downe, that thou shalt marke the place where hee shall lie, and thou shalt goe in, and vncouer his feete, and lay thee downe, and he will tell thee what thou shalt doe.",
         }),
 
         ("ruth", 3, 5) => Some(Verse {
-            content: "",
+            content: "And shee said vnto her, All that thou sayest vnto me, I will doe.",
         }),
 
         ("ruth", 3, 6) => Some(Verse {
-            content: "",
+            content: "And she went downe vnto the floore, and did according to all that her mother in law bade her.",
         }),
 
         ("ruth", 3, 7) => Some(Verse {
-            content: "",
+            content: "And when Boaz had eaten and drunke, and his heart was merrie, hee went to lie downe at the ende of the heape of corne: and she came softly, and vncouered his feet, and laid her downe.",
         }),
 
         ("ruth", 3, 8) => Some(Verse {
-            content: "",
+            content: "And it came to passe at midnight, that the man was afraid, and turned himselfe: and behold, a woman lay at his feete.",
         }),
 
         ("ruth", 3, 9) => Some(Verse {
-            content: "",
+            content: "And hee said, Who art thou? And she answered, I am Ruth thine handmaid: spread therefore thy skirt ouer thine handmaid, for thou art a neare kinseman.",
         }),
 
         ("ruth", 3, 10) => Some(Verse {
-            content: "",
+            content: "And hee said, Blessed be thou of the Lord, my daughter: for thou hast shewed more kindnesse in the latter ende, then at the beginning, in as much as thou followedst not yong men, whether poore, or rich.",
         }),
 
         ("ruth", 3, 11) => Some(Verse {
-            content: "",
+            content: "And now my daughter, feare not, I will doe to thee all that thou requirest: for all the citie of my people doeth know, that thou art a vertuous woman.",
         }),
 
         ("ruth", 3, 12) => Some(Verse {
-            content: "",
+            content: "And now it is true, that I am thy neare kinseman: howbeit there is a kinseman nearer then I.",
         }),
 
         ("ruth", 3, 13) => Some(Verse {
-            content: "",
+            content: "Tary this night, and it shall be in the morning, that if hee will performe vnto thee the part of a kinseman, well, let him doe the kinsemans part; but if hee will not doe the part of a kinseman to thee, then will I doe the part of a kinseman to thee, as the Lord liueth: lie downe vntill the morning.",
         }),
 
         ("ruth", 3, 14) => Some(Verse {
-            content: "",
+            content: "And shee lay at his feete vntill the morning: and she rose vp before one could know another. And he said, Let it not be knowen, that a woman came into the floore.",
         }),
 
         ("ruth", 3, 15) => Some(Verse {
-            content: "",
+            content: "Also he said, Bring the vaile that thou hast vpon thee, and holde it. And when she helde it, he measured sixe measures of barley, and laide it on her: and he went into the citie.",
         }),
 
         ("ruth", 3, 16) => Some(Verse {
-            content: "",
+            content: "And when shee came to her mother in law, she said, Who art thou, my daughter? and she tolde her all that the man had done to her.",
         }),
 
         ("ruth", 3, 17) => Some(Verse {
-            content: "",
+            content: "And she said, These sixe measures of barley gaue he me, for he said to me, Go not emptie vnto thy mother in law.",
         }),
 
         ("ruth", 3, 18) => Some(Verse {
-            content: "",
+            content: "Then said she, Sit still, my daughter, vntill thou know how the matter will fall: for the man will not be in rest, vntil he haue finished the thing this day.",
         }),
 
         ("ruth", 4, 1) => Some(Verse {
-            content: "",
+            content: "Then went Boaz vp to the gate, and sate him downe there: and beholde, the kinseman of whome Boaz spake, came by, vnto whom he said, Ho, such a one: turne aside, sit downe here. And hee turned aside, and sate downe.",
         }),
 
         ("ruth", 4, 2) => Some(Verse {
-            content: "",
+            content: "And hee tooke ten men of the Elders of the citie, and said, Sit ye downe here. And they sate downe.",
         }),
 
         ("ruth", 4, 3) => Some(Verse {
-            content: "",
+            content: "And he said vnto the kinseman: Naomi that is come againe out of the countrey of Moab, selleth a parcell of land, which was our brother Elimelechs.",
         }),
 
         ("ruth", 4, 4) => Some(Verse {
-            content: "",
+            content: "And I thought to aduertise thee, saying, Buy it before the inhabitants, and before the Elders of my people. If thou wilt redeeme it, redeeme it, but if thou wilt not redeeme it, then tell mee, that I may know: for there is none to redeeme it, besides thee, and I am after thee. And he said, I will redeeme it.",
         }),
 
         ("ruth", 4, 5) => Some(Verse {
-            content: "",
+            content: "Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy it also of Ruth the Moabitesse, the wife of the dead, to raise vp the name of the dead vpon his inheritance.",
         }),
 
         ("ruth", 4, 6) => Some(Verse {
-            content: "",
+            content: "And the kinseman said, I cannot redeeme it for my selfe, lest I marre mine owne inheritance: redeeme thou my right to thy selfe, for I cannot redeeme it.",
         }),
 
         ("ruth", 4, 7) => Some(Verse {
-            content: "",
+            content: "Now this was the maner in former time in Israel, concerning redeeming and concerning changing, for to confirme all things: a man plucked off his shooe, and gaue it to his neighbour: and this was a testimonie in Israel.",
         }),
 
         ("ruth", 4, 8) => Some(Verse {
-            content: "",
+            content: "Therfore the kinseman said vnto Boaz, Buy it for thee: so he drew off his shooe.",
         }),
 
         ("ruth", 4, 9) => Some(Verse {
-            content: "",
+            content: "And Boaz saide vnto the Elders, and vnto all the people, Ye are witnesses this day, that I haue bought all that was Elimelechs, and all that was Chilions, and Mahlons, of the hande of Naomi.",
         }),
 
         ("ruth", 4, 10) => Some(Verse {
-            content: "",
+            content: "Moreouer, Ruth the Moabitesse, the wife of Mahlon, haue I purchased to be my wife, to raise vp the name of the dead vpon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye are witnesses this day.",
         }),
 
         ("ruth", 4, 11) => Some(Verse {
-            content: "",
+            content: "And all the people that were in the gate, and the Elders said, Wee are witnesses: The Lord make the woman that is come into thine house, like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and bee famous in Bethlehem.",
         }),
 
         ("ruth", 4, 12) => Some(Verse {
-            content: "",
+            content: "And let thy house be like the house of Pharez, ( whom Tamar bare vnto to Iudah) of the seed which the Lord shall giue thee of this yong woman.",
         }),
 
         ("ruth", 4, 13) => Some(Verse {
-            content: "",
+            content: "So Boaz tooke Ruth, and she was his wife: and when he went in vnto her, the Lord gaue her conception, and she bare a sonne.",
         }),
 
         ("ruth", 4, 14) => Some(Verse {
-            content: "",
+            content: "And the women said vnto Naomi, Blessed be the Lord which hath not left thee this day without a kinseman, that his name may bee famous in Israel:",
         }),
 
         ("ruth", 4, 15) => Some(Verse {
-            content: "",
+            content: "And he shalbe vnto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law which loueth thee, which is better to thee then seuen sonnes, hath borne him.",
         }),
 
         ("ruth", 4, 16) => Some(Verse {
-            content: "",
+            content: "And Naomi tooke the childe, and laid it in her bosome, and became nurse vnto it.",
         }),
 
         ("ruth", 4, 17) => Some(Verse {
-            content: "",
+            content: "And the women her neighbours gaue it a name, saying, There is a sonne borne to Naomi, and they called his name Obed: hee is the father of Iesse the father of Dauid.",
         }),
 
         ("ruth", 4, 18) => Some(Verse {
-            content: "",
+            content: "Now these are the generations of Pharez: Pharez begate Hezron,",
         }),
 
         ("ruth", 4, 19) => Some(Verse {
-            content: "",
+            content: "And Hezron begate Ram, and Ram begate Amminadab,",
         }),
 
         ("ruth", 4, 20) => Some(Verse {
-            content: "",
+            content: "And Amminadab begate Nahshon, and Nahshon begate Salmon,",
         }),
 
         ("ruth", 4, 21) => Some(Verse {
-            content: "",
+            content: "And Salmon begate Boaz, and Boaz begate Obed,",
         }),
 
         ("ruth", 4, 22) => Some(Verse {
+            content: "And Obed begat Iesse, and Iesse begate Dauid.",
+        }),
+
+        ("1 samuel", 1, 1) => Some(Verse {
             content: "",
         }),
 
