@@ -66,7 +66,7 @@ pub fn cli_commands() {
                         println!("{:<20} (open kjv 1611)", "kjv 1611");
                     }
 
-                    "kjv 1611" => {
+                    "kjv1611" => {
                         kjv_1611_cli_funk();
                     }
 
