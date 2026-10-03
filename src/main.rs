@@ -1,6 +1,6 @@
 use gpse::cli::commands::cli_commands;
 use gpse::date_time::time::physical_time;
-use gpse::mathematical::carter_family::carter_formula_repeat;
+use gpse::mathematical::carter::carter_family::carter_formula_repeat;
 use gpse::science::astrological::celestial::{EARTH, MOON};
 use gpse::science::physical::equations::gravitational_force;
 
