@@ -11,7 +11,7 @@ impl fmt::Display for Verse {
     }
 }
 
-pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
+pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
     match (book, chapter, verse) {
         ("genesis", 1, 1) => Some(Verse {
             content: "In the beginning God created the heaven and the earth.",
@@ -14863,7 +14863,7 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("numbers", 3, 20) => Some(Verse {
             content: "And the sonnes of Merari by their families: Mahli, and Mushi: these are the families of the Leuites, according to the house of their fathers.",
         }),
-        
+
         ("numbers", 3, 21) => Some(Verse {
             content: "Of Gershon was the familie of the Libnites, and the familie of the Shimites: these are the families of the Gershonites.",
         }),
@@ -23699,7 +23699,7 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("joshua", 4, 11) => Some(Verse {
             content: "And it came to passe when all the people were cleane passed ouer, that the Arke of the Lord passed ouer, and the Priests in the presence of the people.",
         }),
-        
+
         ("joshua", 4, 12) => Some(Verse {
             content: "And the children of Reuben, and the children of Gad, and halfe the tribe of Manasseh, passed ouer armed before the children of Israel, as Moses spake vnto them:",
         }),
@@ -28864,84 +28864,7 @@ pub fn lookup(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "And Obed begat Iesse, and Iesse begate Dauid.",
         }),
 
-        ("1 samuel", 1, 1) => Some(Verse {
-            content: "",
-        }),
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        ("1 samuel", 1, 1) => Some(Verse { content: "" }),
 
         _ => None,
     }

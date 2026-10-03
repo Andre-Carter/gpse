@@ -11,6 +11,14 @@ fn read(input: &mut String) {
     stdin().read_line(input).expect("failed to read");
 }
 
+pub fn captialize_first_letter(input: &str) -> String {
+    let mut chars = input.chars();
+    match chars.next() {
+        Some(first_char) => first_char.to_uppercase().collect::<String>() + chars.as_str(),
+        None => String::new(),
+    }
+}
+
 pub fn cli_commands() {
     println!("COMMAND SYSTEMS ONLINE!");
     println!("Type \"help\" for commands.");

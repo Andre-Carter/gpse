@@ -1,4 +1,5 @@
-use crate::archive::bible::kjv1611::kjv_1611::lookup;
+use crate::archive::bible::kjv1611::kjv_1611::lookup_kjv1611;
+use crate::cli::commands::captialize_first_letter;
 
 use std::io::{Write, stdin, stdout};
 
@@ -25,7 +26,9 @@ pub fn kjv_1611_cli_funk() {
 
             "index" => {
                 println!("Bible index.");
-                println!("Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi",);
+                println!(
+                    "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi",
+                );
             }
 
             "exit" => {
@@ -42,15 +45,20 @@ pub fn kjv_1611_cli_funk() {
 
                 let book = bible_request[0];
 
-                //i
-
                 let reference: Vec<&str> = bible_request[1].split(':').collect();
 
                 let verse_range: Vec<&str> = reference[1].split('-').collect();
 
-                //println!("Book: {}, Chapter: {}, Verse: {}", book, reference[0], reference[1]);
-
                 if verse_range.len() == 1 {
+                    println!(
+                        "The book of {}, chapter {}, verse {}:",
+                        captialize_first_letter(book),
+                        reference[0],
+                        reference[1]
+                    );
+                    println!("-------------------------------------------------");
+                    println!();
+
                     let chapter: u8 = match reference[0].parse() {
                         Ok(chapter) => chapter,
 
@@ -69,13 +77,23 @@ pub fn kjv_1611_cli_funk() {
                         }
                     };
 
-                    let result = lookup(book, chapter, verse);
+                    let result = lookup_kjv1611(book, chapter, verse);
 
                     match result {
                         Some(verse) => println!("{}", verse),
                         None => println!("Verse not found."),
                     }
                 } else if verse_range.len() == 2 {
+                    print!(
+                        "The book of {}, chapter {}, verses {} through {}:\n",
+                        captialize_first_letter(book),
+                        reference[0],
+                        verse_range[0],
+                        verse_range[1]
+                    );
+                    println!("-------------------------------------------------");
+                    println!();
+
                     let chapter: u8 = match reference[0].parse() {
                         Ok(chapter) => chapter,
 
@@ -109,7 +127,7 @@ pub fn kjv_1611_cli_funk() {
                     }
 
                     for verse in start_verse..=end_verse {
-                        let result = lookup(book, chapter, verse);
+                        let result = lookup_kjv1611(book, chapter, verse);
 
                         match result {
                             Some(verse_text) => println!("{}", verse_text),
@@ -117,81 +135,10 @@ pub fn kjv_1611_cli_funk() {
                         }
                     }
                 } else {
-                    println!("Invalid reference format. Use BOOK CHAPTER:VERSE or BOOK CHAPTER:START_VERSE-END_VERSE.");
+                    println!(
+                        "Invalid reference format. Use \"book chapter:verse\" or \"book chapter:start_verse-end_verse\"."
+                    );
                 }
-
-                /* 
-
-                if reference.len() != 2 {
-                    println!("Invalid reference. Use chapter:verse.");
-                    continue;
-                }
-
-                if reference[0].parse::<u8>().is_err() || reference[1].parse::<u8>().is_err() {
-                    println!("Invalid chapter or verse.");
-                    continue;
-                }
-
-                if reference[0].parse::<u8>().unwrap() == 0 || reference[1].parse::<u8>().unwrap() == 0 {
-                    println!("Chapter and verse must be greater than 0.");
-                    continue;
-                }
-
-                if reference[0].parse::<u8>().unwrap() > 150 {
-                    println!("Chapter out of range. Maximum chapter is 150.");
-                    continue;
-                }
-
-                if reference[1].parse::<u8>().unwrap() > 176 {
-                    println!("Verse out of range. Maximum verse is 176.");
-                    continue;
-                }
-
-                if reference.len() == 2 && reference[0].parse::<u8>().is_ok() && reference[1].parse::<u8>().is_ok() {
-                    let chapter: u8 = reference[0].parse().unwrap();
-                    let verse: u8 = reference[1].parse().unwrap();
-
-                    let result = lookup(book, chapter, verse);
-
-                    match result {
-                        Some(verse) => println!("{}", verse),
-                        None => println!("Verse not found."),
-                    }
-                } else {
-                    println!("Invalid reference format. Use BOOK CHAPTER:VERSE.");
-                }
-
-                */
-                
-
-                /*
-
-                let chapter: u8 = match reference[0].parse() {
-                    Ok(chapter) => chapter,
-                    
-                    Err(_) => {
-                        println!("Invalid chapter.");
-                        continue;
-                    }
-                };
-
-                let verse: u8 = match reference[1].parse() {
-                    Ok(verse) => verse,
-
-                    Err(_) => {
-                        println!("Invalid verse.");
-                        continue;
-                    }
-                };
-
-                let result = lookup(book, chapter, verse);
-
-                match result {
-                    Some(verse) => println!("{}", verse),
-                    None => println!("Verse not found."),
-                }
-
-                */
             } //END OF _ => PARSE
         } //END OF MATCH COMMAND
     } //END OF LOOP
