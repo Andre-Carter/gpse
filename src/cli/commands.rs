@@ -2,6 +2,7 @@ use crate::archive::bible::kjv1611::kjv_1611_cli::kjv_1611_cli_funk;
 use crate::archive::ledger::ledger_cli::open_ledger;
 use crate::cli::calculator::cli_calc;
 use crate::cli::calculator::cli_sqrt;
+use crate::cli::math::math_cli;
 use crate::mathematical::carter::carter_family::carter_formula_cli;
 
 use std::io::{Write, stdin, stdout};
@@ -103,6 +104,10 @@ pub fn cli_commands() {
 
             "carter" => {
                 carter_formula_cli();
+            }
+
+            "math" => {
+                math_cli();
             }
 
             "debug" => {
