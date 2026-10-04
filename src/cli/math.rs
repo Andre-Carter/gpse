@@ -10,10 +10,13 @@ fn read(input: &mut String) {
     stdin().read_line(input).expect("failed to read");
 }
 
+//raw input
+//char stream
 //tokenizer .. what are there symbol?
-// parser (expression tree) what do these symbols mean together?
+//parser (expression tree) what do these symbols mean together?
 //expression
-// evaluator
+//evaluator
+//RESULT
 
 const DEBUG: bool = true;
 

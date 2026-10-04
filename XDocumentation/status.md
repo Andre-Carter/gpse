@@ -28,3 +28,15 @@ not a final API commitment.
 - implement sqrt function to cli 
 
 - clean dead code, optimize carter function organization/naming/terminology/apperance, work on more cli features
+
+GPSE MATH ENGINE — RIVALS MODE
+
+RAW INPUT              ✅
+CHAR STREAM             ✅
+CHAR INSPECTION         ✅
+WHITESPACE DETECTION    ✅
+OPERATOR DETECTION      🟡
+PARENTHESIS DETECTION   🟡
+TOKENIZER               🔥 NEXT
+PARSER                  💀 NOT YET
+EVALUATOR               💀 NOT YET

@@ -117,3 +117,19 @@ I've noted the GPSE symbolic-language idea: exploring pictograms, pictographs, g
 
 The glyph represents the data — it does not become the data.
 
+RAW INPUT
+    ↓
+Vec<char>                  ✅
+    ↓
+character inspection       ✅
+    ↓
+TOKENIZER                  ← NEXT
+    ↓
+Vec<Token>
+    ↓
+PARSER
+    ↓
+EXPRESSION
+    ↓
+EVALUATOR
+
