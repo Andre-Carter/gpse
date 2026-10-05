@@ -58,36 +58,29 @@ pub fn math_cli() {
 
     let math_array: Vec<&str> = raw_input.split_whitespace().collect();
 
-    math_tokenization(&raw_input_chars);
+    let tokens = math_tokenization(&raw_input_chars);
 
-    math_debug(&raw_input_chars, &math_array);
+    math_debug(&raw_input_chars, &math_array, &tokens);
 } 
 
 pub fn math_tokenization(raw_input_chars: &[char]) -> Vec<Token> {
     let mut position = 0;
+    let mut tokens: Vec<Token> = Vec::new();
 
     while position < raw_input_chars.len() {
-        let _current = raw_input_chars.get(position);
-
-        // inspect current character
+        match raw_input_chars.get(position) {
+            Some('+') => tokens.push(Token::Plus),
+            Some('-') => tokens.push(Token::Minus),
+            Some('*') => tokens.push(Token::Multiply),
+            Some('/') => tokens.push(Token::Divide),
+            Some('^') => tokens.push(Token::Power),
+            Some('(') => tokens.push(Token::LeftParen),
+            Some(')') => tokens.push(Token::RightParen),
+            _ => {}
+        } 
 
         position +=1;
     }
-
-    let mut tokens: Vec<Token> = Vec::new();
-
-    match raw_input_chars.get(position) {
-        Some('+') => tokens.push(Token::Plus),
-        Some('-') => tokens.push(Token::Minus),
-        Some('*') => tokens.push(Token::Multiply),
-        Some('/') => tokens.push(Token::Divide),
-        Some('^') => tokens.push(Token::Power),
-        Some('(') => tokens.push(Token::LeftParen),
-        Some(')') => tokens.push(Token::RightParen),
-        _ => {}
-    } 
-
-    print_tokens(&tokens);
 
     tokens
 }
@@ -114,11 +107,13 @@ pub fn math_parser(token: Token) {
 
 pub fn math_debug(
     raw_input_chars: &[char], 
-    math_array: &[&str]
+    math_array: &[&str],
+    tokens: &[Token],
 ) {
     if DEBUG {
         print_math_chars(&raw_input_chars);
         print_math_array(&math_array);
+        print_tokens(tokens);
     }
 }
 
@@ -142,9 +137,13 @@ fn print_math_array(math_array: &[&str]) {
     println!("------------------");
 }
 
-fn print_tokens<T: std::fmt::Display>(tokens: &Vec<T>) {
+fn print_tokens(tokens: &[Token]) {
+    println!("--- TOKENS ---");
+
     for (index, token) in tokens.iter().enumerate() {
-        println!("[{index}] [{token}]");
+        println!("[{index}] [{token:?}] [{token}]");
     }
+
+    println!("--------------");
 }
 

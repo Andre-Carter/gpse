@@ -141,3 +141,9 @@ EVALUATOR
 //evaluator
 //RESULT
 
+1 + pi
+│   │  │
+│   │  └── Identifier("pi")   ← missing
+│   └───── Plus                ← WORKING
+└───────── Number("1")         ← missing
+
