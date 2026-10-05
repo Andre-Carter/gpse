@@ -1,4 +1,3 @@
-//use std::f32::consts::PI;
 use std::f64::consts::PI as RUST_PI;
 
 pub const PI: f64 = RUST_PI;
@@ -10,15 +9,40 @@ fn read(input: &mut String) {
     stdin().read_line(input).expect("failed to read");
 }
 
-//raw input
-//char stream
-//tokenizer .. what are there symbol?
-//parser (expression tree) what do these symbols mean together?
-//expression
-//evaluator
-//RESULT
-
 const DEBUG: bool = true;
+
+//math> solve>
+//math> debug>
+
+//variants of enum Token
+#[derive(Debug)]
+pub enum Token {
+    Plus,
+    Minus,
+    Multiply,
+    Divide,
+    Power,
+    LeftParen,
+    RightParen,
+    Number(String),
+    Identifier(String),
+} 
+
+impl std::fmt::Display for Token {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        match self {
+            Token::Plus => write!(f, "+"),
+            Token::Minus => write!(f, "-"),
+            Token::Multiply => write!(f, "*"),
+            Token::Divide => write!(f, "/"),
+            Token::Power => write!(f, "^"),
+            Token::LeftParen => write!(f, "("),
+            Token::RightParen => write!(f, ")"),
+            Token::Number(value) => write!(f, "{value}"),
+            Token::Identifier(name) => write!(f, "{name}"),
+        }
+    }
+}
 
 pub fn math_cli() {
     print!("math> ");
@@ -27,32 +51,81 @@ pub fn math_cli() {
 
     read(&mut raw_input);
 
+    let raw_input_chars: Vec<char> = raw_input
+        .chars()
+        .filter(|character| !character.is_whitespace())
+        .collect();
+
     let math_array: Vec<&str> = raw_input.split_whitespace().collect();
 
-    //for token in &math_array {
-    //} 
+    math_tokenization(&raw_input_chars);
 
-    //let math_array_2: Vec<&str> = math_array.split('(', ')');
+    math_debug(&raw_input_chars, &math_array);
+} 
 
-    let _first_token = math_array.first();
+pub fn math_tokenization(raw_input_chars: &[char]) -> Vec<Token> {
+    let mut position = 0;
 
-    let _last_token = math_array.last();
+    while position < raw_input_chars.len() {
+        let _current = raw_input_chars.get(position);
 
-    let _number_of_tokens = math_array.len();
+        // inspect current character
 
-    let chars: Vec<char> = raw_input.chars().collect();
+        position +=1;
+    }
 
-    print_math_chars(&chars);
+    let mut tokens: Vec<Token> = Vec::new();
 
-    if DEBUG {
-        print_math_array(&math_array);
-    };
+    match raw_input_chars.get(position) {
+        Some('+') => tokens.push(Token::Plus),
+        Some('-') => tokens.push(Token::Minus),
+        Some('*') => tokens.push(Token::Multiply),
+        Some('/') => tokens.push(Token::Divide),
+        Some('^') => tokens.push(Token::Power),
+        Some('(') => tokens.push(Token::LeftParen),
+        Some(')') => tokens.push(Token::RightParen),
+        _ => {}
+    } 
+
+    print_tokens(&tokens);
+
+    tokens
 }
 
-fn print_math_chars(chars: &[char]) {
+// parser
+
+pub fn math_parser(token: Token) {
+    match token {
+        Token::Number(value) => {
+            println!("Number: {value}");
+        }
+
+        Token::Plus => {
+            println!("Plus operator");
+        }
+
+        Token::Identifier(name) => {
+            println!("Identifier: {name}");
+        }
+
+        _ => {}
+    }
+}
+
+pub fn math_debug(
+    raw_input_chars: &[char], 
+    math_array: &[&str]
+) {
+    if DEBUG {
+        print_math_chars(&raw_input_chars);
+        print_math_array(&math_array);
+    }
+}
+
+fn print_math_chars(raw_input_chars: &[char]) {
     println!("--- MATH CHARS ---");
 
-    for (index, character) in chars.iter().enumerate() {
+    for (index, character) in raw_input_chars.iter().enumerate() {
         println!("[{index}] {character}");
     }
 
@@ -67,5 +140,11 @@ fn print_math_array(math_array: &[&str]) {
     }
 
     println!("------------------");
+}
+
+fn print_tokens<T: std::fmt::Display>(tokens: &Vec<T>) {
+    for (index, token) in tokens.iter().enumerate() {
+        println!("[{index}] [{token}]");
+    }
 }
 

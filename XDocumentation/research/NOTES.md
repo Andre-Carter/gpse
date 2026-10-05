@@ -133,3 +133,11 @@ EXPRESSION
     ↓
 EVALUATOR
 
+//raw input
+//char stream
+//tokenizer .. what are there symbol?
+//parser (expression tree) what do these symbols mean together?
+//expression
+//evaluator
+//RESULT
+
