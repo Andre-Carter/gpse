@@ -60,11 +60,19 @@ pub fn math_cli() {
 
     let tokens = math_tokenization(&raw_input_chars);
 
-    math_debug(&raw_input_chars, &math_array, &tokens);
+    math_debug(
+        &raw_input_chars, 
+        &math_array, 
+        &tokens
+    );
+
+    //math_parser(&tokens);
 } 
 
 pub fn math_tokenization(raw_input_chars: &[char]) -> Vec<Token> {
     let mut position = 0;
+    let mut number = String::new();
+    let mut symbol = String::new();
     let mut tokens: Vec<Token> = Vec::new();
 
     while position < raw_input_chars.len() {
@@ -76,34 +84,70 @@ pub fn math_tokenization(raw_input_chars: &[char]) -> Vec<Token> {
             Some('^') => tokens.push(Token::Power),
             Some('(') => tokens.push(Token::LeftParen),
             Some(')') => tokens.push(Token::RightParen),
+            Some(character) if character.is_ascii_digit() || *character == '.' => {
+                number.clear();
+
+                while position < raw_input_chars.len() {
+                    match raw_input_chars.get(position) {
+                        Some(c) if c.is_ascii_digit() || *c == '.' => {
+                            number.push(*c);
+                            position += 1;
+                        }
+
+                        _ => break,
+                    }
+                }
+                
+                tokens.push(Token::Number(number.clone()));
+
+                continue;
+            }
+            Some(character) if character.is_ascii_alphabetic() || *character == '_' => {
+                symbol.clear();
+
+                while position < raw_input_chars.len() {
+                    match raw_input_chars.get(position) {
+                        Some(s) if s.is_ascii_alphabetic() || *s == '_' => {
+                            symbol.push(*s);
+                            position += 1;
+                        }
+
+                        _ => break,
+                    }
+                }
+
+                tokens.push(Token::Identifier(symbol.clone()));
+
+                continue;
+            }
             _ => {}
         } 
 
         position +=1;
     }
-
+    
     tokens
 }
 
 // parser
 
-pub fn math_parser(token: Token) {
-    match token {
+/*
+pub fn math_parser(tokens: &[Token]) -> &Token {
+    match tokens {
         Token::Number(value) => {
-            println!("Number: {value}");
+            println!("Parser found number: {value}");
         }
-
         Token::Plus => {
-            println!("Plus operator");
+            println!("Parser found plus.");
         }
-
         Token::Identifier(name) => {
-            println!("Identifier: {name}");
+            println!("Parser found identifier: {name}");
         }
 
         _ => {}
     }
 }
+*/
 
 pub fn math_debug(
     raw_input_chars: &[char], 
