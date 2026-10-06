@@ -662,3 +662,478 @@ RPG
  ├── uses simulation
  ├── uses archive
  └── uses date-time
+
+                  PLAYER PERCEPTION
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+       BODY SIGHT    MIND VISION   SPIRIT VISION
+          │             │             │
+       physical       analytical     spiritual
+        world          world          world
+
+game song: https://www.youtube.com/watch?v=Aeio9I_gaaM&list=PLj1rryaCBdJXBGWNt5iKTDsc-XMPD8gC2&index=149
+
+Kinggleo - Save me
+
+The ordinary game world.
+
+You see:
+
+terrain
+characters
+objects
+weather
+architecture
+combat
+light/darkness
+
+Basically what your character's physical eyes perceive.
+
+🧠 Mind Vision
+
+Now BOOM.
+
+The same world is still there, but the character perceives additional information.
+
+Potentially:
+
+OBJECT
+  ↓
+Mind Vision
+  ├── clues
+  ├── patterns
+  ├── weaknesses
+  ├── tracks
+  ├── mechanisms
+  ├── hidden relationships
+  ├── readable information
+  └── analytical highlights
+
+That's where your Arkham-style investigation idea fits extremely well.
+
+But I'd make an important distinction:
+
+Mind Vision shouldn't simply be “detect everything.”
+
+Your Mind stats determine what the player can actually perceive.
+
+A novice investigator might see:
+
+“Something unusual here.”
+
+A highly discerning character might see:
+
+“This mechanism was recently opened.”
+
+A character with high knowledge might recognize:
+
+“This symbol belongs to the Order of X.”
+
+Same world.
+
+Different mind.
+
+🜂 And then... Spirit Vision
+
+This is the one that could become really distinctive.
+
+Not just another detective filter.
+
+You could have:
+
+SPIRIT VISION
+      │
+      ├── spiritual influence
+      ├── blessings
+      ├── curses
+      ├── corruption
+      ├── presence
+      ├── conviction
+      ├── spiritual wounds
+      ├── unseen relationships
+      └── supernatural phenomena
+
+And importantly:
+
+Spirit Vision doesn't necessarily mean “everything supernatural becomes visible.”
+
+It could be affected by the character.
+
+A character with strong spirit but low discernment might perceive something but misunderstand it.
+
+A character with high discernment might distinguish:
+
+illusion
+vs
+deception
+vs
+curse
+vs
+ordinary phenomenon
+
+That gives you some absolutely delicious gameplay possibilities.
+
+And the three modes could interact
+
+Imagine you're exploring an abandoned chapel.
+
+Normal
+
+You see:
+
+Broken pews
+Dust
+Stone walls
+An old altar
+A locked door
+Mind Vision
+[TRACK]
+Someone recently entered.
+
+[STRUCTURE]
+The altar has been moved.
+
+[MECHANISM]
+Hidden switch detected.
+
+[TEXT]
+Partial inscription detected.
+Spirit Vision
+
+Now the scene changes.
+
+Perhaps:
+
+The altar has a faint spiritual imprint.
+
+The locked doorway appears unnaturally dark.
+
+A previously invisible symbol is perceptible.
+
+Something about the room feels...
+WRONG.
+
+And maybe the player doesn't know exactly what they're seeing.
+
+That's important.
+
+You could have:
+
+PERCEPTION ≠ UNDERSTANDING
+
+Which connects beautifully back to your character architecture.
+
+And this is where Mind / Body / Spirit becomes more than stats
+
+Your original idea suddenly has a mechanical reason to exist.
+
+BODY
+→ What can I physically perceive/do?
+
+MIND
+→ What can I understand/perceive?
+
+SPIRIT
+→ What can I perceive beyond the ordinary?
+
+Then:
+
+PERSONALITY
+→ How do I interpret/respond?
+
+SOUL
+→ What does it mean to me?
+
+EXPERIENCE
+→ What have I learned from it?
+
+That's character simulation territory.
+
+And I wouldn't even call them “vision modes” permanently
+
+That's just the prototype name.
+
+Eventually you might have a broader system:
+
+PERCEPTION
+├── Physical
+├── Mental
+├── Spiritual
+├── Instinctive
+├── Social
+└── ??? 
+
+So the player could potentially perceive the world through different faculties rather than simply activating a glowing detective filter.
+
+And because we're building GPSE underneath it, we could eventually represent the world as:
+
+WORLD OBJECT
+├── physical properties
+├── mathematical properties
+├── scientific properties
+├── historical properties
+├── social properties
+├── psychological properties
+└── spiritual properties
+
+The player doesn't necessarily see all of those layers at once.
+
+Their character determines which layers they can perceive.
+
+That is a very interesting foundation.
+
+And yes, brother:
+
+100% theory.
+
+We should absolutely put it on the giant “crazy ideas that may become genius later” shelf rather than immediately building a rendering engine. 😂
+
+But I would write the concept down because this is exactly the kind of idea that disappears six months later if we don't capture it.
+
+Power — what can I exert?
+Will — what can I choose/persist in?
+Endurance — what can I withstand?
+Perception — what can I perceive?
+
+For example, a level-100 character might still improve:
+
+a particular skill
+equipment
+relationships
+knowledge
+reputation
+techniques
+abilities
+personality
+spiritual development
+crafting
+exploration
+specialization
+
+- linear scaling
+- diminishing returns
+- or some nonlinear progression
+
+decided on lvl 100 cap for a player as of now
+
+And later, progression beyond Level 100 could happen through things like:
+
+SKILLS
+TECHNIQUES
+EQUIPMENT
+TITLES
+REPUTATION
+KNOWLEDGE
+RELATIONSHIPS
+FACTIONS
+ACHIEVEMENTS
+DISCOVERIES
+SPIRITUAL DEVELOPMENT
+CRAFTING
+WORLD INFLUENCE
+
+CHARACTER DEVELOPMENT
+──────────────────────
+Level: 1–100
+
+
+CORE
+──────────────────────
+Mind
+Body
+Spirit
+
+
+CORE ATTRIBUTES
+──────────────────────
+Power
+Will
+Endurance
+Perception
+
+And we're deliberately not deciding yet:
+
+exact XP curve
+how many points each level gives
+stat maximums
+whether stats can exceed some threshold
+derived stats
+Soul structure
+Personality structure
+Quirk mechanics
+skill progression
+abilities
+classes/builds
+
+                    RPG ENGINE
+                       │
+        ┌──────────────┼──────────────┐
+        ↓              ↓              ↓
+      CLI            3D GAME       FUTURE UI
+   reference         client        clients
+   interface
+
+   The CLI could let us do things like:
+
+> character create
+> character inspect
+
+> stats
+> mind
+> body
+> spirit
+
+> perceive
+> perceive mind
+> perceive spirit
+
+> inventory
+> equip sword
+
+> attack goblin
+> defend
+> flee
+
+> quest list
+> quest accept 12
+
+> read genesis 1:1
+
+And behind all of that is the same Rust engine that eventually drives the 3D game.
+
+That's a fantastic testing strategy because we can inspect the machinery directly:
+
+INPUT
+ ↓
+COMMAND
+ ↓
+GAME SYSTEM
+ ↓
+STATE CHANGE
+ ↓
+OUTPUT
+
+And then you asked the dangerous/fascinating question:
+“How could the RPG play into cryptocurrency?”
+
+There are ways to do it, but I would be very careful about putting crypto into the core game mechanics.
+
+I'd separate the two:
+
+              GPSE RPG
+                  │
+          ┌───────┴────────┐
+          │                │
+      GAME STATE       OPTIONAL ECONOMY
+          │                │
+      XP / skills       currencies
+      quests            ownership
+      items             trading
+      world             marketplace
+      characters        etc.
+
+The game should work perfectly without cryptocurrency.
+
+Then, if we eventually discover a genuinely useful reason for it, cryptocurrency can become an external economic layer.
+
+For example
+
+Imagine the world has:
+
+GPSE GAME
+│
+├── Gold
+├── Food
+├── Materials
+├── Equipment
+└── Reputation
+
+Those are ordinary game-state resources.
+
+Then perhaps an external blockchain layer represents ownership or exchange of some player-created assets.
+
+But I would NOT make:
+
+“You need cryptocurrency to play.”
+
+That immediately changes the design from RPG → financial product.
+
+And that's probably not what you're after.
+
+There's actually a more interesting possibility
+
+Your GPSE project already has a huge emphasis on deterministic data and simulation.
+
+Imagine the game eventually generates a persistent world where things have provenance:
+
+ITEM
+│
+├── creator
+├── creation time
+├── materials
+├── modifications
+├── ownership history
+└── unique identifier
+
+A blockchain could theoretically be useful for external provenance/ownership records.
+
+But we'd want to ask:
+
+Why does this need a blockchain?
+
+If a normal database solves it better, use the database.
+
+That principle is important.
+
+I actually think your CLI idea is more immediately valuable
+
+Because it gives us something we can build right now.
+
+We could eventually have:
+
+GPSE CLI
+│
+├── math
+├── science
+├── simulation
+├── read
+└── rpg
+     │
+     ├── character
+     ├── world
+     ├── combat
+     ├── inventory
+     ├── quests
+     ├── perception
+     └── progression
+
+And then:
+
+CLI RPG
+   ↓
+proves systems
+   ↓
+tests systems
+   ↓
+debugs systems
+   ↓
+defines system APIs
+   ↓
+3D client consumes same systems
+
+That is a seriously good development philosophy.
+
+It means we're not building a 3D RPG and hoping the underlying game logic works.
+
+We're building the game logic first, where everything is inspectable.
+
+Then eventually the 3D environment becomes the visual manifestation of the simulation.
+
+And if the crypto idea survives the question “does this genuinely improve the game?”, we can bolt that on later without contaminating the core.
+
+For now, brother:
+
+gpse/rpg/rpg.rs → CLI RPG → character engine → simulation → eventually 3D.
+
+That's a path I would absolutely pursue. 🔥

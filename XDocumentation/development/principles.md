@@ -960,3 +960,5 @@ IMPORTANT
 That's an important organizational principle for GPSE:
 
 Don't create architecture because you might need it. Create architecture when the code earns the separation.
+
+If a major GPSE system cannot be exercised through the CLI, it isn't finished enough to trust yet.

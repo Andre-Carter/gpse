@@ -3,6 +3,7 @@ pub mod cli;
 pub mod date_time;
 pub mod mathematical;
 pub mod programs;
+pub mod rpg_engine;
 pub mod science;
 pub mod simulation;
 pub mod systems;
