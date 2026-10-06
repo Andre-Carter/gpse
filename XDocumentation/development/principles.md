@@ -955,3 +955,8 @@ The objective is to create a small number of strong foundations upon which incre
 > Strong foundations.
 > Many systems.
 > One coherent architecture.
+
+IMPORTANT
+That's an important organizational principle for GPSE:
+
+Don't create architecture because you might need it. Create architecture when the code earns the separation.

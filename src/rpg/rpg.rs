@@ -1,4 +1,21 @@
 //RPG
+pub struct Character {
+    pub mind: Mind,
+    pub body: Body,
+    pub spirit: Spirit,
+}
+
+pub struct Mind {
+    // mental attributes
+}
+
+pub struct Body {
+    // physical attributes
+}
+
+pub struct Spirit {
+    // spiritual attributes
+}
 
 pub struct Player {
     pub name: String,
@@ -17,9 +34,12 @@ pub struct PlayerStats {
 
     // MIND
     pub intelligence: i32,
+    pub determination: i32,
+
     pub knowledge: i32,
     pub wisdom: i32,
-    pub determination: i32,
+    pub understanding: i32,
+
     pub creativity: i32,
 
     // BODY
@@ -38,7 +58,6 @@ pub struct PlayerStats {
     pub faith: i32,
     pub hope: i32,
     pub love: i32,
-    
 
     pub discernment: i32,
     pub intuition: i32,
