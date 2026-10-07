@@ -1,14 +1,4 @@
 use gpse::cli::commands::cli_commands;
-use gpse::date_time::time::physical_time;
-
-use gpse::mathematical::x_bash::num_x;
-use gpse::mathematical::x_bash::x_power;
-
-use gpse::rpg_engine::inventory::Item;
-use gpse::rpg_engine::player::player;
-
-use gpse::science::astrological::celestial::{EARTH, MOON};
-use gpse::science::physical::equations::gravitational_force;
 
 use std::io::{Write, stdin, stdout};
 
@@ -18,22 +8,6 @@ fn read(input: &mut String) {
 }
 
 fn main() {
-    println!(
-        "{}",
-        gravitational_force(EARTH.mass_kg, MOON.mass_kg, 384_400_000.0)
-    );
-
-    println!("{}", physical_time(EARTH.velocity_m));
-
-    println!("{}", num_x(10.0, 2.0));
-    println!("{}", x_power(10.0, 2));
-
-    //rpg
-
-    player::<Item>();
-
-    println!();
-
     //MAIN SYSTEMS
     loop {
         println!("GENERAL PURPOSE SIMULATION ENGINE");
