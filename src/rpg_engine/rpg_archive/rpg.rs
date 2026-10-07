@@ -1,10 +1,8 @@
-//RPG
-//mod rpg;
+use std::io::{Write, stdin, stdout};
 
-pub struct Character {
-    pub mind: Mind,
-    pub body: Body,
-    pub spirit: Spirit,
+fn read(input: &mut String) {
+    stdout().flush().expect("failed to flush");
+    stdin().read_line(input).expect("failed to read");
 }
 
 pub struct Mind {
@@ -61,14 +59,85 @@ impl Spirit {
     }
 }
 
+impl std::fmt::Display for Mind {
+    fn fmt (&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        writeln!(f, "Power:")?;
+        writeln!(f, "{}", self.power)?;
+
+        writeln!(f, "Will:")?;
+        writeln!(f, "{}", self.will)?;
+
+        writeln!(f, "Endurance:")?;
+        writeln!(f, "{}", self.endurance)?;
+
+        writeln!(f, "Perception:")?;
+        writeln!(f, "{}", self.perception)?;
+
+        Ok(())
+    }
+}
+
+impl std::fmt::Display for Body {
+    fn fmt (&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        writeln!(f, "Power:")?;
+        writeln!(f, "{}", self.power)?;
+
+        writeln!(f, "Will:")?;
+        writeln!(f, "{}", self.will)?;
+
+        writeln!(f, "Endurance:")?;
+        writeln!(f, "{}", self.endurance)?;
+
+        writeln!(f, "Perception:")?;
+        writeln!(f, "{}", self.perception)?;
+
+        Ok(())
+    }
+}
+
+impl std::fmt::Display for Spirit {
+    fn fmt (&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        writeln!(f, "Power:")?;
+        writeln!(f, "{}", self.power)?;
+
+        writeln!(f, "Will:")?;
+        writeln!(f, "{}", self.will)?;
+
+        writeln!(f, "Endurance:")?;
+        writeln!(f, "{}", self.endurance)?;
+
+        writeln!(f, "Perception:")?;
+        writeln!(f, "{}", self.perception)?;
+
+        Ok(())
+    }
+}
+
+pub struct Character {
+    pub mind: Mind,
+    pub body: Body,
+    pub spirit: Spirit,
+}
+
 pub fn character() {
     let mind = Mind::new();
     let body = Body::new();
     let spirit = Spirit::new();
+}
 
-    println!("Mind Power: {}", mind.power);
-    println!("Body Power: {}", body.power);
-    println!("Spirit Power: {}", spirit.power);
+impl std::fmt::Display for Character {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        writeln!(f, "Mind:")?;
+        writeln!(f, "{}", self.mind)?;
+
+        writeln!(f, "Body:")?;
+        writeln!(f, "{}", self.body)?;
+
+        writeln!(f, "Spirit:")?;
+        writeln!(f, "{}", self.spirit)?;
+
+        Ok(())
+    }
 }
 
 pub struct Player {
@@ -79,6 +148,15 @@ pub struct Player {
     pub equipment: Equipment<Item>,
     pub titles: Vec<Title>,
     pub effects: Vec<Effect>,
+}
+
+impl std::fmt::Display for Player {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "{}", self.name)?;
+        write!(f, "{}", self.level)?;
+        
+        Ok(())
+    }
 }
 
 pub struct Name {
@@ -97,10 +175,20 @@ pub struct Skills {
     pub skills: Vec<Skill>,
 }
 
+pub struct Skill {
+    pub name: String,
+    //pub level: u32,
+    //pub experience: u64,
+}
+
 pub struct Equipment<Item> {
     pub weapon: Option<Item>,
     pub armor: Option<Item>,
     pub accessories: Vec<Item>,
+}
+
+pub struct Item {
+    pub name: String,
 }
 
 pub struct Title {
@@ -149,6 +237,14 @@ impl Skills {
     }
 }
 
+impl Skill {
+    pub fn new(name: &str) -> Self {
+        Self {
+            name: name.to_string(),
+        }
+    }
+}
+
 impl<Item> Equipment<Item> {
     pub fn new() -> Self {
         Self {
@@ -159,16 +255,73 @@ impl<Item> Equipment<Item> {
     }
 }
 
-pub struct Item {
-    pub name: String,
-}
-
 impl Title {
     pub fn new(name: &str, description: &str) -> Self {
         Self {
             name: name.to_string(),
             description: description.to_string(),
         }
+    }
+}
+
+impl std::fmt::Display for PlayerStats {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "{}", self.stats);
+
+        Ok(())
+    }
+}
+
+impl std::fmt::Display for Skills {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "Skills:")?;
+
+        for skill in &self.skills {
+            writeln!(f, "- {}", skill)?;
+        }
+
+        Ok(())
+    }
+}
+
+impl std::fmt::Display for Skill {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "{}", self.name);
+
+        Ok(())
+    }
+}
+
+impl<Item: std::fmt::Display for Equipment<Item> {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        writeln!(f, "Weapon:")?;
+
+        match &self.weapon {
+            Some(item) => writeln!(f, "{}", item)?,
+            None => writeln!(f, "None")?,
+        }
+
+        writeln!(f, "Equipment:")?;
+
+        match &self.equipment {
+            Some(item) => writeln!(f, "{}", item)?,
+            None => writeln!(f, "None")?,
+        }
+
+        writeln!(f, "Accessories:")?;
+
+        match &self.accessories {
+            Some(item) => writeln!(f, "{}", item)?,
+            None => writeln!(f, "None")?,
+        }
+
+        Ok(())
+    }
+}
+
+impl std::fmt::Display for Item {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "{}", self.name)
     }
 }
 
@@ -215,6 +368,12 @@ pub fn player<Item>() {
         titles: Vec::new(),
         effects: Vec::new(),
     };
+
+    println!("{}", player.name);
+    println!("{}", player.level);
+    println!("{}", player.stats);
+    println!("{}", player_skills);
+    println!("{}", player_equipment);
 }
 
 // DERIVED COMBAT STATS
@@ -230,20 +389,6 @@ resistance
 regeneration
 */
 
-pub struct Skill {
-    pub name: String,
-    //pub level: u32,
-    //pub experience: u64,
-}
-
-impl Skill {
-    pub fn new(name: &str) -> Self {
-        Self {
-            name: name.to_string(),
-        }
-    }
-}
-
 pub fn create_skill() {
     let skills: Vec<Skill> = Vec::new();
 
@@ -253,9 +398,6 @@ pub fn create_skill() {
         Skill::new("Stealth"),
     ];
 }
-
-
-
 
 //Archetype ≠ Role ≠ Build
 

@@ -7,5 +7,6 @@ pub mod expressions;
 pub mod geometry;
 
 pub mod runes;
+pub mod unit_circle;
 pub mod x_bash;
 
