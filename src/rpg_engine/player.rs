@@ -1,8 +1,8 @@
-use crate::rpg_engine::stats::Body;
-use crate::rpg_engine::stats::Mind;
-use crate::rpg_engine::stats::Spirit;
+//use crate::rpg_engine::stats::Body;
+//use crate::rpg_engine::stats::Mind;
+//use crate::rpg_engine::stats::Spirit;
 
-use crate::rpg_engine::stats::CharacterStats;
+//use crate::rpg_engine::stats::CharacterStats;
 
 use crate::rpg_engine::stats::PlayerStats;
 
@@ -18,13 +18,6 @@ use crate::rpg_engine::titles::Titles;
 
 use crate::rpg_engine::effects::Effect;
 use crate::rpg_engine::effects::Effects;
-
-use std::io::{Write, stdin, stdout};
-
-fn read(input: &mut String) {
-    stdout().flush().expect("failed to flush");
-    stdin().read_line(input).expect("failed to read");
-}
 
 pub struct Name {
     pub name: String,
@@ -69,10 +62,6 @@ impl std::fmt::Display for Player {
 }
 
 pub fn player<Item: std::fmt::Display>() {
-    let king = Title::new("King", "A title granted to a recognized ruler.");
-
-    let player_effects = Effect::new("Blessing", None);
-
     let player = Player {
         name: "Andre".to_string(),
         level: 1,

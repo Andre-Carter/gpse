@@ -1,10 +1,3 @@
-use std::io::{Write, stdin, stdout};
-
-fn read(input: &mut String) {
-    stdout().flush().expect("failed to flush");
-    stdin().read_line(input).expect("failed to read");
-}
-
 pub struct Title {
     pub name: String,
     pub description: String,
@@ -31,8 +24,8 @@ impl<T> Titles<T> {
 
 impl std::fmt::Display for Title {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        write!(f, "{}", self.name);
-        write!(f, "{}", self.description);
+        let _ = write!(f, "{}", self.name);
+        let _ = write!(f, "{}", self.description);
 
         Ok(())
     }

@@ -1,10 +1,3 @@
-use std::io::{Write, stdin, stdout};
-
-fn read(input: &mut String) {
-    stdout().flush().expect("failed to flush");
-    stdin().read_line(input).expect("failed to read");
-}
-
 pub struct Skill {
     pub name: String,
     //pub level: u32,
@@ -31,7 +24,7 @@ impl<T> Skills<T> {
 
 impl std::fmt::Display for Skill {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        write!(f, "{}", self.name);
+        let _ = write!(f, "{}", self.name);
 
         Ok(())
     }

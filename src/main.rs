@@ -1,6 +1,6 @@
 use gpse::cli::commands::cli_commands;
 use gpse::date_time::time::physical_time;
-use gpse::mathematical::carter::carter_family::carter_formula_repeat;
+
 use gpse::mathematical::x_bash::num_x;
 use gpse::mathematical::x_bash::x_power;
 
@@ -18,10 +18,6 @@ fn read(input: &mut String) {
 }
 
 fn main() {
-    carter_formula_repeat();
-
-    println!();
-
     println!(
         "{}",
         gravitational_force(EARTH.mass_kg, MOON.mass_kg, 384_400_000.0)

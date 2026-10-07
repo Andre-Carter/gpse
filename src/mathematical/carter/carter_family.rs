@@ -79,11 +79,24 @@ pub fn carter_formula_cli() {
 }
 
 pub fn carter_formula_repeat() {
-    let iterations = 1;
+    print!("Enter interations: ");
+
+    let mut iterations: String = String::new();
+    read(&mut iterations);
+
+    let iterations: u32 = match iterations.trim().parse::<u32>() {
+        Ok(value) => value,
+        Err(_) => {
+            println!("Invalid Input");
+            return;
+        }
+    };
+
+    //let iterations = 1;
 
     for h in 1..=iterations {
-        let h = h as f64;
-        carter_formula(h);
+        let h = h as u32;
+        carter_formula(h.into());
     }
 }
 

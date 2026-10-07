@@ -1,9 +1,3 @@
-use std::io::{Write, stdin, stdout};
-
-fn read(input: &mut String) {
-    stdout().flush().expect("failed to flush");
-    stdin().read_line(input).expect("failed to read");
-}
 pub struct Mind {
     pub power: i32,
     pub will: i32,
@@ -161,7 +155,7 @@ impl std::fmt::Display for CharacterStats {
 
 impl std::fmt::Display for PlayerStats {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        write!(f, "{}", self.stats);
+        let _ = write!(f, "{}", self.stats);
 
         Ok(())
     }
