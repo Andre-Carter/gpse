@@ -3,7 +3,10 @@ use gpse::date_time::time::physical_time;
 use gpse::mathematical::carter::carter_family::carter_formula_repeat;
 use gpse::mathematical::x_bash::num_x;
 use gpse::mathematical::x_bash::x_power;
+
 use gpse::rpg_engine::player::player;
+use gpse::rpg_engine::inventory::Item;
+
 use gpse::science::astrological::celestial::{EARTH, MOON};
 use gpse::science::physical::equations::gravitational_force;
 
@@ -31,7 +34,7 @@ fn main() {
 
     //rpg
 
-    //player();
+    player::<Item>();
 
     println!();
 
