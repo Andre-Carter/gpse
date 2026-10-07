@@ -72,7 +72,7 @@ impl Spirit {
 impl CharacterStats {
     pub fn new() -> Self {
         Self {
-            
+
         }
     }
 }
@@ -91,7 +91,7 @@ impl PlayerStats {
 }
 
 impl std::fmt::Display for Mind {
-    fn fmt (&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
         writeln!(f, "Power:")?;
         writeln!(f, "{}", self.power)?;
 
@@ -109,7 +109,7 @@ impl std::fmt::Display for Mind {
 }
 
 impl std::fmt::Display for Body {
-    fn fmt (&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
         writeln!(f, "Power:")?;
         writeln!(f, "{}", self.power)?;
 
@@ -127,7 +127,7 @@ impl std::fmt::Display for Body {
 }
 
 impl std::fmt::Display for Spirit {
-    fn fmt (&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
         writeln!(f, "Power:")?;
         writeln!(f, "{}", self.power)?;
 

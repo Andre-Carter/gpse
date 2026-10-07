@@ -26,7 +26,7 @@ pub enum Token {
     RightParen,
     Number(String),
     Identifier(String),
-} 
+}
 
 impl std::fmt::Display for Token {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
@@ -60,14 +60,10 @@ pub fn math_cli() {
 
     let tokens = math_tokenization(&raw_input_chars);
 
-    math_debug(
-        &raw_input_chars, 
-        &math_array, 
-        &tokens
-    );
+    math_debug(&raw_input_chars, &math_array, &tokens);
 
     //math_parser(&tokens);
-} 
+}
 
 pub fn math_tokenization(raw_input_chars: &[char]) -> Vec<Token> {
     let mut position = 0;
@@ -97,7 +93,7 @@ pub fn math_tokenization(raw_input_chars: &[char]) -> Vec<Token> {
                         _ => break,
                     }
                 }
-                
+
                 tokens.push(Token::Number(number.clone()));
 
                 continue;
@@ -121,11 +117,11 @@ pub fn math_tokenization(raw_input_chars: &[char]) -> Vec<Token> {
                 continue;
             }
             _ => {}
-        } 
+        }
 
-        position +=1;
+        position += 1;
     }
-    
+
     tokens
 }
 
@@ -149,11 +145,7 @@ pub fn math_parser(tokens: &[Token]) -> &Token {
 }
 */
 
-pub fn math_debug(
-    raw_input_chars: &[char], 
-    math_array: &[&str],
-    tokens: &[Token],
-) {
+pub fn math_debug(raw_input_chars: &[char], math_array: &[&str], tokens: &[Token]) {
     if DEBUG {
         print_math_chars(&raw_input_chars);
         print_math_array(&math_array);
@@ -190,4 +182,3 @@ fn print_tokens(tokens: &[Token]) {
 
     println!("--------------");
 }
-

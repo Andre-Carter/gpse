@@ -10,7 +10,7 @@ fn read(input: &mut String) {
 pub struct Equipment<Item> {
     pub primary: Option<Item>,
     pub secondary: Option<Item>,
-    
+
     pub helmet: Option<Item>,
     pub chestplate: Option<Item>,
     pub gauntlets: Option<Item>,
@@ -94,8 +94,7 @@ impl<Item: std::fmt::Display> std::fmt::Display for Equipment<Item> {
             Some(item) => writeln!(f, "{item}")?,
             None => writeln!(f, "None")?,
         }
-        
+
         Ok(())
     }
 }
-

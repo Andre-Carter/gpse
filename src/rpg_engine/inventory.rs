@@ -15,9 +15,7 @@ pub struct Item {
 
 impl<Item> Inventory<Item> {
     pub fn new() -> Self {
-        Self {
-            items: Vec::new(),
-        }
+        Self { items: Vec::new() }
     }
 }
 

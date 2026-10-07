@@ -25,9 +25,7 @@ impl Skill {
 
 impl<T> Skills<T> {
     pub fn new() -> Self {
-        Self {
-            skills: Vec::new(),
-        }
+        Self { skills: Vec::new() }
     }
 }
 

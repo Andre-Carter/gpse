@@ -5,7 +5,6 @@ fn read(input: &mut String) {
     stdin().read_line(input).expect("failed to read");
 }
 
-
 pub struct Title {
     pub name: String,
     pub description: String,
@@ -26,9 +25,7 @@ impl Title {
 
 impl<T> Titles<T> {
     pub fn new() -> Self {
-        Self {
-            titles: Vec::new(),
-        }
+        Self { titles: Vec::new() }
     }
 }
 
@@ -52,4 +49,3 @@ impl<T: std::fmt::Display> std::fmt::Display for Titles<T> {
         Ok(())
     }
 }
-

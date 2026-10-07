@@ -218,7 +218,7 @@ pub fn carter_formula(h: f64) -> f64 {
 
     println!();
 
-    //note: 
+    //note:
 
     let v_gap: f64 = cube_v / sphere_v;
     println!("Cube/Sphere Volume Ratio: {v_gap}");
