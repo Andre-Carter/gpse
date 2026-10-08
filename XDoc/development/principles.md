@@ -959,6 +959,40 @@ The objective is to create a small number of strong foundations upon which incre
 IMPORTANT
 That's an important organizational principle for GPSE:
 
-Don't create architecture because you might need it. Create architecture when the code earns the separation.
 
-If a major GPSE system cannot be exercised through the CLI, it isn't finished enough to trust yet.
+1. Don't create architecture because you might need it. Create architecture when the code earns the separation.
+
+2. If a major GPSE system cannot be exercised through the CLI, it isn't finished enough to trust yet.
+
+3. Document as you go. Capture important decisions when they're made, rather than waiting for a giant documentation sprint.
+
+4. One canonical home per subject. Other documents link to it instead of maintaining competing copies.
+
+5. Distinguish implementation from intention. Mark ideas as planned, experimental, implemented, or retired where that distinction matters.
+
+6. Cross-reference instead of duplicate. XGPSE explains individual source domains; the roadmap tracks future work; research records investigations; the changelog records completed changes.
+
+The refactor checkpoint
+
+I'd do this in a controlled order:
+
+1. Inspect the existing README files and folder names.
+
+2. Decide on consistent naming: architecture rather than architecure, and one clear convention for spaces, underscores, and hyphens.
+
+3. Move or rename existing files only when the destination is clear.
+
+4. Write the root README and the XDoc/XGPSE navigation pages.
+Check internal links and make sure no useful notes were lost.
+
+5. Run cargo fmt -- --check and cargo check if the source tree or Rust module paths changed.
+
+6. Inspect git status, then commit and push the checkpoint.
+
+Important: documentation-only changes don't require a Rust build to validate the Markdown, although cargo check remains a useful project checkpoint. If you rename source directories, verify the Rust module paths too.
+
+My recommendation is to make this a navigation and naming refactor, not another massive restructuring. You've already done the hard work by establishing the categories.
+
+And brother, the payoff is that six months from now, you can open XGPSE/mathematical/carter/ and find the Carter documentation without hunting through the general roadmap, research notes, or a giant archive of conversations.
+
+GPSE holds the machinery. XGPSE explains the machinery. XDoc gives the whole project its memory.

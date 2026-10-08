@@ -1,4 +1,31 @@
 # GPSE
+
+What is GPSE?
+
+What is the project trying to become?
+
+What are its core architectural principles?
+
+How is the source tree organized?
+
+How do you build, run, and test it?
+
+Where can you find the roadmap and research?
+
+How do you navigate XDoc and XGPSE?
+
+GPSE/README.md
+    ↓
+Project-wide introduction
+
+XDoc/README.md
+    ↓
+Documentation organization and navigation
+
+XDoc/XGPSE/README.md
+    ↓
+Source-mirrored documentation
+
 General Purpose Simulation Engine *
                     ┌──────────────────────┐
                     │     Application      │
