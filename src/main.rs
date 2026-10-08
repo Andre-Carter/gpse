@@ -11,7 +11,7 @@ fn main() {
     print!("GREETINGS, WELCOME BACK! ");
     println!("[ DATE / TIME ]");
     print!("GENERAL PURPOSE SIMULATION ENGINE ");
-    println!("[ VERSION: 1.0 ]");
+    println!("[ VERSION: 0.0.1 ]");
     println!("Enter \"command\" to start.");
     println!();
 

@@ -9,6 +9,8 @@ use crate::cli::math::math_cli;
 use crate::mathematical::carter::carter_family::carter_formula_cli;
 use crate::mathematical::carter::carter_family::carter_formula_repeat;
 
+use crate::programs::games::marvel_rivals_random_hero::marvel_rivals_random_hero;
+
 use crate::rpg_engine::inventory::Item;
 use crate::rpg_engine::player::player;
 
@@ -123,6 +125,10 @@ pub fn cli_commands() {
 
             "math" => {
                 math_cli();
+            }
+
+            "random hero" => {
+                marvel_rivals_random_hero();
             }
 
             "rpg" => {

@@ -7,8 +7,8 @@ pub fn gravitational_force(mass_1: f64, mass_2: f64, distance: f64) -> f64 {
 
     g_force
 
-    //let earth_moon_g: f64 = 
-        //gravitational_force(EARTH.mass_kg, MOON.mass_kg, 384_400_000.0);
-    
+    //let earth_moon_g: f64 =
+    //gravitational_force(EARTH.mass_kg, MOON.mass_kg, 384_400_000.0);
+
     //println!("{}", earth_moon_g);
 }
