@@ -114,7 +114,7 @@ pub fn marvel_rivals_random_hero() {
             duelist_strategist.push(hero);
         }
 
-        let heroes: usize = all_heroes.len();
+        //let heroes: usize = all_heroes.len();
 
         let hero_pool: Vec<Vec<&str>> = vec![
             vanguard,

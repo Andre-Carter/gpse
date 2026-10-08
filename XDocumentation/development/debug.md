@@ -12,3 +12,13 @@ Caused by:
 
 Caused by:
   An Application Control policy has blocked this file. (os error 4551)
+
+10/8/2026 
+
+error: failed to run custom build command for `getrandom v0.4.3`
+
+Caused by:
+  could not execute process `C:\Users\hlvdr\rubbah\gpse\target\debug\build\getrandom-9819a584ece59e9e\build-script-build` (never executed)
+
+Caused by:
+  An Application Control policy has blocked this file. (os error 4551)
