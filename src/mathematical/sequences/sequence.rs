@@ -29,6 +29,7 @@ pub fn sequence_cli() {
     build_sequence(start_number, end_number, variable);
 }
 
+// rename sequence_generator
 pub fn build_sequence(
     start_number: usize, 
     end_number: usize, 
@@ -36,6 +37,7 @@ pub fn build_sequence(
 ) {
     let mut new_sequence: Vec<usize> = Vec::new();
 
+    
     for n in start_number..=end_number {
         let generator = n * variable;
 

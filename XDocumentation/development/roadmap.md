@@ -381,3 +381,165 @@ This architecture prepares GPSE for increasingly complex mathematical experiment
 **Status:** ARCHITECTURE PLANNED
 **Current implementation:** `mathematical/sequence.rs`
 **Next milestone:** Sequence generators → Sequence iteration engine
+
+// mathematical/
+├── arithmetic/
+├── carter/
+├── dimensional/
+├── geometry/
+├── algebra/
+├── trigonometry/
+├── calculus/
+├── sequences/
+├── statistics/
+├── probability/
+├── logic/
+├── combinatorics/
+└── discrete/
+
+arithmetic:
+
+addition
+subtraction
+multiplication
+division
+modulo
+factors
+multiples
+remainders
+fractions
+
+algebra: 
+
+variables
+expressions
+equations
+inequalities
+polynomials
+functions
+
+trigonometry:
+
+points
+lines
+angles
+circles
+triangles
+areas
+volumes
+coordinate geometry
+
+trigonometry/
+└── circular/
+    ├── unit_circle.rs
+    ├── angles.rs
+    ├── turns.rs
+    └── scaling.rs
+
+    dimensional/
+├── dimensions.rs
+├── dimensionless.rs
+├── units.rs
+└── quantities.rs
+
+distance / time → velocity
+velocity / time → acceleration
+mass * acceleration → force
+
+carter/
+├── constants.rs
+├── ratios.rs
+├── scaling.rs
+├── functions.rs
+└── circular.rs
+
+space/
+├── cartesian.rs
+├── polar.rs
+├── spherical.rs
+├── cylindrical.rs
+└── vectors.rs
+
+mathematical/
+└── constants/
+    ├── mod.rs
+    ├── common.rs
+    ├── mathematical.rs
+    └── physical.rs
+
+    MATHEMATICAL CONSTANTS
+    π
+    e
+    φ
+    √2
+    ...
+
+PHYSICAL CONSTANTS
+    c
+    G
+    h
+    ...
+
+    expressions/
+├── mod.rs
+├── token.rs
+├── tokenizer.rs
+├── parser.rs
+├── expression.rs
+└── evaluator.rs
+
+INPUT
+  ↓
+TOKENIZER
+  ↓
+TOKENS
+  ↓
+PARSER
+  ↓
+EXPRESSION / AST
+  ↓
+EVALUATOR
+
+mathematical/
+└── symbolic/
+    └── runes/
+
+    symbolic/
+├── runes/
+├── glyphs/
+├── notation/
+└── encoding/
+
+That gives you room for your earlier pictoglyph concept too
+
+MATHEMATICS
+     ↓
+SYMBOLIC REPRESENTATION
+     ↓
+RUNE / GLYPH
+     ↓
+MACHINE-READABLE MEANING
+
+experimental/
+├── x_bash/
+├── prototypes/
+├── experiments/
+└── research/
+
+The O-level
+
+Think of GPSE as the machine, and XDocument as the map of the machine.
+
+                         GPSE
+                          │
+              ┌───────────┴───────────┐
+              │                       │
+          SOURCE TREE             XDOCUMENT
+              │                       │
+        implementation           explanation
+              │                       │
+        executable systems       architecture
+              │                       │
+              └───────────┬───────────┘
+                          │
+                    CROSS-REFERENCE
