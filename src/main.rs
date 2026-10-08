@@ -8,15 +8,17 @@ fn read(input: &mut String) {
 }
 
 fn main() {
-    //MAIN SYSTEMS
+    print!("GREETINGS, WELCOME BACK! ");
+    println!("[ DATE / TIME ]");
+    print!("GENERAL PURPOSE SIMULATION ENGINE ");
+    println!("[ VERSION: 1.0 ]");
+    println!("Enter \"command\" to start.");
+    println!();
+
     loop {
-        println!("GENERAL PURPOSE SIMULATION ENGINE");
-        println!("[ DATE / TIME ]");
-        println!();
+        print!("GPSE> ");
 
         let mut command: String = String::new();
-
-        print!("> ");
 
         read(&mut command);
 
@@ -28,7 +30,8 @@ fn main() {
             }
 
             "exit" => {
-                println!("exiting gpse ...");
+                println!("Exiting GPSE...");
+                println!("BLESSED!");
                 break;
             }
 
@@ -37,4 +40,6 @@ fn main() {
             }
         }
     }
+
+    println!();
 }

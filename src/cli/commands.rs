@@ -28,14 +28,15 @@ pub fn captialize_first_letter(input: &str) -> String {
 }
 
 pub fn cli_commands() {
+    println!();
     println!("COMMAND SYSTEMS ONLINE!");
-    println!("Type \"help\" for commands.");
+    println!("Enter \"help\" for commands.");
     println!();
 
     loop {
-        let mut command: String = String::new();
+        print!("GPSE> COMMAND> ");
 
-        print!("> ");
+        let mut command: String = String::new();
 
         read(&mut command);
 
@@ -52,17 +53,20 @@ pub fn cli_commands() {
                 println!("{:<20} (open cli calculator)", "calc");
                 println!("{:<20} (open square-root function)", "sqrt");
                 println!("{:<20} (open carter mathematics)", "carter");
+                println!("{:<20} (open carter mathematics repeat)", "carter repeat");
+                println!("{:<20} (open rpg)", "rpg");
                 println!("{:<20} (debugging steps)", "debug");
                 println!("{:<20} (inspection steps)", "inspection");
                 println!("{:<20} (cargo commands listing)", "cargo");
                 println!("{:<20} (git commands listing)", "git"); //pending removal
                 println!("{:<20} (exit gpse cli program)", "exit");
+                println!();
             }
 
             "read" => loop {
                 let mut command = String::new();
 
-                print!("read> ");
+                print!("GPSE> COMMAND> READ> ");
 
                 read(&mut command);
 
@@ -70,7 +74,7 @@ pub fn cli_commands() {
 
                 match command.as_str() {
                     "help" => {
-                        println!("read> help> ");
+                        println!("GPSE> COMMAND> READ> HELP> ");
                         println!();
                         println!("{:<20} (command descriptions & instructions)", "help");
                         println!("{:<20} (read directory list)", "library");
@@ -78,8 +82,8 @@ pub fn cli_commands() {
                     }
 
                     "library" => {
-                        println!("read> library> ");
-                        println!("{:<20} (open kjv 1611)", "kjv 1611");
+                        println!("GPSE> COMMAND> READ> LIBRARY> ");
+                        println!("{:<20} (open kjv 1611)", "kjv1611");
                     }
 
                     "kjv1611" => {
@@ -92,7 +96,7 @@ pub fn cli_commands() {
                     }
 
                     _ => {
-                        println!("  unknown read command.")
+                        println!("unknown read command.")
                     }
                 }
             },
@@ -185,4 +189,6 @@ pub fn cli_commands() {
             }
         }
     }
+
+    println!();
 }
