@@ -12,8 +12,8 @@ use crate::mathematical::sequences::sequence::sequence_cli;
 
 use crate::programs::games::marvel_rivals_random_hero::marvel_rivals_random_hero;
 
-use crate::rpg_engine::inventory::Item;
-use crate::rpg_engine::player::player;
+use crate::programs::rpg_engine::player::inventory::Item;
+use crate::programs::rpg_engine::player::player::player;
 
 use std::io::{Write, stdin, stdout};
 

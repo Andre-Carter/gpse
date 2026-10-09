@@ -4,20 +4,20 @@
 
 //use crate::rpg_engine::stats::CharacterStats;
 
-use crate::rpg_engine::stats::PlayerStats;
+use crate::programs::rpg_engine::player::stats::PlayerStats;
 
-use crate::rpg_engine::skills::Skill;
-use crate::rpg_engine::skills::Skills;
+use crate::programs::rpg_engine::player::skills::Skill;
+use crate::programs::rpg_engine::player::skills::Skills;
 
-use crate::rpg_engine::equipment::Equipment;
+use crate::programs::rpg_engine::player::equipment::Equipment;
 
-use crate::rpg_engine::inventory::{Inventory, Item};
+use crate::programs::rpg_engine::player::inventory::{Inventory, Item};
 
-use crate::rpg_engine::titles::Title;
-use crate::rpg_engine::titles::Titles;
+use crate::programs::rpg_engine::player::titles::Title;
+use crate::programs::rpg_engine::player::titles::Titles;
 
-use crate::rpg_engine::effects::Effect;
-use crate::rpg_engine::effects::Effects;
+use crate::programs::rpg_engine::player::effects::Effect;
+use crate::programs::rpg_engine::player::effects::Effects;
 
 pub struct Name {
     pub name: String,
