@@ -6,7 +6,7 @@ fn read(input: &mut String) {
 }
 
 pub fn sequence_cli() {
-    println!("[ START-NUMBER END-NUMBER VARIABLE ]");
+    println!("[ COEFFICIENT START END ]");
     print!("GPSE> MATHEMATICAL> SEQUENCE> "); // NOTE: FUTURE REFACTOR OF CLI TREE
 
     let mut input = String::new();
@@ -18,31 +18,61 @@ pub fn sequence_cli() {
         .split_whitespace()
         .collect();
 
-    let start_number = sequence_code[0].parse::<usize>().unwrap();
-
-    let end_number = sequence_code[1].parse::<usize>().unwrap();
-
-    let variable = sequence_code[2].parse::<usize>().unwrap();
-
-    println!("[ {} {} {} ]", start_number, end_number, variable);
-
-    build_sequence(start_number, end_number, variable);
+    let coefficient = sequence_code[0].parse::<i32>().unwrap();
+    let start = sequence_code[1].parse::<i32>().unwrap();
+    let end = sequence_code[2].parse::<i32>().unwrap();
+    println!("[ {} {} {} ]", coefficient, start, end);
+    let _ = sequence_linear_i32(coefficient, start, end);
 }
 
-// rename sequence_generator
-pub fn build_sequence(
-    start_number: usize, 
-    end_number: usize, 
-    variable: usize
-) {
-    let mut new_sequence: Vec<usize> = Vec::new();
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub enum SequenceError {
+    InvalidRange,
+    ArithmeticOverflow,
+}
 
-    
-    for n in start_number..=end_number {
-        let generator = n * variable;
+pub fn sequence_linear_i32(
+    coefficient: i32,
+    start: i32, 
+    end: i32
+) -> Result<Vec<i32>, SequenceError> {
+    let mut generated_sequence: Vec<i32> = Vec::new();
 
-        new_sequence.push(generator);
+    if start > end {
+        return Err(SequenceError::InvalidRange);
     }
 
-    println!("{:?}", new_sequence);
+    for n in start..=end {
+        let generation = n + coefficient;
+
+        generated_sequence.push(generation);
+    }
+
+    Ok(generated_sequence)
 }
+
+/*
+pub fn sequence_linear_i32(
+    coefficient: i32,
+    start: i32,
+    end: i32,
+) -> Result<Vec<i32>, SequenceError> {
+    let mut generated_sequence: Vec<i32> = Vec::new();
+
+    if start > end {
+        return Err(SequenceError::InvalidRange);
+    }
+
+    for n in start..=end {
+        let generation = n
+            .checked_add(coefficient)
+            .ok_or(SequenceError::ArithmeticOverflow)?;
+
+        generated_sequence.push(generation);
+    }
+
+    Ok(generated_sequence)
+}
+*/
+
+

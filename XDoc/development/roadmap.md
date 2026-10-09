@@ -136,7 +136,17 @@ Cubic:
 Modulo:
 0, 1, 2, 3, 4, 0, 1, 2, 3, 4, ...
 ```
+Generator: linear, multiplication, square, cubic, modulo.
 
+Numeric type: i32, i64, u32, u64, usize, and eventually floating-point types.
+
+Sequence operations: collect, clone, iterate, transform, sum, compare, and analyze.
+
+sequence_linear_i32(...)
+sequence_linear_i64(...)
+sequence_linear_u32(...)
+sequence_linear_u64(...)
+sequence_linear_usize(...)
 The generators should produce reusable sequence data rather than only printing individual values.
 
 Conceptual architecture:
