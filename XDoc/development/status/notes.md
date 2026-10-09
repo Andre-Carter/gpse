@@ -147,3 +147,4 @@ EVALUATOR
 │   └───── Plus                ← WORKING
 └───────── Number("1")         ← missing
 
+- arithmetic foundation
