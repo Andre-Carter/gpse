@@ -1,4 +1,5 @@
 # GPSE — Founding Principles
+Principles: the enduring reasons behind our engineering decisions.
 
 ### Draft 0.1
 

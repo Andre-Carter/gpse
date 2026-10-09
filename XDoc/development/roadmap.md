@@ -1,3 +1,5 @@
+Roadmap: what we intend to build next.
+
 - THE GREAT GPSE DOCUMENTATION REFACTOR. 😂
 
 VERSE       → Genesis 1:1

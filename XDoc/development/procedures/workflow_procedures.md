@@ -1,3 +1,5 @@
+Workflow procedures: repeatable operational workflows, such as testing, debugging, releases, and Git checkpoints.
+
 OUR SACRED WORK FLOW
 
 Edit
