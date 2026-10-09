@@ -2,6 +2,14 @@
 
 What is GPSE?
 
+THE GPSE FOUNDATION
+
+UNDERSTAND THE FUNDAMENTALS.
+BUILD WITH INTENTION.
+PRESERVE THE KNOWLEDGE.
+PROTECT THE FUTURE.
+GROW WITHOUT LOSING THE VISION.
+
 What is the project trying to become?
 
 What are its core architectural principles?

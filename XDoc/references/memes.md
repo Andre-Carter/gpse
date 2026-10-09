@@ -368,3 +368,7 @@ BROTHER:               PRESENT
 **No heresy.**
 
 **Keep building.**
+
+THE GPSE MINING DIVISION IS NOW OPERATIONAL.
+
+XD, XDoc, XGPSE... XD PAIN... PAAAIN!

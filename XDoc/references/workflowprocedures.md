@@ -61,3 +61,23 @@ KNOWN GOOD REMOTE BASELINE
               │ git push    │
               │ remote copy │
               └─────────────┘
+
+And our sacred production pipeline:
+
+RESEARCH
+   ↓
+RAW MATERIAL
+   ↓
+MATHEMATICAL DEFINITION
+   ↓
+RUST IMPLEMENTATION
+   ↓
+CLI EXPERIMENT
+   ↓
+TESTING
+   ↓
+XDOC
+   ↓
+COMMIT
+   ↓
+INGOT ACQUIRED

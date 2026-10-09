@@ -1,0 +1,1 @@
+Every problem understood is a lesson preserved. Every lesson preserved is a burden the next engineer may never have to carry.
