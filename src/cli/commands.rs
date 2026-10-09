@@ -6,9 +6,12 @@ use crate::cli::calculator::cli_calc;
 use crate::cli::calculator::cli_sqrt;
 use crate::cli::math::math_cli;
 
+//use crate::mathematical::arithmetic::arithmetic::checked_add;
 use crate::mathematical::carter::carter_family::carter_formula_cli;
 use crate::mathematical::carter::carter_family::carter_formula_repeat;
 use crate::mathematical::sequences::sequence::sequence_cli;
+
+use crate::mathematical::test_mathematical::test_mathematical;
 
 use crate::programs::games::marvel_rivals_random_hero::marvel_rivals_random_hero;
 
@@ -126,6 +129,10 @@ pub fn cli_commands() {
 
             "math" => {
                 math_cli();
+            }
+
+            "test mathematical" => {
+                test_mathematical();
             }
 
             "sequence" => {

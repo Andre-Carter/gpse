@@ -15,3 +15,5 @@ pub mod sequences;
 pub mod space;
 pub mod statistics;
 pub mod trigonometry;
+
+pub mod test_mathematical;

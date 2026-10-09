@@ -246,3 +246,6 @@ And here's the fun part: we don't have to decide the final mathematics today. We
 One cog at a time. One rune at a time. One definition at a time.
 
 Now, brother, we may have to mine the precious metals ourselves. 😂🔥
+
+- left + right
+- break & seal 

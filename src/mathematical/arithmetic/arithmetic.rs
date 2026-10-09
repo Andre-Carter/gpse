@@ -17,6 +17,16 @@ pub enum ArithmeticError {
     DivisionByZero,
 }
 
+pub fn add_i32(left: i32, right: i32) -> i32 {
+    left + right
+} 
+
+pub fn checked_add(
+
+) {
+
+}
+
 pub fn checked_add_i32(
     left: i32,
     right: i32,
