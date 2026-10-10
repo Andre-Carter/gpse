@@ -175,4 +175,33 @@ Define the boundaries between CONTROL, MISSIONS, personnel, and protocol executi
 
 The key distinction is: CONTROL decides whether a mission may proceed; MISSIONS defines what proceeding entails. The protocol specifies obligations that must be honored during that mission.
 
+2. What each core would own
+
+System
+- Potential responsibility of its core
+
+command
+- Dispatch commands and coordinate command handlers
+
+communication
+- Coordinate message processing, routing, and delivery
+
+control
+- Evaluate authorization and coordinate operational decisions
+
+mission
+- Define, validate, and manage mission specifications and lifecycle
+
+navigation
+- Coordinate navigation requests and route or trajectory calculations
+
+personnel
+- Coordinate personnel records, assignments, and accountability
+
+security
+- Coordinate authentication, authorization, and security policy enforcement
+
+telemetry
+- Coordinate collection, processing, and reporting of measurements and status
+
 
