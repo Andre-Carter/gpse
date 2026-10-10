@@ -1,5 +1,5 @@
 use crate::archive::bible::kjv1611::kjv_1611::lookup_kjv1611;
-use crate::systems::command::core::commands::captialize_first_letter;
+use crate::systems::command::core::command_core::captialize_first_letter;
 
 use std::io::{Write, stdin, stdout};
 

@@ -1,1 +1,1 @@
-pub mod nav;
+pub mod core;

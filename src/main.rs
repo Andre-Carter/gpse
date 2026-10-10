@@ -1,4 +1,4 @@
-use gpse::systems::command::core::commands::cli_commands;
+use gpse::systems::command::core::command_core::cli_commands;
 
 use std::io::{Write, stdin, stdout};
 
