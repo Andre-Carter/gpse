@@ -21,3 +21,5 @@ What is the next concrete task?
 
 - research numeric data types limits
 - implement mathematical> numeric_data_types
+
+- i started a small refactor of our cli library. cli> mathematical> data_types> numeric. print_numeric is a success. cli> commands is the core of our command systems while cli> "library" handles builds the use crate, print, format and eventually match functions for specific data values grouping / categories

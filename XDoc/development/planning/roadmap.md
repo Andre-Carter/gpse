@@ -653,3 +653,43 @@ tests.rs
 Tests for construction, type identity, and value preservation.
 
 create cli naviation for numeric data types 
+
+suggested structure for cli 
+
+src/cli/
+├── mod.rs
+├── commands/
+│   ├── mod.rs
+│   └── mathematical/
+│       ├── mod.rs
+│       └── data_types/
+│           ├── mod.rs
+│           └── numeric.rs
+└── library/
+    ├── mod.rs
+    ├── imports.rs
+    ├── print.rs
+    ├── format.rs
+    └── data_values/
+        ├── mod.rs
+        ├── numeric.rs
+        └── categories.rs
+
+The names are proposals, not a requirement to create every file now
+altough we'll get there when we get there
+
+Check XDoc> .. roadmap, architecture. 
+
+My recommendation for this checkpoint
+
+Establish systems/command/ as the shared command-system home.
+
+Move the existing commands.rs into systems/command/core/.
+
+Keep library beside core.
+
+Preserve mathematical_cli() -> numeric_cli() as the handler hierarchy.
+
+Keep the double-mirror concept documented as deferred.
+
+Update module declarations and verify the refactor with cargo fmt -- --check and cargo check.

@@ -997,3 +997,5 @@ My recommendation is to make this a navigation and naming refactor, not another 
 And brother, the payoff is that six months from now, you can open XGPSE/mathematical/carter/ and find the Carter documentation without hunting through the general roadmap, research notes, or a giant archive of conversations.
 
 GPSE holds the machinery. XGPSE explains the machinery. XDoc gives the whole project its memory.
+
+Establish known long-term architectural boundaries early; implement advanced capabilities only when justified by current requirements.
