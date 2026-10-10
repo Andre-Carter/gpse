@@ -1,4 +1,4 @@
-pub mod cli;
+pub mod command;
 pub mod communication;
 pub mod navigation;
 pub mod telemetry;
