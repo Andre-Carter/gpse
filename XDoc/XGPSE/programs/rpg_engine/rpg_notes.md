@@ -1,3 +1,5 @@
+THE MAIN QUEST: Collect the lost manuscripts. 
+
 // GAME PRINCIPLE:
 // The player is not defined by a single class.
 // Archetypes, roles, builds, titles, skills, equipment,
@@ -1137,3 +1139,72 @@ For now, brother:
 gpse/rpg/rpg.rs → CLI RPG → character engine → simulation → eventually 3D.
 
 That's a path I would absolutely pursue. 🔥
+
+- entities and attributes
+- items and resources (note: possible refactor of items vs resources vs what we have now Inventory::Items)
+- rules and actions
+- world simulation
+
+Expansion opportunites 
+
+- blueprints and crafting
+- loot and rewards
+- items, inventories, and equipment
+- progression and world state
+
+The architectural decisions that matter most
+- definition: what something is ex. an iron sword 
+- instance: a particular thing that exist ex. the sword in a characters inventory
+- rule: what may happen to it ex. requirements for equipping it
+
+For example, a crafting operation could eventually follow this sequence:
+- Check whether the recipe exists.
+- Check whether the actor possesses the required materials.
+- Check any skill or station requirements.
+- Apply the material consumption and create the output.
+- Return a result that can be tested and inspected.
+
+The operation should be atomic from the simulation's perspective: a failed craft must not consume materials halfway through.
+
+let's determine what rpg_engine fundamentally is
+a. a reusable rpg simulation engine - the world and rules come first
+
+other options
+b. a configurable rpg framework - game creators plug in their own systems
+c. a hybrid - a core simulation with moular, configurable systems
+
+B. How should crafting be represented?
+
+Data-driven recipes — definitions specify inputs, conditions, and outputs.
+Code-driven recipes — each recipe can implement custom Rust logic.
+Both — standard data-driven recipes with extension points for special behavior.
+
+C. How should loot randomness work?
+
+Seedable randomness — reproducible simulations and deterministic tests.
+Fixed deterministic rules only — no randomness in the initial engine.
+Pluggable — the caller supplies a random-number source or selection policy.
+Discuss these choices
+
+GPSE
+└── programs/
+    └── rpg_engine/             # Reusable mechanics and rules
+        ├── entities/
+        ├── items/
+        ├── inventory/
+        ├── recipes/
+        ├── progression/
+        ├── quests/
+        ├── rewards/
+        ├── world/
+        ├── generation/
+        └── random/
+
+    └── the_lost_manuscripts/   # The actual game
+        ├── content/
+        ├── archives/
+        ├── quests/
+        ├── locations/
+        ├── items/
+        └── game configuration
+

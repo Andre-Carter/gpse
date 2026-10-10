@@ -693,3 +693,63 @@ Preserve mathematical_cli() -> numeric_cli() as the handler hierarchy.
 Keep the double-mirror concept documented as deferred.
 
 Update module declarations and verify the refactor with cargo fmt -- --check and cargo check.
+
+The GPSE top-three roadmap
+1. Mathematics
+Foundation
+
+Goal: Build reliable, reusable mathematical primitives.
+
+Focus on:
+
+Numeric data types and type limits.
+
+Arithmetic operations and edge-case tests.
+
+Dimensions, units, and dimensionless values.
+
+Sequences, series, factorials, and summation.
+
+Carter mathematics after the core contracts are stable.
+
+Milestone: GPSE can represent numeric values, calculate with them safely according to defined policies, and verify results with tests.
+
+2. Bible / READ
+
+Goal: Build a dependable, searchable textual archive.
+
+Focus on:
+
+Resume the lost 1 Samuel work when ready.
+
+Preserve the working book, chapter, and verse lookup.
+
+Strengthen parsing and input validation.
+
+Support verse ranges and chapter/book navigation.
+
+Add searching and structured textual metadata.
+
+Milestone: READ reliably retrieves the requested passage and handles invalid references gracefully.
+
+Keep the typed corpus and retrieval logic separate from CLI presentation.
+
+3. rpg_engine
+
+Goal: Establish a reusable role-playing simulation domain.
+
+Focus on:
+
+Core entity and character representations.
+
+Attributes, statistics, and derived values.
+
+Items, inventories, and equipment.
+
+Actions and explicit state transitions.
+
+Deterministic rules and unit tests.
+
+Milestone: A small, testable simulation can create a character, represent its state, and apply a valid action with predictable results.
+
+Start with the domain model—not a complete game, renderer, or campaign system.

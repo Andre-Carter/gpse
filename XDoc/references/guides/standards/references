@@ -1,0 +1,13 @@
+When making a reference to a file location use
+Example. 
+    Check XDoc> planning> roadmap. 
+
+When making a reference of functions or systems use
+Example. 
+    Check GPSE> mathematical -> data_types -> numeric
+
+When making multiple references seperate with ... 
+
+When referencing functions include parentheses
+Example. 
+    Function() -> Function_Print()
