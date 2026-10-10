@@ -19,6 +19,26 @@ revised when concrete requirements demonstrate a better approach.
 
 ---
 
+Ordering Functions by numberic data types
+1. usize
+2. unsigned
+3. signed
+4. floating
+
+Width Order
+
+1. narrowest    32-bit
+2. widest       64-bit
+
+Operation Order
+
+1. add
+2. sub
+3. mul
+4. div
+5. rem
+6. pow
+
 # 2. Rust Naming Conventions
 
 GPSE should follow idiomatic Rust naming unless there is a documented

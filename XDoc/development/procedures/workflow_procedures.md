@@ -83,3 +83,5 @@ XDOC
 COMMIT
    ↓
 INGOT ACQUIRED
+
+cargo test //
