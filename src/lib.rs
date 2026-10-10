@@ -1,5 +1,4 @@
 pub mod archive;
-pub mod cli;
 pub mod mathematical;
 pub mod programs;
 pub mod science;

@@ -2,11 +2,11 @@ use crate::archive::bible::kjv1611::kjv_1611_cli::kjv_1611_cli_funk;
 
 use crate::archive::ledger::ledger_cli::open_ledger;
 
-use crate::cli::calculator::cli_calc;
-use crate::cli::calculator::cli_sqrt;
-use crate::cli::math::math_cli;
+use crate::systems::cli::calculator::cli_calc;
+use crate::systems::cli::calculator::cli_sqrt;
+use crate::systems::cli::math::math_cli;
 
-use crate::cli::mathematical::data_types::numeric::print_numeric;
+use crate::systems::cli::mathematical::data_types::numeric::print_numeric;
 
 //use crate::mathematical::arithmetic::arithmetic::checked_add;
 use crate::mathematical::carter::carter_family::carter_formula_cli;
