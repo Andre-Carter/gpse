@@ -1208,3 +1208,32 @@ GPSE
         ├── items/
         └── game configuration
 
+
+pub enum Recipe {
+    Craft {
+        id: String,
+        inputs: Vec<RecipeComponent>,
+        outputs: Vec<RecipeComponent>,
+    },
+}
+
+pub enum RecipeComponent {
+    Item {
+        id: String,
+        quantity: u32,
+    },
+    Resource {
+        id: String,
+        quantity: u32,
+    },
+    Experience {
+        amount: u32,
+    },
+}
+
+item -> inventory
+item -> equipment
+item -> crafting (recipe)
+
+item -> disgard 
+item -> lootbox
