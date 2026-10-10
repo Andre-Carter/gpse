@@ -1,6 +1,4 @@
-pub mod mathematical;
+pub mod core;
+pub mod library;
+pub mod tools;
 
-pub mod calculator;
-pub mod commands;
-//pub mod lang;
-pub mod math;
