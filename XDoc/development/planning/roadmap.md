@@ -631,3 +631,25 @@ RECOMMENDATION:
     2. Drink water.
     3. Touch grass.
     4. Return to GPSE.
+
+after mathematical> data_types> numeric work on conversion... and related mathematical libs needed for GPSE
+
+src/mathematical/data_types/numeric/
+
+mod.rs
+
+Public module boundary and exports.
+
+numeric_type.rs
+
+The NumericType enum: identifies the primitive numeric type.
+
+numeric.rs
+
+The Numeric struct: stores a value with its numeric type.
+
+tests.rs
+
+Tests for construction, type identity, and value preservation.
+
+create cli naviation for numeric data types 
