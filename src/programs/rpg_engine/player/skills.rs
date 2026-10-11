@@ -1,9 +1,11 @@
+#[derive(Debug)]
 pub struct Skill {
     pub name: String,
     //pub level: u32,
     //pub experience: u64,
 }
 
+#[derive(Debug)]
 pub struct Skills<T> {
     pub skills: Vec<T>,
 }

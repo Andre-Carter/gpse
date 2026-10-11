@@ -1,3 +1,4 @@
+#[derive(Debug)]
 pub struct Equipment<Item> {
     pub primary: Option<Item>,
     pub secondary: Option<Item>,

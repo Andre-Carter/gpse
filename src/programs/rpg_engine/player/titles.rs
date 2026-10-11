@@ -1,8 +1,10 @@
+#[derive(Debug)]
 pub struct Title {
     pub name: String,
     pub description: String,
 }
 
+#[derive(Debug)]
 pub struct Titles<T> {
     pub titles: Vec<T>,
 }

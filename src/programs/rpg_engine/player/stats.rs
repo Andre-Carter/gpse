@@ -1,3 +1,4 @@
+#[derive(Debug)]
 pub struct Mind {
     pub power: i32,
     pub will: i32,
@@ -5,6 +6,7 @@ pub struct Mind {
     pub perception: i32,
 }
 
+#[derive(Debug)]
 pub struct Body {
     pub power: i32,
     pub will: i32,
@@ -12,6 +14,7 @@ pub struct Body {
     pub perception: i32,
 }
 
+#[derive(Debug)]
 pub struct Spirit {
     pub power: i32,
     pub will: i32,
@@ -19,12 +22,14 @@ pub struct Spirit {
     pub perception: i32,
 }
 
+#[derive(Debug)]
 pub struct CharacterStats {
     pub mind: Mind,
     pub body: Body,
     pub spirit: Spirit,
 }
 
+#[derive(Debug)]
 pub struct PlayerStats {
     pub stats: CharacterStats,
 }

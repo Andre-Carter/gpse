@@ -1,8 +1,10 @@
+#[derive(Debug)]
 pub struct Effect {
     pub name: String,
     pub duration: Option<u32>,
 }
 
+#[derive(Debug)]
 pub struct Effects<T> {
     pub effects: Vec<T>,
 }

@@ -1,25 +1,16 @@
-use crate::systems::command::library::archive::bible::kjv1611::kjv_1611_cli::kjv_1611_cli_funk;
-
 use crate::archive::ledger::ledger_cli::open_ledger;
-
-use crate::systems::command::library::mathematical::data_types::numeric::print_numeric;
-
-use crate::systems::command::tools::calculator::cli_calc;
-use crate::systems::command::tools::calculator::cli_sqrt;
-use crate::systems::command::tools::math::math_cli;
-
 //use crate::mathematical::arithmetic::arithmetic::checked_add;
 use crate::mathematical::carter::carter_family::carter_formula_cli;
 use crate::mathematical::carter::carter_family::carter_formula_repeat;
-
 use crate::mathematical::sequences::sequence::sequence_cli;
-
 use crate::mathematical::test_mathematical::test_mathematical;
-
+use crate::systems::command::library::mathematical::data_types::numeric::print_numeric;
+use crate::systems::command::library::archive::bible::kjv1611::kjv_1611_cli::kjv_1611_cli_funk;
+use crate::systems::command::tools::calculator::cli_calc;
+use crate::systems::command::tools::calculator::cli_sqrt;
+use crate::systems::command::tools::math::math_cli;
 use crate::programs::games::marvel_rivals_random_hero::marvel_rivals_random_hero;
-
-use crate::programs::rpg_engine::player::inventory::Item;
-use crate::programs::rpg_engine::player::player::player;
+use crate::programs::rpg_engine::player::player::print_player;
 
 use std::io::{Write, stdin, stdout};
 
@@ -151,7 +142,7 @@ pub fn cli_commands() {
             }
 
             "rpg" => {
-                player::<Item>();
+                print_player();
             }
 
             "debug" => {

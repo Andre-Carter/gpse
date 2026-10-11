@@ -4,32 +4,29 @@
 
 //use crate::rpg_engine::stats::CharacterStats;
 
+use std::fmt;
+
 use crate::programs::rpg_engine::player::stats::PlayerStats;
-
-use crate::programs::rpg_engine::player::skills::Skill;
-use crate::programs::rpg_engine::player::skills::Skills;
-
+use crate::programs::rpg_engine::player::skills::{Skill, Skills};
 use crate::programs::rpg_engine::player::equipment::Equipment;
-
 use crate::programs::rpg_engine::player::inventory::{Inventory, Item};
+use crate::programs::rpg_engine::player::titles::{Title, Titles};
+use crate::programs::rpg_engine::player::effects::{Effect, Effects};
 
-use crate::programs::rpg_engine::player::titles::Title;
-use crate::programs::rpg_engine::player::titles::Titles;
-
-use crate::programs::rpg_engine::player::effects::Effect;
-use crate::programs::rpg_engine::player::effects::Effects;
-
-pub struct Name {
+#[derive(Debug)]
+pub struct PlayerName {
     pub name: String,
 }
 
-pub struct Level {
+#[derive(Debug)]
+pub struct PlayerLevel {
     pub level: u32,
 }
 
+#[derive(Debug)]
 pub struct Player {
-    pub name: String,
-    pub level: u32,
+    pub name: PlayerName,
+    pub level: PlayerLevel,
     pub stats: PlayerStats,
     pub skills: Skills<Skill>,
     pub equipment: Equipment<Item>,
@@ -38,43 +35,57 @@ pub struct Player {
     pub effects: Effects<Effect>,
 }
 
-impl Name {
-    pub fn new() -> Self {
+impl PlayerName {
+    pub fn new(name: impl Into<String>) -> Self {
+        Self { name: name.into() }
+    }
+}
+
+impl PlayerLevel {
+    pub fn new(level: u32) -> Self {
+        Self { level }
+    }
+}
+
+impl fmt::Display for PlayerName {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        write!(f, "{}", self.name)
+    }
+}
+
+impl fmt::Display for PlayerLevel {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        write!(f, "{}", self.level)
+    }
+}
+
+impl Player {
+    pub fn new(name: impl Into<String>) -> Self {
         Self {
-            name: "".to_string(),
+            name: PlayerName::new(name),
+            level: PlayerLevel::new(1),
+            stats: PlayerStats::new(),
+            skills: Skills::new(),
+            equipment: Equipment::new(),
+            inventory: Inventory::new(),
+            titles: Titles::new(),
+            effects: Effects::new(),
         }
     }
 }
 
-impl Level {
-    pub fn new() -> Self {
-        Self { level: 0 }
+impl fmt::Display for Player {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        writeln!(f, "Player: {}", self.name)?;
+        writeln!(f, "Level: {}", self.level)?;
+        writeln!(f, "Stats: {}", self.stats)?;
+        write!(f, "Equipment: {}", self.equipment)
     }
 }
 
-impl std::fmt::Display for Player {
-    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        write!(f, "{}", self.name)?;
-        write!(f, "{}", self.level)?;
-
-        Ok(())
-    }
+pub fn print_player() {
+    let player = Player::new("Andre");
+    println!("{player}");
 }
 
-pub fn player<Item: std::fmt::Display>() {
-    let player = Player {
-        name: "Andre".to_string(),
-        level: 1,
-        stats: PlayerStats::new(),
-        skills: Skills::new(),
-        equipment: Equipment::new(),
-        inventory: Inventory::new(),
-        titles: Titles::new(),
-        effects: Effects::new(),
-    };
 
-    println!("{}", player.name);
-    println!("{}", player.level);
-    println!("{}", player.stats);
-    println!("{}", player.equipment);
-}

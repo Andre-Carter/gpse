@@ -1237,3 +1237,29 @@ item -> crafting (recipe)
 
 item -> disgard 
 item -> lootbox
+
+the_lost_manuscripts/
+├── Cargo.toml
+├── assets/
+│   ├── images/
+│   ├── audio/
+│   └── fonts/
+├── data/
+│   ├── items/
+│   ├── quests/
+│   ├── locations/
+│   └── manuscripts/
+└── src/
+    ├── main.rs
+    ├── game/
+    │   ├── state.rs
+    │   └── rules.rs
+    ├── player/
+    ├── world/
+    ├── interaction/
+    ├── inventory/
+    ├── crafting/
+    ├── quests/
+    ├── manuscripts/
+    ├── persistence/
+    └── presentation/

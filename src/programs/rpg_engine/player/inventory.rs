@@ -1,7 +1,9 @@
+#[derive(Debug)]
 pub struct Inventory<T> {
     items: Vec<T>,
 }
 
+#[derive(Debug)]
 pub struct Item {
     pub name: String,
 }
