@@ -1,0 +1,161 @@
+pub struct PersonnelId(pub u64);
+
+pub enum AccountabilityStatus {
+    AccountedFor,
+    Unknown,
+    Discrepancy,
+    Missing,
+    ConfirmedDeceased,
+}
+
+pub struct AccountabilityRecord {
+    pub personnel_id: PersonnelId,
+    pub status: AccountabilityStatus,
+    pub observed_at: Option<String>,
+    pub evidence_reference: Option<String>,
+}
+
+//
+
+pub enum Request 
+
+pub enum MissionStatus {
+    Active, 
+    InProgress,
+
+}
+
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Hash)]
+pub struct PersonnelId(pub u64);
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct PersonnelName(pub String);
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct PersonnelOccupation(pub String);
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub enum AvailabilityStatus {
+    Available,
+    Working,
+    Busy,
+    OnMission,
+    Tasked,
+    Resting,
+    Libo,
+}
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub enum AccountabilityStatus {
+    AccountedFor,
+    Unknown,
+    Discrepancy,
+    Missing,
+    ConfirmedDeceased,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct Personnel {
+    pub personnel_id: PersonnelId,
+    pub name: PersonnelName,
+    pub occupation: PersonnelOccupation,
+    pub availability: AvailabilityStatus,
+}
+
+impl Personnel {
+    pub fn new(
+        personnel_id: PersonnelId,
+        name: PersonnelName,
+        occupation: PersonnelOccupation,
+    ) -> Self {
+        Self {
+            personnel_id,
+            name,
+            occupation,
+            availability: AvailabilityStatus::Available,
+        }
+    }
+}
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct PersonnelRecord {
+    pub personnel: Personnel,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct AccountabilityRecord {
+    pub personnel_id: PersonnelId,
+    pub status: AccountabilityStatus,
+    pub observed_at: Option<String>,
+    pub evidence_reference: Option<String>,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct PersonnelReport {
+    pub personnel_id: PersonnelId,
+    pub accountability_status: AccountabilityStatus,
+    pub availability_status: AvailabilityStatus,
+}
+
+// section
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Hash)]
+pub struct PersonnelId(pub u64);
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub struct Personnel {
+    pub id: PersonnelId,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct PersonnelRecord {
+    pub personnel: Personnel,
+    pub name: String,
+    pub occupation: String,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct PersonnelList {
+    pub personnel: Vec<Personnel>,
+}
+
+impl PersonnelList {
+    pub fn new() -> Self {
+        Self {
+            personnel: Vec::new(),
+        }
+    }
+
+    pub fn add(&mut self, personnel: Personnel) {
+        if !self.personnel.contains(&personnel) {
+            self.personnel.push(personnel);
+        }
+    }
+
+    pub fn contains(&self, id: PersonnelId) -> bool {
+        self.personnel.iter().any(|person| person.id == id)
+    }
+}
+
+impl Default for PersonnelList {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
+// section
+
+let mut expected = PersonnelList::new();
+
+expected.add(Personnel {
+    id: PersonnelId(1),
+});
+
+expected.add(Personnel {
+    id: PersonnelId(2),
+});
+
+expected.add(Personnel {
+    id: PersonnelId(3),
+});
