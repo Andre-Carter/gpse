@@ -87,9 +87,6 @@ impl fmt::Display for Player {
     }
 }
 
-pub fn print_player() {
-    let player = Player::new("Andre");
-    print!("{player}");
-}
+
 
 

@@ -10,7 +10,7 @@ use crate::systems::command::tools::calculator::cli_calc;
 use crate::systems::command::tools::calculator::cli_sqrt;
 use crate::systems::command::tools::math::math_cli;
 use crate::programs::games::marvel_rivals_random_hero::marvel_rivals_random_hero;
-use crate::programs::rpg_engine::player::player::print_player;
+use crate::systems::command::library::programs::rpg_engine::player::player_cli::print_player;
 
 use std::io::{Write, stdin, stdout};
 
