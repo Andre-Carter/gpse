@@ -204,4 +204,9 @@ security
 telemetry
 - Coordinate collection, processing, and reporting of measurements and status
 
-
+command> formatting
+or 
+command> core> formatting
+and 
+example.
+command> library> programs> rpg_engine> formmating

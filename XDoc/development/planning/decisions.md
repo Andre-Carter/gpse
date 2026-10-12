@@ -63,3 +63,23 @@ Potential integrations include the ledger, communication, security, navigation, 
 
 Research use cases, define the protocol's scope, and determine whether personnel warrants a dedicated system before approving implementation.
 
+// section
+
+debate: rename rpg_engine -> the_lost_manuscripts
+current conclusion: leave the generic naming of rpg_engine as it perfectly describes the purpose of the code. Futute extraction of rpg_engine will include renaming, the father folder to the_lost_manuscripts and dependanices.
+
+// section
+
+Decision: retain rpg_engine
+
+Current GPSE naming convention
+
+Today — within GPSE
+programs/rpg_engine/
+systems/command/library/programs/rpg_engine/
+Future — standalone repository
+the_lost_manuscripts/
+- Rename the project root and crate identity as appropriate.
+- Update module declarations and imports.
+- Resolve mathematical and other GPSE dependencies.
+- Preserve the domain logic and reusable components wherever practical.
