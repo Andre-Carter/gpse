@@ -28,8 +28,8 @@ pub struct Player {
     pub name: PlayerName,
     pub level: PlayerLevel,
     pub stats: PlayerStats,
-    pub skills: Skills<Skill>,
     pub equipment: Equipment<Item>,
+    pub skills: Skills<Skill>,
     pub inventory: Inventory<Item>,
     pub titles: Titles<Title>,
     pub effects: Effects<Effect>,
@@ -89,7 +89,7 @@ impl fmt::Display for Player {
 
 pub fn print_player() {
     let player = Player::new("Andre");
-    println!("{player}");
+    print!("{player}");
 }
 
 

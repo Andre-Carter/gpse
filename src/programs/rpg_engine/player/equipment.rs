@@ -35,60 +35,60 @@ impl<Item: std::fmt::Display> std::fmt::Display for Equipment<Item> {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
         writeln!(f, "EQUIPMENT")?;
         writeln!(f)?;
-        writeln!(f, "Primary:")?;
-        match &self.primary {
-            Some(item) => writeln!(f, "{item}")?,
-            None => writeln!(f, "None")?,
+        write!(f, "Primary: ")?;
+            match &self.primary {
+                Some(item) => writeln!(f, "{item}")?,
+                None => writeln!(f, "Empty")?,
         }
 
-        writeln!(f, "Secondary:")?;
-        match &self.secondary {
-            Some(item) => writeln!(f, "{item}")?,
-            None => writeln!(f, "None")?,
+        write!(f, "Secondary: ")?;
+            match &self.secondary {
+                Some(item) => writeln!(f, "{item}")?,
+                None => writeln!(f, "Empty")?,
         }
 
-        writeln!(f, "Helmet:")?;
-        match &self.helmet {
-            Some(item) => writeln!(f, "{item}")?,
-            None => writeln!(f, "None")?,
+        write!(f, "Helmet: ")?;
+            match &self.helmet {
+                Some(item) => writeln!(f, "{item}")?,
+                None => writeln!(f, "Empty")?,
         }
 
-        writeln!(f, "Chestplate:")?;
-        match &self.chestplate {
-            Some(item) => writeln!(f, "{item}")?,
-            None => writeln!(f, "None")?,
+        write!(f, "Chestplate: ")?;
+            match &self.chestplate {
+                Some(item) => writeln!(f, "{item}")?,
+                None => writeln!(f, "Empty")?,
         }
 
-        writeln!(f, "Gauntlets:")?;
-        match &self.gauntlets {
-            Some(item) => writeln!(f, "{item}")?,
-            None => writeln!(f, "None")?,
+        write!(f, "Gauntlets: ")?;
+            match &self.gauntlets {
+                Some(item) => writeln!(f, "{item}")?,
+                None => writeln!(f, "Empty")?,
         }
 
-        writeln!(f, "Gloves:")?;
-        match &self.gloves {
-            Some(item) => writeln!(f, "{item}")?,
-            None => writeln!(f, "None")?,
+        write!(f, "Gloves: ")?;
+            match &self.gloves {
+                Some(item) => writeln!(f, "{item}")?,
+                None => writeln!(f, "Empty")?,
         }
 
-        writeln!(f, "Leggings:")?;
-        match &self.leggings {
-            Some(item) => writeln!(f, "{item}")?,
-            None => writeln!(f, "None")?,
+        write!(f, "Leggings: ")?;
+            match &self.leggings {
+                Some(item) => writeln!(f, "{item}")?,
+                None => writeln!(f, "Empty")?,
         }
 
-        writeln!(f, "Boots:")?;
-        match &self.boots {
-            Some(item) => writeln!(f, "{item}")?,
-            None => writeln!(f, "None")?,
+        write!(f, "Boots: ")?;
+            match &self.boots {
+                Some(item) => writeln!(f, "{item}")?,
+                None => writeln!(f, "Empty")?,
         }
 
-        writeln!(f, "Accessory_1:")?;
-        match &self.accessory_1 {
-            Some(item) => writeln!(f, "{item}")?,
-            None => writeln!(f, "None")?,
+        write!(f, "Accessory 1: ")?;
+            match &self.accessory_1 {
+                Some(item) => writeln!(f, "{item}")?,
+                None => writeln!(f, "Empty")?,
         }
-
+        
         Ok(())
     }
 }
