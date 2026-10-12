@@ -10,7 +10,7 @@ use crate::systems::command::tools::calculator::cli_calc;
 use crate::systems::command::tools::calculator::cli_sqrt;
 use crate::systems::command::tools::math::math_cli;
 use crate::programs::games::marvel_rivals_random_hero::marvel_rivals_random_hero;
-use crate::systems::command::library::programs::rpg_engine::player::player_cli::print_player;
+use crate::systems::command::library::programs::rpg_engine::rpg_engine_cli::rpg_engine_cli;
 
 use std::io::{Write, stdin, stdout};
 
@@ -142,7 +142,7 @@ pub fn cli_commands() {
             }
 
             "rpg" => {
-                print_player();
+                rpg_engine_cli();
             }
 
             "debug" => {
@@ -196,7 +196,7 @@ pub fn cli_commands() {
             }
 
             "exit" => {
-                println!("successfully exited GPSE...");
+                println!("Exiting GPSE COMMAND SYSTEM...");
                 break;
             }
 

@@ -753,3 +753,21 @@ Deterministic rules and unit tests.
 Milestone: A small, testable simulation can create a character, represent its state, and apply a valid action with predictable results.
 
 Start with the domain model—not a complete game, renderer, or campaign system.
+
+// section
+
+set_name	Change the player's name
+set_stat	Change a specified stat after validation
+gain_experience	Apply experience and any level-up rules
+equip_item	Validate and equip an item
+unequip_item	Remove an equipped item
+add_item	Add an item to inventory
+remove_item	Remove an item under defined rules
+
+4. The first playable development milestone
+I'd work in this order:
+1. Inspect and consolidate the existing player module structure.
+2. Establish the public player API and preserve the working display.
+3. Introduce the first validated modification functions.
+4. Build an interactive player CLI that can inspect and modify the same player instance.
+5. Add tests proving that changes persist, invalid inputs are rejected, and unrelated stats or equipment remain unchanged.
