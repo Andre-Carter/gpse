@@ -999,3 +999,97 @@ And brother, the payoff is that six months from now, you can open XGPSE/mathemat
 GPSE holds the machinery. XGPSE explains the machinery. XDoc gives the whole project its memory.
 
 Establish known long-term architectural boundaries early; implement advanced capabilities only when justified by current requirements.
+
+// section
+
+# Modular Architecture and Project Extraction
+
+## Purpose
+
+GPSE should be designed so its systems can evolve independently, be reused across projects, and eventually be extracted into standalone repositories with minimal architectural changes.
+
+Project extraction should be anticipated through explicit boundaries and dependencies, not postponed until a system becomes difficult to separate.
+
+## 1. Domain Ownership
+
+Each domain owns its data, rules, and operations.
+
+- Domain models should not depend on CLI rendering.
+- Domain behavior should not be duplicated in command handlers or presentation functions.
+- Shared types should be introduced only when their meaning and responsibilities genuinely align.
+- Public interfaces should expose deliberate operations rather than requiring external systems to manipulate internal implementation details.
+
+## 2. Separation of Representation, Presentation, and Output
+
+Maintain distinct responsibilities:
+
+- **Domain representation:** the data and domain behavior, including appropriate human-readable or developer-oriented representations such as Rust's `Display` and `Debug`.
+- **Presentation:** the organization of information into domain-specific views, summaries, tables, and reports.
+- **Output and interaction:** command input, prompts, terminal rendering, and delivery of information to the user.
+
+These are logical boundaries. They do not require a separate crate or module for every responsibility.
+
+## 3. Shared Formatting Disciplines
+
+Proposed location:
+
+`systems/command/core/formatting/`
+
+The formatting core provides generic, reusable formatting disciplines needed by command-facing systems.
+
+Potential disciplines include alignment, padding, separators, headings, tables, and text layout.
+
+Implementation follows a necessity-first principle: introduce a discipline when current functionality requires it, then generalize it when reuse is justified.
+
+The formatting core must not depend on domain-specific models such as players, manuscripts, ledger entries, or Bible passages.
+
+Domain-specific presentation belongs with the relevant command integration and should compose shared formatting tools rather than duplicate them.
+
+Plain-text output is the baseline. Terminal styling and other presentation enhancements may be added without coupling domain logic to a particular output medium.
+
+## 4. Project Extraction and Integration Boundaries
+
+Systems should be designed so that an independently useful project can be extracted from GPSE without rewriting its core domain logic.
+
+For example, The Lost Manuscripts may eventually become a standalone repository derived from:
+
+- `programs/rpg_engine/` — domain logic and game behavior.
+- `systems/command/library/rpg_engine/` — GPSE-specific command integration and presentation.
+
+The final standalone structure may differ from the current GPSE structure. The objective is to preserve the domain and minimize changes to module declarations, integration wiring, and infrastructure.
+
+Folder organization alone does not guarantee extractability. Imports, dependency graphs, shared types, configuration, and runtime assumptions must also be considered.
+
+## 5. Explicit Dependencies
+
+Every system should make its meaningful dependencies identifiable.
+
+When a project uses shared GPSE capabilities, such as mathematical functions, determine whether those capabilities should be:
+
+- Included within the extracted project.
+- Exposed through a reusable library or crate.
+- Declared as an external dependency.
+- Replaced with a project-specific implementation where appropriate.
+
+Avoid implicit dependence on unrelated GPSE modules or repository-wide state.
+
+Dependency decisions should preserve correctness, maintainability, and the intended independence of the extracted project.
+
+## 6. Incremental Implementation
+
+Architecture should support future growth without requiring speculative abstractions.
+
+- Start with current necessities.
+- Preserve working behavior during refactoring.
+- Introduce reusable helpers when demonstrated by actual use.
+- Keep integration interfaces explicit.
+- Test changes at the domain and integration boundaries.
+- Verify dependency and module boundaries as systems evolve.
+
+The objective is not maximum abstraction. It is clear ownership, controlled dependencies, and the ability to change or extract a system without unnecessary disruption.
+
+## Guiding Principle
+
+**Build GPSE as a collection of well-defined systems, not as an inseparable application.**
+
+A system should be useful within GPSE today and capable of becoming an independent project tomorrow, provided its real dependencies are made explicit and managed deliberately.
