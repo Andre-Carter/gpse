@@ -83,3 +83,14 @@ the_lost_manuscripts/
 - Update module declarations and imports.
 - Resolve mathematical and other GPSE dependencies.
 - Preserve the domain logic and reusable components wherever practical.
+
+// section
+
+2. A practical decision table
+Question	Best starting point
+Does it modify this player's state?	impl Player
+Does it validate a change to this player's state?	Usually impl Player
+Does it calculate a value from arguments alone?	Standalone function
+Does it coordinate several systems or objects?	Standalone service or domain coordinator
+Does it read terminal input or print menus?	CLI/presentation module
+Does it define how an individual stat behaves?	Potentially impl Stat or the relevant stat type

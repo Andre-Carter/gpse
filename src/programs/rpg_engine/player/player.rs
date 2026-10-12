@@ -72,6 +72,10 @@ impl Player {
             effects: Effects::new(),
         }
     }
+
+    pub fn set_name(&mut self, name: impl Into<String>) {
+        self.name.name = name.into();
+    }
 }
 
 impl fmt::Display for Player {
@@ -85,6 +89,10 @@ impl fmt::Display for Player {
         writeln!(f, "{}", self.equipment)?;
         Ok(())
     }
+}
+
+pub fn set_name () {
+
 }
 
 

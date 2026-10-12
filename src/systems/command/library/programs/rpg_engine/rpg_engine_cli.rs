@@ -1,4 +1,6 @@
 use crate::systems::command::library::programs::rpg_engine::player::player_cli::print_player;
+use crate::systems::command::library::programs::rpg_engine::player::player_cli::player_set_name;
+use crate::systems::command::library::programs::rpg_engine::player::player_cli::GameState;
 
 use std::io::{Write, stdin, stdout};
 
@@ -8,6 +10,8 @@ fn read(input: &mut String) {
 }
 
 pub fn rpg_engine_cli() {
+    let mut state = GameState::new();
+    
     println!();
     println!("RPG CLI!");
     println!("Enter \"help\" for commands.");
@@ -49,13 +53,26 @@ pub fn rpg_engine_cli() {
                         println!("-------------------------------------------------");
                         println!("{:<20} (command descriptions & instructions)", "help");
                         println!("{:<20} (get player information)", "print");
+                        println!("{:<20} (give player a new name)", "rename");
                         println!("{:<20} (exit gpse cli program)", "exit");
                         println!();
                     }
 
                     "print" => {
-                        print_player();
+                        print_player(&state);
                     }
+
+                    "rename" => {
+                        let mut command: String = String::new();
+
+                        print!("Enter new player name: ");
+                        read(&mut command);
+
+                        let command = command.trim();
+
+                        player_set_name(&mut state, command);
+                    }
+
 
                     "exit" => {
                         println!("Exiting RPG Player...");

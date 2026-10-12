@@ -771,3 +771,18 @@ I'd work in this order:
 3. Introduce the first validated modification functions.
 4. Build an interactive player CLI that can inspect and modify the same player instance.
 5. Add tests proving that changes persist, invalid inputs are rejected, and unrelated stats or equipment remain unchanged.
+
+One important thing to test next: does the same player instance survive across commands? Your transcript proves that the interfaces work, but not yet that a modified player will retain its changes after returning to a menu or reopening the RPG interface.
+That's our next architectural checkpoint.
+Mission recommendation
+I'd tackle the player system in this order:
+1. Player ownership — establish where the live player instance resides.
+2. Modification functions — implement validated operations on that instance.
+3. Player CLI — expose those operations through interactive commands.
+4. Tests — verify modifications, invalid input, and state persistence.
+5. Next game domain — move into items and inventory once the player foundation is dependable.
+No need to rush into world generation or quests while our player is still becoming a proper game entity.
+
+levels
+exp
+stats

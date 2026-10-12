@@ -249,3 +249,9 @@ Now, brother, we may have to mine the precious metals ourselves. 😂🔥
 
 - left + right
 - break & seal 
+
+MATHEMATICS> DATA_TYPE> NUMERIC CONVERSION
+u32 -> u64
+i32 -> i64
+f32 -> f64
+theorize usize conversion ...

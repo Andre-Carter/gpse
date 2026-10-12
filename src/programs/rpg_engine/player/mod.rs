@@ -2,6 +2,7 @@
 pub mod effects;
 pub mod equipment;
 pub mod inventory;
+pub mod levels;
 pub mod player;
 pub mod skills;
 pub mod stats;

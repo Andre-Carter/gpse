@@ -1263,3 +1263,52 @@ the_lost_manuscripts/
     ├── manuscripts/
     ├── persistence/
     └── presentation/
+
+player.set_stat(StatGroup::Mind, StatKind::Power, 5)?;
+
+impl Player {
+    pub fn set_stat(
+        &mut self,
+        group: StatGroup,
+        stat: StatKind,
+        value: u32,
+    ) -> Result<(), PlayerError> {
+        // Validate and apply the change.
+        todo!()
+    }
+}
+
+player/
+├── player.rs       # Player state and player-level operations
+├── stats.rs        # Stat data and stat-specific behavior
+├── equipment.rs    # Equipment ownership and rules
+└── inventory.rs    # Inventory ownership and rules
+
+combat/
+├── combat.rs       # Combat coordination and rules
+└── damage.rs       # Damage calculations
+
+// section
+
+5. One subtle distinction: associated functions versus methods
+Rust gives us two related patterns:
+impl Player {
+    pub fn new(name: String) -> Self {
+        // Construct a player.
+        todo!()
+    }
+
+    pub fn set_name(&mut self, name: String) {
+        // Modify an existing player.
+        todo!()
+    }
+}
+
+
+- Player::new(...) is an associated function. It doesn't receive an existing instance through self.
+- player.set_name(...) is a method. It receives an existing instance through &mut self.
+And the receiver tells us something important:
+- &self — inspect the player without modifying it.
+- &mut self — potentially modify the player.
+- No self — the function doesn't need an existing player instance.
+Those aren't absolute architectural rules, but they're useful signals.
