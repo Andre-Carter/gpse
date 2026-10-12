@@ -33,6 +33,8 @@ impl<Item> Equipment<Item> {
 
 impl<Item: std::fmt::Display> std::fmt::Display for Equipment<Item> {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        writeln!(f, "EQUIPMENT")?;
+        writeln!(f)?;
         writeln!(f, "Primary:")?;
         match &self.primary {
             Some(item) => writeln!(f, "{item}")?,

@@ -76,10 +76,14 @@ impl Player {
 
 impl fmt::Display for Player {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
-        writeln!(f, "Player: {}", self.name)?;
+        writeln!(f)?;
+        writeln!(f, "PLAYER")?;
+        writeln!(f)?;
+        writeln!(f, "Name: {}", self.name)?;
         writeln!(f, "Level: {}", self.level)?;
-        writeln!(f, "Stats: {}", self.stats)?;
-        write!(f, "Equipment: {}", self.equipment)
+        writeln!(f, "{}", self.stats)?;
+        writeln!(f, "{}", self.equipment)?;
+        Ok(())
     }
 }
 

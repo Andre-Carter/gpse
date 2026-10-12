@@ -91,77 +91,52 @@ impl PlayerStats {
 
 impl std::fmt::Display for Mind {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        writeln!(f, "Power:")?;
-        writeln!(f, "{}", self.power)?;
-
-        writeln!(f, "Will:")?;
-        writeln!(f, "{}", self.will)?;
-
-        writeln!(f, "Endurance:")?;
-        writeln!(f, "{}", self.endurance)?;
-
-        writeln!(f, "Perception:")?;
-        writeln!(f, "{}", self.perception)?;
-
+        writeln!(f, "Power: {}", self.power)?;
+        writeln!(f, "Will: {}", self.will)?;
+        writeln!(f, "Endurance: {}", self.endurance)?;
+        writeln!(f, "Perception: {}", self.perception)?;
         Ok(())
     }
 }
 
 impl std::fmt::Display for Body {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        writeln!(f, "Power:")?;
-        writeln!(f, "{}", self.power)?;
-
-        writeln!(f, "Will:")?;
-        writeln!(f, "{}", self.will)?;
-
-        writeln!(f, "Endurance:")?;
-        writeln!(f, "{}", self.endurance)?;
-
-        writeln!(f, "Perception:")?;
-        writeln!(f, "{}", self.perception)?;
-
+        writeln!(f, "Power: {}", self.power)?;
+        writeln!(f, "Will: {}", self.will)?;
+        writeln!(f, "Endurance: {}", self.endurance)?;
+        writeln!(f, "Perception: {}", self.perception)?;
         Ok(())
     }
 }
 
 impl std::fmt::Display for Spirit {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        writeln!(f, "Power:")?;
-        writeln!(f, "{}", self.power)?;
-
-        writeln!(f, "Will:")?;
-        writeln!(f, "{}", self.will)?;
-
-        writeln!(f, "Endurance:")?;
-        writeln!(f, "{}", self.endurance)?;
-
-        writeln!(f, "Perception:")?;
-        writeln!(f, "{}", self.perception)?;
-
+        writeln!(f, "Power: {}", self.power)?;
+        writeln!(f, "Will: {}", self.will)?;
+        writeln!(f, "Endurance: {}", self.endurance)?;
+        writeln!(f, "Perception: {}", self.perception)?;
         Ok(())
     }
 }
 
 impl std::fmt::Display for CharacterStats {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        writeln!(f, "Mind:")?;
+        writeln!(f, "MIND")?;
         writeln!(f, "{}", self.mind)?;
-
-        writeln!(f, "Body:")?;
+        writeln!(f, "BODY")?;
         writeln!(f, "{}", self.body)?;
-
-        writeln!(f, "Spirit:")?;
+        writeln!(f, "SPIRIT")?;
         writeln!(f, "{}", self.spirit)?;
-
         Ok(())
     }
 }
 
 impl std::fmt::Display for PlayerStats {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        let _ = write!(f, "{}", self.stats);
-
+        writeln!(f)?;
+        writeln!(f, "STATS")?;
+        writeln!(f)?;
+        writeln!(f, "{}", self.stats)?;
         Ok(())
     }
 }
