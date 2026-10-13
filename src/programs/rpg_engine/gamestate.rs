@@ -10,4 +10,16 @@ impl GameState {
             player: Player::new("Andre"),
         }
     }
+
+    pub fn player(&self) -> &Player {
+        &self.player
+    }
+
+    pub fn player_mut(&mut self) -> &mut Player {
+        &mut self.player
+    }
 }
+
+
+
+

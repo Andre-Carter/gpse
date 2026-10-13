@@ -87,9 +87,14 @@ impl fmt::Display for Player {
 }
 
 pub fn player_set_name(state: &mut GameState, name: &str) {
-    state.player.set_name(name);
+    state.player_mut().set_name(name);
 }
 
+/*
+pub fn player_level_up(state: &mut GameState, level: u32) {
+    
+}
+*/
 
 
 
