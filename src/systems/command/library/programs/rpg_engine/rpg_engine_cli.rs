@@ -1,6 +1,6 @@
+use crate::programs::rpg_engine::gamestate::GameState;
+use crate::programs::rpg_engine::player::player::player_set_name;
 use crate::systems::command::library::programs::rpg_engine::player::player_cli::print_player;
-use crate::systems::command::library::programs::rpg_engine::player::player_cli::player_set_name;
-use crate::systems::command::library::programs::rpg_engine::player::player_cli::GameState;
 
 use std::io::{Write, stdin, stdout};
 

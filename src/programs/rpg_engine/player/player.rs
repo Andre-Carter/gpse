@@ -1,17 +1,12 @@
-//use crate::rpg_engine::stats::Body;
-//use crate::rpg_engine::stats::Mind;
-//use crate::rpg_engine::stats::Spirit;
-
-//use crate::rpg_engine::stats::CharacterStats;
-
-use std::fmt;
-
+use crate::programs::rpg_engine::gamestate::GameState;
 use crate::programs::rpg_engine::player::stats::PlayerStats;
 use crate::programs::rpg_engine::player::skills::{Skill, Skills};
 use crate::programs::rpg_engine::player::equipment::Equipment;
 use crate::programs::rpg_engine::player::inventory::{Inventory, Item};
 use crate::programs::rpg_engine::player::titles::{Title, Titles};
 use crate::programs::rpg_engine::player::effects::{Effect, Effects};
+
+use std::fmt;
 
 #[derive(Debug)]
 pub struct PlayerName {
@@ -91,8 +86,8 @@ impl fmt::Display for Player {
     }
 }
 
-pub fn set_name () {
-
+pub fn player_set_name(state: &mut GameState, name: &str) {
+    state.player.set_name(name);
 }
 
 
