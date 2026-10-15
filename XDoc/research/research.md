@@ -2065,3 +2065,5 @@ The Carter Ratio and related mathematical experiments should remain documented s
 - NEW CARTESIAN SYSTEM?
 
 - chess program
+
+- CAN WE CONVERT 64-bit NUMERIC DATA TYPES INTO 32-bit??? DO WE EVEN NEED IT? I DON'T SEE A PURPOSE, INVESTIGATE. 
