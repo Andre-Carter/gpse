@@ -3,6 +3,9 @@ use gpse::mathematical::data_types::numeric::u32_to_u64;
 use gpse::mathematical::data_types::numeric::i32_to_i64;
 use gpse::mathematical::data_types::numeric::f32_to_f64;
 
+//use gpse::mathematical::data_types::numeric::NumericType;
+use gpse::mathematical::data_types::numeric::Numeric;
+
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -19,6 +22,16 @@ fn main() {
     println!("{}", unsigned);
     println!("{}", integer);
     println!("{}", floater);
+
+    println!();
+
+    Numeric::minimum_values();
+
+    println!();
+
+    Numeric::maximum_values();
+
+    println!();
     // End of Tests
 
     print!("GREETINGS, WELCOME BACK! ");

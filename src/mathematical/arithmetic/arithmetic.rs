@@ -1,3 +1,5 @@
+//use crate::mathematical::data_types::numeric::Numeric;
+
 use std::io::{Write, stdin, stdout};
 
 fn read(cli_input: &mut String) {
@@ -13,10 +15,10 @@ pub fn arithmetic_cli() {
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub enum ArithmeticError {
+    InvalidInput, 
     DivisionByZero,
     Overflow,
     Underflow, 
-    InvalidInput, 
     UnsupportedOperation,
 }
 
@@ -252,22 +254,6 @@ pub fn pow_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
 
 pub fn pow_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
     Ok(left.powf(right))
-}
-
-// Checked add
-
-pub fn checked_add(
-
-) {
-
-}
-
-pub fn checked_add_i32(
-    left: i32,
-    right: i32,
-) -> Result<i32, ArithmeticError> {
-    left.checked_add(right)
-        .ok_or(ArithmeticError::Overflow)
 }
 
 // test 
@@ -547,3 +533,41 @@ pub fn arithmetic_debug() {
 }
 */
 
+// Checked add
+
+/*
+
+pub fn add(
+    left: ,
+    right: ,
+) -> Result<, ArithmeticError> {
+    
+}
+
+pub fn checked_add_i32(
+    left: i32,
+    right: i32,
+) -> Result<i32, ArithmeticError> {
+    left.checked_add(right)
+        .ok_or(ArithmeticError::Overflow)
+}
+
+*/
+
+//example code, temp., refactor
+/*
+pub fn add(
+    left: NumericType,
+    right: NumericType,
+) -> Result<NumericType, ArithmeticError> {
+    match (left, right) {
+        (NumericType::Usize(left), NumericType::Usize(right)) => {
+            left.checked_add(right)
+                .map(NumericType::Usize)
+                .ok_or(ArithmeticError::Overflow)
+        }
+
+        _ => Err(ArithmeticError::InvalidDataType),
+    }
+}
+*/
