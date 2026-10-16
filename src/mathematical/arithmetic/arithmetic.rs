@@ -273,217 +273,217 @@ mod tests {
     // Test addition
     #[test]
     fn test_add_usize() {
-        asserteq!(add_usize(10, 11), 21)
+        assert_eq!(add_usize(10, 11), 21)
     }
 
     #[test]
     fn test_add_u32() {
-        asserteq!(add_u32(10, 11), 21)
+        assert_eq!(add_u32(10, 11), 21)
     }
 
     #[test]
     fn test_add_u64() {
-        asserteq!(add_u64(10, 11), 21)
+        assert_eq!(add_u64(10, 11), 21)
     }
 
     #[test]
     fn test_add_i32() {
-        asserteq!(add_i32(10, 11), 21)
+        assert_eq!(add_i32(10, 11), 21)
     }
 
     #[test]
     fn test_add_i64() {
-        asserteq!(add_i64(10, 11), 21)
+        assert_eq!(add_i64(10, 11), 21)
     }
 
     #[test]
     fn test_add_f32() {
-        asserteq!(add_f32(10, 11), 21)
+        assert_eq!(add_f32(10, 11), 21)
     }
 
     #[test]
     fn test_add_f64() {
-        asserteq!(add_f64(10, 11), 21)
+        assert_eq!(add_f64(10, 11), 21)
     }
 
     // Test subtraction
     #[test]
     fn test_sub_usize() {
-        asserteq!(sub_usize(10, 11), 21)
+        assert_eq!(sub_usize(10, 11), 21)
     }
 
     #[test]
     fn test_sub_u32() {
-        asserteq!(sub_u32(10, 11), 21)
+        assert_eq!(sub_u32(10, 11), 21)
     }
 
     #[test]
     fn test_sub_u64() {
-        asserteq!(sub_u64(10, 11), 21)
+        assert_eq!(sub_u64(10, 11), 21)
     }
 
     #[test]
     fn test_sub_i32() {
-        asserteq!(sub_i32(10, 11), 21)
+        assert_eq!(sub_i32(10, 11), 21)
     }
 
     #[test]
     fn test_sub_i64() {
-        asserteq!(sub_i64(10, 11), 21)
+        assert_eq!(sub_i64(10, 11), 21)
     }
 
     #[test]
     fn test_sub_f32() {
-        asserteq!(sub_f32(10, 11), 21)
+        assert_eq!(sub_f32(10, 11), 21)
     }
 
     #[test]
     fn test_sub_f64() {
-        asserteq!(sub_f64(10, 11), 21)
+        assert_eq!(sub_f64(10, 11), 21)
     }
 
     // Test multiplication
     #[test]
     fn test_mul_usize() {
-        asserteq!(mul_usize(10, 11), 21)
+        assert_eq!(mul_usize(10, 11), 21)
     }
 
     #[test]
     fn test_mul_u32() {
-        asserteq!(mul_u32(10, 11), 21)
+        assert_eq!(mul_u32(10, 11), 21)
     }
 
     #[test]
     fn test_mul_u64() {
-        asserteq!(mul_u64(10, 11), 21)
+        assert_eq!(mul_u64(10, 11), 21)
     }
 
     #[test]
     fn test_mul_i32() {
-        asserteq!(mul_i32(10, 11), 21)
+        assert_eq!(mul_i32(10, 11), 21)
     }
 
     #[test]
     fn test_mul_i64() {
-        asserteq!(mul_i64(10, 11), 21)
+        assert_eq!(mul_i64(10, 11), 21)
     }
 
     #[test]
     fn test_mul_f32() {
-        asserteq!(mul_f32(10, 11), 21)
+        assert_eq!(mul_f32(10, 11), 21)
     }
 
     #[test]
     fn test_mul_f64() {
-        asserteq!(mul_f64(10, 11), 21)
+        assert_eq!(mul_f64(10, 11), 21)
     }
 
     // Test division
     #[test]
     fn test_div_usize() {
-        asserteq!(div_usize(10, 11), 21)
+        assert_eq!(div_usize(10, 11), 21)
     }
 
     #[test]
     fn test_div_u32() {
-        asserteq!(div_u32(10, 11), 21)
+        assert_eq!(div_u32(10, 11), 21)
     }
 
     #[test]
     fn test_div_u64() {
-        asserteq!(div_u64(10, 11), 21)
+        assert_eq!(div_u64(10, 11), 21)
     }
 
     #[test]
     fn test_div_i32() {
-        asserteq!(div_i32(10, 11), 21)
+        assert_eq!(div_i32(10, 11), 21)
     }
 
     #[test]
     fn test_div_i64() {
-        asserteq!(div_i64(10, 11), 21)
+        assert_eq!(div_i64(10, 11), 21)
     }
 
     #[test]
     fn test_div_f32() {
-        asserteq!(div_f32(10, 11), 21)
+        assert_eq!(div_f32(10, 11), 21)
     }
 
     #[test]
     fn test_div_f64() {
-        asserteq!(div_f64(10, 11), 21)
+        assert_eq!(div_f64(10, 11), 21)
     }
 
     // Test remainder
     #[test]
     fn test_rem_usize() {
-        asserteq!(rem_usize(10, 11), 21)
+        assert_eq!(rem_usize(10, 11), 21)
     }
 
     #[test]
     fn test_rem_u32() {
-        asserteq!(rem_u32(10, 11), 21)
+        assert_eq!(rem_u32(10, 11), 21)
     }
 
     #[test]
     fn test_rem_u64() {
-        asserteq!(rem_u64(10, 11), 21)
+        assert_eq!(rem_u64(10, 11), 21)
     }
 
     #[test]
     fn test_rem_i32() {
-        asserteq!(rem_i32(10, 11), 21)
+        assert_eq!(rem_i32(10, 11), 21)
     }
 
     #[test]
     fn test_rem_i64() {
-        asserteq!(rem_i64(10, 11), 21)
+        assert_eq!(rem_i64(10, 11), 21)
     }
 
     #[test]
     fn test_rem_f32() {
-        asserteq!(rem_f32(10, 11), 21)
+        assert_eq!(rem_f32(10, 11), 21)
     }
 
     #[test]
     fn test_rem_f64() {
-        asserteq!(rem_f64(10, 11), 21)
+        assert_eq!(rem_f64(10, 11), 21)
     }
 
     // Test power
     #[test]
     fn test_pow_usize() {
-        asserteq!(pow_usize(10, 11), 21)
+        assert_eq!(pow_usize(10, 11), 21)
     }
 
     #[test]
     fn test_pow_u32() {
-        asserteq!(pow_u32(10, 11), 21)
+        assert_eq!(pow_u32(10, 11), 21)
     }
 
     #[test]
     fn test_pow_u64() {
-        asserteq!(pow_u64(10, 11), 21)
+        assert_eq!(pow_u64(10, 11), 21)
     }
 
     #[test]
     fn test_pow_i32() {
-        asserteq!(pow_i32(10, 11), 21)
+        assert_eq!(pow_i32(10, 11), 21)
     }
 
     #[test]
     fn test_pow_i64() {
-        asserteq!(pow_i64(10, 11), 21)
+        assert_eq!(pow_i64(10, 11), 21)
     }
 
     #[test]
     fn test_pow_f32() {
-        asserteq!(pow_f32(10, 11), 21)
+        assert_eq!(pow_f32(10, 11), 21)
     }
 
     #[test]
     fn test_pow_f64() {
-        asserteq!(pow_f64(10, 11), 21)
+        assert_eq!(pow_f64(10, 11), 21)
     }
 }
 
