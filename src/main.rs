@@ -1,7 +1,7 @@
 use gpse::systems::command::core::command_core::cli_commands;
-use gpse::mathematical::data_types::numeric::u32_u64;
-use gpse::mathematical::data_types::numeric::i32_i64;
-use gpse::mathematical::data_types::numeric::f32_f64;
+use gpse::mathematical::data_types::numeric::u32_to_u64;
+use gpse::mathematical::data_types::numeric::i32_to_i64;
+use gpse::mathematical::data_types::numeric::f32_to_f64;
 
 use std::io::{Write, stdin, stdout};
 
@@ -12,9 +12,9 @@ fn read(input: &mut String) {
 
 fn main() {
     // Start of Tests
-    let unsigned = u32_u64(100);
-    let integer = i32_i64(100);
-    let floater = f32_f64(100.0);
+    let unsigned = u32_to_u64(100);
+    let integer = i32_to_i64(100);
+    let floater = f32_to_f64(100.0);
 
     println!("{}", unsigned);
     println!("{}", integer);

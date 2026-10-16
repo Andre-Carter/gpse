@@ -108,19 +108,17 @@ mod tests {
 // NUMERIC DATA TYPE CONVERSION (32-bit -> 64-bit)
 
 // Unsigned
-pub fn u32_u64(data_type: u32) -> u64 {
+pub fn u32_to_u64(data_type: u32) -> u64 {
     data_type.into()
 }
 
-
-
 // Integer
-pub fn i32_i64(data_type: i32) -> i64 {
+pub fn i32_to_i64(data_type: i32) -> i64 {
     data_type.into()
 }
 
 // Floating-point
-pub fn f32_f64(data_type: f32) -> f64 {
+pub fn f32_to_f64(data_type: f32) -> f64 {
     data_type.into()
 }
 
@@ -130,17 +128,17 @@ mod tests {
 use super::*;
 
 #[test]
-pub fn u32_u64(data_type: u32) -> u64 {
+pub fn u32_to_u64(data_type: u32) -> u64 {
 data_type.into()
 }
 
 #[test]
-pub fn i32_i64(data_type: i32) -> i64 {
+pub fn i32_to_i64(data_type: i32) -> i64 {
     data_type.into()
 }    
 
 #[test]
-pub fn f32_f64(data_type: f32) -> f64 {
+pub fn f32_to_f64(data_type: f32) -> f64 {
     data_type.into()
 }
 }

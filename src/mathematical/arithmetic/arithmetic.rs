@@ -1,226 +1,257 @@
 use std::io::{Write, stdin, stdout};
 
-fn read(input: &mut String) {
+fn read(cli_input: &mut String) {
     stdout().flush().expect("failed to flush");
-    stdin().read_line(input).expect("failed to read");
+    stdin().read_line(cli_input).expect("failed to read");
 }
 
 pub fn arithmetic_cli() {
-    let mut input = String::new();
+    let mut cli_input = String::new();
 
-    read(&mut input);
+    read(&mut cli_input);
 }
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub enum ArithmeticError {
-    Overflow,
     DivisionByZero,
+    Overflow,
+    Underflow, 
+    InvalidInput, 
+    UnsupportedOperation,
 }
 
 // Addition
 
 // Platform-sized unsigned interger
-pub fn add_usize(left: usize, right: usize) -> usize {
-    left + right
+pub fn add_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    Ok(left + right)
 }
 
 // Unsigned integers
-pub fn add_u32(left: u32, right: u32) -> u32 {
-    left + right
+pub fn add_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+    Ok(left + right)
 }
 
-pub fn add_u64(left: u64, right: u64) -> u64 {
-    left + right
+pub fn add_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+    Ok(left + right)
 }
 
 // Signed integers
-pub fn add_i32(left: i32, right: i32) -> i32 {
-    left + right
+pub fn add_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
+    Ok(left + right)
 } 
 
-pub fn add_i64(left: i64, right: i64) -> i64 {
-    left + right
+pub fn add_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
+    Ok(left + right)
 }
 
 // Floating-point
-pub fn add_f32(left: f32, right: f32) -> f32 {
-    left + right
+pub fn add_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
+    Ok(left + right)
 }
 
-pub fn add_f64(left: f64, right: f64) -> f64 {
-    left + right
+pub fn add_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
+    Ok(left + right)
 }
 
 // Subtraction
 
 // Platform-sized unsigned interger
-pub fn sub_usize(left: usize, right: usize) -> usize {
-    left - right
+pub fn sub_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    Ok(left - right)
 }
 
 // Unsigned integers
-pub fn sub_u32(left: u32, right: u32) -> u32 {
-    left - right
+pub fn sub_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+    Ok(left - right)
 }
 
-pub fn sub_u64(left: u64, right: u64) -> u64 {
-    left - right
+pub fn sub_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+    Ok(left - right)
 }
 
 // Signed integers
-pub fn sub_i32(left: i32, right: i32) -> i32 {
-    left - right
+pub fn sub_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
+    Ok(left - right)
 } 
 
-pub fn sub_i64(left: i64, right: i64) -> i64 {
-    left - right
+pub fn sub_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
+    Ok(left - right)
 }
 
 // Floating-point
-pub fn sub_f32(left: f32, right: f32) -> f32 {
-    left - right
+pub fn sub_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
+    Ok(left - right)
 }
 
-pub fn sub_f64(left: f64, right: f64) -> f64 {
-    left - right
+pub fn sub_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
+    Ok(left - right)
 }
 
 // Multiplication
 
 // Platform-sized unsigned interger
-pub fn mul_usize(left: usize, right: usize) -> usize {
-    left * right
+pub fn mul_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    Ok(left * right)
 }
 
 // Unsigned integers
-pub fn mul_u32(left: u32, right: u32) -> u32 {
-    left * right
+pub fn mul_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+    Ok(left * right)
 }
 
-pub fn mul_u64(left: u64, right: u64) -> u64 {
-    left * right
+pub fn mul_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+    Ok(left * right)
 }
 
 // Signed integers
-pub fn mul_i32(left: i32, right: i32) -> i32 {
-    left * right
+pub fn mul_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
+    Ok(left * right)
 } 
 
-pub fn mul_i64(left: i64, right: i64) -> i64 {
-    left * right
+pub fn mul_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
+    Ok(left * right)
 }
 
 // Floating-point
-pub fn mul_f32(left: f32, right: f32) -> f32 {
-    left * right
+pub fn mul_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
+    Ok(left * right)
 }
 
-pub fn mul_f64(left: f64, right: f64) -> f64 {
-    left * right
+pub fn mul_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
+    Ok(left * right)
 }
 
 // Division
 
 // Platform-sized unsigned interger
-pub fn div_usize(left: usize, right: usize) -> usize {
-    left / right
+pub fn div_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    if right == 0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+
+    Ok(left / right)
 }
 
 // Unsigned integers
-pub fn div_u32(left: u32, right: u32) -> u32 {
-    left / right
+pub fn div_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+    if right == 0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+    
+    Ok(left / right)
 }
 
-pub fn div_u64(left: u64, right: u64) -> u64 {
-    left / right
+pub fn div_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+    if right == 0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+    
+    Ok(left / right)
 }
 
 // Signed integers
-pub fn div_i32(left: i32, right: i32) -> i32 {
-    left / right
+pub fn div_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
+    if right == 0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+    
+    Ok(left / right)
 } 
 
-pub fn div_i64(left: i64, right: i64) -> i64 {
-    left / right
+pub fn div_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
+    if right == 0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+    
+    Ok(left / right)
 }
 
 // Floating-point
-pub fn div_f32(left: f32, right: f32) -> f32 {
-    left / right
+pub fn div_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
+    if right == 0.0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+    
+    Ok(left / right)
 }
 
-pub fn div_f64(left: f64, right: f64) -> f64 {
-    left / right
+pub fn div_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
+    if right == 0.0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+    
+    Ok(left / right)
 }
 
 // Remainder (Modulo)
 
 // Platform-sized unsigned interger
-pub fn rem_usize(left: usize, right: usize) -> usize {
-    left % right
+pub fn rem_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    Ok(left % right)
 }
 
 // Unsigned integers
-pub fn rem_u32(left: u32, right: u32) -> u32 {
-    left % right
+pub fn rem_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+    Ok(left % right)
 }
 
-pub fn rem_u64(left: u64, right: u64) -> u64 {
-    left % right
+pub fn rem_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+    Ok(left % right)
 }
 
 // Signed integers
-pub fn rem_i32(left: i32, right: i32) -> i32 {
-    left % right
+pub fn rem_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
+    Ok(left % right)
 } 
 
-pub fn rem_i64(left: i64, right: i64) -> i64 {
-    left % right
+pub fn rem_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
+    Ok(left % right)
 }
 
 // Floating-point
-pub fn rem_f32(left: f32, right: f32) -> f32 {
-    left % right
+pub fn rem_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
+    Ok(left % right)
 }
 
-pub fn rem_f64(left: f64, right: f64) -> f64 {
-    left % right
+pub fn rem_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
+    Ok(left % right)
 }
 
 // Power (exponent)
 
 // Platform-sized unsigned interger
-pub fn pow_usize(left: usize, right: usize) -> usize {
-    left ^ right
+pub fn pow_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    Ok(left ^ right)
 }
 
 // Unsigned integers
-pub fn pow_u32(left: u32, right: u32) -> u32 {
-    left ^ right
+pub fn pow_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+    Ok(left ^ right)
 }
 
-pub fn pow_u64(left: u64, right: u64) -> u64 {
-    left ^ right
+pub fn pow_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+    Ok(left ^ right)
 }
 
 // Signed integers
-pub fn pow_i32(left: i32, right: i32) -> i32 {
-    left ^ right
+pub fn pow_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
+    Ok(left ^ right)
 } 
 
-pub fn pow_i64(left: i64, right: i64) -> i64 {
-    left ^ right
+pub fn pow_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
+    Ok(left ^ right)
 }
 
 // No rust-implentation for (bitwise XOR) floating-point ^ (f32 ^ f32 & f64 ^ f64)
 // Check XDoc: references> reference> rust> arithmetic
 
-pub fn pow_f32(left: f32, right: f32) -> f32 {
-    left.powf(right)
+pub fn pow_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
+    Ok(left.powf(right))
 } 
 
-pub fn pow_f64(left: f64, right: f64) -> f64 {
-    left.powf(right)
+pub fn pow_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
+    Ok(left.powf(right))
 }
 
 // Checked add
