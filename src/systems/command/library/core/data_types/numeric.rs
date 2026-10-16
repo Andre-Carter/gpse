@@ -1,26 +1,26 @@
-use crate::mathematical::data_types::numeric::USIZE_MINIMUM_VALUE;
-use crate::mathematical::data_types::numeric::USIZE_MAXIMUM_VALUE;
+use crate::core::data_types::numeric::USIZE_MINIMUM_VALUE;
+use crate::core::data_types::numeric::USIZE_MAXIMUM_VALUE;
 
-use crate::mathematical::data_types::numeric::U32_MINIMUM_VALUE;
-use crate::mathematical::data_types::numeric::U32_MAXIMUM_VALUE;
+use crate::core::data_types::numeric::U32_MINIMUM_VALUE;
+use crate::core::data_types::numeric::U32_MAXIMUM_VALUE;
 
-use crate::mathematical::data_types::numeric::U64_MINIMUM_VALUE;
-use crate::mathematical::data_types::numeric::U64_MAXIMUM_VALUE;
+use crate::core::data_types::numeric::U64_MINIMUM_VALUE;
+use crate::core::data_types::numeric::U64_MAXIMUM_VALUE;
 
-use crate::mathematical::data_types::numeric::I32_MINIMUM_VALUE;
-use crate::mathematical::data_types::numeric::I32_MAXIMUM_VALUE;
+use crate::core::data_types::numeric::I32_MINIMUM_VALUE;
+use crate::core::data_types::numeric::I32_MAXIMUM_VALUE;
 
-use crate::mathematical::data_types::numeric::I64_MINIMUM_VALUE;
-use crate::mathematical::data_types::numeric::I64_MAXIMUM_VALUE;
+use crate::core::data_types::numeric::I64_MINIMUM_VALUE;
+use crate::core::data_types::numeric::I64_MAXIMUM_VALUE;
 
-use crate::mathematical::data_types::numeric::F32_MINIMUM_VALUE;
-use crate::mathematical::data_types::numeric::F32_MAXIMUM_VALUE;
+use crate::core::data_types::numeric::F32_MINIMUM_VALUE;
+use crate::core::data_types::numeric::F32_MAXIMUM_VALUE;
 
-use crate::mathematical::data_types::numeric::F64_MINIMUM_VALUE;
-use crate::mathematical::data_types::numeric::F64_MAXIMUM_VALUE;
+use crate::core::data_types::numeric::F64_MINIMUM_VALUE;
+use crate::core::data_types::numeric::F64_MAXIMUM_VALUE;
 
-use crate::mathematical::data_types::numeric::F32_MINIMUM_POSITIVE_NORMAL_VALUE;
-use crate::mathematical::data_types::numeric::F64_MAXIMUM_POSITIVE_NORMAL_VALUE;
+use crate::core::data_types::numeric::F32_MINIMUM_POSITIVE_NORMAL_VALUE;
+use crate::core::data_types::numeric::F64_MAXIMUM_POSITIVE_NORMAL_VALUE;
 
 pub fn print_numeric() {
     println!("NUMERIC DATA TYPE MINIMUM MAXIMUM VALUES");

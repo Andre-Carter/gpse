@@ -16,9 +16,9 @@ pub fn arithmetic_cli() {
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub enum ArithmeticError {
     InvalidInput, 
-    DivisionByZero,
-    Overflow,
     Underflow, 
+    Overflow,
+    DivisionByZero,
     UnsupportedOperation,
 }
 
@@ -26,6 +26,14 @@ pub enum ArithmeticError {
 
 // Platform-sized unsigned interger
 pub fn add_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    if left + right < usize::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
+    if left + right > usize::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+    
     Ok(left + right)
 }
 

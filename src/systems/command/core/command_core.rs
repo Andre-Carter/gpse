@@ -4,7 +4,7 @@ use crate::mathematical::carter::carter_family::carter_formula_cli;
 use crate::mathematical::carter::carter_family::carter_formula_repeat;
 use crate::mathematical::sequences::sequence::sequence_cli;
 use crate::mathematical::test_mathematical::test_mathematical;
-use crate::systems::command::library::mathematical::data_types::numeric::print_numeric;
+use crate::systems::command::library::core::data_types::numeric::print_numeric;
 use crate::systems::command::library::archive::bible::kjv1611::kjv_1611_cli::kjv_1611_cli_funk;
 use crate::systems::command::tools::calculator::cli_calc;
 use crate::systems::command::tools::calculator::cli_sqrt;

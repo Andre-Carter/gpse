@@ -4,7 +4,6 @@ pub mod calculus;
 pub mod carter;
 pub mod combinatorics;
 pub mod constants;
-pub mod data_types;
 //pub mod dimensional;
 pub mod discrete;
 pub mod experimental;
