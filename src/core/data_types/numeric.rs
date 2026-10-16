@@ -51,19 +51,19 @@ pub const I64_RANGE: (i64, i64) = (i64::MIN, i64::MAX);
 pub const I128_RANGE: (i128, i128) = (i128::MIN, i128::MAX);
 pub const ISIZE_RANGE: (isize, isize) = (isize::MIN, isize::MAX);
 
-// current evaluation: don't require floater-point range in this format 
+// current evaluation: don't require floater-point range in this format
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
 pub enum NumericType {
     U8,
     U16,
-    U32, 
+    U32,
     U64,
     U128,
     Usize,
     I8,
     I16,
-    I32, 
+    I32,
     I64,
     I128,
     Isize,
@@ -98,11 +98,11 @@ impl NumericType {
 
     pub fn bit_width(self) -> u32 {
         match self {
-            Self::U8 | Self::I8 => 8, 
+            Self::U8 | Self::I8 => 8,
             Self::U16 | Self::I16 => 16,
             Self::U32 | Self::I32 | Self::F32 => 32,
             Self::U64 | Self::I64 | Self::F64 => 64,
-            Self::U128 | Self::I128 => 128, 
+            Self::U128 | Self::I128 => 128,
             Self::Usize => usize::BITS,
             Self::Isize => isize::BITS,
         }
@@ -207,13 +207,13 @@ impl NumericType {
 pub enum NumericValue {
     U8(u8),
     U16(u16),
-    U32(u32), 
+    U32(u32),
     U64(u64),
     U128(u128),
     Usize(usize),
     I8(i8),
     I16(i16),
-    I32(i32), 
+    I32(i32),
     I64(i64),
     I128(i128),
     Isize(isize),
@@ -347,20 +347,20 @@ pub fn f32_to_f64(data_type: f32) -> f64 {
 // configure test
 #[cfg(test)]
 mod tests {
-use super::*;
+    use super::*;
 
-#[test]
-pub fn u32_to_u64(data_type: u32) -> u64 {
-data_type.into()
-}
+    #[test]
+    pub fn u32_to_u64(data_type: u32) -> u64 {
+        data_type.into()
+    }
 
-#[test]
-pub fn i32_to_i64(data_type: i32) -> i64 {
-    data_type.into()
-}    
+    #[test]
+    pub fn i32_to_i64(data_type: i32) -> i64 {
+        data_type.into()
+    }
 
-#[test]
-pub fn f32_to_f64(data_type: f32) -> f64 {
-    data_type.into()
-}
+    #[test]
+    pub fn f32_to_f64(data_type: f32) -> f64 {
+        data_type.into()
+    }
 }

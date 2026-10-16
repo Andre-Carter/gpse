@@ -1,12 +1,11 @@
 use gpse::systems::command::core::command_core::cli_commands;
 
-use gpse::core::data_types::numeric::u32_to_u64;
-use gpse::core::data_types::numeric::i32_to_i64;
 use gpse::core::data_types::numeric::f32_to_f64;
+use gpse::core::data_types::numeric::i32_to_i64;
+use gpse::core::data_types::numeric::u32_to_u64;
 
-use gpse::core::data_types::numeric::NumericType;
 use gpse::core::data_types::numeric::Numeric;
-
+use gpse::core::data_types::numeric::NumericType;
 
 use std::io::{Write, stdin, stdout};
 
@@ -37,7 +36,7 @@ fn main() {
 
     println!("RANGE");
     println!("{:?}", NumericType::U32.range());
-    
+
     // End of Tests
 
     print!("GREETINGS, WELCOME BACK! ");

@@ -13,10 +13,7 @@ pub fn sequence_cli() {
 
     read(&mut input);
 
-    let sequence_code: Vec<_> = input
-        .trim()
-        .split_whitespace()
-        .collect();
+    let sequence_code: Vec<_> = input.trim().split_whitespace().collect();
 
     let coefficient = sequence_code[0].parse::<i32>().unwrap();
     let start = sequence_code[1].parse::<i32>().unwrap();
@@ -33,8 +30,8 @@ pub enum SequenceError {
 
 pub fn sequence_linear_i32(
     coefficient: i32,
-    start: i32, 
-    end: i32
+    start: i32,
+    end: i32,
 ) -> Result<Vec<i32>, SequenceError> {
     let mut generated_sequence: Vec<i32> = Vec::new();
 
@@ -74,5 +71,3 @@ pub fn sequence_linear_i32(
     Ok(generated_sequence)
 }
 */
-
-

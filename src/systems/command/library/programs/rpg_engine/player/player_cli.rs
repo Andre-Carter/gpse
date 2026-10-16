@@ -12,5 +12,3 @@ stdin().read_line(input).expect("failed to read");
 pub fn print_player(state: &GameState) {
     print!("{}", state.player);
 }
-
-

@@ -19,7 +19,3 @@ impl GameState {
         &mut self.player
     }
 }
-
-
-
-

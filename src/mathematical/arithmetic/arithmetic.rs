@@ -15,8 +15,8 @@ pub fn arithmetic_cli() {
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub enum ArithmeticError {
-    InvalidInput, 
-    Underflow, 
+    InvalidInput,
+    Underflow,
     Overflow,
     DivisionByZero,
     UnsupportedOperation,
@@ -29,11 +29,11 @@ pub fn add_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
     if left + right < usize::MIN {
         return Err(ArithmeticError::Underflow);
     }
-    
+
     if left + right > usize::MAX {
         return Err(ArithmeticError::Overflow);
     }
-    
+
     Ok(left + right)
 }
 
@@ -49,7 +49,7 @@ pub fn add_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
 // Signed integers
 pub fn add_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
     Ok(left + right)
-} 
+}
 
 pub fn add_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
     Ok(left + right)
@@ -83,7 +83,7 @@ pub fn sub_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
 // Signed integers
 pub fn sub_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
     Ok(left - right)
-} 
+}
 
 pub fn sub_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
     Ok(left - right)
@@ -117,7 +117,7 @@ pub fn mul_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
 // Signed integers
 pub fn mul_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
     Ok(left * right)
-} 
+}
 
 pub fn mul_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
     Ok(left * right)
@@ -148,7 +148,7 @@ pub fn div_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
     }
-    
+
     Ok(left / right)
 }
 
@@ -156,7 +156,7 @@ pub fn div_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
     }
-    
+
     Ok(left / right)
 }
 
@@ -165,15 +165,15 @@ pub fn div_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
     }
-    
+
     Ok(left / right)
-} 
+}
 
 pub fn div_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
     }
-    
+
     Ok(left / right)
 }
 
@@ -182,7 +182,7 @@ pub fn div_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
     if right == 0.0 {
         return Err(ArithmeticError::DivisionByZero);
     }
-    
+
     Ok(left / right)
 }
 
@@ -190,7 +190,7 @@ pub fn div_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
     if right == 0.0 {
         return Err(ArithmeticError::DivisionByZero);
     }
-    
+
     Ok(left / right)
 }
 
@@ -213,7 +213,7 @@ pub fn rem_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
 // Signed integers
 pub fn rem_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
     Ok(left % right)
-} 
+}
 
 pub fn rem_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
     Ok(left % right)
@@ -247,7 +247,7 @@ pub fn pow_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
 // Signed integers
 pub fn pow_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
     Ok(left ^ right)
-} 
+}
 
 pub fn pow_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
     Ok(left ^ right)
@@ -258,13 +258,13 @@ pub fn pow_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
 
 pub fn pow_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
     Ok(left.powf(right))
-} 
+}
 
 pub fn pow_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
     Ok(left.powf(right))
 }
 
-// test 
+// test
 
 #[cfg(test)]
 mod tests {
@@ -549,7 +549,7 @@ pub fn add(
     left: ,
     right: ,
 ) -> Result<, ArithmeticError> {
-    
+
 }
 
 pub fn checked_add_i32(

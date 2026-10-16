@@ -11,7 +11,7 @@ fn read(input: &mut String) {
 
 pub fn rpg_engine_cli() {
     let mut state = GameState::new();
-    
+
     println!();
     println!("RPG CLI!");
     println!("Enter \"help\" for commands.");
@@ -72,7 +72,6 @@ pub fn rpg_engine_cli() {
 
                         player_set_name(&mut state, command);
                     }
-
 
                     "exit" => {
                         println!("Exiting RPG Player...");
