@@ -32,8 +32,26 @@ pub const F32_MINIMUM_VALUE: f32 = f32::MIN;
 pub const F32_MAXIMUM_VALUE: f32 = f32::MAX;
 pub const F64_MINIMUM_VALUE: f64 = f64::MIN;
 pub const F64_MAXIMUM_VALUE: f64 = f64::MAX;
+
 pub const F32_MINIMUM_POSITIVE_NORMAL_VALUE: f32 = f32::MIN_POSITIVE;
 pub const F64_MAXIMUM_POSITIVE_NORMAL_VALUE: f64 = f64::MIN_POSITIVE;
+
+// NUMERIC DATA TYPE RANGES
+
+pub const U8_RANGE: (u8, u8) = (u8::MIN, u8::MAX);
+pub const U16_RANGE: (u16, u16) = (u16::MIN, u16::MAX);
+pub const U32_RANGE: (u32, u32) = (u32::MIN, u32::MAX);
+pub const U64_RANGE: (u64, u64) = (u64::MIN, u64::MAX);
+pub const U128_RANGE: (u128, u128) = (u128::MIN, u128::MAX);
+pub const USIZE_RANGE: (usize, usize) = (usize::MIN, usize::MAX);
+pub const I8_RANGE: (i8, i8) = (i8::MIN, i8::MAX);
+pub const I16_RANGE: (i16, i16) = (i16::MIN, i16::MAX);
+pub const I32_RANGE: (i32, i32) = (i32::MIN, i32::MAX);
+pub const I64_RANGE: (i64, i64) = (i64::MIN, i64::MAX);
+pub const I128_RANGE: (i128, i128) = (i128::MIN, i128::MAX);
+pub const ISIZE_RANGE: (isize, isize) = (isize::MIN, isize::MAX);
+
+// current evaluation: don't require floater-point range in this format 
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
 pub enum NumericType {
@@ -51,6 +69,22 @@ pub enum NumericType {
     Isize,
     F32,
     F64,
+}
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub enum NumericRange {
+    U8(u8, u8),
+    U16(u16, u16),
+    U32(u32, u32),
+    U64(u64, u64),
+    U128(u128, u128),
+    Usize(usize, usize),
+    I8(i8, i8),
+    I16(i16, i16),
+    I32(i32, i32),
+    I64(i64, i64),
+    I128(i128, i128),
+    Isize(isize, isize),
 }
 
 impl NumericType {
@@ -150,7 +184,23 @@ impl NumericType {
         }
     }
 
-    //pub fn range? u8::MIN..=u8::MAX
+    pub fn range(&self) -> NumericRange {
+        match self {
+            Self::U8 => NumericRange::U8(u8::MIN, u8::MAX),
+            Self::U16 => NumericRange::U16(u16::MIN, u16::MAX),
+            Self::U32 => NumericRange::U32(u32::MIN, u32::MAX),
+            Self::U64 => NumericRange::U64(u64::MIN, u64::MAX),
+            Self::U128 => NumericRange::U128(u128::MIN, u128::MAX),
+            Self::Usize => NumericRange::Usize(usize::MIN, usize::MAX),
+            Self::I8 => NumericRange::I8(i8::MIN, i8::MAX),
+            Self::I16 => NumericRange::I16(i16::MIN, i16::MAX),
+            Self::I32 => NumericRange::I32(i32::MIN, i32::MAX),
+            Self::I64 => NumericRange::I64(i64::MIN, i64::MAX),
+            Self::I128 => NumericRange::I128(i128::MIN, i128::MAX),
+            Self::Isize => NumericRange::Isize(isize::MIN, isize::MAX),
+            &NumericType::F32 | &NumericType::F64 => todo!(),
+        }
+    }
 }
 
 #[derive(Debug, Clone, Copy, PartialEq)]
@@ -236,8 +286,6 @@ impl Numeric {
         println!("f64::MAX = {:?}", NumericType::F64.maximum_value());
     }
 }
-
-
 
 pub enum NumberError {
     InvalidInput,
