@@ -7,6 +7,8 @@ use gpse::core::data_types::numeric::u32_to_u64;
 use gpse::core::data_types::numeric::Numeric;
 use gpse::core::data_types::numeric::NumericType;
 
+use gpse::mathematical::arithmetic::arithmetic::add_u8;
+
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -36,6 +38,10 @@ fn main() {
 
     println!("RANGE");
     println!("{:?}", NumericType::U32.range());
+
+    println!();
+
+    println!("{:?}", add_u8(u8::MAX, 1));
 
     // End of Tests
 
