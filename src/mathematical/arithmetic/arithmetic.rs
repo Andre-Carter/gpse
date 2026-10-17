@@ -22,9 +22,37 @@ pub enum ArithmeticError {
     UnsupportedOperation,
 }
 
+// NOTE
+// add(numeric_data_type: u8, left: 5, right: 6);
+//1. identify numeric data type
+
+// END NOTE
+
+// Addition, Subtraction, Multiplication, Division, Remainder, Power
+// u8, u16, u32, u64, u128, usize, i8, i16, i32, i64, i128, isize, f32, f64
+
 // Addition
 
-// Platform-sized unsigned interger
+pub fn add_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
+    Ok(left + right)
+}
+
+pub fn add_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
+    Ok(left + right)
+}
+
+pub fn add_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+    Ok(left + right)
+}
+
+pub fn add_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+    Ok(left + right)
+}
+
+pub fn add_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
+    Ok(left + right)
+}
+
 pub fn add_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
     if left + right < usize::MIN {
         return Err(ArithmeticError::Underflow);
@@ -37,16 +65,14 @@ pub fn add_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
     Ok(left + right)
 }
 
-// Unsigned integers
-pub fn add_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+pub fn add_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
     Ok(left + right)
 }
 
-pub fn add_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+pub fn add_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
     Ok(left + right)
 }
 
-// Signed integers
 pub fn add_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
     Ok(left + right)
 }
@@ -55,7 +81,14 @@ pub fn add_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
     Ok(left + right)
 }
 
-// Floating-point
+pub fn add_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
+    Ok(left + right)
+}
+
+pub fn add_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
+    Ok(left + right)
+}
+
 pub fn add_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
     Ok(left + right)
 }
@@ -64,14 +97,16 @@ pub fn add_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
     Ok(left + right)
 }
 
-// Subtraction
+// Subtraction 
 
-// Platform-sized unsigned interger
-pub fn sub_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+pub fn sub_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
     Ok(left - right)
 }
 
-// Unsigned integers
+pub fn sub_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
+    Ok(left - right)
+}
+
 pub fn sub_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
     Ok(left - right)
 }
@@ -80,7 +115,22 @@ pub fn sub_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
     Ok(left - right)
 }
 
-// Signed integers
+pub fn sub_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
+    Ok(left - right)
+}
+
+pub fn sub_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    Ok(left - right)
+}
+
+pub fn sub_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
+    Ok(left - right)
+}
+
+pub fn sub_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
+    Ok(left - right)
+}
+
 pub fn sub_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
     Ok(left - right)
 }
@@ -89,7 +139,14 @@ pub fn sub_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
     Ok(left - right)
 }
 
-// Floating-point
+pub fn sub_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
+    Ok(left - right)
+}
+
+pub fn sub_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
+    Ok(left - right)
+}
+
 pub fn sub_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
     Ok(left - right)
 }
@@ -100,12 +157,14 @@ pub fn sub_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
 
 // Multiplication
 
-// Platform-sized unsigned interger
-pub fn mul_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+pub fn mul_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
     Ok(left * right)
 }
 
-// Unsigned integers
+pub fn mul_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
+    Ok(left * right)
+}
+
 pub fn mul_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
     Ok(left * right)
 }
@@ -114,7 +173,22 @@ pub fn mul_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
     Ok(left * right)
 }
 
-// Signed integers
+pub fn mul_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
+    Ok(left * right)
+}
+
+pub fn mul_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    Ok(left * right)
+}
+
+pub fn mul_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
+    Ok(left * right)
+}
+
+pub fn mul_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
+    Ok(left * right)
+}
+
 pub fn mul_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
     Ok(left * right)
 }
@@ -123,7 +197,14 @@ pub fn mul_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
     Ok(left * right)
 }
 
-// Floating-point
+pub fn mul_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
+    Ok(left * right)
+}
+
+pub fn mul_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
+    Ok(left * right)
+}
+
 pub fn mul_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
     Ok(left * right)
 }
@@ -134,8 +215,7 @@ pub fn mul_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
 
 // Division
 
-// Platform-sized unsigned interger
-pub fn div_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+pub fn div_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
     }
@@ -143,7 +223,14 @@ pub fn div_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
     Ok(left / right)
 }
 
-// Unsigned integers
+pub fn div_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
+    if right == 0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+
+    Ok(left / right)
+}
+
 pub fn div_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
@@ -160,7 +247,38 @@ pub fn div_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
     Ok(left / right)
 }
 
-// Signed integers
+pub fn div_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
+    if right == 0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+
+    Ok(left / right)
+}
+
+pub fn div_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    if right == 0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+
+    Ok(left / right)
+}
+
+pub fn div_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
+    if right == 0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+
+    Ok(left / right)
+}
+
+pub fn div_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
+    if right == 0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+
+    Ok(left / right)
+}
+
 pub fn div_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
@@ -177,7 +295,22 @@ pub fn div_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
     Ok(left / right)
 }
 
-// Floating-point
+pub fn div_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
+    if right == 0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+
+    Ok(left / right)
+}
+
+pub fn div_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
+    if right == 0 {
+        return Err(ArithmeticError::DivisionByZero);
+    }
+
+    Ok(left / right)
+}
+
 pub fn div_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
     if right == 0.0 {
         return Err(ArithmeticError::DivisionByZero);
@@ -196,12 +329,14 @@ pub fn div_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
 
 // Remainder (Modulo)
 
-// Platform-sized unsigned interger
-pub fn rem_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+pub fn rem_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
     Ok(left % right)
 }
 
-// Unsigned integers
+pub fn rem_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
+    Ok(left % right)
+}
+
 pub fn rem_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
     Ok(left % right)
 }
@@ -210,7 +345,22 @@ pub fn rem_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
     Ok(left % right)
 }
 
-// Signed integers
+pub fn rem_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
+    Ok(left % right)
+}
+
+pub fn rem_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    Ok(left % right)
+}
+
+pub fn rem_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
+    Ok(left % right)
+}
+
+pub fn rem_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
+    Ok(left % right)
+}
+
 pub fn rem_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
     Ok(left % right)
 }
@@ -219,7 +369,14 @@ pub fn rem_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
     Ok(left % right)
 }
 
-// Floating-point
+pub fn rem_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
+    Ok(left % right)
+}
+
+pub fn rem_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
+    Ok(left % right)
+}
+
 pub fn rem_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
     Ok(left % right)
 }
@@ -230,12 +387,14 @@ pub fn rem_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
 
 // Power (exponent)
 
-// Platform-sized unsigned interger
-pub fn pow_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+pub fn pow_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
     Ok(left ^ right)
 }
 
-// Unsigned integers
+pub fn pow_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
+    Ok(left ^ right)
+}
+
 pub fn pow_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
     Ok(left ^ right)
 }
@@ -244,12 +403,31 @@ pub fn pow_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
     Ok(left ^ right)
 }
 
-// Signed integers
+pub fn pow_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
+    Ok(left ^ right)
+}
+
+pub fn pow_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    Ok(left ^ right)
+}
+
+pub fn pow_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
+    Ok(left ^ right)
+}
+
+pub fn pow_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
+    Ok(left ^ right)
+}
+
 pub fn pow_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
     Ok(left ^ right)
 }
 
 pub fn pow_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
+    Ok(left ^ right)
+}
+
+pub fn pow_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
     Ok(left ^ right)
 }
 
