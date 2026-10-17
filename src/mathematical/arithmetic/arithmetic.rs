@@ -16,10 +16,11 @@ pub fn arithmetic_cli() {
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub enum ArithmeticError {
     InvalidInput,
-    Underflow,
     Overflow,
+    Underflow,
     DivisionByZero,
     UnsupportedOperation,
+    InvalidExponent,
 }
 
 // NOTE
@@ -34,182 +35,510 @@ pub enum ArithmeticError {
 // Addition
 
 pub fn add_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
+    if left + right > u8::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < u8::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+
     Ok(left + right)
 }
 
 pub fn add_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
+    if left + right > u16::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < u16::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left + right)
 }
 
 pub fn add_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+    if left + right > u32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < u32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left + right)
 }
 
 pub fn add_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+    if left + right > u64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < u64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left + right)
 }
 
 pub fn add_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
+    if left + right > u128::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < u128::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left + right)
 }
 
 pub fn add_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
-    if left + right < usize::MIN {
-        return Err(ArithmeticError::Underflow);
-    }
-
     if left + right > usize::MAX {
         return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < usize::MIN {
+        return Err(ArithmeticError::Underflow);
     }
 
     Ok(left + right)
 }
 
 pub fn add_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
+    if left + right > i8::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < i8::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left + right)
 }
 
 pub fn add_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
+    if left + right > i16::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < i16::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left + right)
 }
 
 pub fn add_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
+    if left + right > i32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < i32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left + right)
 }
 
 pub fn add_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
+    if left + right > i64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < i64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left + right)
 }
 
 pub fn add_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
+    if left + right > i128::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < i128::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left + right)
 }
 
 pub fn add_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
+    if left + right > isize::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < isize::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left + right)
 }
 
 pub fn add_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
+    if left + right > f32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < f32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left + right)
 }
 
 pub fn add_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
+    if left + right > f64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left + right < f64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left + right)
 }
 
 // Subtraction 
 
 pub fn sub_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
+    if left - right > u8::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < u8::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
+    if left - right > u16::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < u16::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+    if left - right > u32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < u32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+    if left - right > u64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < u64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
+    if left - right > u128::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < u128::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    if left - right > usize::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < usize::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
+    if left - right > i8::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < i8::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
+    if left - right > i16::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < i16::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
+    if left - right > i32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < i32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
+    if left - right > i64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < i64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
+    if left - right > i128::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < i128::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
+    if left - right > isize::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < isize::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
+    if left - right > f32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < f32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 pub fn sub_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
+    if left - right > f64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left - right < f64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left - right)
 }
 
 // Multiplication
 
 pub fn mul_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
+    if left * right > u8::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < u8::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
+    if left * right > u16::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < u16::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+    if left * right > u32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < u32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+    if left * right > u64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < u64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
+    if left * right > u128::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < u128::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    if left * right > usize::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < usize::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
+    if left * right > i8::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < i8::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
+    if left * right > i16::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < i16::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
+    if left * right > i32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < i32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
+    if left * right > i64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < i64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
+    if left * right > i128::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < i128::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
+    if left * right > isize::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < isize::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
+    if left * right > f32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < f32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
 pub fn mul_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
+    if left * right > f64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left * right < f64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left * right)
 }
 
@@ -220,12 +549,28 @@ pub fn div_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
+    if left / right > u8::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < u8::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+
     Ok(left / right)
 }
 
 pub fn div_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
+    }
+
+    if left / right > u16::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < u16::MIN {
+        return Err(ArithmeticError::Underflow);
     }
 
     Ok(left / right)
@@ -236,12 +581,28 @@ pub fn div_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
+    if left / right > u32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < u32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+
     Ok(left / right)
 }
 
 pub fn div_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
+    }
+
+    if left / right > u64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < u64::MIN {
+        return Err(ArithmeticError::Underflow);
     }
 
     Ok(left / right)
@@ -252,12 +613,28 @@ pub fn div_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
+    if left / right > u128::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < u128::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+
     Ok(left / right)
 }
 
 pub fn div_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
+    }
+
+    if left / right > usize::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < usize::MIN {
+        return Err(ArithmeticError::Underflow);
     }
 
     Ok(left / right)
@@ -268,12 +645,28 @@ pub fn div_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
+    if left / right > i8::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < i8::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+
     Ok(left / right)
 }
 
 pub fn div_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
+    }
+
+    if left / right > i16::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < i16::MIN {
+        return Err(ArithmeticError::Underflow);
     }
 
     Ok(left / right)
@@ -284,12 +677,28 @@ pub fn div_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
+    if left / right > i32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < i32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+
     Ok(left / right)
 }
 
 pub fn div_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
+    }
+
+    if left / right > i64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < i64::MIN {
+        return Err(ArithmeticError::Underflow);
     }
 
     Ok(left / right)
@@ -300,12 +709,28 @@ pub fn div_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
+    if left / right > i128::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < i128::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+
     Ok(left / right)
 }
 
 pub fn div_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
+    }
+
+    if left / right > isize::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < isize::MIN {
+        return Err(ArithmeticError::Underflow);
     }
 
     Ok(left / right)
@@ -316,6 +741,14 @@ pub fn div_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
+    if left / right > f32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < f32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+
     Ok(left / right)
 }
 
@@ -324,110 +757,330 @@ pub fn div_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
+    if left / right > f64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left / right < f64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+
     Ok(left / right)
 }
 
-// Remainder (Modulo)
+// Remainder
 
 pub fn rem_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
+    if left % right > u8::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < u8::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 pub fn rem_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
+    if left % right > u16::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < u16::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 pub fn rem_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+    if left % right > u32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < u32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 pub fn rem_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+    if left % right > u64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < u64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 pub fn rem_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
+    if left % right > u128::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < u128::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 pub fn rem_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    if left % right > usize::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < usize::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 pub fn rem_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
+    if left % right > i8::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < i8::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 pub fn rem_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
+    if left % right > i16::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < i16::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 pub fn rem_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
+    if left % right > i32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < i32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 pub fn rem_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
+    if left % right > i64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < i64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+
     Ok(left % right)
 }
 
 pub fn rem_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
+    if left % right > i128::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < i128::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 pub fn rem_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
+    if left % right > isize::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < isize::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 pub fn rem_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
+    if left % right > f32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < f32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 pub fn rem_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
+    if left % right > f64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left % right < f64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left % right)
 }
 
 // Power (exponent)
 
 pub fn pow_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
+    if left ^ right > u8::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left ^ right < u8::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left ^ right)
 }
 
 pub fn pow_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
+    if left ^ right > u16::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left ^ right < u16::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left ^ right)
 }
 
 pub fn pow_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
+    if left ^ right > u32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left ^ right < u32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left ^ right)
 }
 
 pub fn pow_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
+    if left ^ right > u64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left ^ right < u64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left ^ right)
 }
 
 pub fn pow_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
+    if left ^ right > u128::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left ^ right < u128::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left ^ right)
 }
 
 pub fn pow_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
+    if left ^ right > usize::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left ^ right < usize::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left ^ right)
 }
 
 pub fn pow_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
+    if left ^ right > i8::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left ^ right < i8::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left ^ right)
 }
 
 pub fn pow_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
+    if left ^ right > i16::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left ^ right < i16::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left ^ right)
 }
 
 pub fn pow_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
+    if left ^ right > i32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left ^ right < i32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left ^ right)
 }
 
 pub fn pow_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
+    if left ^ right > i64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left ^ right < i64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left ^ right)
 }
 
 pub fn pow_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
+    if left ^ right > i128::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left ^ right < i128::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
+    Ok(left ^ right)
+}
+
+pub fn pow_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
+    if left ^ right > isize::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left ^ right < isize::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left ^ right)
 }
 
@@ -435,10 +1088,26 @@ pub fn pow_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
 // Check XDoc: references> reference> rust> arithmetic
 
 pub fn pow_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
+    if left.powf(right) > f32::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left.powf(right) < f32::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left.powf(right))
 }
 
 pub fn pow_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
+    if left.powf(right) > f64::MAX {
+        return Err(ArithmeticError::Overflow);
+    }
+
+    if left.powf(right) < f64::MIN {
+        return Err(ArithmeticError::Underflow);
+    }
+    
     Ok(left.powf(right))
 }
 
