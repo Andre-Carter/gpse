@@ -1033,6 +1033,11 @@ mod tests {
 
     #[test]
     fn test_add_u8() {
+        assert_eq!(add_u8(1, 2), Ok(3))
+    }
+
+    #[test]
+    fn test_add_u8_max() {
         assert_eq!(add_u8(0, u8::MAX), Ok(u8::MAX))
     }
 
@@ -1043,12 +1048,22 @@ mod tests {
 
     #[test]
     fn test_add_u16() {
-        assert_eq!(add_u16(10, 11), Ok(21))
+        assert_eq!(add_u16(1, 2), Ok(3))
+    }
+
+    #[test]
+    fn test_add_u16_max() {
+        assert_eq!(add_u16(0, u16::MAX), Ok(u16::MAX))
+    }
+
+    #[test]
+    fn test_add_u16_overflow() {
+        assert_eq!(add_u16(1, u16::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_add_u32() {
-        assert_eq!(add_u32(10, 11), Ok(21))
+        assert_eq!(add_u32(0, 11), Ok(21))
     }
 
     #[test]
