@@ -1063,62 +1063,182 @@ mod tests {
 
     #[test]
     fn test_add_u32() {
-        assert_eq!(add_u32(0, 11), Ok(21))
+        assert_eq!(add_u32(1, 2), Ok(3))
+    }
+
+    #[test]
+    fn test_add_u32_max() {
+        assert_eq!(add_u32(0, u32::MAX), Ok(u32::MAX))
+    }
+
+    #[test]
+    fn test_add_u32_overflow() {
+        assert_eq!(add_u32(1, u32::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_add_u64() {
-        assert_eq!(add_u64(10, 11), Ok(21))
+        assert_eq!(add_u64(1, 2), Ok(3))
+    }
+
+    #[test]
+    fn test_add_u64_max() {
+        assert_eq!(add_u64(0, u64::MAX), Ok(u64::MAX))
+    }
+
+    #[test]
+    fn test_add_u64_overflow() {
+        assert_eq!(add_u64(1, u64::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_add_u128() {
-        assert_eq!(add_u128(10, 11), Ok(21))
+        assert_eq!(add_u128(1, 2), Ok(3))
+    }
+
+    #[test]
+    fn test_add_u128_max() {
+        assert_eq!(add_u128(0, u128::MAX), Ok(u128::MAX))
+    }
+
+    #[test]
+    fn test_add_u128_overflow() {
+        assert_eq!(add_u128(1, u128::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_add_usize() {
-        assert_eq!(add_usize(10, 11), Ok(21))
+        assert_eq!(add_usize(1, 2), Ok(3))
+    }
+
+    #[test]
+    fn test_add_usize_max() {
+        assert_eq!(add_usize(0, usize::MAX), Ok(usize::MAX))
+    }
+
+    #[test]
+    fn test_add_usize_overflow() {
+        assert_eq!(add_usize(1, usize::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_add_i8() {
-        assert_eq!(add_i8(10, 11), Ok(21))
+        assert_eq!(add_i8(1, 2), Ok(3))
+    }
+
+    #[test]
+    fn test_add_i8_max() {
+        assert_eq!(add_i8(0, i8::MAX), Ok(i8::MAX))
+    }
+
+    #[test]
+    fn test_add_i8_overflow() {
+        assert_eq!(add_i8(1, i8::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_add_i16() {
-        assert_eq!(add_i16(10, 11), Ok(21))
+        assert_eq!(add_i16(1, 2), Ok(3))
+    }
+
+    #[test]
+    fn test_add_i16_max() {
+        assert_eq!(add_i16(0, i16::MAX), Ok(i16::MAX))
+    }
+
+    #[test]
+    fn test_add_i16_overflow() {
+        assert_eq!(add_i16(1, i16::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_add_i32() {
-        assert_eq!(add_i32(10, 11), Ok(21))
+        assert_eq!(add_i32(1, 2), Ok(3))
+    }
+
+    #[test]
+    fn test_add_i32_max() {
+        assert_eq!(add_i32(0, i32::MAX), Ok(i32::MAX))
+    }
+
+    #[test]
+    fn test_add_i32_overflow() {
+        assert_eq!(add_i32(1, i32::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_add_i64() {
-        assert_eq!(add_i64(10, 11), Ok(21))
+        assert_eq!(add_i64(1, 2), Ok(3))
+    }
+
+    #[test]
+    fn test_add_i64_max() {
+        assert_eq!(add_i64(0, i64::MAX), Ok(i64::MAX))
+    }
+
+    #[test]
+    fn test_add_i64_overflow() {
+        assert_eq!(add_i64(1, i64::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_add_i128() {
-        assert_eq!(add_i128(10, 11), Ok(21))
+        assert_eq!(add_i128(1, 2), Ok(3))
+    }
+
+    #[test]
+    fn test_add_i128_max() {
+        assert_eq!(add_i128(0, i128::MAX), Ok(i128::MAX))
+    }
+
+    #[test]
+    fn test_add_i128_overflow() {
+        assert_eq!(add_i128(1, i128::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_add_isize() {
-        assert_eq!(add_isize(10, 11), Ok(21))
+        assert_eq!(add_isize(1, 2), Ok(3))
+    }
+
+    #[test]
+    fn test_add_isize_max() {
+        assert_eq!(add_isize(0, isize::MAX), Ok(isize::MAX))
+    }
+
+    #[test]
+    fn test_add_isize_overflow() {
+        assert_eq!(add_isize(1, isize::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_add_f32() {
-        assert_eq!(add_f32(10.0, 11.0), Ok(21.0))
+        assert_eq!(add_f32(1.0, 2.0), Ok(3.0))
+    }
+
+    #[test]
+    fn test_add_f32_max() {
+        assert_eq!(add_f32(0.0, f32::MAX), Ok(f32::MAX))
+    }
+
+    #[test]
+    fn test_add_f32_overflow() {
+        assert_eq!(add_f32(1.0, f32::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_add_f64() {
-        assert_eq!(add_f64(10.0, 11.0), Ok(21.0))
+        assert_eq!(add_f64(1.0, 2.0), Ok(3.0))
+    }
+
+    #[test]
+    fn test_add_f64_max() {
+        assert_eq!(add_f64(0.0, f64::MAX), Ok(f64::MAX))
+    }
+
+    #[test]
+    fn test_add_f64_overflow() {
+        assert_eq!(add_f64(1.0, f64::MAX), Err(ArithmeticError::Overflow))
     }
 
     // Test subtraction
