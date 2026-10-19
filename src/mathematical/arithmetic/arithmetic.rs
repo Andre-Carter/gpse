@@ -178,13 +178,9 @@ pub fn add_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
     Ok(left + right)
 }
 
-// Subtraction 
+// SUBTRACTION 
 
 pub fn sub_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
-    if right > u8::MAX - left {
-        return Err(ArithmeticError::Overflow);
-    }
-
     if right > left {
         return Err(ArithmeticError::Underflow);
     }
@@ -193,10 +189,6 @@ pub fn sub_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
 }
 
 pub fn sub_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
-    if right > u16::MAX - left {
-        return Err(ArithmeticError::Overflow);
-    }
-
     if right > left {
         return Err(ArithmeticError::Underflow);
     }
@@ -205,10 +197,6 @@ pub fn sub_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
 }
 
 pub fn sub_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
-    if right > u32::MAX - left {
-        return Err(ArithmeticError::Overflow);
-    }
-
     if right > left {
         return Err(ArithmeticError::Underflow);
     }
@@ -217,10 +205,6 @@ pub fn sub_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
 }
 
 pub fn sub_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
-    if right > u64::MAX - left {
-        return Err(ArithmeticError::Overflow);
-    }
-
     if right > left {
         return Err(ArithmeticError::Underflow);
     }
@@ -229,10 +213,6 @@ pub fn sub_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
 }
 
 pub fn sub_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
-    if right > u128::MAX - left {
-        return Err(ArithmeticError::Overflow);
-    }
-
     if right > left {
         return Err(ArithmeticError::Underflow);
     }
@@ -241,10 +221,6 @@ pub fn sub_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
 }
 
 pub fn sub_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
-    if right > usize::MAX - left {
-        return Err(ArithmeticError::Overflow);
-    }
-
     if right > left {
         return Err(ArithmeticError::Underflow);
     }
@@ -253,11 +229,11 @@ pub fn sub_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
 }
 
 pub fn sub_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
-    if right > i8::MAX - left {
+    if left > 0 {
         return Err(ArithmeticError::Overflow);
     }
-
-    if left < i8::MIN + right {
+   
+    if left <= 0 && right > i8::MAX {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -1023,13 +999,13 @@ pub fn pow_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
     Ok(left.powf(right))
 }
 
-// test
+// TEST
 
 #[cfg(test)]
 mod tests {
     use super::*;
 
-    // test addition
+    // TEST ADDITION: ADD, UPPER, OVERFLOW
 
     #[test]
     fn test_add_u8() {
@@ -1241,76 +1217,113 @@ mod tests {
         assert_eq!(add_f64(1.0, f64::MAX), Err(ArithmeticError::Overflow))
     }
 
-    // Test subtraction
+    // TEST SUBTRACTION: SUB, UPPER, LOWER, OVERFLOW, UNDERFLOW
+    // NOTE: fix sub logic... MAX +/- 1
+    // REAL NOTE: WE MAY NEED TO RANGE TO CALCULATE OVERFLOW/UNDERFLOW LOGIC
 
     #[test]
     fn test_sub_u8() {
-        assert_eq!(sub_u8(10, 11), Ok(21))
+        assert_eq!(sub_u8(3, 2), Ok(1))
+    }
+
+    #[test]
+    fn test_sub_u8_overflow() {
+        assert_eq!(sub_u8(1, -127), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_sub_u8_underflow() {
+        assert_eq!(sub_u8(-1, 127), Err(ArithmeticError::Underflow))
     }
 
     #[test]
     fn test_sub_u16() {
-        assert_eq!(sub_u16(10, 11), Ok(21))
+        assert_eq!(sub_u16(3, 2), Ok(1))
+    }
+
+    #[test]
+    fn test_sub_u16_underflow() {
+        assert_eq!(sub_u16(0, 1), Err(ArithmeticError::Underflow))
     }
 
     #[test]
     fn test_sub_u32() {
-        assert_eq!(sub_u32(10, 11), Ok(21))
+        assert_eq!(sub_u32(3, 2), Ok(1))
+    }
+
+    #[test]
+    fn test_sub_u32_underflow() {
+        assert_eq!(sub_u32(0, 1), Err(ArithmeticError::Underflow))
     }
 
     #[test]
     fn test_sub_u64() {
-        assert_eq!(sub_u64(10, 11), Ok(21))
+        assert_eq!(sub_u64(3, 2), Ok(1))
+    }
+
+    #[test]
+    fn test_sub_u64_underflow() {
+        assert_eq!(sub_u64(0, 1), Err(ArithmeticError::Underflow))
     }
 
     #[test]
     fn test_sub_u128() {
-        assert_eq!(sub_u128(10, 11), Ok(21))
+        assert_eq!(sub_u128(3, 2), Ok(1))
+    }
+
+    #[test]
+    fn test_sub_u128_underflow() {
+        assert_eq!(sub_u128(0, 1), Err(ArithmeticError::Underflow))
     }
 
     #[test]
     fn test_sub_usize() {
-        assert_eq!(sub_usize(10, 11), Ok(21))
+        assert_eq!(sub_usize(3, 2), Ok(1))
+    }
+
+    #[test]
+    fn test_sub_usize_underflow() {
+        assert_eq!(sub_usize(0, 1), Err(ArithmeticError::Underflow))
     }
 
     #[test]
     fn test_sub_i8() {
-        assert_eq!(sub_i8(10, 11), Ok(21))
+        assert_eq!(sub_i8(3, 2), Ok(1))
     }
 
     #[test]
     fn test_sub_i16() {
-        assert_eq!(sub_i16(10, 11), Ok(21))
+        assert_eq!(sub_i16(3, 2), Ok(1))
     }
 
     #[test]
     fn test_sub_i32() {
-        assert_eq!(sub_i32(10, 11), Ok(21))
+        assert_eq!(sub_i32(3, 2), Ok(1))
     }
 
     #[test]
     fn test_sub_i64() {
-        assert_eq!(sub_i64(10, 11), Ok(21))
+        assert_eq!(sub_i64(3, 2), Ok(1))
     }
 
     #[test]
     fn test_sub_i128() {
-        assert_eq!(sub_i128(10, 11), Ok(21))
+        assert_eq!(sub_i128(3, 2), Ok(1))
     }
 
     #[test]
     fn test_sub_isize() {
-        assert_eq!(sub_isize(10, 11), Ok(21))
+        assert_eq!(sub_isize(3, 2), Ok(1))
     }
 
     #[test]
     fn test_sub_f32() {
-        assert_eq!(sub_f32(10.0, 11.0), Ok(21.0))
+        assert_eq!(sub_f32(3.0, 2.0), Ok(1.0))
     }
 
     #[test]
     fn test_sub_f64() {
-        assert_eq!(sub_f64(10.0, 11.0), Ok(21.0))
+        assert_eq!(sub_f64(3.0, 2.0), Ok(1.0))
     }
 
     // TEST MULTIPICATION

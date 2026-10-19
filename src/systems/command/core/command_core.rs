@@ -11,6 +11,7 @@ use crate::systems::command::library::programs::rpg_engine::rpg_engine_cli::rpg_
 use crate::systems::command::tools::calculator::cli_calc;
 use crate::systems::command::tools::calculator::cli_sqrt;
 use crate::systems::command::tools::math::math_cli;
+use crate::theory::test_theory::logic_cli;
 
 use std::io::{Write, stdin, stdout};
 
@@ -143,6 +144,10 @@ pub fn cli_commands() {
 
             "rpg" => {
                 rpg_engine_cli();
+            }
+
+            "switch" => {
+                logic_cli();
             }
 
             "debug" => {
