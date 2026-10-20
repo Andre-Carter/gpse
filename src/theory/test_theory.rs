@@ -56,16 +56,14 @@ impl Switch {
         }
     }
 
+    // SWITCH ON
     pub fn on(self) -> Self {
-        Self {
-            logic: TRUE,
-        }
+        Self { logic: TRUE }
     }
 
+    // SWITCH OFF
     pub fn off(self) -> Self {
-        Self {
-            logic: FALSE,
-        }
+        Self { logic: FALSE }
     }
 
     pub fn switch(self) -> Self {
