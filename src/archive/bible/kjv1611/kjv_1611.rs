@@ -32128,6 +32128,1226 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        ("2 samuel", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 2, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 27) => Some(Verse { 
+            content: "", 
+        }),
+        
+        ("2 samuel", 3, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 3, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 4, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 5, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 6, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 7, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 8, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 9, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 10, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 11, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 12, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 samuel", 13, 39) => Some(Verse { 
+            content: "", 
+        }),
+
         _ => None,
     }
 }
