@@ -46880,6 +46880,1146 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        ("2 chronicles", 26, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 26, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 27, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 27, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 27, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 27, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 27, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 27, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 27, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 27, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 27, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 28, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 29, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 30, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 9) => Some(Verse { 
+            content: "",
+        }),
+
+        ("2 chronicles", 31, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 31, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 32, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 33, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 34, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 35, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 chronicles", 36, 23) => Some(Verse { 
+            content: "", 
+        }),
+
         _ => None,
     }
 }
