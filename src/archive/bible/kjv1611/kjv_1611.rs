@@ -49156,6 +49156,1637 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        ("nehemiah", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 3, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 4, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 5, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 6, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 41) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 42) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 43) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 44) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 45) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 46) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 47) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 48) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 49) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 50) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 51) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 52) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 53) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 54) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 55) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 56) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 57) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 58) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 59) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 60) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 61) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 62) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 63) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 64) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 65) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 66) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 67) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 68) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 69) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 70) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 71) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 72) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 7, 73) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 8, 18) => Some(Verse { 
+            content: "", 
+        }),
+        
+        ("nehemiah", 9, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 9, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 10, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 11, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 41) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 42) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 43) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 44) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 45) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 46) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 12, 47) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nehemiah", 13, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        
+        
+
         _ => None,
     }
 }
