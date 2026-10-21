@@ -50784,8 +50784,673 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        ("esther", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
         
-        
+        ("esther", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 1, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 2, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 4, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 5, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 6, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 7, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 7, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 7, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 7, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 7, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 7, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 7, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 7, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 7, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 7, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 8, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 9, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 10, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 10, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("esther", 10, 3) => Some(Verse { 
+            content: "", 
+        }),
 
         _ => None,
     }
