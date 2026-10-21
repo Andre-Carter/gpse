@@ -39248,6 +39248,1172 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        ("2 kings", 11, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 11, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 12, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 13, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 14, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 15, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 16, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 17, 41) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 18, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 19, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 kings", 20, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        
+
         _ => None,
     }
 }
