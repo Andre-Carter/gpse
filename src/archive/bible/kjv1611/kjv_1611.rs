@@ -58028,6 +58028,722 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        ("psalms", 39, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 39, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 39, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 39, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 39, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 39, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 39, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 39, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 39, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 39, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 39, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 39, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 40, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 41, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 42, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 42, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 42, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 42, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 42, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 42, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 42, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 42, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 42, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 42, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 42, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 43, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 43, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 43, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 43, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 43, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 44, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 45, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 46, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 46, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 46, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 46, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 46, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 46, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 46, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 46, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 46, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 46, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 46, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 47, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 47, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 47, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 47, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 47, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 47, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 47, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 47, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 47, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 48, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 49, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 50, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("psalms", 51, 1) => Some(Verse { 
+            content: "", 
+        }),
+
 
         _ => None,
     }
