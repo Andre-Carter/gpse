@@ -69324,6 +69324,821 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        ("ecclesiastes", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 2, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 3, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 4, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 5, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 6, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 6, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 6, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 6, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 6, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 6, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 6, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 6, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 6, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 6, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 6, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 6, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 7, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 8, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 9, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 10, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 11, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 11, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 11, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 11, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 11, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 11, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 11, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 11, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 11, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 11, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ecclesiastes", 12, 14) => Some(Verse { 
+            content: "", 
+        }),
 
         _ => None,
     }
