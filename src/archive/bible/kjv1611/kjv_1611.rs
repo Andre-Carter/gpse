@@ -54320,6 +54320,1418 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        ("job", 31, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 31, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 32, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 33, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 34, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 35, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 36, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 37, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 38, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 39, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 40, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 41, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("job", 42, 17) => Some(Verse { 
+            content: "", 
+        }),
+
         _ => None,
     }
 }
