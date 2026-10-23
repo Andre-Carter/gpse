@@ -81476,6 +81476,1441 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // DANIEL
+
+        ("daniel", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 1, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 41) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 42) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 43) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 44) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 45) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 46) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 47) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 48) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 2, 49) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 3, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 4, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 5, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 6, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 7, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 8, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 9, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 10, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 41) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 42) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 43) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 44) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 11, 45) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("daniel", 12, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        // HOSEA
+
+        
+
+
         _ => None,
     }
 }
