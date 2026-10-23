@@ -75534,6 +75534,250 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        ("isaiah", 64, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 64, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 64, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 64, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 64, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 64, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 64, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 64, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 64, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 64, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 64, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 64, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 65, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("isaiah", 66, 24) => Some(Verse { 
+            content: "", 
+        }),
+
         _ => None,
     }
 }
