@@ -68444,10 +68444,6 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        ("proverbs", 25, 1) => Some(Verse { 
-            content: "", 
-        }),
-
         ("proverbs", 25, 2) => Some(Verse { 
             content: "", 
         }),
@@ -70556,10 +70552,6 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        ("song of solomon", 8, 1) => Some(Verse { 
-            content: "", 
-        }),
-
         ("song of solomon", 8, 2) => Some(Verse { 
             content: "", 
         }),
@@ -70609,10 +70601,6 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         // THE BOOK OF ISAIAH
-
-        ("isaiah", 1, 2) => Some(Verse { 
-            content: "", 
-        }),
 
         ("isaiah", 1, 2) => Some(Verse { 
             content: "", 
