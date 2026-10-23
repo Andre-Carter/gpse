@@ -84858,6 +84858,844 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
 
         // MICAH
 
+        ("micah", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 4, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 5, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 6, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("micah", 7, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        // NAHUM
+
+        ("nahum", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("nahum", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        // HABAKKUK
+
+        ("habakkuk", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("habakkuk", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        
+
         _ => None,
     }
 }
