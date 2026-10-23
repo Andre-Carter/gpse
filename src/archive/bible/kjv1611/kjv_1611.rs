@@ -83698,6 +83698,304 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
 
         // JOEL
 
+        ("joel", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 1, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 2, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("joel", 3, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        // AMOS 
+
+        ("amos", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
         _ => None,
     }
 }
