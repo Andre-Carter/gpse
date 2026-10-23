@@ -75778,6 +75778,734 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        ("lamentations", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 1, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 2, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 41) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 42) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 43) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 44) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 45) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 46) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 47) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 48) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 49) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 50) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 51) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 52) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 53) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 54) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 55) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 56) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 57) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 58) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 59) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 60) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 61) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 62) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 63) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 64) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 65) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 3, 66) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 4, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("lamentations", 5, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("ezekiel", 1, 28) => Some(Verse { 
+            content: "", 
+        }),
+
         _ => None,
     }
 }
