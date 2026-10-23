@@ -85694,7 +85694,1441 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        
+        // ZEPHANIAH
+
+        ("zephaniah", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zephaniah", 3, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        // HAGGAI
+
+        ("haggai", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("haggai", 2, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        // ZECHARIAH 
+
+        ("zechariah", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 1, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 4, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 5, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 5, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 6, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 7, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 8, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 9, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 10, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 10, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 10, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 10, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 10, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 10, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 10, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 10, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 10, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 10, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 10, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 10, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 11, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 12, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 13, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 13, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 13, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 13, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 13, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 13, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 13, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 13, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 13, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("zechariah", 14, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        // MALACHI
+
+        ("malachi", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("malachi", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
 
         _ => None,
     }
