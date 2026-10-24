@@ -81887,7 +81887,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // EZEKIEL
+        // THE BOOK OF EZEKIEL
 
         ("ezekiel", 1, 1) => Some(Verse { 
             content: "", 
@@ -86981,7 +86981,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // DANIEL
+        // THE BOOK OF DANIEL
 
         ("daniel", 1, 1) => Some(Verse { 
             content: "", 
@@ -88411,7 +88411,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // HOSEA
+        // THE BOOK OF HOSEA
 
         ("hosea", 1, 1) => Some(Verse { 
             content: "", 
@@ -89201,7 +89201,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // JOEL
+        // THE BOOK OF JOEL
 
         ("joel", 1, 1) => Some(Verse { 
             content: "", 
@@ -89495,7 +89495,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // AMOS 
+        // THE BOOK OF AMOS 
 
         ("amos", 1, 1) => Some(Verse { 
             content: "", 
@@ -90081,7 +90081,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // OBADIAH
+        // THE BOOK OF OBADIAH
 
         ("obadiah", 1, 1) => Some(Verse { 
             content: "", 
@@ -90167,7 +90167,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // JONAH
+        // THE BOOK OF JONAH
 
         ("jonah", 1, 1) => Some(Verse { 
             content: "", 
@@ -90361,7 +90361,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // MICAH
+        // THE BOOK OF MICAH
 
         ("micah", 1, 1) => Some(Verse { 
             content: "", 
@@ -90783,7 +90783,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // NAHUM
+        // THE BOOK OF NAHUM
 
         ("nahum", 1, 1) => Some(Verse { 
             content: "", 
@@ -90973,7 +90973,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // HABAKKUK
+        // THE BOOK OF HABAKKUK
 
         ("habakkuk", 1, 1) => Some(Verse { 
             content: "", 
@@ -91199,7 +91199,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // ZEPHANIAH
+        // THE BOOK OF ZEPHANIAH
 
         ("zephaniah", 1, 1) => Some(Verse { 
             content: "", 
@@ -91413,7 +91413,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // HAGGAI
+        // THE BOOK OF HAGGAI
 
         ("haggai", 1, 1) => Some(Verse { 
             content: "", 
@@ -91567,7 +91567,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // ZECHARIAH 
+        // THE BOOK OF ZECHARIAH 
 
         ("zechariah", 1, 1) => Some(Verse { 
             content: "", 
@@ -92413,7 +92413,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // MALACHI
+        // THE BOOK OF MALACHI
 
         ("malachi", 1, 1) => Some(Verse { 
             content: "", 
