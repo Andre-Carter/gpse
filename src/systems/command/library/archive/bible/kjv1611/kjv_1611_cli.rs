@@ -236,7 +236,7 @@ pub fn chapter_verse_index() {
     );
 
     println!(
-        "Philemon 1: 1:1-25"
+        "Philemon: 1:1-25"
     );
 
     println!(
@@ -252,24 +252,30 @@ pub fn chapter_verse_index() {
     );
 
     println!(
-        "2 Peter 1-3: "
+        "2 Peter 1-3: 1:1-21, 2:1-22, 3:1-18"
     );
 
     println!(
-        ""
+        "1 John 1-5: 1:1-10, 2:1-29, 3:1-24, 4:1-21, 5:1-21"
     );
 
     println!(
-        ""
+        "2 John: 1:1-13"
     );
 
     println!(
-        ""
+        "3 John: 1:1-14"
     );
 
     println!(
-        ""
+        "Jude: 1:1-25"
     );
+
+    println!(
+        "Revelation 1-22: 1:1-20, 2:1-29, 3:1-22, 4:1-11, 5:1-14, 6:1-17, 7:1-17, 8:1-13, 9:1-21, 10:1-11, 11:1-19, 12:1-17, 13:1-18, 14:1-20, 15:1-8, 16:1-21, 17:1-18, 18:1-24, 19:1-21, 20:1-15, 21:1-27, 22:1-21"
+    );
+
+    // DEUTEROCANONICAL BOOKS (THE APOCRYPHA)
 
     println!(
         ""
