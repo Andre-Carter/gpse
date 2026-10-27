@@ -122229,10 +122229,2261 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF FIRST JOHN
+
         ("1 john", 1, 1) => Some(Verse { 
             content: "", 
         }),
 
+        ("1 john", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 2, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 3, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 4, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 john", 5, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        // THE BOOK OF SECOND JOHN
+
+        ("2 john", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 john", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 john", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 john", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 john", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 john", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 john", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 john", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 john", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 john", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 john", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 john", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("2 john", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        // THE BOOK OF THIRD JOHN (3 JOHN)
+
+        ("3 john", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("3 john", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        // THE BOOK OF JUDE
+
+        ("jude", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("jude", 1, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        // THE BOOK OF REVELATION
+
+        ("revelation", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 1, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 2, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 3, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 5, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 6, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 7, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 8, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 9, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 10, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 10, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 10, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 10, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 10, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 10, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 10, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 10, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 10, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 10, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 10, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 11, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 6) => Some(Verse { 
+            content: "",
+        }),
+
+        ("revelation", 12, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 12, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 13, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 14, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 15, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 15, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 15, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 15, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 15, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 15, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 15, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 15, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 16, 21) => Some(Verse { 
+            content: "", 
+        }),
+        
+        ("revelation", 17, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 17, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 18, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 19, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 20, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 21, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("revelation", 22, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        //
 
         _ => None,
     }
