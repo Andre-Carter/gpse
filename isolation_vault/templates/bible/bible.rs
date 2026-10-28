@@ -149,155 +149,155 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("genesis", 2, 3) => Some(Verse {
-            content: "And God blessed the seuenth day, and sanctified it: because that in it he had rested from all his worke, which God created and made.",
+            content: "",
         }),
 
         ("genesis", 2, 4) => Some(Verse {
-            content: "These are the generations of the heauens, & of the earth, when they were created; in the day that the LORD God made the earth, and the heauens,",
+            content: "",
         }),
 
         ("genesis", 2, 5) => Some(Verse {
-            content: "And euery plant of the field, before it was in the earth, and euery herbe of the field, before it grew: for the LORD God had not caused it to raine vpon the earth, and there was not a man to till the ground.",
+            content: "",
         }),
 
         ("genesis", 2, 6) => Some(Verse {
-            content: "But there went vp a mist from the earth, and watered the whole face of the ground.",
+            content: "",
         }),
 
         ("genesis", 2, 7) => Some(Verse {
-            content: "And the LORD God formed man of the dust of the ground, & breathed into his nostrils the breath of life; and man became a liuing soule.",
+            content: "",
         }),
 
         ("genesis", 2, 8) => Some(Verse {
-            content: "And the LORD God planted a garden Eastward in Eden; and there he put the man whom he had formed.",
+            content: "",
         }),
 
         ("genesis", 2, 9) => Some(Verse {
-            content: "And out of the ground made the LORD God to grow euery tree that is pleasant to the sight, and good for food: the tree of life also in the midst of the garden, and the tree of knowledge of good and euill.",
+            content: "",
         }),
 
         ("genesis", 2, 10) => Some(Verse {
-            content: "And a riuer went out of Eden to water the garden, and from thence it was parted, and became into foure heads.",
+            content: "",
         }),
 
         ("genesis", 2, 11) => Some(Verse {
-            content: "The name of the first is Pison: that is it which compasseth the whole land of Hauilah, where there is gold.",
+            content: "",
         }),
 
         ("genesis", 2, 12) => Some(Verse {
-            content: "The name of the first is Pison: that is it which compasseth the whole land of Hauilah, where there is gold.",
+            content: "",
         }),
 
         ("genesis", 2, 13) => Some(Verse {
-            content: "And the name of the second riuer is Gihon: the same is it that compasseth the whole land of Ethiopia.",
+            content: "",
         }),
 
         ("genesis", 2, 14) => Some(Verse {
-            content: "And the name of the third riuer is Hiddekel: that is it which goeth toward the East of Assyria: and the fourth riuer is Euphrates.",
+            content: "",
         }),
 
         ("genesis", 2, 15) => Some(Verse {
-            content: "And the LORD God tooke the man, and put him into the garden of Eden, to dresse it, and to keepe it.",
+            content: "",
         }),
 
         ("genesis", 2, 16) => Some(Verse {
-            content: "And the LORD God commanded the man, saying, Of euery tree of the garden thou mayest freely eate.",
+            content: "",
         }),
 
         ("genesis", 2, 17) => Some(Verse {
-            content: "But of the tree of the knowledge of good and euill, thou shalt not eate of it: for in the day that thou eatest thereof, thou shalt surely die.",
+            content: "",
         }),
 
         ("genesis", 2, 18) => Some(Verse {
-            content: "And the LORD God said, It is not good that the man should be alone: I will make him an helpe meet for him.",
+            content: "",
         }),
 
         ("genesis", 2, 19) => Some(Verse {
-            content: "And out of þe ground the LORD God formed euery beast of the field, and euery foule of the aire, and brought them vnto Adam, to see what he would call them: and whatsoeuer Adam called euery liuing creature, that was the name thereof.",
+            content: "",
         }),
 
         ("genesis", 2, 20) => Some(Verse {
-            content: "And Adam gaue names to all cattell, and to the foule of the aire, and to euery beast of the fielde: but for Adam there was not found an helpe meete for him.",
+            content: "",
         }),
 
         ("genesis", 2, 21) => Some(Verse {
-            content: "And the LORD God caused a deepe sleepe to fall vpon Adam, and hee slept; and he tooke one of his ribs, and closed vp the flesh in stead thereof.",
+            content: "",
         }),
 
         ("genesis", 2, 22) => Some(Verse {
-            content: "And the rib which the LORD God had taken from man, made hee a woman, & brought her vnto the man.",
+            content: "",
         }),
 
         ("genesis", 2, 23) => Some(Verse {
-            content: "And Adam said, This is now bone of my bones, and flesh of my flesh: she shalbe called woman, because shee was taken out of man.",
+            content: "",
         }),
 
         ("genesis", 2, 24) => Some(Verse {
-            content: "Therefore shall a man leaue his father and his mother, and shall cleaue vnto his wife: and they shalbe one flesh.",
+            content: "",
         }),
 
         ("genesis", 2, 25) => Some(Verse {
-            content: "And they were both naked, the man & his wife, and were not ashamed.",
+            content: "",
         }),
 
         ("genesis", 3, 1) => Some(Verse {
-            content: "Now the serpent was more subtill then any beast of the field, which the LORD God had made, and he said vnto the woman, Yea, hath God said, Ye shall not eat of euery tree of the garden?",
+            content: "",
         }),
 
         ("genesis", 3, 2) => Some(Verse {
-            content: "And the woman said vnto the serpent, Wee may eate of the fruite of the trees of the garden:",
+            content: "",
         }),
 
         ("genesis", 3, 3) => Some(Verse {
-            content: "But of the fruit of the tree, which is in the midst of the garden, God hath said, Ye shal not eate of it, neither shall ye touch it, lest ye die.",
+            content: "",
         }),
 
         ("genesis", 3, 4) => Some(Verse {
-            content: "And the Serpent said vnto the woman, Ye shall not surely die.",
+            content: "",
         }),
 
         ("genesis", 3, 5) => Some(Verse {
-            content: "For God doeth know, that in the day ye eate thereof, then your eyes shalbee opened: and yee shall bee as Gods, knowing good and euill.",
+            content: "",
         }),
 
         ("genesis", 3, 6) => Some(Verse {
-            content: "And when the woman saw, that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she tooke of the fruit thereof, and did eate, and gaue also vnto her husband with her, and hee did eate.",
+            content: "",
         }),
 
         ("genesis", 3, 7) => Some(Verse {
-            content: "And the eyes of them both were opened, & they knew that they were naked, and they sewed figge leaues together, and made themselues aprons.",
+            content: "",
         }),
 
         ("genesis", 3, 8) => Some(Verse {
-            content: "And they heard the voyce of the LORD God, walking in the garden in the coole of the day: and Adam and his wife hid themselues from the presence of the LORD God, amongst the trees of the garden.",
+            content: "",
         }),
 
         ("genesis", 3, 9) => Some(Verse {
-            content: "And the LORD God called vnto Adam, and said vnto him, Where art thou?",
+            content: "",
         }),
 
         ("genesis", 3, 10) => Some(Verse {
-            content: "And he said, I heard thy voice in the garden: and I was afraid, because I was naked, and I hid my selfe.",
+            content: "",
         }),
 
         ("genesis", 3, 11) => Some(Verse {
-            content: "And he said, Who told thee, that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee, that thou shouldest not eate?",
+            content: "",
         }),
 
         ("genesis", 3, 12) => Some(Verse {
-            content: "And the man said, The woman whom thou gauest to be with mee, shee gaue me of the tree, and I did eate.",
+            content: "",
         }),
 
         ("genesis", 3, 13) => Some(Verse {
-            content: "And the LORD God said vnto the woman, What is this that thou hast done? And the woman said, The Serpent beguiled me, and I did eate.",
+            content: "",
         }),
 
         ("genesis", 3, 14) => Some(Verse {
-            content: "And the LORD God said vnto the Serpent, Because thou hast done this, thou art cursed aboue all cattel, and aboue euery beast of the field: vpon thy belly shalt thou goe, and dust shalt thou eate, all the dayes of thy life.",
+            content: ": vpon thy belly shalt thou goe, and dust shalt thou eate, all the dayes of thy life.",
         }),
 
         ("genesis", 3, 15) => Some(Verse {
-            content: "And I will put enmitie betweene thee and the woman, and betweene thy seed and her seed: it shal bruise thy head, and thou shalt bruise his heele.",
+            content: "se thy head, and thou shalt bruise his heele.",
         }),
 
         ("genesis", 3, 16) => Some(Verse {
