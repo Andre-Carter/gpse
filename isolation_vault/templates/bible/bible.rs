@@ -25,127 +25,127 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("genesis", 1, 3) => Some(Verse {
-            content: "And God said, Let there be light: and there was light.",
+            content: "",
         }),
 
         ("genesis", 1, 4) => Some(Verse {
-            content: "And God saw the light, that it was good: and God diuided the light from the darkenesse.",
+            content: "",
         }),
 
         ("genesis", 1, 5) => Some(Verse {
-            content: "And God called the light, Day, and the darknesse he called Night: and the euening and the morning were the first day.",
+            content: "",
         }),
 
         ("genesis", 1, 6) => Some(Verse {
-            content: "And God said, Let there be a firmament in the midst of the waters: and let it diuide the waters from the waters.",
+            content: "",
         }),
 
         ("genesis", 1, 7) => Some(Verse {
-            content: "And God made the firmament; and diuided the waters, which were vnder the firmament, from the waters, which were aboue the firmament: and it was so.",
+            content: "",
         }),
 
         ("genesis", 1, 8) => Some(Verse {
-            content: "And God called the firmament, Heauen: and the euening and the morning were the second day.",
+            content: "",
         }),
 
         ("genesis", 1, 9) => Some(Verse {
-            content: "And God said, Let the waters vnder the heauen be gathered together vnto one place, and let the dry land appeare: and it was so.",
+            content: "",
         }),
 
         ("genesis", 1, 10) => Some(Verse {
-            content: "And God called the drie land, Earth, and the gathering together of the waters called hee, Seas: and God saw that it was good.",
+            content: "",
         }),
 
         ("genesis", 1, 11) => Some(Verse {
-            content: "And God said, Let the Earth bring foorth grasse, the herbe yeelding seed, and the fruit tree, yeelding fruit after his kinde, whose seed is in it selfe, vpon the earth: and it was so.",
+            content: "",
         }),
 
         ("genesis", 1, 12) => Some(Verse {
-            content: "And the earth brought foorth grasse, and herbe yeelding seed after his kinde, and the tree yeelding fruit, whose seed was in it selfe, after his kinde: and God saw that it was good.",
+            content: "",
         }),
 
         ("genesis", 1, 13) => Some(Verse {
-            content: "And the euening and the morning were the third day.",
+            content: "",
         }),
 
         ("genesis", 1, 14) => Some(Verse {
-            content: "And God said, Let there bee lights in the firmament of the heauen, to diuide the day from the night: and let them be for signes and for seasons, and for dayes and yeeres.",
+            content: "",
         }),
 
         ("genesis", 1, 15) => Some(Verse {
-            content: "And let them be for lights in the firmament of the heauen, to giue light vpon the earth: and it was so.",
+            content: "",
         }),
 
         ("genesis", 1, 16) => Some(Verse {
-            content: "And God made two great lights: the greater light to rule the day, and the lesser light to rule the night: he made the starres also.",
+            content: "",
         }),
 
         ("genesis", 1, 17) => Some(Verse {
-            content: "And God set them in the firmament of the heauen, to giue light vpon the earth:",
+            content: "",
         }),
 
         ("genesis", 1, 18) => Some(Verse {
-            content: "And to rule ouer the day, and ouer the night, and to diuide the light from the darkenesse: and God saw that it was good.",
+            content: "",
         }),
 
         ("genesis", 1, 19) => Some(Verse {
-            content: "And the euening and the morning were the fourth day.",
+            content: "",
         }),
 
         ("genesis", 1, 20) => Some(Verse {
-            content: "And God said, Let the waters bring foorth aboundantly the mouing creature that hath life, and foule that may flie aboue the earth in the open firmament of heauen.",
+            content: "",
         }),
 
         ("genesis", 1, 21) => Some(Verse {
-            content: "And God created great whales, and euery liuing creature that moueth, which the waters brought forth aboundantly after their kinde, and euery winged foule after his kinde: and God saw that it was good.",
+            content: "",
         }),
 
         ("genesis", 1, 22) => Some(Verse {
-            content: "And God blessed them, saying, Be fruitfull, and multiply, and fill the waters in the Seas, and let foule multiply in the earth.",
+            content: "",
         }),
 
         ("genesis", 1, 23) => Some(Verse {
-            content: "And the euening and the morning were the fift day.",
+            content: "",
         }),
 
         ("genesis", 1, 24) => Some(Verse {
-            content: "And God said, Let the earth bring forth the liuing creature after his kinde, cattell, and creeping thing, and beast of the earth after his kinde: and it was so.",
+            content: "",
         }),
 
         ("genesis", 1, 25) => Some(Verse {
-            content: "And God made the beast of the earth after his kinde, and cattell after their kinde, and euery thing that creepeth vpon the earth, after his kinde: and God saw that it was good.",
+            content: "",
         }),
 
         ("genesis", 1, 26) => Some(Verse {
-            content: "And God said, Let vs make man in our Image, after our likenesse: and let them haue dominion ouer the fish of the sea, and ouer the foule of the aire, and ouer the cattell, and ouer all the earth, and ouer euery creeping thing that creepeth vpon the earth.",
+            content: "",
         }),
 
         ("genesis", 1, 27) => Some(Verse {
-            content: "So God created man in his owne Image, in the Image of God created hee him; male and female created hee them.",
+            content: "",
         }),
 
         ("genesis", 1, 28) => Some(Verse {
-            content: "And God blessed them, and God said vnto them, Be fruitfull, and multiply, and replenish the earth, and subdue it, and haue dominion ouer the fish of the sea, and ouer the foule of the aire, and ouer euery liuing thing that mooueth vpon the earth.",
+            content: "",
         }),
 
         ("genesis", 1, 29) => Some(Verse {
-            content: "And God said, Behold, I haue giuen you euery herbe bearing seede, which is vpon the face of all the earth, and euery tree, in the which is the fruit of a tree yeelding seed, to you it shall be for meat:",
+            content: "",
         }),
 
         ("genesis", 1, 30) => Some(Verse {
-            content: "And to euery beast of the earth, and to euery foule of the aire, and to euery thing that creepeth vpon the earth, wherein there is life, I haue giuen euery greene herbe for meat: and it was so.",
+            content: "",
         }),
 
         ("genesis", 1, 31) => Some(Verse {
-            content: "And God saw euery thing that hee had made: and behold, it was very good. And the euening and the morning were the sixth day.",
+            content: "",
         }),
 
         ("genesis", 2, 1) => Some(Verse {
-            content: "Thus the heauens and the earth were finished, and all the hoste of them.",
+            content: "",
         }),
 
         ("genesis", 2, 2) => Some(Verse {
-            content: "And on the seuenth day God ended his worke, which hee had made: And he rested on the seuenth day from all his worke, which he had made.",
+            content: "",
         }),
 
         ("genesis", 2, 3) => Some(Verse {
