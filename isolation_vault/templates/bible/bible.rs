@@ -549,1735 +549,1735 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("genesis", 5, 28) => Some(Verse {
-            content: "And Lamech liued an hundred eightie and two yeeres: and begate a sonne.",
+            content: "",
         }),
 
         ("genesis", 5, 29) => Some(Verse {
-            content: "And he called his name Noah, saying; This same shall comfort vs, concerning our woorke and toyle of our hands, because of the ground, which the LORD hath cursed.",
+            content: "",
         }),
 
         ("genesis", 5, 30) => Some(Verse {
-            content: "And Lamech liued, after hee begate Noah, fiue hundred ninetie and fiue yeeres, and begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 5, 31) => Some(Verse {
-            content: "And all the dayes of Lamech were seuen hundred seuentie and seuen yeeres, and he died.",
+            content: "",
         }),
 
         ("genesis", 5, 32) => Some(Verse {
-            content: "And Noah was fiue hundred yeeres olde: and Noah begate Sem, Ham, and Iapheth.",
+            content: "",
         }),
 
         ("genesis", 6, 1) => Some(Verse {
-            content: "And it came to passe, when men began to multiply on the face of the earth, and daughters were borne vnto them:",
+            content: "",
         }),
 
         ("genesis", 6, 2) => Some(Verse {
-            content: "That the sonnes of God saw the daughters of men, that they were faire, and they took them wiues, of all which they chose.",
+            content: "",
         }),
 
         ("genesis", 6, 3) => Some(Verse {
-            content: "And the LORD said, My Spirit shall not alwayes striue with man; for that hee also is flesh: yet his dayes shalbe an hundred and twenty yeeres.",
+            content: "",
         }),
 
         ("genesis", 6, 4) => Some(Verse {
-            content: "There were Giants in the earth in those daies: and also after that, when the sonnes of God came in vnto the daughters of men, & they bare children to them; the same became mightie men, which were of old, men of renowme.",
+            content: "",
         }),
 
         ("genesis", 6, 5) => Some(Verse {
-            content: "And God saw, that the wickednes of man was great in the earth, and that euery imagination of the thoughts of his heart was onely euill continually.",
+            content: "",
         }),
 
         ("genesis", 6, 6) => Some(Verse {
-            content: "And it repented the LORD that he had made man on the earth, and it grieued him at his heart.",
+            content: "",
         }),
 
         ("genesis", 6, 7) => Some(Verse {
-            content: "And the LORD said, I will destroy man, whom I haue created, from the face of the earth: both man and beast, and the creeping thing, and the foules of the aire: for it repenteth me that I haue made them.",
+            content: "",
         }),
 
         ("genesis", 6, 8) => Some(Verse {
-            content: "But Noah found grace in the eyes of the LORD.",
+            content: "",
         }),
 
         ("genesis", 6, 9) => Some(Verse {
-            content: "These are the generations of Noah: Noah was a iust man, and perfect in his generations, and Noah walked with God.",
+            content: "",
         }),
 
         ("genesis", 6, 10) => Some(Verse {
-            content: "And Noah begate three sonnes: Sem, Ham, and Iapheth.",
+            content: "",
         }),
 
         ("genesis", 6, 11) => Some(Verse {
-            content: "The earth also was corrupt before God; and the earth was filled with violence.",
+            content: "",
         }),
 
         ("genesis", 6, 12) => Some(Verse {
-            content: "And God looked vpon the earth, and behold, it was corrupt: for all flesh had corrupted his way vpon the earth.",
+            content: "",
         }),
 
         ("genesis", 6, 13) => Some(Verse {
-            content: "And God said vnto Noah, The end of all flesh is come before mee; for the earth is filled with violence through them; and behold, I will destroy them with the earth.",
+            content: "",
         }),
 
         ("genesis", 6, 14) => Some(Verse {
-            content: "Make thee an Arke of Gopher-wood: roomes shalt thou make in the arke, and shalt pitch it within and without with pitch.",
+            content: "",
         }),
 
         ("genesis", 6, 15) => Some(Verse {
-            content: "And this is the fashion, which thou shalt make it of: the length of the arke shalbe three hundred cubits, the breadth of it fifty cubits, and the height of it thirtie cubits.",
+            content: "",
         }),
 
         ("genesis", 6, 16) => Some(Verse {
-            content: "A window shalt thou make to the arke, and in a cubite shalt thou finish it aboue; and the doore of the arke shalt thou set in the side thereof: With lower, second, and third stories shalt thou make it.",
+            content: "",
         }),
 
         ("genesis", 6, 17) => Some(Verse {
-            content: "And behold, I, euen I doe bring a flood of waters vpon the earth, to destroy all flesh, wherein is the breath of life from vnder heauen, and euery thing that is in the earth shall die.",
+            content: "",
         }),
 
         ("genesis", 6, 18) => Some(Verse {
-            content: "But with thee wil I establish my Couenant: and thou shalt come into the Arke, thou, and thy sonnes, and thy wife, and thy sonnes wiues with thee.",
+            content: "",
         }),
 
         ("genesis", 6, 19) => Some(Verse {
-            content: "And of euery liuing thing of all flesh, two of euery sort shalt thou bring into the Arke, to keepe them aliue with thee: they shall be male and female.",
+            content: "",
         }),
 
         ("genesis", 6, 20) => Some(Verse {
-            content: "Of fowles after their kinde, and of cattel after their kinde: of euery creeping thing of the earth after his kinde, two of euery sort shall come vnto thee, to keepe them aliue.",
+            content: "",
         }),
 
         ("genesis", 6, 21) => Some(Verse {
-            content: "And take thou vnto thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food, for thee, and for them.",
+            content: "",
         }),
 
         ("genesis", 6, 22) => Some(Verse {
-            content: "Thus did Noah; according to all that God commanded him, so did he.",
+            content: "",
         }),
 
         ("genesis", 7, 1) => Some(Verse {
-            content: "And the LORD saide vnto Noah, Come thou and all thy house into the Arke: for thee haue I seene righteous before me, in this generation.",
+            content: "",
         }),
 
         ("genesis", 7, 2) => Some(Verse {
-            content: "Of euery cleane beast thou shalt take to thee by seuens, the male and his female: and of beastes that are not cleane, by two, the male and his female.",
+            content: "",
         }),
 
         ("genesis", 7, 3) => Some(Verse {
-            content: "Of fowles also of the aire, by seuens, the male & the female; to keepe seed aliue vpon the face of all the earth.",
+            content: "",
         }),
 
         ("genesis", 7, 4) => Some(Verse {
-            content: "For yet seuen dayes, and I will cause it to raine vpon the earth, fortie dayes, and forty nights: and euery liuing substance that I haue made, will I destroy, frō off the face of the earth.",
+            content: "",
         }),
 
         ("genesis", 7, 5) => Some(Verse {
-            content: "And Noah did according vnto all that the LORD commanded him.",
+            content: "",
         }),
 
         ("genesis", 7, 6) => Some(Verse {
-            content: "And Noah was sixe hundred yeeres old, when the flood of waters was vpon the earth.",
+            content: "",
         }),
 
         ("genesis", 7, 7) => Some(Verse {
-            content: "And Noah went in, and his sonnes, and his wife, and his sonnes wiues with him, into the Arke, because of the waters of the Flood.",
+            content: "",
         }),
 
         ("genesis", 7, 8) => Some(Verse {
-            content: "Of cleane beasts, & of beasts that are not cleane, & of fowles, and of euery thing that creepeth vpon the earth,",
+            content: "",
         }),
 
         ("genesis", 7, 9) => Some(Verse {
-            content: "There went in two and two vnto Noah into the Arke, the male & the female, as God had commanded Noah.",
+            content: "",
         }),
 
         ("genesis", 7, 10) => Some(Verse {
-            content: "And it came to passe after seuen dayes, that the waters of the Flood were vpon the earth.",
+            content: "",
         }),
 
         ("genesis", 7, 11) => Some(Verse {
-            content: "In the sixe hundredth yeere of Noahs life, in the second moneth, the seuenteenth day of the moneth, the same day, were al the fountaines of the great deepe broken vp, and the windowes of heauen were opened.",
+            content: "",
         }),
 
         ("genesis", 7, 12) => Some(Verse {
-            content: "In the selfe same day entred Noah, and Sem, and Ham, and Iapheth, the sonnes of Noah, and Noahs wife, and the three wiues of his sonnes with them, into the Arke,",
+            content: "",
         }),
 
         ("genesis", 7, 13) => Some(Verse {
-            content: "In the selfe same day entred Noah, and Sem, and Ham, and Iapheth, the sonnes of Noah, and Noahs wife, and the three wiues of his sonnes with them, into the Arke,",
+            content: "",
         }),
 
         ("genesis", 7, 14) => Some(Verse {
-            content: "They, and euery beast after his kinde, & all the cattell after their kinde: and euery creeping thing that creepeth vpon the earth after his kinde, and euery foule after his kinde, euery birde of euery sort.",
+            content: "",
         }),
 
         ("genesis", 7, 15) => Some(Verse {
-            content: "And they went in vnto Noah into the Arke, two and two of all flesh, wherein is the breath of life.",
+            content: "",
         }),
 
         ("genesis", 7, 16) => Some(Verse {
-            content: "And they that went in, went in male and female of all flesh, as God had commaunded him: and the LORD shut him in.",
+            content: "",
         }),
 
         ("genesis", 7, 17) => Some(Verse {
-            content: "And the Flood was fortie dayes vpon the earth, and the waters increased, and bare vp the Arke, and it was lift vp aboue the earth.",
+            content: "",
         }),
 
         ("genesis", 7, 18) => Some(Verse {
-            content: "And the waters preuailed, and were encreased greatly vpon the earth: and the Arke went vpon the face of the waters.",
+            content: "",
         }),
 
         ("genesis", 7, 19) => Some(Verse {
-            content: "And the waters preuailed exceedingly vpon the earth, and all the high hils, that were vnder the whole heauen, were couered.",
+            content: "",
         }),
 
         ("genesis", 7, 20) => Some(Verse {
-            content: "Fifteene cubits vpward, did the waters preuaile; and the mountaines were couered.",
+            content: "",
         }),
 
         ("genesis", 7, 21) => Some(Verse {
-            content: "And all flesh died, that mooued vpon the earth, both of fowle, & of cattell, and of beast, and of euery creeping thing that creepeth vpon the earth, and euery man.",
+            content: "",
         }),
 
         ("genesis", 7, 22) => Some(Verse {
-            content: "All in whose nosethrils was the breath of life, of all that was in the dry land, died.",
+            content: "",
         }),
 
         ("genesis", 7, 23) => Some(Verse {
-            content: "And euery liuing substance was destroyed, which was vpon the face of the ground, both man and cattell, and the creeping things, and the foule of the heauen; and they were destroyed from the earth: and Noah onely remained aliue, and they that were with him in the Arke.",
+            content: "",
         }),
 
         ("genesis", 7, 24) => Some(Verse {
-            content: "And the waters preuailed vpon the earth, an hundred and fifty dayes.",
+            content: "",
         }),
 
         ("genesis", 8, 1) => Some(Verse {
-            content: "And God remembred Noah, and euery liuing thing, and all the cattell that was with him in the Arke: and God made a winde to passe ouer the earth, and the waters asswaged.",
+            content: "",
         }),
 
         ("genesis", 8, 2) => Some(Verse {
-            content: "The fountaines also of the deepe, and the windowes of heauen were stopped, and the raine from heauen was restrained.",
+            content: "",
         }),
 
         ("genesis", 8, 3) => Some(Verse {
-            content: "And the waters returned from off the earth, continually: and after the end of the hundred and fiftie dayes, the waters were abated.",
+            content: "",
         }),
 
         ("genesis", 8, 4) => Some(Verse {
-            content: "And the Arke rested in the seuenth moneth, on the seuenteenth day of the moneth, vpon the mountaines of Ararat.",
+            content: "",
         }),
 
         ("genesis", 8, 5) => Some(Verse {
-            content: "And the waters decreased continually vntill the tenth moneth: in the tenth moneth, on the first day of the moneth, were the tops of the mountaines seene.",
+            content: "",
         }),
 
         ("genesis", 8, 6) => Some(Verse {
-            content: "And it came to passe at the end of forty dayes, that Noah opened the window of the Arke which he had made.",
+            content: "",
         }),
 
         ("genesis", 8, 7) => Some(Verse {
-            content: "And he sent forth a Rauen, which went foorth to and fro, vntill the waters were dried vp from off the earth.",
+            content: "",
         }),
 
         ("genesis", 8, 8) => Some(Verse {
-            content: "Also hee sent foorth a doue from him, to see if the waters were abated from off the face of the ground.",
+            content: "",
         }),
 
         ("genesis", 8, 9) => Some(Verse {
-            content: "But the doue found no rest for the sole of her foote, and she returned vnto him into the Arke: for the waters were on the face of the whole earth. Then he put foorth his hand, and tooke her, and pulled her in vnto him, into the Arke.",
+            content: "",
         }),
 
         ("genesis", 8, 10) => Some(Verse {
-            content: "And hee stayed yet other seuen dayes; and againe hee sent foorth the doue out of the Arke.",
+            content: "",
         }),
 
         ("genesis", 8, 11) => Some(Verse {
-            content: "And the doue came in to him in the euening, and loe, in her mouth was an Oliue leafe pluckt off: So Noah knew that the waters were abated from off the earth.",
+            content: "",
         }),
 
         ("genesis", 8, 12) => Some(Verse {
-            content: "And hee stayed yet other seuen dayes, and sent forth the doue, which returned not againe vnto him any more.",
+            content: "",
         }),
 
         ("genesis", 8, 13) => Some(Verse {
-            content: "And it came to passe in the sixe hundredth and one yeere, in the first moneth, the first day of the moneth, the waters were dryed vp from off the earth: and Noah remooued the couering of the Arke, and looked, and behold, the face of the ground was drie.",
+            content: "",
         }),
 
         ("genesis", 8, 14) => Some(Verse {
-            content: "And in the second moneth, on the seuen and twentieth day of the moneth, was the earth dried.",
+            content: "",
         }),
 
         ("genesis", 8, 15) => Some(Verse {
-            content: "And God spake vnto Noah, saying,",
+            content: "",
         }),
 
         ("genesis", 8, 16) => Some(Verse {
-            content: "Goe foorth of the Arke, thou, and thy wife, and thy sonnes, and thy sonnes wiues with thee:",
+            content: "",
         }),
 
         ("genesis", 8, 17) => Some(Verse {
-            content: "Bring foorth with thee euery liuing thing that is with thee, of all flesh, both of fowle, and of cattell, and of euery creeping thing that creepeth vpon the earth, that they may breed abundantly in the earth, and be fruitfull, and multiply vpon the earth.",
+            content: "",
         }),
 
         ("genesis", 8, 18) => Some(Verse {
-            content: "And Noah went foorth, and his sonnes, and his wife, and his sonnes wiues with him:",
+            content: "",
         }),
 
         ("genesis", 8, 19) => Some(Verse {
-            content: "Euery beast, euery creeping thing, and euery fowle, and whatsoeuer creepeth vpon the earth, after their kinds, went foorth out of the Arke.",
+            content: "",
         }),
 
         ("genesis", 8, 20) => Some(Verse {
-            content: "And Noah builded an Altar vnto the LORD, and tooke of euery cleane beast, and of euery cleane fowle, and offred burnt offrings on the Altar.",
+            content: "",
         }),
 
         ("genesis", 8, 21) => Some(Verse {
-            content: "And the LORD smelled a sweete sauour, and the LORD said in his heart, I will not againe curse the ground any more for mans sake; for the imagination of mans heart is euil from his youth: neither will I againe smite any more euery thing liuing, as I haue done.",
+            content: "",
         }),
 
         ("genesis", 8, 22) => Some(Verse {
-            content: "While the earth remaineth, seed-time and haruest, and cold, and heat, and Summer, and Winter, and day and night, shall not cease.",
+            content: "",
         }),
 
         ("genesis", 9, 1) => Some(Verse {
-            content: "And God blessed Noah, and his sonnes, and said vnto them, Bee fruitfull and multiply, and replenish the earth.",
+            content: "",
         }),
 
         ("genesis", 9, 2) => Some(Verse {
-            content: "And the feare of you, & the dread of you shall be vpon euery beast of the earth, and vpon euery fowle of the aire, vpon all that mooueth vpon the earth, and vpon all the fishes of the sea; into your hand are they deliuered.",
+            content: "",
         }),
 
         ("genesis", 9, 3) => Some(Verse {
-            content: "Euery mouing thing that liueth, shalbe meat for you; euen as the greene herbe haue I giuen you all things.",
+            content: "",
         }),
 
         ("genesis", 9, 4) => Some(Verse {
-            content: "But flesh with the life thereof, which is the blood thereof, shall you not eate.",
+            content: "",
         }),
 
         ("genesis", 9, 5) => Some(Verse {
-            content: "And surely your blood of your liues will I require: at the hand of euery beast will I require it, & at the hand of man, at the hand of euery mans brother will I require the life of man.",
+            content: "",
         }),
 
         ("genesis", 9, 6) => Some(Verse {
-            content: "Who so sheddeth mans blood, by man shall his blood be shed: for in the image of God made he man.",
+            content: "",
         }),
 
         ("genesis", 9, 7) => Some(Verse {
-            content: "And you, be ye fruitfull, and multiply, bring foorth aboundantly in the earth, and multiply therein.",
+            content: "",
         }),
 
         ("genesis", 9, 8) => Some(Verse {
-            content: "And God spake vnto Noah, and to his sonnes with him, saying;",
+            content: "",
         }),
 
         ("genesis", 9, 9) => Some(Verse {
-            content: "And I, behold, I establish my couenant with you, and with your seede after you:",
+            content: "",
         }),
 
         ("genesis", 9, 10) => Some(Verse {
-            content: "And with euery liuing creature that is with you, of the fowle, of the cattell, and of euery beast of the earth with you, from all that goe out of the Arke, to euery beast of the earth.",
+            content: "",
         }),
 
         ("genesis", 9, 11) => Some(Verse {
-            content: "And I wil establish my couenant with you, neither shal all flesh be cut off any more, by the waters of a flood, neither shall there any more be a flood to destroy the earth.",
+            content: "",
         }),
 
         ("genesis", 9, 12) => Some(Verse {
-            content: "And God said, This is the token of the Couenant which I make betweene mee and you, and euery liuing creature that is with you, for perpetuall generations.",
+            content: "",
         }),
 
         ("genesis", 9, 13) => Some(Verse {
-            content: "I doe set my bow in the cloud, and it shall be for a token of a couenant, betweene me and the earth.",
+            content: "",
         }),
 
         ("genesis", 9, 14) => Some(Verse {
-            content: "And I will remember my couenant, which is betweene mee and you, and euery liuing creature of all flesh: and the waters shall no more become a flood to destroy all flesh.",
+            content: "",
         }),
 
         ("genesis", 9, 15) => Some(Verse {
-            content: "And I will remember my couenant, which is betweene mee and you, and euery liuing creature of all flesh: and the waters shall no more become a flood to destroy all flesh.",
+            content: "",
         }),
 
         ("genesis", 9, 16) => Some(Verse {
-            content: "And the bow shalbe in the cloud; and I will looke vpon it, that I may remember the euerlasting couenant betweene God and euery liuing creature, of all flesh that is vpon the earth.",
+            content: "",
         }),
 
         ("genesis", 9, 17) => Some(Verse {
-            content: "And God said vnto Noah, This is the token of the couenant, which I haue established betweene mee and all flesh, that is vpon the earth.",
+            content: "",
         }),
 
         ("genesis", 9, 18) => Some(Verse {
-            content: "And the sonnes of Noah that went forth of the Arke, were Shem, and Ham, and Iaphet: and Ham is the father of Canaan.",
+            content: "",
         }),
 
         ("genesis", 9, 19) => Some(Verse {
-            content: "These are the three sonnes of Noah: and of them was the whole earth ouerspread.",
+            content: "",
         }),
 
         ("genesis", 9, 20) => Some(Verse {
-            content: "And Noah began to bee an husbandman, and he planted a vineyard.",
+            content: "",
         }),
 
         ("genesis", 9, 21) => Some(Verse {
-            content: "And he dranke of the wine, and was drunken, and hee was vncouered within his tent.",
+            content: "",
         }),
 
         ("genesis", 9, 22) => Some(Verse {
-            content: "And Ham, the father of Canaan, saw the nakednesse of his father, and told his two brethren without.",
+            content: "",
         }),
 
         ("genesis", 9, 23) => Some(Verse {
-            content: "And Shem and Iaphet tooke a garment, and layed it vpon both their shoulders, and went backward, and couered the nakednesse of their father, and their faces were backward, and they saw not their fathers nakednesse.",
+            content: "",
         }),
 
         ("genesis", 9, 24) => Some(Verse {
-            content: "And Noah awoke from his wine, and knew what his yonger sonne had done vnto him.",
+            content: "",
         }),
 
         ("genesis", 9, 25) => Some(Verse {
-            content: "And he said, Cursed bee Canaan: a seruant of seruants shall hee be vnto his brethren.",
+            content: "",
         }),
 
         ("genesis", 9, 26) => Some(Verse {
-            content: "And hee saide, Blessed bee the LORD God of Shem, and Canaan shalbe his seruant.",
+            content: "",
         }),
 
         ("genesis", 9, 27) => Some(Verse {
-            content: "God shall enlarge Iaphet, and he shal dwel in the tents of Shem, and Canaan shalbe his seruant.",
+            content: "",
         }),
 
         ("genesis", 9, 28) => Some(Verse {
-            content: "And Noah liued after the flood, three hundred and fifty yeeres.",
+            content: "",
         }),
 
         ("genesis", 9, 29) => Some(Verse {
-            content: "And all the dayes of Noah were nine hundred & fifty yeeres, and he died.",
+            content: "",
         }),
 
         ("genesis", 10, 1) => Some(Verse {
-            content: "Now these are the generations of the sonnes of Noah; Shem, Ham, and Iaphet: and vnto them were sonnes borne after the Flood.",
+            content: "",
         }),
 
         ("genesis", 10, 2) => Some(Verse {
-            content: "The sonnes of Iaphet: Gomer, and Magog, and Madai, and Iauan, & Tubal, and Meshech, & Tiras.",
+            content: "",
         }),
 
         ("genesis", 10, 3) => Some(Verse {
-            content: "And the sonnes of Gomer: Ashkenaz, and Riphath, and Togarmah.",
+            content: "",
         }),
 
         ("genesis", 10, 4) => Some(Verse {
-            content: "And the sons of Iauan: Elishah, and Tarshish, Kittim, and Dodanim.",
+            content: "",
         }),
 
         ("genesis", 10, 5) => Some(Verse {
-            content: "By these were the Iles of the Gentiles diuided in their lands, euery one after his tongue: after their families, in their nations.",
+            content: "",
         }),
 
         ("genesis", 10, 6) => Some(Verse {
-            content: "And the sonnes of Ham: Cush, and Mizraim, and Phut, and Canaan.",
+            content: "",
         }),
 
         ("genesis", 10, 7) => Some(Verse {
-            content: "And the sonnes of Cush, Seba, and Hauilah, and Sabtah, and Raamah, and Sabtecha: and the sonnes of Raamah: Sheba, and Dedan.",
+            content: "",
         }),
 
         ("genesis", 10, 8) => Some(Verse {
-            content: "And Cush begat Nimrod: he began to be a mighty one in the earth.",
+            content: "",
         }),
 
         ("genesis", 10, 9) => Some(Verse {
-            content: "He was a mighty hunter before the LORD: wherefore it is saide, Euen as Nimrod the mightie hunter before the LORD.",
+            content: "",
         }),
 
         ("genesis", 10, 10) => Some(Verse {
-            content: "And the beginning of his kingdome was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.",
+            content: "",
         }),
 
         ("genesis", 10, 11) => Some(Verse {
-            content: "Out of that land went forth Asshur, and builded Nineueh, and the citie Rehoboth, and Calah,",
+            content: "",
         }),
 
         ("genesis", 10, 12) => Some(Verse {
-            content: "And Resen betweene Nineueh and Calah: the same is a great citie.",
+            content: "",
         }),
 
         ("genesis", 10, 13) => Some(Verse {
-            content: "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,",
+            content: "",
         }),
 
         ("genesis", 10, 14) => Some(Verse {
-            content: "And Pathrusim, and Casluhim (out of whome came Philistiim) and Caphtorim.",
+            content: "",
         }),
 
         ("genesis", 10, 15) => Some(Verse {
-            content: "And Canaan begate Sidon his first borne, and Heth,",
+            content: "",
         }),
 
         ("genesis", 10, 16) => Some(Verse {
-            content: "And the Iebusite, and the Emorite, and the Girgasite,",
+            content: "",
         }),
 
         ("genesis", 10, 17) => Some(Verse {
-            content: "And the Hiuite, and the Arkite, and the Sinite,",
+            content: "",
         }),
 
         ("genesis", 10, 18) => Some(Verse {
-            content: "And the Aruadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.",
+            content: "",
         }),
 
         ("genesis", 10, 19) => Some(Verse {
-            content: "And the border of the Canaanites, was from Sidon, as thou commest to Gerar, vnto Gaza, as thou goest vnto Sodoma and Gomorah, and Admah, & Zeboim, euen vnto Lasha.",
+            content: "",
         }),
 
         ("genesis", 10, 20) => Some(Verse {
-            content: "These are the sonnes of Ham, after their families, after their tongues, in their countries, and in their nations.",
+            content: "",
         }),
 
         ("genesis", 10, 21) => Some(Verse {
-            content: "Unto Shem also the father of all the children of Eber, the brother of Iaphet the elder, euen to him were children borne.",
+            content: "",
         }),
 
         ("genesis", 10, 22) => Some(Verse {
-            content: "The children of Shem: Elam, and Asshur, and Arphaxad, and Lud, and Aram.",
+            content: "",
         }),
 
         ("genesis", 10, 23) => Some(Verse {
-            content: "And the children of Aram: Uz, and Hul, and Gether, and Mash.",
+            content: "",
         }),
 
         ("genesis", 10, 24) => Some(Verse {
-            content: "And Arphaxad begate Salah, and Salah begate Eber.",
+            content: "",
         }),
 
         ("genesis", 10, 25) => Some(Verse {
-            content: "And vnto Eber were borne two sonnes: the name of one was Peleg, for in his dayes was the earth diuided, and his brothers name was Ioktan.",
+            content: "",
         }),
 
         ("genesis", 10, 26) => Some(Verse {
-            content: "And Ioktan begate Almodad, and Sheleph, and Hazarmaueth, and Ierah,",
+            content: "",
         }),
 
         ("genesis", 10, 27) => Some(Verse {
-            content: "And Hadoram, and Uzal, and Diklah,",
+            content: "",
         }),
 
         ("genesis", 10, 28) => Some(Verse {
-            content: "And Obal, and Abimael, and Sheba,",
+            content: "",
         }),
 
         ("genesis", 10, 29) => Some(Verse {
-            content: "And Ophir, and Hauilah, & Iobab: all these were the sonnes of Ioktan.",
+            content: "",
         }),
 
         ("genesis", 10, 30) => Some(Verse {
-            content: "And their dwelling was from Mesha, as thou goest vnto Sephar, a mount of the East.",
+            content: "",
         }),
 
         ("genesis", 10, 31) => Some(Verse {
-            content: "These are the sonnes of Shem, after their families, after their tongues, in their lands after their nations.",
+            content: "",
         }),
 
         ("genesis", 10, 32) => Some(Verse {
-            content: "These are the families of the sonnes of Noah after their generations, in their nations: and by these were the nations diuided in the earth after the Flood.",
+            content: "",
         }),
 
         ("genesis", 11, 1) => Some(Verse {
-            content: "And the whole earth was of one language, and of one speach.",
+            content: "",
         }),
 
         ("genesis", 11, 2) => Some(Verse {
-            content: "And it came to passe as they iourneyed from the East, that they found a plaine in the land of Shinar, and they dwelt there.",
+            content: "",
         }),
 
         ("genesis", 11, 3) => Some(Verse {
-            content: "And they sayd one to another; Goe to, let vs make bricke, and burne them thorowly. And they had bricke for stone, and slime had they for morter.",
+            content: "",
         }),
 
         ("genesis", 11, 4) => Some(Verse {
-            content: "And they said; Goe to, let vs build vs a city and a tower, whose top may reach vnto heauen, and let vs make vs a name, lest we be scattered abroad vpon the face of the whole earth.",
+            content: "",
         }),
 
         ("genesis", 11, 5) => Some(Verse {
-            content: "And the LORD came downe to see the city and the tower, which the children of men builded.",
+            content: "",
         }),
 
         ("genesis", 11, 6) => Some(Verse {
-            content: "And the LORD said; Behold, the people is one, and they haue all one language: and this they begin to doe: and now nothing will be restrained from them, which they haue imagined to doe.",
+            content: "",
         }),
 
         ("genesis", 11, 7) => Some(Verse {
-            content: "Goe to, let vs go downe, and there cōfound their language, that they may not vnderstand one anothers speech.",
+            content: "",
         }),
 
         ("genesis", 11, 8) => Some(Verse {
-            content: "So the LORD scattered them abroad from thence, vpon the face of all the earth: and they left off to build the Citie.",
+            content: "",
         }),
 
         ("genesis", 11, 9) => Some(Verse {
-            content: "Therefore is the name of it called Babel, because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad vpon the face of all the earth.",
+            content: "",
         }),
 
         ("genesis", 11, 10) => Some(Verse {
-            content: "These are the generations of Shem. Shem was an hundred yeres old, and begate Arphaxad two yeeres after the Flood.",
+            content: "",
         }),
 
         ("genesis", 11, 11) => Some(Verse {
-            content: "And Shem liued, after he begate Arphaxad, fiue hundred yeeres, and begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 11, 12) => Some(Verse {
-            content: "And Arphaxad liued fiue and thirtie yeeres, and begate Salah.",
+            content: "",
         }),
 
         ("genesis", 11, 13) => Some(Verse {
-            content: "And Arphaxad liued, after he begate Salah, foure hundred and three yeeres, and begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 11, 14) => Some(Verse {
-            content: "And Salah liued thirtie yeeres, and begate Eber.",
+            content: "",
         }),
 
         ("genesis", 11, 15) => Some(Verse {
-            content: "And Salah liued, after hee begate Eber, foure hundred and three yeeres, and begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 11, 16) => Some(Verse {
-            content: "And Eber liued foure and thirty yeeres, and begate Peleg.",
+            content: "",
         }),
 
         ("genesis", 11, 17) => Some(Verse {
-            content: "And Eber liued, after hee begate Peleg, foure hundred and thirtie yeres, and begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 11, 18) => Some(Verse {
-            content: "And Peleg liued thirtie yeeres, and begate Reu.",
+            content: "",
         }),
 
         ("genesis", 11, 19) => Some(Verse {
-            content: "And Peleg liued, after hee begate Reu, two hundred and nine yeeres, and begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 11, 20) => Some(Verse {
-            content: "And Reu liued two and thirtie yeeres, and begate Serug.",
+            content: "",
         }),
 
         ("genesis", 11, 21) => Some(Verse {
-            content: "And Reu liued, after hee begate Serug, two hundreth and seuen yeres, and begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 11, 22) => Some(Verse {
-            content: "And Serug liued thirtie yeeres, and begate Nahor.",
+            content: "",
         }),
 
         ("genesis", 11, 23) => Some(Verse {
-            content: "And Serug liued, after he begate Nahor, two hundred yeeres, and begat sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 11, 24) => Some(Verse {
-            content: "And Nahor liued nine and twentie yeeres, and begate Terah.",
+            content: "",
         }),
 
         ("genesis", 11, 25) => Some(Verse {
-            content: "And Nahor liued, after he begate Terah, an hundred & nineteene yeeres, and begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 11, 26) => Some(Verse {
-            content: "And Terah liued seuenty yeeres, and begate Abram, Nahor, & Haran.",
+            content: "",
         }),
 
         ("genesis", 11, 27) => Some(Verse {
-            content: "Now these are the generations of Terah: Terah begate Abram, Nahor, and Haran: And Haran begate Lot.",
+            content: "",
         }),
 
         ("genesis", 11, 28) => Some(Verse {
-            content: "And Haran died, before his father Terah in the land of his natiuity, in Ur of the Chaldees.",
+            content: "",
         }),
 
         ("genesis", 11, 29) => Some(Verse {
-            content: "And Abram and Nahor tooke them wiues: the name of Abrams wife was Sarai, and the name of Nahors wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.",
+            content: "",
         }),
 
         ("genesis", 11, 30) => Some(Verse {
-            content: "But Sarai was barren; she had no childe.",
+            content: "",
         }),
 
         ("genesis", 11, 31) => Some(Verse {
-            content: "And Terah tooke Abram his sonne, and Lot the sonne of Haran his sonnes sonne, and Sarai his daughter in lawe, his sonne Abrams wife, and they went foorth with them from Ur of the Chaldees, to goe into the land of Canaan: and they came vnto Haran, and dwelt there.",
+            content: "",
         }),
 
         ("genesis", 11, 32) => Some(Verse {
-            content: "And the dayes of Terah, were two hundred and fiue yeres: and Terah died in Haran.",
+            content: "",
         }),
 
         ("genesis", 12, 1) => Some(Verse {
-            content: "Now the LORD had said vnto Abram, Get thee out of thy countrey, and from thy kinred, and from thy fathers house, vnto a land that I will shew thee.",
+            content: "",
         }),
 
         ("genesis", 12, 2) => Some(Verse {
-            content: "And I will make of thee a great nation, and I wil blesse thee, and make thy name great; and thou shalt bee a blessing.",
+            content: "",
         }),
 
         ("genesis", 12, 3) => Some(Verse {
-            content: "And I will blesse them that blesse thee, and curse him, that curseth thee: and in thee shal all families of the earth be blessed.",
+            content: "",
         }),
 
         ("genesis", 12, 4) => Some(Verse {
-            content: "So Abram departed, as the LORD had spoken vnto him, and Lot went with him: And Abram was seuentie and fiue yeeres old when he departed out of Haran.",
+            content: "",
         }),
 
         ("genesis", 12, 5) => Some(Verse {
-            content: "And Abram tooke Sarai his wife, and Lot his brothers sonne, and all their substance that they had gathered, and the soules that they had gotten in Haran, and they went foorth to goe into the land of Canaan: and into the land of Canaan they came.",
+            content: "",
         }),
 
         ("genesis", 12, 6) => Some(Verse {
-            content: "And Abram passed through the land, vnto the place of Sichem, vnto the plaine of Moreh. And the Canaanite was then in the land.",
+            content: "",
         }),
 
         ("genesis", 12, 7) => Some(Verse {
-            content: "And the LORD appeared vnto Abram, and said, Unto thy seed wil I giue this land: and there builded hee an altar vnto the LORD, who appeared vnto him.",
+            content: "",
         }),
 
         ("genesis", 12, 8) => Some(Verse {
-            content: "And he remoued from thence vnto a mountaine, on the East of Beth-el, and pitched his tent hauing Beth-el on the West, and Hai on the East: and there hee builded an altar vnto the LORD, and called vpon the Name of the LORD.",
+            content: "",
         }),
 
         ("genesis", 12, 9) => Some(Verse {
-            content: "And Abram iourneyed, going on still toward the South.",
+            content: "",
         }),
 
         ("genesis", 12, 10) => Some(Verse {
-            content: "And there was a famine in the land, and Abram went downe into Egypt, to soiourne there: for the famine was grieuous in the land.",
+            content: "",
         }),
 
         ("genesis", 12, 11) => Some(Verse {
-            content: "And it came to passe when he was come neere to enter into Egypt, that he said vnto Sarai his wife, Behold now, I know that thou art a faire woman to looke vpon.",
+            content: "",
         }),
 
         ("genesis", 12, 12) => Some(Verse {
-            content: "Therefore it shall come to passe, when the Egyptians shall see thee, that they shall say, This is his wife: and they will kill me, but they will saue thee aliue.",
+            content: "",
         }),
 
         ("genesis", 12, 13) => Some(Verse {
-            content: "Say, I pray thee, thou art my sister, that it may be wel with me, for thy sake; and my soule shall liue, because of thee.",
+            content: "",
         }),
 
         ("genesis", 12, 14) => Some(Verse {
-            content: "And it came to passe, that when Abram was come into Egypt, the Egyptians beheld the woman, that shee was very faire.",
+            content: "",
         }),
 
         ("genesis", 12, 15) => Some(Verse {
-            content: "The Princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaohs house.",
+            content: "",
         }),
 
         ("genesis", 12, 16) => Some(Verse {
-            content: "And he entreated Abram well for her sake: and he had sheepe, and oxen, and hee asses, and men seruants, and maid seruants, and shee asses, and camels.",
+            content: "",
         }),
 
         ("genesis", 12, 17) => Some(Verse {
-            content: "And the LORD plagued Pharaoh & his house with great plagues, because of Sarai Abrams wife.",
+            content: "",
         }),
 
         ("genesis", 12, 18) => Some(Verse {
-            content: "And Pharaoh called Abram, and said, What is this that thou hast done vnto me? Why diddest thou not tell me, that she was thy wife?",
+            content: "",
         }),
 
         ("genesis", 12, 19) => Some(Verse {
-            content: "Why saidest thou, Shee is my sister? so I might haue taken her to mee to wife: now therfore behold, thy wife, take her and goe thy way.",
+            content: "",
         }),
 
         ("genesis", 12, 20) => Some(Verse {
-            content: "And Pharaoh cōmanded his men concerning him: and they sent him away, and his wife, and all that he had.",
+            content: "",
         }),
 
         ("genesis", 13, 1) => Some(Verse {
-            content: "And Abram went vp out of Egypt, he and his wife, and all that he had, and Lot with him, into the South.",
+            content: "",
         }),
 
         ("genesis", 13, 2) => Some(Verse {
-            content: "And Abram was very rich in cattell, in siluer, and in gold.",
+            content: "",
         }),
 
         ("genesis", 13, 3) => Some(Verse {
-            content: "And hee went on his iourneyes from the South, euen to Beth-el, vnto the place where his tent had bene at the beginning, betweene Beth-el and Hai:",
+            content: "",
         }),
 
         ("genesis", 13, 4) => Some(Verse {
-            content: "Unto the place of the altar, which he had made there at the first: and there Abram called on the Name of the LORD.",
+            content: "",
         }),
 
         ("genesis", 13, 5) => Some(Verse {
-            content: "And Lot also which went with Abram, had flocks and heards, & tents.",
+            content: "",
         }),
 
         ("genesis", 13, 6) => Some(Verse {
-            content: "And the land was not able to beare them, that they might dwell together: for their substance was great, so that they could not dwell together.",
+            content: "",
         }),
 
         ("genesis", 13, 7) => Some(Verse {
-            content: "And there was a strife betweene the heardmen of Abrams cattell, and the heardmen of Lots cattell: And the Canaanite, and the Perizzite dwelled then in the land.",
+            content: "",
         }),
 
         ("genesis", 13, 8) => Some(Verse {
-            content: "And Abram said vnto Lot, Let there be no strife, I pray thee, betweene mee and thee, and betweene my heardmen and thy heardmen: for wee bee brethren.",
+            content: "",
         }),
 
         ("genesis", 13, 9) => Some(Verse {
-            content: "Is not the whole land before thee? Separate thy selfe, I pray thee, from mee: if thou wilt take the left hand, then I will goe to the right: or if thou depart to the right hand, then I will goe to the left.",
+            content: "",
         }),
 
         ("genesis", 13, 10) => Some(Verse {
-            content: "And Lot lifted vp his eyes, and beheld all the plaine of Iordane, that it was well watered euery where before the Lord destroyed Sodome and Gomorah, euen as the garden of the LORD, like the land of Egypt, as thou commest vnto Zoar.",
+            content: "",
         }),
 
         ("genesis", 13, 11) => Some(Verse {
-            content: "Then Lot chose him all the plaine of Iordane: and Lot iourneyed East; and they separated themselues the one from the other.",
+            content: "",
         }),
 
         ("genesis", 13, 12) => Some(Verse {
-            content: "Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plaine, and pitched his tent toward Sodome.",
+            content: "",
         }),
 
         ("genesis", 13, 13) => Some(Verse {
-            content: "But the men of Sodome were wicked, and sinners before the LORD exceedingly.",
+            content: "",
         }),
 
         ("genesis", 13, 14) => Some(Verse {
-            content: "And the LORD said vnto Abram, after that Lot was separated from him, Lift vp now thine eyes, and looke from the place where thou art, Northward, and Southward, and Eastward, and Westward.",
+            content: "",
         }),
 
         ("genesis", 13, 15) => Some(Verse {
-            content: "For all the land which thou seest, to thee will I give it, and to thy seede for euer.",
+            content: "",
         }),
 
         ("genesis", 13, 16) => Some(Verse {
-            content: "And I will make thy seede as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbred.",
+            content: "",
         }),
 
         ("genesis", 13, 17) => Some(Verse {
-            content: "Arise, walke through the land, in the length of it, and in the breadth of it: for I will giue it vnto thee.",
+            content: "",
         }),
 
         ("genesis", 13, 18) => Some(Verse {
-            content: "Then Abram remoued his tent, and came and dwelt in the plaine of Mamre, which is in Hebron, and built there an altar vnto the LORD.",
+            content: "",
         }),
 
         ("genesis", 14, 1) => Some(Verse {
-            content: "And it came to passe in the dayes of Amraphel King of Shinar, Arioch King of Ellasar, Chedorlaomer King of Elam, and Tidal King of nations:",
+            content: "",
         }),
 
         ("genesis", 14, 2) => Some(Verse {
-            content: "That these made warre with Bera King of Sodome, and with Birsha King of Gomorrah, Shinab King of Admah, and Shemeber King of Zeboiim, and the King of Bela, which is Zoar.",
+            content: "",
         }),
 
         ("genesis", 14, 3) => Some(Verse {
-            content: "All these were ioyned together in the vale of Siddim; which is the salt Sea.",
+            content: "",
         }),
 
         ("genesis", 14, 4) => Some(Verse {
-            content: "Twelue yeeres they serued Chedorlaomer, and in the thirteenth yeere they rebelled.",
+            content: "",
         }),
 
         ("genesis", 14, 5) => Some(Verse {
-            content: "And in the fourteenth yeere came Chedorlaomer, and the Kings that were with him, and smote the Rephaims, in Ashteroth Karnaim, & the Zuzims in Ham, and the Emims in Shaueh Kiriathaim;",
+            content: "",
         }),
 
         ("genesis", 14, 6) => Some(Verse {
-            content: "And the Horites in their mount Seir, vnto El-Paran, which is by the wildernesse.",
+            content: "",
         }),
 
         ("genesis", 14, 7) => Some(Verse {
-            content: "And they returned, and came to En-mishpat, which is Kadesh, & smote all the countrey of the Amalekites, and also the Amorites, that dwelt in Hazezon-tamar.",
+            content: "",
         }),
 
         ("genesis", 14, 8) => Some(Verse {
-            content: "And there went out the King of Sodome, and the King of Gomorrah, and the King of Admah, and the King of Zeboiim, and the King of Bela, (the same is Zoar) and they ioyned battell with them, in the vale of Siddim,",
+            content: "",
         }),
 
         ("genesis", 14, 9) => Some(Verse {
-            content: "With Chedorlaomer the King of Elam, and with Tidal King of nations, and Amraphel King of Shinar, and Arioch King of Ellasar; foure Kings with fiue.",
+            content: "",
         }),
 
         ("genesis", 14, 10) => Some(Verse {
-            content: "And the vale of Siddim was full of slime-pits: and the Kings of Sodome & Gomorrah fled, and fell there: and they that remained, fled to the mountaine.",
+            content: "",
         }),
 
         ("genesis", 14, 11) => Some(Verse {
-            content: "And they tooke all the goods of Sodome and Gomorrah, and all their victuals, and went their way.",
+            content: "",
         }),
 
         ("genesis", 14, 12) => Some(Verse {
-            content: "And they tooke Lot, Abrams brothers sonne, (who dwelt in Sodome) and his goods, and departed.",
+            content: "",
         }),
 
         ("genesis", 14, 13) => Some(Verse {
-            content: "And there came one that had escaped, and told Abram the Hebrew, for hee dwelt in the plaine of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these were confederate with Abram.",
+            content: "",
         }),
 
         ("genesis", 14, 14) => Some(Verse {
-            content: "And when Abram heard that his brother was taken captiue, he armed his trained seruants borne in his owne house, three hundred and eighteene, and pursued them vnto Dan.",
+            content: "",
         }),
 
         ("genesis", 14, 15) => Some(Verse {
-            content: "And hee diuided himselfe against them, he and his seruants by night, and smote them, and pursued them vnto Hoba, which is on the left hand of Damascus:",
+            content: "",
         }),
 
         ("genesis", 14, 16) => Some(Verse {
-            content: "And hee brought backe all the goods, and also brought againe his brother Lot, and his goods, and the women also, and the people.",
+            content: "",
         }),
 
         ("genesis", 14, 17) => Some(Verse {
-            content: "And the king of Sodome went out to meete him, (after his returne from the slaughter of Chedorlaomer, and of the Kings that were with him) at the valley of Saueh, which is the Kings dale.",
+            content: "",
         }),
 
         ("genesis", 14, 18) => Some(Verse {
-            content: "And Melchizedek King of Salem brought foorth bread and wine: and he was the Priest of the most high God.",
+            content: "",
         }),
 
         ("genesis", 14, 19) => Some(Verse {
-            content: "And hee blessed him, and saide; Blessed bee Abram of the most high God, possessour of heauen and earth,",
+            content: "",
         }),
 
         ("genesis", 14, 20) => Some(Verse {
-            content: "And blessed bee the most high God, which hath deliuered thine enemies into thy hand: and hee gaue him tithes of all.",
+            content: "",
         }),
 
         ("genesis", 14, 21) => Some(Verse {
-            content: "And the King of Sodome said vnto Abram, giue me the persons, and take the goods to thy selfe.",
+            content: "",
         }),
 
         ("genesis", 14, 22) => Some(Verse {
-            content: "And Abram said to the King of Sodome, I haue lift vp my hand vnto the LORD, the most high God, the possessour of heauen and earth,",
+            content: "",
         }),
 
         ("genesis", 14, 23) => Some(Verse {
-            content: "That I wil not take from a threed euen to a shoe latchet, and that I will not take any thing that is thine, lest thou shouldest say, I haue made Abram rich:",
+            content: "",
         }),
 
         ("genesis", 14, 24) => Some(Verse {
-            content: "Saue onely that which the yong men haue eaten, and the portion of the men which went with mee, Aner, Eschol, and Mamre; let them take their portion.",
+            content: "",
         }),
 
         ("genesis", 15, 1) => Some(Verse {
-            content: "After these things, the word of the LORD came vnto Abram in a vision, saying; Feare not, Abram: I am thy shield, and thy exceeding great reward.",
+            content: "",
         }),
 
         ("genesis", 15, 2) => Some(Verse {
-            content: "And Abram said, Lord GOD, what wilt thou giue me, seeing I goe childlesse? and the steward of my house is this Eliezer of Damascus.",
+            content: "",
         }),
 
         ("genesis", 15, 3) => Some(Verse {
-            content: "And Abram said; Behold, to mee thou hast given no seed: and loe, one borne in my house is mine heire.",
+            content: "",
         }),
 
         ("genesis", 15, 4) => Some(Verse {
-            content: "And behold, the word of the LORD came vnto him, saying; This shall not be thine heire: but he that shall come foorth out of thy owne bowels, shalbe thine heire.",
+            content: "",
         }),
 
         ("genesis", 15, 5) => Some(Verse {
-            content: "And he brought him forth abroad, and said, Looke now towards heauen, and tell the starres, if thou be able to number them. And hee said vnto him, So shall thy seed be.",
+            content: "",
         }),
 
         ("genesis", 15, 6) => Some(Verse {
-            content: "And he beleeued in the LORD; and hee counted it to him for righteousnesse.",
+            content: "",
         }),
 
         ("genesis", 15, 7) => Some(Verse {
-            content: "And he said vnto him; I am the LORD that brought thee out of Ur of the Caldees, to give thee this land, to inherit it.",
+            content: "",
         }),
 
         ("genesis", 15, 8) => Some(Verse {
-            content: "And he said, Lord GOD, whereby shal I know that I shall inherit it?",
+            content: "",
         }),
 
         ("genesis", 15, 9) => Some(Verse {
-            content: "And he said vnto him, Take me an heifer of three yeeres old, and a shee goat of three yeeres old, and a ramme of three yeeres old, and a turtle doue, and a yong pigeon.",
+            content: "",
         }),
 
         ("genesis", 15, 10) => Some(Verse {
-            content: "And he tooke vnto him all these, and diuided them in the midst, and layd each peece one against another: but the birds diuided he not.",
+            content: "",
         }),
 
         ("genesis", 15, 11) => Some(Verse {
-            content: "And when the fowles came downe vpon the carcases, Abram droue them away.",
+            content: "",
         }),
 
         ("genesis", 15, 12) => Some(Verse {
-            content: "And when the Sunne was going downe, a deepe sleepe fell vpon Abram: and loe, an horrour of great darkenesse fell vpon him.",
+            content: "",
         }),
 
         ("genesis", 15, 13) => Some(Verse {
-            content: "And he said vnto Abram, Know of a surety, that thy seed shalbe a stranger, in a land that is not theirs, and shal serue them, and they shall afflict them foure hundred yeeres.",
+            content: "",
         }),
 
         ("genesis", 15, 14) => Some(Verse {
-            content: "And also that nation whom they shall serue, wil I iudge: and afterward shall they come out with great substance.",
+            content: "",
         }),
 
         ("genesis", 15, 15) => Some(Verse {
-            content: "And thou shalt goe to thy fathers in peace; thou shalt be buried in a good old age.",
+            content: "",
         }),
 
         ("genesis", 15, 16) => Some(Verse {
-            content: "But in the fourth generation they shall come hither againe: for the iniquitie of the Amorites is not yet full.",
+            content: "",
         }),
 
         ("genesis", 15, 17) => Some(Verse {
-            content: "And it came to passe that when the Sunne went downe, and it was darke, behold, a smoking furnace, and a burning lampe that passed betweene those pieces.",
+            content: "",
         }),
 
         ("genesis", 15, 18) => Some(Verse {
-            content: "In that same day the LORD made a couenant with Abram, saying; Unto thy seed haue I giuen this land from the riuer of Egypt vnto the great riuer, the riuer Euphrates:",
+            content: "",
         }),
 
         ("genesis", 15, 19) => Some(Verse {
-            content: "The Kenites, and the Kenizites, and the Kadmonites:",
+            content: "",
         }),
 
         ("genesis", 15, 20) => Some(Verse {
-            content: "And the Hittites, and the Perizzites, and the Rephaims,",
+            content: "",
         }),
 
         ("genesis", 15, 21) => Some(Verse {
-            content: "And the Hittites, and the Perizzites, and the Rephaims,",
+            content: "",
         }),
 
         ("genesis", 16, 1) => Some(Verse {
-            content: "Now Sarai Abrams wife bare him no children: and she had an handmaide, an Egyptian, whose name was Hagar.",
+            content: "",
         }),
 
         ("genesis", 16, 2) => Some(Verse {
-            content: "And Sarai said vnto Abram, Behold now, the LORD hath restrained me from bearing: I pray thee go in vnto my maid: it may bee that I may obtaine children by her: and Abram hearkened to the voice of Sarai.",
+            content: "",
         }),
 
         ("genesis", 16, 3) => Some(Verse {
-            content: "And Sarai Abrams wife, tooke Hagar her maid, the Egyptian, after Abram had dwelt ten yeeres in the land of Canaan, and gaue her to her husband Abram, to be his wife.",
+            content: "",
         }),
 
         ("genesis", 16, 4) => Some(Verse {
-            content: "And he went in vnto Hagar, and she conceiued: And when shee saw that shee had conceiued, her mistresse was despised in her eyes.",
+            content: "",
         }),
 
         ("genesis", 16, 5) => Some(Verse {
-            content: "And Sarai said vnto Abram, My wrong be vpon thee: I haue giuen my maid into thy bosome, and when shee saw that she had conceiued, I was despised in her eyes: the LORD iudge betweene me and thee.",
+            content: "",
         }),
 
         ("genesis", 16, 6) => Some(Verse {
-            content: "But Abram said vnto Sarai, Behold, thy maid is in thy hand; doe to her as it pleaseth thee. And when Sarai dealt hardly with her, shee fled from her face.",
+            content: "",
         }),
 
         ("genesis", 16, 7) => Some(Verse {
-            content: "And the Angel of the LORD found her by a fountaine of water, in the wildernesse, by the fountaine, in the way to Shur:",
+            content: "",
         }),
 
         ("genesis", 16, 8) => Some(Verse {
-            content: "And he said, Hagar Sarais maid, whence camest thou? and whither wilt thou goe? And she said, I flee from the face of my mistresse Sarai.",
+            content: "",
         }),
 
         ("genesis", 16, 9) => Some(Verse {
-            content: "And the Angel of the LORD said vnto her, Returne to thy mistresse, and submit thy selfe vnder her hands.",
+            content: "",
         }),
 
         ("genesis", 16, 10) => Some(Verse {
-            content: "And the Angel of the LORD said vnto her, I will multiply thy seede exceedingly, that it shall not be numbred for multitude.",
+            content: "",
         }),
 
         ("genesis", 16, 11) => Some(Verse {
-            content: "And the Angel of the LORD said vnto her, Behold, thou art with child, and shalt beare a sonne, and shalt call his name Ishmael; because the LORD hath heard thy affliction.",
+            content: "",
         }),
 
         ("genesis", 16, 12) => Some(Verse {
-            content: "And he will be a wilde man; his hand will be against euery man, and euery mans hand against him: & he shal dwell in the presence of all his brethren.",
+            content: "",
         }),
 
         ("genesis", 16, 13) => Some(Verse {
-            content: "And shee called the name of the LORD that spake vnto her, Thou God seest me: for she said, Haue I also here looked after him that seeth me?",
+            content: "",
         }),
 
         ("genesis", 16, 14) => Some(Verse {
-            content: "Wherefore the well was called, Beer-lahai-roi: Behold, It is betweene Cadesh and Bered.",
+            content: "",
         }),
 
         ("genesis", 16, 15) => Some(Verse {
-            content: "And Hagar bare Abram a sonne: and Abram called his sonnes name, which Hagar bare, Ishmael.",
+            content: "",
         }),
 
         ("genesis", 16, 16) => Some(Verse {
-            content: "And Abram was fourescore and sixe yeeres old, when Hagar bare Ishmael to Abram.",
+            content: "",
         }),
 
         ("genesis", 17, 1) => Some(Verse {
-            content: "And when Abram was ninetie yeres old and nine, the LORD appeared to Abram, and said vnto him, I am the almightie God, walke before me, and be thou perfect.",
+            content: "",
         }),
 
         ("genesis", 17, 2) => Some(Verse {
-            content: "And I wil make my couenant betweene me and thee, and will multiply thee exceedingly.",
+            content: "",
         }),
 
         ("genesis", 17, 3) => Some(Verse {
-            content: "And Abram fell on his face, and God talked with him, saying,",
+            content: "",
         }),
 
         ("genesis", 17, 4) => Some(Verse {
-            content: "As for me, behold, my couenant is with thee, and thou shalt be a father of many nations.",
+            content: "",
         }),
 
         ("genesis", 17, 5) => Some(Verse {
-            content: "Neither shall thy name any more be called Abram, but thy name shall bee Abraham: for a father of many nations haue I made thee.",
+            content: "",
         }),
 
         ("genesis", 17, 6) => Some(Verse {
-            content: "And I will make thee exceeding fruitfull, and I will make nations of thee, and Kings shall come out of thee.",
+            content: "",
         }),
 
         ("genesis", 17, 7) => Some(Verse {
-            content: "And I will establish my couenant betweene me and thee, and thy seede after thee, in their generations for an euerlasting couenant, to bee a God vnto thee, and to thy seed after thee.",
+            content: "",
         }),
 
         ("genesis", 17, 8) => Some(Verse {
-            content: "And I will giue vnto thee, and to thy seed after thee, the land wherein thou art a stranger, all the land of Canaan, for an euerlasting possession, and I will be their God.",
+            content: "",
         }),
 
         ("genesis", 17, 9) => Some(Verse {
-            content: "And God said vnto Abraham, Thou shalt keepe my couenant therefore, thou, and thy seede after thee, in their generations.",
+            content: "",
         }),
 
         ("genesis", 17, 10) => Some(Verse {
-            content: "This is my couenant, which yee shall keepe betweene me and you, and thy seed after thee: euery man child among you shall be circumcised.",
+            content: "",
         }),
 
         ("genesis", 17, 11) => Some(Verse {
-            content: "And ye shall circumcise the flesh of your foreskinne; and it shal be a token of the couenant betwixt me and you.",
+            content: "",
         }),
 
         ("genesis", 17, 12) => Some(Verse {
-            content: "And he that is eight dayes olde, shalbe circumcised among you, euery man child in your generations, he that is borne in the house, or bought with money of any stranger, which is not of thy seed.",
+            content: "",
         }),
 
         ("genesis", 17, 13) => Some(Verse {
-            content: "He that is borne in thy house, and he that is bought with thy money, must needs be circumcised: and my couenant shall be in your flesh, for an euerlasting couenant.",
+            content: "",
         }),
 
         ("genesis", 17, 14) => Some(Verse {
-            content: "And the vncircumcised man-child, whose flesh of his foreskinne is not circumcised, that soule shall be cut off from his people: hee hath broken my couenant.",
+            content: "",
         }),
 
         ("genesis", 17, 15) => Some(Verse {
-            content: "And God said vnto Abraham, As for Sarai thy wife, thou shalt not call her name Sarai, but Sarah shall her name be.",
+            content: "",
         }),
 
         ("genesis", 17, 16) => Some(Verse {
-            content: "And I will blesse her, and giue thee a sonne also of her: yea I wil blesse her, and she shalbe a mother of nations; Kings of people shall be of her.",
+            content: "",
         }),
 
         ("genesis", 17, 17) => Some(Verse {
-            content: "Then Abraham fell vpon his face, and laughed, and said in his heart, Shall a child be borne vnto him that is an hundred yeeres old? and shal Sarah that is ninetie yeeres old, beare?",
+            content: "",
         }),
 
         ("genesis", 17, 18) => Some(Verse {
-            content: "And Abraham said vnto God, O that Ishmael might liue before thee.",
+            content: "",
         }),
 
         ("genesis", 17, 19) => Some(Verse {
-            content: "And God said, Sarah thy wife shall beare thee a sonne in deede, and thou shalt call his name Isaac: and I will establish my couenant with him, for an euerlasting couenant, and with his seed after him.",
+            content: "",
         }),
 
         ("genesis", 17, 20) => Some(Verse {
-            content: "And as for Ishmael, I haue heard thee: behold, I haue blessed him, and will make him fruitfull, and will multiplie him exceedingly: Twelue princes shall he beget, and I will make him a great nation.",
+            content: "",
         }),
 
         ("genesis", 17, 21) => Some(Verse {
-            content: "But my couenant wil I establish with Isaac, which Sarah shall beare vnto thee, at this set time, in the next yeere.",
+            content: "",
         }),
 
         ("genesis", 17, 22) => Some(Verse {
-            content: "And he left off talking with him, and God went vp from Abraham.",
+            content: "",
         }),
 
         ("genesis", 17, 23) => Some(Verse {
-            content: "And Abraham tooke Ishmael his sonne, and all that were borne in his house, and all that were bought with his money, euery male, among the men of Abrahams house, and circumcised the flesh of their foreskinne, in the selfesame day, as God had said vnto him.",
+            content: "",
         }),
 
         ("genesis", 17, 24) => Some(Verse {
-            content: "And Abraham was ninety yeeres old and nine, when he was circumcised in the flesh of his foreskinne.",
+            content: "",
         }),
 
         ("genesis", 17, 25) => Some(Verse {
-            content: "And Ishmael his sonne was thirteene yeeres old, when he was circumcised in the flesh of his foreskinne.",
+            content: "",
         }),
 
         ("genesis", 17, 26) => Some(Verse {
-            content: "In the selfe same day was Abraham circumcised, and Ishmael his sonne.",
+            content: "",
         }),
 
         ("genesis", 17, 27) => Some(Verse {
-            content: "And all the men of his house, borne in the house, and bought with money of the stranger, were circumcised with him.",
+            content: "",
         }),
 
         ("genesis", 18, 1) => Some(Verse {
-            content: "And the LORD appeared vnto him, in the plaines of Mamre: and he sate in the tent doore, in the heat of the day.",
+            content: "",
         }),
 
         ("genesis", 18, 2) => Some(Verse {
-            content: "And he lift vp his eyes and looked, and loe, three men stood by him: and when he saw them, hee ranne to meete them from the tent doore, and bowed himselfe toward the ground,",
+            content: "",
         }),
 
         ("genesis", 18, 3) => Some(Verse {
-            content: "And said, My Lord, If now I haue found fauour in thy sight, passe not away, I pray thee, frō thy seruant:",
+            content: "",
         }),
 
         ("genesis", 18, 4) => Some(Verse {
-            content: "Let a little water, I pray you, be fetched, and wash your feete, and rest your selues vnder the tree:",
+            content: "",
         }),
 
         ("genesis", 18, 5) => Some(Verse {
-            content: "And I will fetch a morsell of bread; and comfort ye your hearts, after that you shall passe on: for therefore are you come to your seruant. And they said; So doe, as thou hast said.",
+            content: "",
         }),
 
         ("genesis", 18, 6) => Some(Verse {
-            content: "And Abraham hastened into the tent, vnto Sarah, & said; Make ready quickly three measures of fine meale, knead it, and make cakes vpon the hearth.",
+            content: "",
         }),
 
         ("genesis", 18, 7) => Some(Verse {
-            content: "And Abraham ranne vnto the heard, and fetcht a calfe, tender and good, and gaue it vnto a yong man: and he hasted to dresse it.",
+            content: "",
         }),
 
         ("genesis", 18, 8) => Some(Verse {
-            content: "And he tooke butter, and milke, and the calfe which he had dressed, and set it before them; and he stood by them vnder the tree: and they did eate.",
+            content: "",
         }),
 
         ("genesis", 18, 9) => Some(Verse {
-            content: "And they said vnto him, Where is Sarah thy wife? And he said, Behold, in the tent.",
+            content: "",
         }),
 
         ("genesis", 18, 10) => Some(Verse {
-            content: "And he said, I will certainly returne vnto thee according to the time of life; and loe, Sarah thy wife shall haue a sonne. And Sarah heard it in the tent doore, which was behind him.",
+            content: "",
         }),
 
         ("genesis", 18, 11) => Some(Verse {
-            content: "Now Abraham and Sarah were old, and well stricken in age: and it ceased to be with Sarah after the maner of women.",
+            content: "",
         }),
 
         ("genesis", 18, 12) => Some(Verse {
-            content: "Therefore Sarah laughed within her selfe, saying, After I am waxed old, shall I haue pleasure, my lord being old also?",
+            content: "",
         }),
 
         ("genesis", 18, 13) => Some(Verse {
-            content: "And the LORD said vnto Abraham, Wherefore did Sarah laugh, saying; Shall I of a surety beare a childe, which am old?",
+            content: "",
         }),
 
         ("genesis", 18, 14) => Some(Verse {
-            content: "Is any thing too hard for the LORD? At the time appointed will I returne vnto thee, according to the time of life, and Sarah shall haue a sonne.",
+            content: "",
         }),
 
         ("genesis", 18, 15) => Some(Verse {
-            content: "Then Sarah denied, saying, I laughed not: for she was afraid. And he said, Nay, but thou diddest laugh.",
+            content: "",
         }),
 
         ("genesis", 18, 16) => Some(Verse {
-            content: "And the men rose vp from thence, and looked toward Sodome: and Abraham went with them, to bring them on the way.",
+            content: "",
         }),
 
         ("genesis", 18, 17) => Some(Verse {
-            content: "And the LORD said, Shall I hide from Abraham that thing which I doe;",
+            content: "",
         }),
 
         ("genesis", 18, 18) => Some(Verse {
-            content: "Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?",
+            content: "",
         }),
 
         ("genesis", 18, 19) => Some(Verse {
-            content: "For I know him, that hee will command his children, and his household after him, and they shall keepe the way of the LORD, to doe iustice and iudgement, that the LORD may bring vpon Abraham, that which hee hath spoken of him.",
+            content: "",
         }),
 
         ("genesis", 18, 20) => Some(Verse {
-            content: "And the LORD said, Because the cry of Sodome and Gomorrah is great, and because their sinne is very grieuous:",
+            content: "",
         }),
 
         ("genesis", 18, 21) => Some(Verse {
-            content: "I will goe downe now, and see whether they haue done altogether according to the cry of it, which is come vnto me: and if not, I will know.",
+            content: "",
         }),
 
         ("genesis", 18, 22) => Some(Verse {
-            content: "And the men turned their faces from thence, and went toward Sodome: but Abraham stood yet before the LORD.",
+            content: "",
         }),
 
         ("genesis", 18, 23) => Some(Verse {
-            content: "And Abraham drew neere, and said, Wilt thou also destroy the righteous with the wicked?",
+            content: "",
         }),
 
         ("genesis", 18, 24) => Some(Verse {
-            content: "Peraduenture there be fifty righteous within the citie; wilt thou also destroy, and not spare the place for the fiftie righteous, that are therein?",
+            content: "",
         }),
 
         ("genesis", 18, 25) => Some(Verse {
-            content: "That be farre from thee, to do after this maner, to slay the righteous with the wicked, and that the righteous should be as the wicked, that be farre from thee: Shall not the Iudge of all the earth doe right?",
+            content: "",
         }),
 
         ("genesis", 18, 26) => Some(Verse {
-            content: "And the LORD said, If I find in Sodom fiftie righteous, within the citie, then I will spare all the place for their sakes.",
+            content: "",
         }),
 
         ("genesis", 18, 27) => Some(Verse {
-            content: "And Abraham answered, and said, Behold now, I haue taken vpon me to speake vnto the LORD, which am but dust and ashes.",
+            content: "",
         }),
 
         ("genesis", 18, 28) => Some(Verse {
-            content: "Peraduenture there shall lacke fiue of the fiftie righteous: wilt thou destroy all the citie for lacke of fiue? And he said, If I find there fourtie and fiue, I will not destroy it.",
+            content: "",
         }),
 
         ("genesis", 18, 29) => Some(Verse {
-            content: "And hee spake vnto him yet againe, and said, Peraduenture there shall be fourtie found there: and he said, I will not doe it for fourties sake.",
+            content: "",
         }),
 
         ("genesis", 18, 30) => Some(Verse {
-            content: "And he said vnto him, Oh let not the Lord be angry, and I will speake: Peraduenture there shall thirtie bee found there. And he said, I will not doe it, if I find thirtie there.",
+            content: "",
         }),
 
         ("genesis", 18, 31) => Some(Verse {
-            content: "And he said, Behold now, I haue taken vpon mee to speake vnto the Lord: Peraduenture there shall bee twenty found there. And he said, I will not destroy it for twenties sake.",
+            content: "",
         }),
 
         ("genesis", 18, 32) => Some(Verse {
-            content: "And hee saide, Oh let not the Lord be angry, and I will speake yet but this once: Peraduenture ten shall be found there. And he said, I will not destroy it for tennes sake.",
+            content: "",
         }),
 
         ("genesis", 18, 33) => Some(Verse {
-            content: "And the LORD went his way, assoone as hee had left communing with Abraham: and Abraham returned vnto his place.",
+            content: "",
         }),
 
         ("genesis", 19, 1) => Some(Verse {
-            content: "And there came two Angels to Sodome at euen, and Lot sate in the gate of Sodome: and Lot seeing them, rose vp to meet them, and he bowed himselfe with his face toward the ground.",
+            content: "",
         }),
 
         ("genesis", 19, 2) => Some(Verse {
-            content: "And he said, Beholde now my Lords, turne in, I pray you, into your seruants house, and tarie all night, and wash your feete, and ye shall rise vp early and goe on your wayes. And they said, Nay: but we wil abide in the street all night.",
+            content: "",
         }),
 
         ("genesis", 19, 3) => Some(Verse {
-            content: "And he pressed vpon them greatly, and they turned in vnto him, and entred into his house: and he made them a feast, and did bake vnleauened bread, and they did eate.",
+            content: "",
         }),
 
         ("genesis", 19, 4) => Some(Verse {
-            content: "But before they lay downe, the men of the citie, euen the men of Sodom, compassed the house round, both old and yong, all the people from euery quarter.",
+            content: "",
         }),
 
         ("genesis", 19, 5) => Some(Verse {
-            content: "And they called vnto Lot, and said vnto him, Where are the men which came in to thee this night? bring them out vnto vs, that we may know them.",
+            content: "",
         }),
 
         ("genesis", 19, 6) => Some(Verse {
-            content: "And Lot went out at the doore vnto them, & shut the doore after him,",
+            content: "",
         }),
 
         ("genesis", 19, 7) => Some(Verse {
-            content: "And said, I pray you, brethren, doe not so wickedly.",
+            content: "",
         }),
 
         ("genesis", 19, 8) => Some(Verse {
-            content: "Behold now, I haue two daughters, which haue not knowen man; let mee, I pray you, bring them out vnto you, and doe ye to them, as is good in your eyes: onely vnto these men do nothing: for therefore came they vnder the shadow of my roofe.",
+            content: "",
         }),
 
         ("genesis", 19, 9) => Some(Verse {
-            content: "And they said, Stand backe. And they said againe, This one fellow came in to soiourne, and he will needs bee a Iudge: Now wil we deale worse with thee, then with them. And they pressed sore vpon the man, euen Lot, and came neere to breake the doore.",
+            content: "",
         }),
 
         ("genesis", 19, 10) => Some(Verse {
-            content: "But the men put forth their hand, and pulled Lot into the house to them, and shut to the doore.",
+            content: "",
         }),
 
         ("genesis", 19, 11) => Some(Verse {
-            content: "And they smote the men that were at the doore of the house, with blindnes, both small and great: so that they wearied themselues to finde the doore.",
+            content: "",
         }),
 
         ("genesis", 19, 12) => Some(Verse {
-            content: "And the men said vnto Lot, Hast thou here any besides? sonne in law, and thy sonnes, and thy daughters, and whatsoeuer thou hast in the citie, bring them out of this place.",
+            content: "",
         }),
 
         ("genesis", 19, 13) => Some(Verse {
-            content: "For we will destroy this place, because the crie of them is waxen great before the face of the LORD: and the LORD hath sent vs to destroy it.",
+            content: "",
         }),
 
         ("genesis", 19, 14) => Some(Verse {
-            content: "And Lot went out, and spake vnto his sonnes in law, which married his daughters, and said, Up, get yee out of this place: for the LORD wil destroy this citie: but hee seemed as one that mocked, vnto his sonnes in law.",
+            content: "",
         }),
 
         ("genesis", 19, 15) => Some(Verse {
-            content: "And when the morning arose, then the Angels hastened Lot, saying, Arise, take thy wife, & thy two daughters, which are here, lest thou be consumed in the iniquitie of the citie.",
+            content: "",
         }),
 
         ("genesis", 19, 16) => Some(Verse {
-            content: "And while he lingred, the men laid hold vpon his hand, and vpon the hand of his wife, and vpon the hand of his two daughters, the LORD being mercifull vnto him: and they brought him forth, and set him without the citie.",
+            content: "",
         }),
 
         ("genesis", 19, 17) => Some(Verse {
-            content: "And it came to passe, when they had brought them forth abroad, that he said, Escape for thy life, looke not behind thee, neither stay thou in all the plaine: escape to the mountaine, lest thou bee consumed.",
+            content: "",
         }),
 
         ("genesis", 19, 18) => Some(Verse {
-            content: "And Lot said vnto them, Oh not so, my Lord.",
+            content: "",
         }),
 
         ("genesis", 19, 19) => Some(Verse {
-            content: "Beholde now, thy seruant hath found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed vnto me, in sauing my life, and I cannot escape to the mountaine, lest some euill take me, and I die.",
+            content: "",
         }),
 
         ("genesis", 19, 20) => Some(Verse {
-            content: "Behold now, this citie is neere to flee vnto, and it is a litle one: Oh let me escape thither, (is it not a litle one?) and my soule shall liue.",
+            content: "",
         }),
 
         ("genesis", 19, 21) => Some(Verse {
-            content: "And he said vnto him, See, I haue accepted thee concerning this thing, that I will not ouerthrow this citie, for the which thou hast spoken.",
+            content: "",
         }),
 
         ("genesis", 19, 22) => Some(Verse {
-            content: "Haste thee, escape thither: for I cannot doe any thing till thou bee come thither: therefore the name of the citie was called Zoar.",
+            content: "",
         }),
 
         ("genesis", 19, 23) => Some(Verse {
-            content: "The sunne was risen vpon the earth, when Lot entred into Zoar.",
+            content: "",
         }),
 
         ("genesis", 19, 24) => Some(Verse {
-            content: "Then the LORD rained vpon Sodome & vpon Gomorrah, brimstone and fire, from the LORD out of heauen.",
+            content: "",
         }),
 
         ("genesis", 19, 25) => Some(Verse {
-            content: "And he ouerthrew those cities, and all the plaine, and all the inhabitants of the cities, and that which grew vpon the ground.",
+            content: "",
         }),
 
         ("genesis", 19, 26) => Some(Verse {
-            content: "But his wife looked backe from behind him, and she became a pillar of salt.",
+            content: "",
         }),
 
         ("genesis", 19, 27) => Some(Verse {
-            content: "And Abraham gate vp earely in the morning, to the place, where hee stood before the LORD.",
+            content: "",
         }),
 
         ("genesis", 19, 28) => Some(Verse {
-            content: "And he looked toward Sodome and Gomorrah, & toward all the land of the plaine, and beheld, and loe, the smoke of the countrey went vp as the smoke of a furnace.",
+            content: "",
         }),
 
         ("genesis", 19, 29) => Some(Verse {
-            content: "And it came to passe, when God destroyed the cities of the plaine, that God remembred Abraham, and sent Lot out of the midst of the ouerthrow, when he ouerthrew the cities, in the which Lot dwelt.",
+            content: "",
         }),
 
         ("genesis", 19, 30) => Some(Verse {
-            content: "And Lot went vp out of Zoar, and dwelt in the mountaine, and his two daughters with him: for hee feared to dwell in Zoar, and he dwelt in a caue, he and his two daughters.",
+            content: "",
         }),
 
         ("genesis", 19, 31) => Some(Verse {
-            content: "And the first borne saide vnto the yonger, Our father is old, and there is not a man in the earth, to come in vnto vs, after the maner of all the earth.",
+            content: "",
         }),
 
         ("genesis", 19, 32) => Some(Verse {
-            content: "Come, let vs make our father drinke wine, and we will lye with him, that we may preserue seed of our father.",
+            content: "",
         }),
 
         ("genesis", 19, 33) => Some(Verse {
-            content: "And they made their father drinke wine that night, & the first borne went in, and lay with her father: and he perceiued not, when shee lay downe, nor when she arose.",
+            content: "",
         }),
 
         ("genesis", 19, 34) => Some(Verse {
-            content: "And it came to passe on the morrow, that the first borne said vnto the yonger, Behold, I lay yesternight with my father: let vs make him drinke wine this night also, and goe thou in, and lye with him, that we may preserue seed of our father.",
+            content: "",
         }),
 
         ("genesis", 19, 35) => Some(Verse {
-            content: "And they made their father drinke wine that night also, and the yonger arose, and lay with him: and he perceiued not, when she lay downe, nor when she arose.",
+            content: "",
         }),
 
         ("genesis", 19, 36) => Some(Verse {
-            content: "Thus were both the daughters of Lot with childe by their father.",
+            content: "",
         }),
 
         ("genesis", 19, 37) => Some(Verse {
-            content: "And the first borne bare a sonne, and called his name Moab: the same is the father of the Moabites vnto this day.",
+            content: "",
         }),
 
         ("genesis", 19, 38) => Some(Verse {
-            content: "And the yonger, she also bare a sonne, and called his name, Ben-ammi: the same is the father of the children of Ammon, vnto this day.",
+            content: "",
         }),
 
         ("genesis", 20, 1) => Some(Verse {
-            content: "And Abraham iourneyed from thence, toward the South-Countrey, and dwelled betweene Cadesh and Shur, and soiourned in Gerar.",
+            content: "",
         }),
 
         ("genesis", 20, 2) => Some(Verse {
-            content: "And Abraham said of Sarah his wife, She is my sister: And Abimelech King of Gerar sent, and tooke Sarah.",
+            content: "",
         }),
 
         ("genesis", 20, 3) => Some(Verse {
-            content: "But God came to Abimelech in a dreame by night, and said to him, Behold, thou art but a dead man, for the woman which thou hast taken: for shee is a mans wife.",
+            content: "",
         }),
 
         ("genesis", 20, 4) => Some(Verse {
-            content: "But Abimelech had not come neere her: and he said, LORD, wilt thou slay also a righteous nation?",
+            content: "",
         }),
 
         ("genesis", 20, 5) => Some(Verse {
-            content: "Said he not vnto me, She is my sister? and she, euen she herselfe said, Hee is my brother: in the integritie of my heart, and innocencie of my hands haue I done this.",
+            content: "",
         }),
 
         ("genesis", 20, 6) => Some(Verse {
-            content: "And God saide vnto him in a dreame, Yea, I know that thou didst this in the integritie of thy heart: for I also withheld thee from sinning against mee, therefore suffered I thee not to touch her.",
+            content: "",
         }),
 
         ("genesis", 20, 7) => Some(Verse {
-            content: "Now therefore restore the man his wife: for he is a Prophet, and he shal pray for thee, and thou shalt liue: and if thou restore her not, know thou that thou shalt surely die, thou, and all that are thine.",
+            content: "",
         }),
 
         ("genesis", 20, 8) => Some(Verse {
-            content: "Therefore Abimelech rose earely in the morning, and called all his seruants, and told all these things in their eares: and the men were sore afraid.",
+            content: "",
         }),
 
         ("genesis", 20, 9) => Some(Verse {
-            content: "Then Abimelech called Abraham, and said vnto him, What hast thou done vnto vs? and what haue I offended thee, that thou hast brought on me, and on my kingdome a great sinne? thou hast done deeds vnto mee that ought not to be done.",
+            content: "",
         }),
 
         ("genesis", 20, 10) => Some(Verse {
-            content: "And Abimelech said vnto Abraham, What sawest thou, that thou hast done this thing?",
+            content: "",
         }),
 
         ("genesis", 20, 11) => Some(Verse {
-            content: "And Abraham said, Because I thought, Surely the feare of God is not in this place: and they will slay mee for my wiues sake.",
+            content: "",
         }),
 
         ("genesis", 20, 12) => Some(Verse {
-            content: "And yet indeed shee is my sister: she is the daughter of my father, but not the daughter of my mother; and shee became my wife.",
+            content: "",
         }),
 
         ("genesis", 20, 13) => Some(Verse {
-            content: "And it came to passe when God caused me to wander from my fathers house, that I said vnto her, This is thy kindnesse which thou shalt shew vnto me; at euery place whither wee shall come, say of me, He is my brother.",
+            content: "",
         }),
 
         ("genesis", 20, 14) => Some(Verse {
-            content: "And Abimelech tooke sheepe and oxen, and men-seruants, and women seruants, and gaue them vnto Abraham, and restored him Sarah his wife.",
+            content: "",
         }),
 
         ("genesis", 20, 15) => Some(Verse {
-            content: "And Abimelech said, Behold, my land is before thee; dwel where it pleaseth thee.",
+            content: "",
         }),
 
         ("genesis", 20, 16) => Some(Verse {
-            content: "And vnto Sarah hee said, Behold, I haue giuen thy brother a thousand pieces of siluer: behold, he is to thee a couering of the eyes, vnto all that are with thee, and with all other: thus shee was reproued.",
+            content: "",
         }),
 
         ("genesis", 20, 17) => Some(Verse {
-            content: "So Abraham prayed vnto God: and God healed Abimelech, and his wife, and his maid-seruants, and they bare children.",
+            content: "",
         }),
 
         ("genesis", 20, 18) => Some(Verse {
-            content: "For the LORD had fast closed vp all the wombes of the house of Abimelech, because of Sarah Abrahams wife.",
+            content: "",
         }),
 
         ("genesis", 21, 1) => Some(Verse {
-            content: "And the LORD visited Sarah as he had said, and the LORD did vnto Sarah as he had spoken.",
+            content: "",
         }),
 
         ("genesis", 21, 2) => Some(Verse {
-            content: "For Sarah conceiued, and bare Abraham a sonne in his old age, at the set time, of which God had spoken to him.",
+            content: "",
         }),
 
         ("genesis", 21, 3) => Some(Verse {
-            content: "And Abraham called the name of his sonne, that was borne vnto him, whom Sarah bare to him, Isaac.",
+            content: "",
         }),
 
         ("genesis", 21, 4) => Some(Verse {
-            content: "And Abraham circumcised his sonne Isaac, being eight dayes old, as God had commanded him.",
+            content: "",
         }),
 
         ("genesis", 21, 5) => Some(Verse {
-            content: "And Abraham was an hundred yeeres old, when his sonne Isaac was borne vnto him.",
+            content: "",
         }),
 
         ("genesis", 21, 6) => Some(Verse {
-            content: "And Sarah said, God hath made me to laugh, so that all that heare, will laugh with me.",
+            content: "",
         }),
 
         ("genesis", 21, 7) => Some(Verse {
-            content: "And she said, Who would haue said vnto Abraham, that Sarah should haue giuen children sucke? for I haue borne him a sonne in his old age.",
+            content: "",
         }),
 
         ("genesis", 21, 8) => Some(Verse {
-            content: "And the child grew, and was weaned: and Abraham made a great feast, the same day that Isaac was weaned.",
+            content: "",
         }),
 
         ("genesis", 21, 9) => Some(Verse {
-            content: "And Sarah saw the sonne of Hagar the Egyptian, which shee had borne vnto Abraham, mocking.",
+            content: "",
         }),
 
         ("genesis", 21, 10) => Some(Verse {
-            content: "Wherfore she said vnto Abraham, Cast out this bond woman, and her sonne: for the sonne of this bond woman shall not be heire with my sonne, euen with Isaac.",
+            content: "",
         }),
 
         ("genesis", 21, 11) => Some(Verse {
-            content: "And the thing was very grieuous in Abrahams sight, because of his sonne.",
+            content: "",
         }),
 
         ("genesis", 21, 12) => Some(Verse {
-            content: "And God said vnto Abraham, Let it not be grieuous in thy sight, because of the lad, and because of thy bond woman. In all that Sarah hath said vnto thee, hearken vnto her voice: for in Isaac shall thy seed be called.",
+            content: "",
         }),
 
         ("genesis", 21, 13) => Some(Verse {
-            content: "And also, of the sonne of the bond woman will I make a nation, because he is thy seed.",
+            content: "",
         }),
 
         ("genesis", 21, 14) => Some(Verse {
-            content: "And Abraham rose vp earely in the morning, and tooke bread, and a bottle of water, and gaue it vnto Hagar, (putting it on her shoulder,) and the child, and sent her away: and shee departed, and wandered in the wildernesse of Beer-sheba.",
+            content: "",
         }),
 
         ("genesis", 21, 15) => Some(Verse {
-            content: "And the water was spent in the bottle, and shee cast the child vnder one of the shrubs.",
+            content: "",
         }),
 
         ("genesis", 21, 16) => Some(Verse {
-            content: "And she went, and sate her downe ouer against him, a good way off, as it were a bow shoot: for she said, Let me not see the death of the child. And shee sate ouer against him, and lift vp her voice, and wept.",
+            content: "",
         }),
 
         ("genesis", 21, 17) => Some(Verse {
-            content: "And God heard the voice of the lad, and the Angel of God called to Hagar out of heauen, and said vnto her, What aileth thee, Hagar? feare not: for God hath heard the voice of the ladde, where he is.",
+            content: "",
         }),
 
         ("genesis", 21, 18) => Some(Verse {
-            content: "Arise, lift vp the lad, and hold him in thine hand: for I will make him a great nation.",
+            content: "",
         }),
 
         ("genesis", 21, 19) => Some(Verse {
-            content: "And God opened her eyes, and she saw a well of water, and shee went, and filled the bottle with water, and gaue the lad drinke.",
+            content: "",
         }),
 
         ("genesis", 21, 20) => Some(Verse {
-            content: "And God was with the lad, and he grew, and dwelt in the wildernesse, and became an archer.",
+            content: "",
         }),
 
         ("genesis", 21, 21) => Some(Verse {
-            content: "And hee dwelt in the wildernesse of Paran: and his mother tooke him a wife out of the land of Egypt.",
+            content: "",
         }),
 
         ("genesis", 21, 22) => Some(Verse {
-            content: "And it came to passe at that time, that Abimelech and Phichol the chiefe captaine of his hoste spake vnto Abraham, saying, God is with thee in all that thou doest.",
+            content: "",
         }),
 
         ("genesis", 21, 23) => Some(Verse {
-            content: "Now therefore sweare vnto mee here by God, that thou wilt not deale falsly with me, nor with my sonne, nor with my sonnes sonne: but according to the kindnesse that I haue done vnto thee, thou shalt doe vnto me, and to the land wherein thou hast soiourned.",
+            content: "",
         }),
 
         ("genesis", 21, 24) => Some(Verse {
-            content: "And Abraham saide, I will sweare.",
+            content: "",
         }),
 
         ("genesis", 21, 25) => Some(Verse {
-            content: "And Abraham reproued Abimelech, because of a well of water, which Abimelechs seruants had violently taken away.",
+            content: "",
         }),
 
         ("genesis", 21, 26) => Some(Verse {
-            content: "And Abimelech saide, I wote not who hath done this thing: neither didst thou tell me, neither yet heard I of it, but to day.",
+            content: "",
         }),
 
         ("genesis", 21, 27) => Some(Verse {
-            content: "And Abraham tooke sheepe and oxen, and gaue them vnto Abimelech: and both of them made a couenant.",
+            content: "",
         }),
 
         ("genesis", 21, 28) => Some(Verse {
-            content: "And Abraham set seuen ewe lambes of the flocke by themselues.",
+            content: "",
         }),
 
         ("genesis", 21, 29) => Some(Verse {
-            content: "And Abimelech said vnto Abraham, What meane these seuen ewe lambes, which thou hast set by themselues?",
+            content: "",
         }),
 
         ("genesis", 21, 30) => Some(Verse {
-            content: "And he said, For these seuen ewe lambs shalt thou take of my hand, that they may be a witnesse vnto me, that I haue digged this well.",
+            content: "",
         }),
 
         ("genesis", 21, 31) => Some(Verse {
-            content: "Wherefore he called that place, Beer-sheba: because there they sware both of them.",
+            content: "",
         }),
 
         ("genesis", 21, 32) => Some(Verse {
-            content: "Thus they made a couenant at Beeer-sheba: then Abimelech rose vp, and Phichol the chiefe captaine of his hoste, and they returned into the land of the Philistines.",
+            content: "",
         }),
 
         ("genesis", 21, 33) => Some(Verse {
-            content: "And Abraham planted a groue in Beer-sheba, and called there on the Name of the LORD, the euerlasting God.",
+            content: "",
         }),
 
         ("genesis", 21, 34) => Some(Verse {
-            content: "And Abraham soiourned in the Philistines land, many dayes.",
+            content: "",
         }),
 
         ("genesis", 22, 1) => Some(Verse {
-            content: "And it came to passe after these things, that God did tempt Abraham, and said vnto him, Abraham. And hee said, Beholde, heere I am.",
+            content: "",
         }),
 
         ("genesis", 22, 2) => Some(Verse {
-            content: "And he said, Take now thy sonne, thine onely sonne Isaac, whom thou louest, and get thee into the land of Moriah: and offer him there for a burnt offering vpon one of the Mountaines which I will tell thee of.",
+            content: "",
         }),
 
         ("genesis", 22, 3) => Some(Verse {
-            content: "And Abraham rose vp earely in the morning, and sadled his asse, and tooke two of his yong men with him, and Isaac his sonne, and claue the wood for the burnt offering, and rose vp, and went vnto the place of which God had told him.",
+            content: "",
         }),
 
         ("genesis", 22, 4) => Some(Verse {
-            content: "Then on the third day Abraham lift vp his eyes, and saw the place afarre off.",
+            content: "",
         }),
 
         ("genesis", 22, 5) => Some(Verse {
-            content: "And Abraham said vnto his yong men, Abide you here with the asse, and I and the lad will goe yonder and worship, and come againe to you.",
+            content: "",
         }),
 
         ("genesis", 22, 6) => Some(Verse {
-            content: "And Abraham tooke the wood of the burnt offering, and layd it vpon Isaac his sonne: and he tooke the fire in his hand, and a knife: and they went both of them together.",
+            content: "",
         }),
 
         ("genesis", 22, 7) => Some(Verse {
-            content: "And Isaac spake vnto Abraham his father, and said, My father: and he said, Here am I, my sonne. And hee said, Behold the fire and wood: but where is the lambe for a burnt offring?",
+            content: "",
         }),
 
         ("genesis", 22, 8) => Some(Verse {
-            content: "And Abraham said, My sonne, God will prouide himselfe a lambe for a burnt offering: so they went both of them together.",
+            content: "",
         }),
 
         ("genesis", 22, 9) => Some(Verse {
-            content: "And they came to the place which God had tolde him of, and Abraham built an Altar there, and layd the wood in order, and bound Isaac his sonne, and layde him on the Altar vpon the wood.",
+            content: "",
         }),
 
         ("genesis", 22, 10) => Some(Verse {
-            content: "And Abraham stretched foorth his hand, and tooke the knife to slay his sonne.",
+            content: "",
         }),
 
         ("genesis", 22, 11) => Some(Verse {
-            content: "And the Angel of the LORD called vnto him out of heauen, and said, Abraham, Abraham. And he said, Here am I.",
+            content: "",
         }),
 
         ("genesis", 22, 12) => Some(Verse {
-            content: "And he said, Lay not thine hand vpon the lad, neither do thou any thing vnto him: for now I know that thou fearest God, seeing thou hast not withhelde thy sonne, thine onely sonne from mee.",
+            content: "",
         }),
 
         ("genesis", 22, 13) => Some(Verse {
-            content: "And Abraham lifted vp his eyes, and looked, and beholde, behinde him a Ramme caught in a thicket by his hornes: And Abraham went and tooke the Ramme, and offered him vp for a burnt offering, in the stead of his sonne.",
+            content: "",
         }),
 
         ("genesis", 22, 14) => Some(Verse {
-            content: "And Abraham called the name of that place Iehouah-ijreh, as it is said to this day, In the Mount of the LORD it shalbe seene.",
+            content: "",
         }),
 
         ("genesis", 22, 15) => Some(Verse {
-            content: "And the Angel of the LORD called vnto Abraham out of heauen the second time,",
+            content: "",
         }),
 
         ("genesis", 22, 16) => Some(Verse {
-            content: "And said, By my selfe haue I sworne, saith the LORD, for because thou hast done this thing, and hast not withheld thy sonne, thine onely sonne,",
+            content: "",
         }),
 
         ("genesis", 22, 17) => Some(Verse {
-            content: "That in blessing I will blesse thee, and in multiplying, I will multiply thy seed as the starres of the heauen, and as the sand which is vpon the sea shore, and thy seed shall possesse the gate of his enemies.",
+            content: "",
         }),
 
         ("genesis", 22, 18) => Some(Verse {
-            content: "And in thy seed shall all the nations of the earth be blessed, because thou hast obeyed my voice.",
+            content: "",
         }),
 
         ("genesis", 22, 19) => Some(Verse {
