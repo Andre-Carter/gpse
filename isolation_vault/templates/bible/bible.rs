@@ -7598,255 +7598,255 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("exodus", 14, 6) => Some(Verse {
-            content: "And hee made ready his charet, and tooke his people with him.",
+            content: "",
         }),
 
         ("exodus", 14, 7) => Some(Verse {
-            content: "And hee tooke sixe hundred chosen charets, and all the charets of Egypt, and captaines ouer euery one of them.",
+            content: "",
         }),
 
         ("exodus", 14, 8) => Some(Verse {
-            content: "And the Lord hardened the heart of Pharaoh King of Egypt, and he pursued after the children of Israel: and the children of Israel went out with an high hand.",
+            content: "",
         }),
 
         ("exodus", 14, 9) => Some(Verse {
-            content: "But the Egyptians pursued after them (all the horses and charets of Pharaoh, and his horsemen, and his army) and ouertooke them encamping by the sea, beside Pi-hahiroth before Baal-Zephon.",
+            content: "",
         }),
 
         ("exodus", 14, 10) => Some(Verse {
-            content: "And when Pharaoh drew nigh, the children of Israel lift vp their eyes, and behold, the Egyptians marched after them, and they were sore afraid: and the children of Israel lift vp their eyes, and beholde, the Egyptians marched after them, and they were sore afraid: and the children of Israel cried out vnto the Lord.",
+            content: "",
         }),
 
         ("exodus", 14, 11) => Some(Verse {
-            content: "And they said vnto Moses, Because there were no graues in Egypt, hast thou taken vs away to die in the wildernesse? Wherefore hast thou dealt thus with vs, to cary vs foorth out of Egypt?",
+            content: "",
         }),
 
         ("exodus", 14, 12) => Some(Verse {
-            content: "Is not this the word that wee did tell thee in Egypt, saying, Let vs alone, that we may serue the Egyptians? For it had bene better for vs to serue the Egyptians, then that wee should die in the wildernesse.",
+            content: "",
         }),
 
         ("exodus", 14, 13) => Some(Verse {
-            content: "And Moses saide vnto the people, Feare ye not, stand still, and see the saluation of the Lord, which he will shew to you to day: for the Egyptians whom ye haue seene to day, ye shall see them againe no more for euer.",
+            content: "",
         }),
 
         ("exodus", 14, 14) => Some(Verse {
-            content: "The Lord shall fight for you, and ye shall hold your peace.",
+            content: "",
         }),
 
         ("exodus", 14, 15) => Some(Verse {
-            content: "And the Lord saide vnto Moses, Wherefore criest thou vnto me? Speake vnto the children of Israel, that they goe forward.",
+            content: "",
         }),
 
         ("exodus", 14, 16) => Some(Verse {
-            content: "But lift thou vp thy rodde, and stretch out thine hand ouer the Sea, and diuide it: and the children of Israel shall goe on dry ground thorow the mids of the Sea.",
+            content: "",
         }),
 
         ("exodus", 14, 17) => Some(Verse {
-            content: "And I, beholde, I will harden the hearts of the Egyptians, and they shall follow them: and I will get mee honour vpon Pharaoh, and vpon all his hoste, vpon his charets, and vpon his horsemen.",
+            content: "",
         }),
 
         ("exodus", 14, 18) => Some(Verse {
-            content: "And the Egyptians shall know that I am the Lord, when I haue gotten me honour vpon Pharaoh, vpon his charets, and vpon his horsemen.",
+            content: "",
         }),
 
         ("exodus", 14, 19) => Some(Verse {
-            content: "And the Angel of God which went before the campe of Israel, remoued and went behind them, and the pillar of the cloud went from before their face, and stood behinde them.",
+            content: "",
         }),
 
         ("exodus", 14, 20) => Some(Verse {
-            content: "And it came betweene the campe of the Egyptians, and the campe of Israel, and it was a cloud and darkenesse to them, but it gaue light by night to these: so that the one came not neere the other all the night.",
+            content: "",
         }),
 
         ("exodus", 14, 21) => Some(Verse {
-            content: "And Moses stretched out his hand ouer the Sea, and the Lord caused the Sea to goe backe by a strong East winde all that night, and made the Sea dry land, and the waters were diuided.",
+            content: "",
         }),
 
         ("exodus", 14, 22) => Some(Verse {
-            content: "And the children of Israel went into the midst of the Sea vpon the dry ground, and the waters were a wall vnto them on their right hand, and on their left.",
+            content: "",
         }),
 
         ("exodus", 14, 23) => Some(Verse {
-            content: "And the Egyptians pursued, and went in after them, to the midst of the Sea, euen all Pharaohs horses, his charets and his horsemen.",
+            content: "",
         }),
 
         ("exodus", 14, 24) => Some(Verse {
-            content: "And it came to passe, that in the morning watch the Lord looked vnto the hoste of the Egyptians, through the pillar of fire, and of the cloude, and troubled the hoste of the Egyptians,",
+            content: "",
         }),
 
         ("exodus", 14, 25) => Some(Verse {
-            content: "And tooke off their charet wheeles, that they draue them heauily: So that the Egyptians said, Let vs flee from the face of Israel: for the Lord fighteth for them, against the Egyptians.",
+            content: "",
         }),
 
         ("exodus", 14, 26) => Some(Verse {
-            content: "And the Lord saide vnto Moses, Stretch out thine hand ouer the Sea, that the waters may come againe vpon the Egyptians, vpon their charets, and vpon their horsemen.",
+            content: "",
         }),
 
         ("exodus", 14, 27) => Some(Verse {
-            content: "And Moses stretched foorth his hand ouer the sea, and the sea returned to his strength when the morning appeared: and the Egyptians fled against it: and the Lord ouerthrew the Egyptians in the midst of the sea.",
+            content: "",
         }),
 
         ("exodus", 14, 28) => Some(Verse {
-            content: "And the waters returned, and couered the charets, and the horsemen, and all the hoste of Pharaoh that came into the sea after them: there remained not so much as one of them.",
+            content: "",
         }),
 
         ("exodus", 14, 29) => Some(Verse {
-            content: "But the children of Israel walked vpon drie land, in the midst of the sea, and the waters were a wall vnto them on their right hand, and on their left.",
+            content: "",
         }),
 
         ("exodus", 14, 30) => Some(Verse {
-            content: "Thus the Lord saued Israel that day out of the hand of the Egyptians: and Israel sawe the Egyptians dead vpon the sea shore.",
+            content: "",
         }),
 
         ("exodus", 14, 31) => Some(Verse {
-            content: "And Israel saw that great worke which the Lord did vpon the Egyptians: & the people feared the Lord, and beleeued the Lord, and his seruant Moses.",
+            content: "",
         }),
 
         ("exodus", 15, 1) => Some(Verse {
-            content: "Then sang Moses and the children of Israel this song vnto the Lord, and spake, saying, I will sing vnto the Lord: for he hath triumphed gloriously, the horse and his rider hath he throwen into the Sea.",
+            content: "",
         }),
 
         ("exodus", 15, 2) => Some(Verse {
-            content: "The Lord is my strength and song, and he is become my saluation: he is my God, and I will prepare him an habitation, my fathers God, and I wil exalt him.",
+            content: "",
         }),
 
         ("exodus", 15, 3) => Some(Verse {
-            content: "The Lord is a man of warre: the Lord is his Name.",
+            content: "",
         }),
 
         ("exodus", 15, 4) => Some(Verse {
-            content: "Pharaohs charets and his hoste hath he cast into the sea: his chosen captaines also are drowned in the red Sea.",
+            content: "",
         }),
 
         ("exodus", 15, 5) => Some(Verse {
-            content: "The depths haue couered them: they sanke into the bottome as a stone.",
+            content: "",
         }),
 
         ("exodus", 15, 6) => Some(Verse {
-            content: "Thy right hand, O Lord, is become glorious in power, thy right hand, O Lord, hath dashed in pieces the enemie.",
+            content: "",
         }),
 
         ("exodus", 15, 7) => Some(Verse {
-            content: "And in the greatnesse of thine excellencie thou hast ouerthrowen them, that rose vp against thee: thou sentest forth thy wrath, which consumed them as stubble.",
+            content: "",
         }),
 
         ("exodus", 15, 8) => Some(Verse {
-            content: "And with the blast of thy nostrils the waters were gathered together: the floods stood vpright as an heape, and the depths were congealed in the heart of the Sea.",
+            content: "",
         }),
 
         ("exodus", 15, 9) => Some(Verse {
-            content: "The enemie said, I will pursue, I wil ouertake, I wil diuide the spoile: my lust shall be satisfied vpon them: I will draw my sword, mine hand shall destroy them.",
+            content: "",
         }),
 
         ("exodus", 15, 10) => Some(Verse {
-            content: "Thou didst blow with thy wind, the sea couered them, they sanke as lead in the mighty waters.",
+            content: "",
         }),
 
         ("exodus", 15, 11) => Some(Verse {
-            content: "Who is like vnto thee, O Lord, amongst the gods? who is like thee, glorious in holinesse, fearefull in praises, doing wonders!",
+            content: "",
         }),
 
         ("exodus", 15, 12) => Some(Verse {
-            content: "Thou stretchedst out thy right hand, the earth swallowed them.",
+            content: "",
         }),
 
         ("exodus", 15, 13) => Some(Verse {
-            content: "Thou in thy mercie hast led forth the people which thou hast redeemed: thou hast guided them in thy strength vnto thy holy habitation.",
+            content: "",
         }),
 
         ("exodus", 15, 14) => Some(Verse {
-            content: "The people shall heare, and be afraid: sorrow shall take hold on the inhabitants of Palestina.",
+            content: "",
         }),
 
         ("exodus", 15, 15) => Some(Verse {
-            content: "Then the dukes of Edom shal be amased: the mighty men of Moab trembling shall take hold vpon them: all the inhabitants of Canaan shal melt away.",
+            content: "",
         }),
 
         ("exodus", 15, 16) => Some(Verse {
-            content: "Feare and dread shall fall vpon them, by the greatnesse of thine arme they shall be as still as a stone, till thy people passe ouer, O Lord, till the people passe ouer which thou hast purchased.",
+            content: "",
         }),
 
         ("exodus", 15, 17) => Some(Verse {
-            content: "Thou shalt bring them in, and plant them in the mountaine of thine inheritance, in the place, O Lord, which thou hast made for thee to dwell in, in the Sanctuary, O Lord, which thy hands haue established.",
+            content: "",
         }),
 
         ("exodus", 15, 18) => Some(Verse {
-            content: "The Lord shal reigne for euer and euer.",
+            content: "",
         }),
 
         ("exodus", 15, 19) => Some(Verse {
-            content: "For the horse of Pharaoh went in with his charets and with his horsemen into the sea, and the Lord brought againe the waters of the Sea vpon them: But the children of Israel went on drie land in the mids of the sea.",
+            content: "",
         }),
 
         ("exodus", 15, 20) => Some(Verse {
-            content: "And Miriam the prophetesse the sister of Aaron, tooke a timbrell in her hand, and all the women went out after her, with timbrels & with dances.",
+            content: "",
         }),
 
         ("exodus", 15, 21) => Some(Verse {
-            content: "And Miriam answered them, Sing ye to the Lord, for he hath triumphed gloriously: the horse and his rider hath he throwen into the sea.",
+            content: "",
         }),
 
         ("exodus", 15, 22) => Some(Verse {
-            content: "So Moses brought Israel from the red sea, and they went out into the wildernesse of Shur: and they went three dayes in the wildernesse, and found no water.",
+            content: "",
         }),
 
         ("exodus", 15, 23) => Some(Verse {
-            content: "And when they came to Marah, they could not drinke of the waters of Marah, for they were bitter: therefore the name of it was called Marah.",
+            content: "",
         }),
 
         ("exodus", 15, 24) => Some(Verse {
-            content: "And the people murmured against Moses, saying, What shall wee drinke?",
+            content: "",
         }),
 
         ("exodus", 15, 25) => Some(Verse {
-            content: "And he cried vnto the Lord: and the Lord shewed him a tree, which when hee had cast into the waters, the waters were made sweete: there he made a statute & an ordinance, and there he proued them,",
+            content: "",
         }),
 
         ("exodus", 15, 26) => Some(Verse {
-            content: "And said, If thou wilt diligently hearken to the voice of the Lord thy God, and wilt doe that which is right in his sight, and wilt giue eare to his Commandements, and keepe all his Statutes, I will put none of these diseases vpon thee, which I haue brought vpon the Egyptians: for I am the Lord that healeth thee.",
+            content: "",
         }),
 
         ("exodus", 15, 27) => Some(Verse {
-            content: "And they came to Elim: where were twelue wels of water, and threescore and ten palme trees, and they encamped there by the waters.",
+            content: "",
         }),
 
         ("exodus", 16, 1) => Some(Verse {
-            content: "And they tooke their iourney from Elim, and all the Congregation of the children of Israel came vnto the wildernesse of Sin, which is betweene Elim and Sinai, on the fifteenth day of the second moneth after their departing out of the land of Egypt.",
+            content: "",
         }),
 
         ("exodus", 16, 2) => Some(Verse {
-            content: "And the whole Congregation of the children of Israel murmured against Moses and Aaron in the wildernesse.",
+            content: "",
         }),
 
         ("exodus", 16, 3) => Some(Verse {
-            content: "And the children of Israel saide vnto them, Would to God wee had died by the hand of the Lord in the land of Egypt, when wee sate by the flesh pots, and when we did eate bread to the full: for ye haue brought vs forth into this wildernesse, to kill this whole assembly with hunger.",
+            content: "",
         }),
 
         ("exodus", 16, 4) => Some(Verse {
-            content: "Then said the Lord vnto Moses, Behold, I will raine bread from heauen for you: and the people shall goe out, and gather a certaine rate euery day, that I may proue them, whether they will walke in my Law, or no.",
+            content: "",
         }),
 
         ("exodus", 16, 5) => Some(Verse {
-            content: "And it shall come to passe, that on the sixt day, they shall prepare that which they bring in, and it shall be twice as much as they gather dayly.",
+            content: "",
         }),
 
         ("exodus", 16, 6) => Some(Verse {
-            content: "And Moses and Aaron said vnto all the children of Israel, At euen, then ye shall know that the Lord hath brought you out from the land of Egypt.",
+            content: "",
         }),
 
         ("exodus", 16, 7) => Some(Verse {
-            content: "And in the morning, then ye shall see the glory of the Lord, for that he heareth your murmurings against the Lord: And what are wee, that yee murmure against vs?",
+            content: "",
         }),
 
         ("exodus", 16, 8) => Some(Verse {
-            content: "And Moses said, This shalbe when the Lord shal giue you in the euening flesh to eate, and in the morning bread to the full: for that the Lord heareth your murmurings which ye murmure against him; and what are wee? your murmurings are not against vs, but against the Lord.",
+            content: "",
         }),
 
         ("exodus", 16, 9) => Some(Verse {
-            content: "And Moses spake vnto Aaron, Say vnto all the Congregation of the children of Israel, Come neere before the Lord: for hee hath heard your murmurings.",
+            content: "",
         }),
 
         ("exodus", 16, 10) => Some(Verse {
-            content: "And it came to passe as Aaron spake vnto the whole Congregation of the children of Israel, that they looked toward the wildernesse, and behold, the glory of the Lord appeared in the cloude.",
+            content: "",
         }),
 
         ("exodus", 16, 11) => Some(Verse {
