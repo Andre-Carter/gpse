@@ -129795,7 +129795,981 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        
+        ("tobit", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 1, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 4, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 5, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 6, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 7, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 8, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 9, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 9, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 9, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 9, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 9, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 9, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 10, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 10, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 10, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 10, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 10, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 10, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 10, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 10, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 10, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 10, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 10, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 10, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 11, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 12, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 13, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("tobit", 14, 15) => Some(Verse { 
+            content: "", 
+        }),
 
         _ => None,
     }
