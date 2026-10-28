@@ -293,259 +293,259 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("genesis", 3, 14) => Some(Verse {
-            content: ": vpon thy belly shalt thou goe, and dust shalt thou eate, all the dayes of thy life.",
+            content: "",
         }),
 
         ("genesis", 3, 15) => Some(Verse {
-            content: "se thy head, and thou shalt bruise his heele.",
+            content: "",
         }),
 
         ("genesis", 3, 16) => Some(Verse {
-            content: "Unto the woman he said, I will greatly multiply thy sorowe and thy conception. In sorow thou shalt bring forth children: and thy desire shall be to thy husband, and hee shall rule ouer thee.",
+            content: "",
         }),
 
         ("genesis", 3, 17) => Some(Verse {
-            content: "And vnto Adam he said, Because thou hast hearkened vnto the voyce of thy wife, and hast eaten of the tree, of which I commaunded thee, saying, Thou shalt not eate of it: cursed is the ground for thy sake: in sorow shalt thou eate of it all the dayes of thy life.",
+            content: "",
         }),
 
         ("genesis", 3, 18) => Some(Verse {
-            content: "Thornes also and thistles shall it bring forth to thee: and thou shalt eate the herbe of the field.",
+            content: "",
         }),
 
         ("genesis", 3, 19) => Some(Verse {
-            content: "In the sweate of thy face shalt thou eate bread, till thou returne vnto the ground: for out of it wast thou taken, for dust thou art, and vnto dust shalt thou returne.",
+            content: "",
         }),
 
         ("genesis", 3, 20) => Some(Verse {
-            content: "And Adam called his wiues name Eue, because she was the mother of all liuing.",
+            content: "",
         }),
 
         ("genesis", 3, 21) => Some(Verse {
-            content: "Unto Adam also, and to his wife, did the LORD God make coates of skinnes, and cloathed them.",
+            content: "",
         }),
 
         ("genesis", 3, 22) => Some(Verse {
-            content: "And the LORD God said, Behold, the man is become as one of vs, to know good & euill. And now lest hee put foorth his hand, and take also of the tree of life, and eate and liue for euer:",
+            content: "",
         }),
 
         ("genesis", 3, 23) => Some(Verse {
-            content: "Therefore the LORD God sent him foorth from the garden of Eden, to till the ground, from whence he was taken.",
+            content: "",
         }),
 
         ("genesis", 3, 24) => Some(Verse {
-            content: "So he droue out the man: and he placed at the East of the garden of Eden, Cherubims, and a flaming sword, which turned euery way, to keepe the way of the tree of life.",
+            content: "",
         }),
 
         ("genesis", 4, 1) => Some(Verse {
-            content: "And Adam knew Eue his wife, and shee conceiued, and bare Cain, and said, I haue gotten a man from the LORD.",
+            content: "",
         }),
 
         ("genesis", 4, 2) => Some(Verse {
-            content: "And she againe bare his brother Abel, and Abel was a keeper of sheep, but Cain was a tiller of the ground.",
+            content: "",
         }),
 
         ("genesis", 4, 3) => Some(Verse {
-            content: "And in processe of time it came to passe, that Cain brought of the fruite of the ground, an offering vnto the LORD.",
+            content: "",
         }),
 
         ("genesis", 4, 4) => Some(Verse {
-            content: "And Abel, he also brought of the firstlings of his flocke, and of the fat thereof: and the LORD had respect vnto Abel, and to his offering.",
+            content: "",
         }),
 
         ("genesis", 4, 5) => Some(Verse {
-            content: "But vnto Cain, and to his offring he had not respect: and Cain was very wroth, and his countenance fell.",
+            content: "",
         }),
 
         ("genesis", 4, 6) => Some(Verse {
-            content: "And the LORD said vnto Cain, Why art thou wroth? And why is thy countenance fallen?",
+            content: "",
         }),
 
         ("genesis", 4, 7) => Some(Verse {
-            content: "If thou doe well, shalt thou not be accepted? and if thou doest not well, sinne lieth at the doore: And vnto thee shall be his desire, and thou shalt rule ouer him.",
+            content: "",
         }),
 
         ("genesis", 4, 8) => Some(Verse {
-            content: "And Cain talked with Abel his brother: and it came to passe when they were in the field, that Cain rose vp against Abel his brother, and slew him.",
+            content: "",
         }),
 
         ("genesis", 4, 9) => Some(Verse {
-            content: "And the LORD said vnto Cain, Where is Abel thy brother? And hee said, I know not: Am I my brothers keeper?",
+            content: "",
         }),
 
         ("genesis", 4, 10) => Some(Verse {
-            content: "And he said, What hast thou done? the voyce of thy brothers blood cryeth vnto me, from the ground.",
+            content: "",
         }),
 
         ("genesis", 4, 11) => Some(Verse {
-            content: "And now art thou cursed from the earth, which hath opened her mouth to receiue thy brothers blood from thy hand.",
+            content: "",
         }),
 
         ("genesis", 4, 12) => Some(Verse {
-            content: "When thou tillest the ground, it shall not henceforth yeeld vnto thee her strength: A fugitiue and a vagabond shalt thou be in the earth.",
+            content: "",
         }),
 
         ("genesis", 4, 13) => Some(Verse {
-            content: "And Cain said vnto the LORD, My punishment is greater, then I can beare.",
+            content: "",
         }),
 
         ("genesis", 4, 14) => Some(Verse {
-            content: "Behold, thou hast driuen me out this day from the face of the earth, and from thy face shall I be hid, and I shall be a fugitiue, and a vagabond in the earth: and it shall come to passe, that euery one that findeth me, shall slay me.",
+            content: "",
         }),
 
         ("genesis", 4, 15) => Some(Verse {
-            content: "And the LORD said vnto him, Therefore whosoeuer slayeth Cain, vengeance shalbe taken on him seuen fold. And the LORD set a marke vpon Cain, lest any finding him, should kill him.",
+            content: "",
         }),
 
         ("genesis", 4, 16) => Some(Verse {
-            content: "And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the East of Eden.",
+            content: "",
         }),
 
         ("genesis", 4, 17) => Some(Verse {
-            content: "And Cain knew his wife, and she conceiued and bare Enoch, and hee builded a City, and called the name of the City, after the name of his sonne, Enoch.",
+            content: "",
         }),
 
         ("genesis", 4, 18) => Some(Verse {
-            content: "And vnto Enoch was borne Irad: and Irad begate Mehuiael, and Mehuiael begate Methusael, and Methusael begate Lamech.",
+            content: "",
         }),
 
         ("genesis", 4, 19) => Some(Verse {
-            content: "And Lamech tooke vnto him two wiues: the name of the one was Adah, and the name of the other Zillah.",
+            content: "",
         }),
 
         ("genesis", 4, 20) => Some(Verse {
-            content: "And Adah bare Iabal: he was the father of such as dwell in tents, and of such as haue cattell.",
+            content: "",
         }),
 
         ("genesis", 4, 21) => Some(Verse {
-            content: "And his brothers name was Iubal: hee was the father of all such as handle the harpe and organ.",
+            content: "",
         }),
 
         ("genesis", 4, 22) => Some(Verse {
-            content: "And Zillah, she also bare Tubal-Cain, an instructer of euery artificer in brasse and iron: and the sister of Tubal-Cain was Naamah.",
+            content: "",
         }),
 
         ("genesis", 4, 23) => Some(Verse {
-            content: "And Lamech sayd vnto his wiues, Adah and Zillah, Heare my voyce, yee wiues of Lamech, hearken vnto my speech: for I haue slaine a man to my wounding, and a yong man to my hurt.",
+            content: "",
         }),
 
         ("genesis", 4, 24) => Some(Verse {
-            content: "If Cain shall bee auenged seuen fold, truely Lamech seuenty and seuen folde.",
+            content: "",
         }),
 
         ("genesis", 4, 25) => Some(Verse {
-            content: "And Adam knew his wife againe, and she bare a sonne, & called his name Seth: For God, said she, hath appointed mee another seed in stead of Abel, whom Cain slew.",
+            content: "",
         }),
 
         ("genesis", 4, 26) => Some(Verse {
-            content: "And to Seth, to him also there was borne a sonne, and he called his name Enos: then began men to call vpon the Name of the LORD.",
+            content: "",
         }),
 
         ("genesis", 5, 1) => Some(Verse {
-            content: "This is the booke of the generations of Adam: In the day that God created man, in the likenes of God made he him.",
+            content: "",
         }),
 
         ("genesis", 5, 2) => Some(Verse {
-            content: "Male and female created hee them, and blessed them, and called their name Adam, in the day when they were created.",
+            content: "",
         }),
 
         ("genesis", 5, 3) => Some(Verse {
-            content: "And Adam liued an hundred and thirtie yeeres, and begate a sonne in his owne likenesse, after his image; and called his name Seth.",
+            content: "",
         }),
 
         ("genesis", 5, 4) => Some(Verse {
-            content: "And the dayes of Adam, after he had begotten Seth, were eight hundred yeeres: and he begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 5, 5) => Some(Verse {
-            content: "And all the dayes that Adam liued, were nine hundred and thirtie yeeres: and he died.",
+            content: "",
         }),
 
         ("genesis", 5, 6) => Some(Verse {
-            content: "And Seth liued an hundred and fiue yeeres: and begate Enos.",
+            content: "",
         }),
 
         ("genesis", 5, 7) => Some(Verse {
-            content: "And Seth liued, after he begate Enos, eight hundred and seuen yeeres, and begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 5, 8) => Some(Verse {
-            content: "And all the dayes of Seth, were nine hundred and twelue yeeres, and he died.",
+            content: "",
         }),
 
         ("genesis", 5, 9) => Some(Verse {
-            content: "And Enos liued ninetie yeeres, and begate Cainan.",
+            content: "",
         }),
 
         ("genesis", 5, 10) => Some(Verse {
-            content: "And Enos liued after hee begate Cainan, eight hundred and fifteene yeeres, and begate sonnes & daughters.",
+            content: "",
         }),
 
         ("genesis", 5, 11) => Some(Verse {
-            content: "And all the dayes of Enos were nine hundred & fiue yeres; and he died.",
+            content: "",
         }),
 
         ("genesis", 5, 12) => Some(Verse {
-            content: "And Cainan liued seuentie yeeres, and begate Mahalaleel.",
+            content: "",
         }),
 
         ("genesis", 5, 13) => Some(Verse {
-            content: "And Cainan liued after he begate Mahalaleel, eight hundred and fourtie yeeres, & begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 5, 14) => Some(Verse {
-            content: "And al the dayes of Cainan were nine hundred & ten yeres; and he died.",
+            content: "",
         }),
 
         ("genesis", 5, 15) => Some(Verse {
-            content: "And Mahalaleel liued sixtie and fiue yeeres, and begat Iared.",
+            content: "",
         }),
 
         ("genesis", 5, 16) => Some(Verse {
-            content: "And Mahalaleel liued after he begate Iared, eight hundred and thirtie yeeres, and begate sonnes & daughters.",
+            content: "",
         }),
 
         ("genesis", 5, 17) => Some(Verse {
-            content: "And all the dayes of Mahalaleel, were eight hundred ninetie and fiue yeeres, and he died.",
+            content: "",
         }),
 
         ("genesis", 5, 18) => Some(Verse {
-            content: "And Iared liued an hundred sixtie and two yeeres, & he begat Enoch.",
+            content: "",
         }),
 
         ("genesis", 5, 19) => Some(Verse {
-            content: "And Iared liued after he begate Enoch, eight hundred yeres, and begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 5, 20) => Some(Verse {
-            content: "And all the dayes of Iared were nine hundred sixtie and two yeeres, and he died.",
+            content: "",
         }),
 
         ("genesis", 5, 21) => Some(Verse {
-            content: "And Enoch liued sixtie and fiue yeeres, and begate Methuselah.",
+            content: "",
         }),
 
         ("genesis", 5, 22) => Some(Verse {
-            content: "And Enoch walked with God, after he begate Methuselah, three hundred yeeres, and begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 5, 23) => Some(Verse {
-            content: "And all the dayes of Enoch, were three hundred sixtie and fiue yeeres.",
+            content: "",
         }),
 
         ("genesis", 5, 24) => Some(Verse {
-            content: "And Enoch walked with God: and he was not; for God tooke him.",
+            content: "",
         }),
 
         ("genesis", 5, 25) => Some(Verse {
-            content: "And Methuselah liued an hundred eightie and seuen yeeres, and begat Lamech.",
+            content: "",
         }),
 
         ("genesis", 5, 26) => Some(Verse {
-            content: "And Methuselah liued, after hee begate Lamech, seuen hundred, eightie and two yeeres, and begate sonnes and daughters.",
+            content: "",
         }),
 
         ("genesis", 5, 27) => Some(Verse {
-            content: "And all the dayes of Methuselah were nine hundred, sixtie and nine yeeres, and he died.",
+            content: "",
         }),
 
         ("genesis", 5, 28) => Some(Verse {
