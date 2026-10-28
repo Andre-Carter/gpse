@@ -127227,10 +127227,6 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        ("2 esdras", 6, 1) => Some(Verse { 
-            content: "", 
-        }),
-
         ("2 esdras", 6, 2) => Some(Verse { 
             content: "", 
         }),
