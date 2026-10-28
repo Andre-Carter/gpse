@@ -139873,6 +139873,10 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
 
         // THE BOOK OF BARUCH
 
+        ("baruch", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
         _ => None,
     }
 }
