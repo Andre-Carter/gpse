@@ -2281,1315 +2281,1315 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("genesis", 22, 19) => Some(Verse {
-            content: "So Abraham returned vnto his yong men, and they rose vp, and went together to Beer-sheba, and Abraham dwelt at Beer-sheba.",
+            content: "",
         }),
 
         ("genesis", 22, 20) => Some(Verse {
-            content: "And it came to passe after these things, that it was told Abraham, saying, Behold Milcah, shee hath also borne children vnto thy brother Nahor,",
+            content: "",
         }),
 
         ("genesis", 22, 21) => Some(Verse {
-            content: "Huz his first borne, and Buz his brother, and Kemuel the father of Aram,",
+            content: "",
         }),
 
         ("genesis", 22, 22) => Some(Verse {
-            content: "And Chesed, and Hazo, and Pildash, and Iidlaph, and Bethuel.",
+            content: "",
         }),
 
         ("genesis", 22, 23) => Some(Verse {
-            content: "And Bethuel begate Rebekah: these eight Milcah did beare to Nahor, Abrahams brother.",
+            content: "",
         }),
 
         ("genesis", 22, 24) => Some(Verse {
-            content: "And his concubine whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.",
+            content: "",
         }),
 
         ("genesis", 23, 1) => Some(Verse {
-            content: "And Sarah was an hundred and seuen and twenty yeeres olde: these were the yeeres of the life of Sarah.",
+            content: "",
         }),
 
         ("genesis", 23, 2) => Some(Verse {
-            content: "And Sarah died in Kiriath arba, the same is Hebron in the land of Canaan: And Abraham came to mourne for Sarah, and to weepe for her.",
+            content: "",
         }),
 
         ("genesis", 23, 3) => Some(Verse {
-            content: "And Abraham stood vp from before his dead, & spake vnto the sonnes of Heth, saying,",
+            content: "",
         }),
 
         ("genesis", 23, 4) => Some(Verse {
-            content: "I am a stranger and a soiourner with you: giue me a possession of a burying place with you, that I may bury my dead out of my sight.",
+            content: "",
         }),
 
         ("genesis", 23, 5) => Some(Verse {
-            content: "And the children of Heth answered Abraham, saying vnto him,",
+            content: "",
         }),
 
         ("genesis", 23, 6) => Some(Verse {
-            content: "Heare vs, my Lord, thou art a mightie Prince amongst vs: in the choise of our sepulchres bury thy dead: none of vs shall withhold from thee his sepulchre, but that thou mayest bury thy dead.",
+            content: "",
         }),
 
         ("genesis", 23, 7) => Some(Verse {
-            content: "And Abraham stood vp and bowed himselfe to the people of the land, euen to the children of Heth.",
+            content: "",
         }),
 
         ("genesis", 23, 8) => Some(Verse {
-            content: "And hee communed with them, saying, if it be your mind that I should bury my dead out of my sight, heare me, and entreat for me to Ephron the sonne of Zohar:",
+            content: "",
         }),
 
         ("genesis", 23, 9) => Some(Verse {
-            content: "That he may giue me the caue of Machpelah, which he hath, which is in the end of his field: for as much money as it is worth he shall giue it mee, for a possession of a burying place amongst you.",
+            content: "",
         }),
 
         ("genesis", 23, 10) => Some(Verse {
-            content: "And Ephron dwelt amongst the children of Heth. And Ephron the Hittite answered Abraham in the audience of the children of Heth, euen of all that went in at the gates of his citie, saying,",
+            content: "",
         }),
 
         ("genesis", 23, 11) => Some(Verse {
-            content: "Nay, my lord, heare mee: the field giue I thee, and the caue that is therein, I giue it thee, in the presence of the sonnes of my people giue I it thee: bury thy dead.",
+            content: "",
         }),
 
         ("genesis", 23, 12) => Some(Verse {
-            content: "And Abraham bowed downe himselfe before the people of the land.",
+            content: "",
         }),
 
         ("genesis", 23, 13) => Some(Verse {
-            content: "And he spake vnto Ephron in the audience of the people of the land, saying, But if thou wilt giue it, I pray thee, heare mee: I will giue thee money for the field: take it of me, and I will bury my dead there.",
+            content: "",
         }),
 
         ("genesis", 23, 14) => Some(Verse {
-            content: "And Ephron answered Abraham, saying vnto him,",
+            content: "",
         }),
 
         ("genesis", 23, 15) => Some(Verse {
-            content: "My lord, hearken vnto mee: the land is worth foure hundred shekels of siluer: what is that betwixt mee and thee? bury therefore thy dead.",
+            content: "",
         }),
 
         ("genesis", 23, 16) => Some(Verse {
-            content: "And Abraham hearkened vnto Ephron, and Abraham weighed to Ephron the siluer, which he had named, in the audience of the sonnes of Heth, foure hundred shekels of siluer, currant money with the merchant.",
+            content: "",
         }),
 
         ("genesis", 23, 17) => Some(Verse {
-            content: "And the field of Ephron which was in Machpelah, which was before Mamre, the fielde and the caue which was therein, and all the trees that were in the field, that were in all the borders round about, were made sure",
+            content: "",
         }),
 
         ("genesis", 23, 18) => Some(Verse {
-            content: "Unto Abraham for a possession in the presence of the children of Heth, before all that went in at the gates of his Citie.",
+            content: "",
         }),
 
         ("genesis", 23, 19) => Some(Verse {
-            content: "And after this Abraham buried Sarah his wife in the caue of the field of Machpelah, before Mamre: the same is Hebron in the land of Canaan.",
+            content: "",
         }),
 
         ("genesis", 23, 20) => Some(Verse {
-            content: "And the field, and the caue that is therein, were made sure vnto Abraham, for a possession of a burying place, by the sonnes of Heth.",
+            content: "",
         }),
 
         ("genesis", 24, 1) => Some(Verse {
-            content: "And Abraham was olde and well stricken in age: And the LORD had blessed Abraham in all things.",
+            content: "",
         }),
 
         ("genesis", 24, 2) => Some(Verse {
-            content: "And Abraham said vnto his eldest seruant of his house, that ruled ouer all that he had, Put, I pray thee, thy hand vnder my thigh:",
+            content: "",
         }),
 
         ("genesis", 24, 3) => Some(Verse {
-            content: "And I will make thee sweare by the LORD the God of heauen, and the God of the earth, that thou shalt not take a wife vnto my sonne of the daughters of the Canaanites amongst whom I dwell.",
+            content: "",
         }),
 
         ("genesis", 24, 4) => Some(Verse {
-            content: "But thou shalt go vnto my countrey, and to my kinred, and take a wife vnto my sonne Isaac.",
+            content: "",
         }),
 
         ("genesis", 24, 5) => Some(Verse {
-            content: "And the seruant said vnto him, Peraduenture the woman will not bee willing to follow mee vnto this land: must I needes bring thy sonne againe, vnto the land from whence thou camest?",
+            content: "",
         }),
 
         ("genesis", 24, 6) => Some(Verse {
-            content: "And Abraham said vnto him, Beware thou, that thou bring not my sonne thither againe.",
+            content: "",
         }),
 
         ("genesis", 24, 7) => Some(Verse {
-            content: "The LORD God of heauen which tooke mee from my fathers house, and from the land of my kindred, and which spake vnto mee, and that sware vnto me, saying, Unto thy seed will I giue this land, he shall send his Angel before thee, and thou shalt take a wife vnto my sonne from thence.",
+            content: "",
         }),
 
         ("genesis", 24, 8) => Some(Verse {
-            content: "And if the woman wil not be willing to follow thee, then thou shalt bee cleare from this my othe: onely bring not my sonne thither againe.",
+            content: "",
         }),
 
         ("genesis", 24, 9) => Some(Verse {
-            content: "And the seruant put his hand vnder the thigh of Abraham his master, and sware to him concerning that matter.",
+            content: "",
         }),
 
         ("genesis", 24, 10) => Some(Verse {
-            content: "And the seruant tooke ten camels, of the camels of his master, and departed, ( for all the goods of his master were in his hand) and he arose, and went to Mesopotamia, vnto the citie of Nahor.",
+            content: "", 
         }),
 
         ("genesis", 24, 11) => Some(Verse {
-            content: "And he made his camels to kneele downe without the citie, by a well of water, at the time of the euening, euen the time that women goe out to draw water.",
+            content: "",
         }),
 
         ("genesis", 24, 12) => Some(Verse {
-            content: "And he said, O LORD, God of my master Abraham, I pray thee send me good speed this day, and shew kindnesse vnto my master Abraham.",
+            content: "",
         }),
 
         ("genesis", 24, 13) => Some(Verse {
-            content: "Behold, I stand here by the well of water; and the daughters of the men of the Citie come out to draw water:",
+            content: "",
         }),
 
         ("genesis", 24, 14) => Some(Verse {
-            content: "And let it come to passe, that the damsell to whom I shall say, Let downe thy pitcher, I pray thee, that I may drinke, and she shall say, Drinke, and I will giue thy camels drinke also; let the same be shee that thou hast appointed for thy seruant Isaac: and thereby shall I know that thou hast shewed kindnesse vnto my master.",
+            content: "",
         }),
 
         ("genesis", 24, 15) => Some(Verse {
-            content: "And it came to passe before hee had done speaking, that behold, Rebekah came out, who was borne to Bethuel, sonne of Milcah, the wife of Nahor Abrahams brother, with her pitcher vpon her shoulder.",
+            content: "",
         }),
 
         ("genesis", 24, 16) => Some(Verse {
-            content: "And the damsell was very faire to looke vpon, a virgine, neither had any man knowen her; and shee went downe to the wel, and filled her pitcher, and came vp.",
+            content: "",
         }),
 
         ("genesis", 24, 17) => Some(Verse {
-            content: "And the seruant ranne to meete her, and said, Let mee (I pray thee) drinke a little water of thy pitcher.",
+            content: "",
         }),
 
         ("genesis", 24, 18) => Some(Verse {
-            content: "And she said, Drinke, my lord: and she hasted, and let downe her pitcher vpon her hand, and gaue him drinke.",
+            content: "",
         }),
 
         ("genesis", 24, 19) => Some(Verse {
-            content: "And when shee had done giuing him drinke, she said, I will draw water for thy camels also, vntill they haue done drinking.",
+            content: "",
         }),
 
         ("genesis", 24, 20) => Some(Verse {
-            content: "And she hasted and emptied her pitcher into the trough, and ranne againe vnto the well to draw water, and drew for all his camels.",
+            content: "",
         }),
 
         ("genesis", 24, 21) => Some(Verse {
-            content: "And the man wondering at her, helde his peace, to wit, whether the LORD had made his iourney prosperous, or not.",
+            content: "",
         }),
 
         ("genesis", 24, 22) => Some(Verse {
-            content: "And it came to passe as the camels had done drinking, that the man tooke a golden eare-ring, of halfe a shekel weight, & two bracelets for her handes, of ten shekels weight of gold,",
+            content: "",
         }),
 
         ("genesis", 24, 23) => Some(Verse {
-            content: "And said, whose daughter art thou? tell mee, I pray thee: is there roome in thy fathers house for vs to lodge in?",
+            content: "",
         }),
 
         ("genesis", 24, 24) => Some(Verse {
-            content: "And she said vnto him, I am the daughter of Bethuel the sonne of Milcah, which she bare vnto Nahor:",
+            content: "",
         }),
 
         ("genesis", 24, 25) => Some(Verse {
-            content: "She said moreouer vnto him, We haue both straw & prouender ynough, and roome to lodge in.",
+            content: "",
         }),
 
         ("genesis", 24, 26) => Some(Verse {
-            content: "And the man bowed downe his head, and worshipped the LORD.",
+            content: "",
         }),
 
         ("genesis", 24, 27) => Some(Verse {
-            content: "And hee saide, Blessed bee the LORD God of my master Abraham, who hath not left destitute my master of his mercy, and his trueth: I being in the way, the LORD led me to the house of my masters brethren.",
+            content: "",
         }),
 
         ("genesis", 24, 28) => Some(Verse {
-            content: "And the damsell ranne, and told them of her mothers house, these things.",
+            content: "",
         }),
 
         ("genesis", 24, 29) => Some(Verse {
-            content: "And Rebekah had a brother, and his name was Laban: and Laban ranne out vnto the man, vnto the well.",
+            content: "",
         }),
 
         ("genesis", 24, 30) => Some(Verse {
-            content: "And it came to passe when he saw the eare-ring, and bracelets vpon his sisters hands, and when hee heard the wordes of Rebekah his sister, saying, Thus spake the man vnto me, that he came vnto the man; and behold, hee stood by the camels, at the well.",
+            content: "",
         }),
 
         ("genesis", 24, 31) => Some(Verse {
-            content: "And he said, Come in, thou blessed of the LORD, wherefore standest thou without? for I haue prepared the house, and roome for the camels.",
+            content: "",
         }),
 
         ("genesis", 24, 32) => Some(Verse {
-            content: "And the man came into the house: and he vngirded his camels, and gaue straw and prouender for the camels, and water to wash his feet, and the mens feet that were with him.",
+            content: "",
         }),
 
         ("genesis", 24, 33) => Some(Verse {
-            content: "And there was set meat before him to eate: but he said, I will not eate, vntill I haue tolde mine errand. And hee said, Speake on.",
+            content: "",
         }),
 
         ("genesis", 24, 34) => Some(Verse {
-            content: "And he said, I am Abrahams seruant.",
+            content: "",
         }),
 
         ("genesis", 24, 35) => Some(Verse {
-            content: "And the LORD hath blessed my master greatly, and hee is become great: and hee hath giuen him flocks, and heards, and siluer, and gold, and men seruants, and mayd seruants, and camels, and asses.",
+            content: "",
         }),
 
         ("genesis", 24, 36) => Some(Verse {
-            content: "And Sarah my masters wife bare a sonne to my master when shee was old: and vnto him hath hee giuen all that he hath.",
+            content: "",
         }),
 
         ("genesis", 24, 37) => Some(Verse {
-            content: "And my master made me sweare, saying, Thou shalt not take a wife to my sonne, of the daughters of the Canaanites, in whose land I dwell:",
+            content: "",
         }),
 
         ("genesis", 24, 38) => Some(Verse {
-            content: "But thou shalt goe vnto my fathers house, and to my kinred, and take a wife vnto my sonne.",
+            content: "",
         }),
 
         ("genesis", 24, 39) => Some(Verse {
-            content: "And I said vnto my master, Peraduenture the woman will not followe me.",
+            content: "",
         }),
 
         ("genesis", 24, 40) => Some(Verse {
-            content: "And hee saide vnto me, The LORD, before whom I walke, will send his Angel with thee, and prosper thy way: and thou shalt take a wife for my sonne, of my kinred, and of my fathers house.",
+            content: "",
         }),
 
         ("genesis", 24, 41) => Some(Verse {
-            content: "Then shalt thou bee cleare from this my oath, when thou commest to my kinred, and if they giue not thee one, thou shalt be cleare from my oath.",
+            content: "",
         }),
 
         ("genesis", 24, 42) => Some(Verse {
-            content: "And I came this day vnto the well, and said, O LORD God of my master Abraham, if now thou doe prosper my way, which I goe:",
+            content: "",
         }),
 
         ("genesis", 24, 43) => Some(Verse {
-            content: "Behold, I stand by the well of water; and it shall come to passe, that when the virgine commeth foorth to draw water, and I say to her, Giue me, I pray thee, a litle water of thy pitcher to drinke;",
+            content: "",
         }),
 
         ("genesis", 24, 44) => Some(Verse {
-            content: "And she say to me, Both drinke thou, and I will also draw for thy camels: let the same be the woman, whō the LORD hath appointed out for my masters sonne.",
+            content: "",
         }),
 
         ("genesis", 24, 45) => Some(Verse {
-            content: "And before I had done speaking in mine heart, behold, Rebekah came forth, with her pitcher on her shoulder; and she went downe vnto the well, and drew water: and I said vnto her, Let me drinke, I pray thee.",
+            content: "",
         }),
 
         ("genesis", 24, 46) => Some(Verse {
-            content: "And she made haste, & let downe her pitcher from her shoulder, and saide, Drinke, and I will giue thy camels drinke also: so I dranke, and she made the camels drinke also.",
+            content: "",
         }),
 
         ("genesis", 24, 47) => Some(Verse {
-            content: "And I asked her, and said, whose daughter art thou? and she said, The daughter of Bethuel, Nahors sonne, whom Milcah bare vnto him: and I put the earering vpon her face, and the bracelets vpon her hands.",
+            content: "",
         }),
 
         ("genesis", 24, 48) => Some(Verse {
-            content: "And I bowed downe my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led mee in the right way to take my masters brothers daughter vnto his sonne.",
+            content: "",
         }),
 
         ("genesis", 24, 49) => Some(Verse {
-            content: "And now if you wil deale kindly and truely with my master, tell me: and if not, tell me, that I may turne to the right hand, or to the left.",
+            content: "",
         }),
 
         ("genesis", 24, 50) => Some(Verse {
-            content: "Then Laban and Bethuel answered and said, The thing proceedeth from the LORD: we cannot speake vnto thee bad or good.",
+            content: "",
         }),
 
         ("genesis", 24, 51) => Some(Verse {
-            content: "Behold, Rebekah is before thee, take her, and goe, and let her be thy masters sonnes wife, as the LORD hath spoken.",
+            content: "",
         }),
 
         ("genesis", 24, 52) => Some(Verse {
-            content: "And it came to passe, that when Abrahams seruant heard their words, he worshipped the LORD, bowing himselfe to the earth.",
+            content: "",
         }),
 
         ("genesis", 24, 53) => Some(Verse {
-            content: "And the seruant brought foorth iewels of siluer, and iewels of gold, and raiment, and gaue them to Rebekah: He gaue also to her brother, and to her mother precious things.",
+            content: "",
         }),
 
         ("genesis", 24, 54) => Some(Verse {
-            content: "And they did eate and drinke, he and the men that were with him, and taried all night, and they rose vp in the morning, and he said, Send me away vnto my master.",
+            content: "",
         }),
 
         ("genesis", 24, 55) => Some(Verse {
-            content: "And her brother and her mother said, Let the damsell abide with vs a few dayes, at the least ten; after that, she shall goe.",
+            content: "",
         }),
 
         ("genesis", 24, 56) => Some(Verse {
-            content: "And he said vnto them, Hinder me not, seeing the LORD hath prospered my way: send me away, that I may goe to my master.",
+            content: "",
         }),
 
         ("genesis", 24, 57) => Some(Verse {
-            content: "And they said, wee will call the Damsell, and enquire at her mouth.",
+            content: "",
         }),
 
         ("genesis", 24, 58) => Some(Verse {
-            content: "And they called Rebekah, and said vnto her, Wilt thou go with this man? and she said, I will goe.",
+            content: "",
         }),
 
         ("genesis", 24, 59) => Some(Verse {
-            content: "And they sent away Rebekah their sister, and her nurse, and Abrahams seruant, and his men.",
+            content: "",
         }),
 
         ("genesis", 24, 60) => Some(Verse {
-            content: "And they blessed Rebekah, and said vnto her, Thou art our sister, bee thou the mother of thousands of millions, and let thy seed possesse the gate of those which hate them.",
+            content: "",
         }),
 
         ("genesis", 24, 61) => Some(Verse {
-            content: "And Rebekah arose, and her damsels, & they rode vpon the camels, and followed the man: and the seruant tooke Rebekah, and went his way.",
+            content: "",
         }),
 
         ("genesis", 24, 62) => Some(Verse {
-            content: "And Isaac came from the way of the well Lahai-roi, for he dwelt in the South countrey.",
+            content: "",
         }),
 
         ("genesis", 24, 63) => Some(Verse {
-            content: "And Isaac went out, to meditate in the field, at the euentide: and hee lift vp his eyes, and saw, and behold, the camels were comming.",
+            content: "",
         }),
 
         ("genesis", 24, 64) => Some(Verse {
-            content: "And Rebekah lift vp her eyes, and when she saw Isaac, she lighted off the camel.",
+            content: "",
         }),
 
         ("genesis", 24, 65) => Some(Verse {
-            content: "For she had said vnto the seruant, What man is this that walketh in the field to meet vs? and the seruant had said, It is my master: therefore shee tooke a vaile and couered her selfe.",
+            content: "",
         }),
 
         ("genesis", 24, 66) => Some(Verse {
-            content: "And the seruant tolde Isaac all things that he had done.",
+            content: "",
         }),
 
         ("genesis", 24, 67) => Some(Verse {
-            content: "And Isaac brought her into his mother Sarahs tent, and tooke Rebekah, and she became his wife, and he loued her: and Isaac was comforted after his mothers death.",
+            content: "",
         }),
 
         ("genesis", 25, 1) => Some(Verse {
-            content: "Then againe Abraham tooke a wife, & her name was Keturah.",
+            content: "",
         }),
 
         ("genesis", 25, 2) => Some(Verse {
-            content: "And shee bare him Zimran, and Iokshan, and Medan, and Midian, and Ishbak, and Shuah.",
+            content: "",
         }),
 
         ("genesis", 25, 3) => Some(Verse {
-            content: "And Iokshan begat Sheba, and Dedan. And the sonnes of Dedan were Asshurim, and Letushim, and Leummim.",
+            content: "",
         }),
 
         ("genesis", 25, 4) => Some(Verse {
-            content: "And the sonnes of Midian, Ephah, and Epher, and Hanoch, and Abida, and Eldaah: all these were the children of Keturah.",
+            content: "",
         }),
 
         ("genesis", 25, 5) => Some(Verse {
-            content: "And Abraham gaue all that he had, vnto Isaac.",
+            content: "",
         }),
 
         ("genesis", 25, 6) => Some(Verse {
-            content: "But vnto the sonnes of the concubines which Abraham had, Abraham gaue gifts, and sent them away from Isaac his sonne (while he yet liued) Eastward, vnto the East country.",
+            content: "",
         }),
 
         ("genesis", 25, 7) => Some(Verse {
-            content: "And these are the dayes of the yeres of Abrahams life which he liued; an hundred, threescore & fifteene yeeres.",
+            content: "",
         }),
 
         ("genesis", 25, 8) => Some(Verse {
-            content: "Then Abraham gaue vp the ghost, and died in a good old age, an old man, and full of yeeres, and was gathered to his people.",
+            content: "",
         }),
 
         ("genesis", 25, 9) => Some(Verse {
-            content: "And his sonnes Isaac and Ishmael buried him in the caue of Machpelah, in the field of Ephron the sonne of Zohar the Hittite, which is before Mamre;",
+            content: "",
         }),
 
         ("genesis", 25, 10) => Some(Verse {
-            content: "The field which Abraham purchased of the sonnes of Heth: there was Abraham buried, and Sarah his wife.",
+            content: "",
         }),
 
         ("genesis", 25, 11) => Some(Verse {
-            content: "And it came to passe after the death of Abraham, that God blessed his sonne Isaac, and Isaac dwelt by the well Lahai-roi.",
+            content: "",
         }),
 
         ("genesis", 25, 12) => Some(Verse {
-            content: "Now these are the generations of Ishmael Abrahams sonne, whom Hagar the Egyptian Sarahs handmayd, bare vnto Abraham:",
+            content: "",
         }),
 
         ("genesis", 25, 13) => Some(Verse {
-            content: "And these are the names of the sonnes of Ishmael, by their names, according to their generations; The first borne of Ishmael, Nebaioth, and Kedar, and Adbeel, and Mibsam,",
+            content: "",
         }),
 
         ("genesis", 25, 14) => Some(Verse {
-            content: "And Mishma, and Dumah, and Massa,",
+            content: "",
         }),
 
         ("genesis", 25, 15) => Some(Verse {
-            content: "Hadar, and Tema, Ietur, Naphish, and Kedemah.",
+            content: "",
         }),
 
         ("genesis", 25, 16) => Some(Verse {
-            content: "These are the sonnes of Ishmael, and these are their names, by their townes and by their castels; twelue princes according to their nations.",
+            content: "",
         }),
 
         ("genesis", 25, 17) => Some(Verse {
-            content: "And these are the yeeres of the life of Ishmael; an hundred and thirty and seuen yeeres: and he gaue vp the ghost and died, and was gathered vnto his people.",
+            content: "",
         }),
 
         ("genesis", 25, 18) => Some(Verse {
-            content: "And they dwelt from Hauilah vnto Shur, that is before Egypt, as thou goest towards Assyria: and hee died in the presence of all his brethren.",
+            content: "",
         }),
 
         ("genesis", 25, 19) => Some(Verse {
-            content: "And these are the generations of Isaac, Abrahams sonne: Abraham begate Isaac.",
+            content: "",
         }),
 
         ("genesis", 25, 20) => Some(Verse {
-            content: "And Isaac was fortie yeeres old when hee tooke Rebekah to wife, the daughter of Bethuel the Syrian of Padan Aram, the sister to Laban the Syrian.",
+            content: "",
         }),
 
         ("genesis", 25, 21) => Some(Verse {
-            content: "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceiued.",
+            content: "",
         }),
 
         ("genesis", 25, 22) => Some(Verse {
-            content: "And the children struggled together within her; and she said, If it be so, why am I thus? and shee went to enquire of the LORD.",
+            content: "",
         }),
 
         ("genesis", 25, 23) => Some(Verse {
-            content: "And the LORD said vnto her, Two nations are in thy wombe, and two maner of people shall be separated from thy bowels: and the one people shalbe stronger then the other people: and the elder shall serue the yonger.",
+            content: "",
         }),
 
         ("genesis", 25, 24) => Some(Verse {
-            content: "And when her dayes to be deliuered were fulfilled, behold, there were twinnes in her wombe.",
+            content: "",
         }),
 
         ("genesis", 25, 25) => Some(Verse {
-            content: "And the first came out red, all ouer like an hairy garment: and they called his name, Esau.",
+            content: "",
         }),
 
         ("genesis", 25, 26) => Some(Verse {
-            content: "And after that came his brother out, and his hand tooke holde on Esaus heele; and his name was called Iacob: and Isaac was threescore yeres old, when shee bare them.",
+            content: "",
         }),
 
         ("genesis", 25, 27) => Some(Verse {
-            content: "And the boyes grew; and Esau was a cunning hunter, a man of the fielde: and Iacob was a plaine man, dwelling in tents.",
+            content: "",
         }),
 
         ("genesis", 25, 28) => Some(Verse {
-            content: "And Isaac loued Esau, because he did eate of his venison: but Rebekah loued Iacob.",
+            content: "",
         }),
 
         ("genesis", 25, 29) => Some(Verse {
-            content: "And Iacob sod pottage: and Esau came from the field, and hee was faint.",
+            content: "",
         }),
 
         ("genesis", 25, 30) => Some(Verse {
-            content: "And Esau said to Iacob, Feed me, I pray thee, with that same red pottage: for I am faint; therefore was his name called Edom.",
+            content: "",
         }),
 
         ("genesis", 25, 31) => Some(Verse {
-            content: "And Iacob said, Sell me this day thy birthright.",
+            content: "",
         }),
 
         ("genesis", 25, 32) => Some(Verse {
-            content: "And Esau said, Behold, I am at the point to die: and what profit shall this birthright doe to me?",
+            content: "",
         }),
 
         ("genesis", 25, 33) => Some(Verse {
-            content: "And Iacob said, Sweare to mee this day: and he sware to him: and he sold his birthright vnto Iacob.",
+            content: "",
         }),
 
         ("genesis", 25, 34) => Some(Verse {
-            content: "Then Iacob gaue Esau bread and pottage of lentiles; and he did eate and drinke, and rose up, and went his way: thus Esau despised his birthright.",
+            content: "",
         }),
 
         ("genesis", 26, 1) => Some(Verse {
-            content: "And there was a famine in the land, besides the first famine that was in the dayes of Abraham. And Isaac went vnto Abimelech King of the Philistims, vnto Gerar.",
+            content: "",
         }),
 
         ("genesis", 26, 2) => Some(Verse {
-            content: "And the LORD appeared vnto him and said, Goe not downe into Egypt; dwell in the land which I shall tell thee of.",
+            content: "",
         }),
 
         ("genesis", 26, 3) => Some(Verse {
-            content: "Soiourne in this land, and I wil be with thee, and will blesse thee: for vnto thee, and vnto thy seed I will giue all these countreys, and I wil performe the othe, which I sware vnto Abraham thy father.",
+            content: "",
         }),
 
         ("genesis", 26, 4) => Some(Verse {
-            content: "And I wil make thy seed to multiply as the starres of heauen, and will giue vnto thy seed all these countreys: and in thy Seed shall all the nations of the earth be blessed:",
+            content: "",
         }),
 
         ("genesis", 26, 5) => Some(Verse {
-            content: "Because that Abraham obeyed my voyce, and kept my charge, my Commandements, my Statutes and my Lawes.",
+            content: "",
         }),
 
         ("genesis", 26, 6) => Some(Verse {
-            content: "And Isaac dwelt in Gerar.",
+            content: "",
         }),
 
         ("genesis", 26, 7) => Some(Verse {
-            content: "And the men of the place asked him of his wife: and he said, She is my sister: for he feared to say, She is my wife; lest, said he, the men of the place should kill me for Rebekah, because shee was faire to looke vpon.",
+            content: "",
         }),
 
         ("genesis", 26, 8) => Some(Verse {
-            content: "And it came to passe when he had bene there a long time, that Abimelech king of the Philistims looked out at a window, and saw, and behold, Isaac was sporting with Rebekah his wife.",
+            content: "",
         }),
 
         ("genesis", 26, 9) => Some(Verse {
-            content: "And Abimelech called Isaac and said, Behold, of a suretie she is thy wife: and how saidst thou, She is my sister? And Isaac said vnto him, Because I said, Lest I die for her.",
+            content: "",
         }),
 
         ("genesis", 26, 10) => Some(Verse {
-            content: "And Abimelech said, What is this thou hast done vnto vs? one of the people might lightly haue lien with thy wife, and thou shouldest haue brought guiltinesse vpon vs.",
+            content: "",
         }),
 
         ("genesis", 26, 11) => Some(Verse {
-            content: "And Abimelech charged all his people, saying, Hee that toucheth this man or his wife, shall surely bee put to death.",
+            content: "",
         }),
 
         ("genesis", 26, 12) => Some(Verse {
-            content: "Then Isaac sowed in that land, and receiued in the same yeere an hundred fold: & the LORD blessed him.",
+            content: "",
         }),
 
         ("genesis", 26, 13) => Some(Verse {
-            content: "And the man waxed great, and went forward, and grew vntill he became very great.",
+            content: "",
         }),
 
         ("genesis", 26, 14) => Some(Verse {
-            content: "For he had possession of flocks, and possession of heards, and great store of seruants, and the Philistims enuied him.",
+            content: "",
         }),
 
         ("genesis", 26, 15) => Some(Verse {
-            content: "For all the wels which his fathers seruants had digged in the dayes of Abraham his father, the Philistims had stopped them, & filled them with earth.",
+            content: "",
         }),
 
         ("genesis", 26, 16) => Some(Verse {
-            content: "And Abimelech said vnto Isaac, Goe from vs: for thou art much mightier then we.",
+            content: "",
         }),
 
         ("genesis", 26, 17) => Some(Verse {
-            content: "And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there.",
+            content: "",
         }),
 
         ("genesis", 26, 18) => Some(Verse {
-            content: "And Isaac digged againe the wels of water, which they had digged in the dayes of Abraham his father: for the Philistims had stopped them after the death of Abraham, and he called their names after the names by which his father had called them.",
+            content: "",
         }),
 
         ("genesis", 26, 19) => Some(Verse {
-            content: "And Isaacs seruants digged in the valley, and found there a well of springing water.",
+            content: "",
         }),
 
         ("genesis", 26, 20) => Some(Verse {
-            content: "And the heardmen of Gerar did striue with Isaacs heardmen, saying, The water is ours; and hee called the name of the well, Esek, because they stroue with him.",
+            content: "",
         }),
 
         ("genesis", 26, 21) => Some(Verse {
-            content: "And they digged another well, and stroue for that also: and hee called the name of it, Sitnah.",
+            content: "",
         }),
 
         ("genesis", 26, 22) => Some(Verse {
-            content: "And he remoued from thence, and digged another well, and for that they stroue not: and he called the name of it Rehoboth: and he said, For now the LORD hath made roome for vs, and we shall be fruitfull in the land.",
+            content: "",
         }),
 
         ("genesis", 26, 23) => Some(Verse {
-            content: "And he went vp from thence to Beer-sheba.",
+            content: "",
         }),
 
         ("genesis", 26, 24) => Some(Verse {
-            content: "And the LORD appeared vnto him the same night, and saide, I am the God of Abraham thy father: feare not, for I am with thee, and will blesse thee, and multiply thy seede, for my seruant Abrahams sake.",
+            content: "",
         }),
 
         ("genesis", 26, 25) => Some(Verse {
-            content: "And he builded an altar there, and called vpon the name of the LORD, and pitched his tent there: and there Isaacs seruants digged a well.",
+            content: "",
         }),
 
         ("genesis", 26, 26) => Some(Verse {
-            content: "Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chiefe captaine of his armie.",
+            content: "",
         }),
 
         ("genesis", 26, 27) => Some(Verse {
-            content: "And Isaac saide vnto them, Wherefore come ye to me, seeing ye hate me, and haue sent me away from you?",
+            content: "",
         }),
 
         ("genesis", 26, 28) => Some(Verse {
-            content: "And they said, we saw certainly that the LORD was with thee: and wee said, Let there be now an othe betwixt vs, euen betwixt vs and thee, and let vs make a couenant with thee,",
+            content: "",
         }),
 
         ("genesis", 26, 29) => Some(Verse {
-            content: "That thou wilt doe vs no hurt, as we haue not touched thee, and as we haue done vnto thee nothing but good, and haue sent thee away in peace: thou art now the blessed of the LORD.",
+            content: "",
         }),
 
         ("genesis", 26, 30) => Some(Verse {
-            content: "And he made them a feast, and they did eate and drinke.",
+            content: "",
         }),
 
         ("genesis", 26, 31) => Some(Verse {
-            content: "And they rose vp betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace.",
+            content: "",
         }),
 
         ("genesis", 26, 32) => Some(Verse {
-            content: "And it came to passe the same day, that Isaacs seruants came, and tolde him concerning the well which they had digged, and said vnto him, we haue found water.",
+            content: "",
         }),
 
         ("genesis", 26, 33) => Some(Verse {
-            content: "And he called it Shebah: therefore the name of the citie is Beer-sheba vnto this day.",
+            content: "",
         }),
 
         ("genesis", 26, 34) => Some(Verse {
-            content: "And Esau was forty yeeres old, when he tooke to wife Iudith, the daughter of Beeri the Hittite, and Bashemath the daughter of Elon the Hittite:",
+            content: "",
         }),
 
         ("genesis", 26, 35) => Some(Verse {
-            content: "Which were a griefe of minde vnto Isaac and to Rebekah.",
+            content: "",
         }),
 
         ("genesis", 27, 1) => Some(Verse {
-            content: "And it came to passe that when Isaac was old, and his eyes were dimme, so that he could not see, hee called Esau his eldest son, and said vnto him, My sonne. And hee said vnto him, Behold, here am I.",
+            content: "",
         }),
 
         ("genesis", 27, 2) => Some(Verse {
-            content: "And he said, Behold now, I am old, I know not the day of my death.",
+            content: "",
         }),
 
         ("genesis", 27, 3) => Some(Verse {
-            content: "Now therefore take, I pray thee, thy weapons, thy quiuer, and thy bow, and goe out to the field, and take mee some venison.",
+            content: "",
         }),
 
         ("genesis", 27, 4) => Some(Verse {
-            content: "And make me sauoury meat, such as I loue, and bring it to mee, that I may eate, that my soule may blesse thee before I die.",
+            content: "",
         }),
 
         ("genesis", 27, 5) => Some(Verse {
-            content: "And Rebekah heard when Isaac spake to Esau his sonne: and Esau went to the fielde to hunt for venison, and to bring it.",
+            content: "",
         }),
 
         ("genesis", 27, 6) => Some(Verse {
-            content: "And Rebekah spake vnto Iacob her sonne, saying, Behold, I heard thy father speake vnto Esau thy brother, saying,",
+            content: "",
         }),
 
         ("genesis", 27, 7) => Some(Verse {
-            content: "Bring me venison, and make mee sauoury meat, that I may eate, and blesse thee before the LORD, before my death.",
+            content: "",
         }),
 
         ("genesis", 27, 8) => Some(Verse {
-            content: "Now therefore, my sonne, obey my voyce, according to that which I command thee.",
+            content: "",
         }),
 
         ("genesis", 27, 9) => Some(Verse {
-            content: "Goe now to the flocke, and fetch me from thence two good kids of the goates, and I will make them sauoury meat for thy father, such as he loueth.",
+            content: "",
         }),
 
         ("genesis", 27, 10) => Some(Verse {
-            content: "And thou shalt bring it to thy father, that he may eate, and that he may blesse thee, before his death.",
+            content: "",
         }),
 
         ("genesis", 27, 11) => Some(Verse {
-            content: "And Iacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man.",
+            content: "",
         }),
 
         ("genesis", 27, 12) => Some(Verse {
-            content: "My father peraduenture will feele me, and I shall seeme to him as a deceiuer, and I shall bring a curse vpon me, and not a blessing.",
+            content: "",
         }),
 
         ("genesis", 27, 13) => Some(Verse {
-            content: "And his mother said vnto him, Upon me be thy curse, my sonne: onely obey my voice, and go fetch me them.",
+            content: "",
         }),
 
         ("genesis", 27, 14) => Some(Verse {
-            content: "And hee went, and fetched, and brought them to his mother, and his mother made sauoury meat, such as his father loued.",
+            content: "",
         }),
 
         ("genesis", 27, 15) => Some(Verse {
-            content: "And Rebekah tooke goodly raiment of her eldest sonne Esau, which were with her in the house, and put them vpon Iacob her yonger sonne:",
+            content: "",
         }),
 
         ("genesis", 27, 16) => Some(Verse {
-            content: "And shee put the skinnes of the kids of the goats vpon his hands, and vpon the smooth of his necke.",
+            content: "",
         }),
 
         ("genesis", 27, 17) => Some(Verse {
-            content: "And she gaue the sauoury meate, and the bread, which she had prepared, into the hand of her sonne Iacob.",
+            content: "",
         }),
 
         ("genesis", 27, 18) => Some(Verse {
-            content: "And he came vnto his father, and said, My father: And he said, Here am I: who art thou, my sonne?",
+            content: "",
         }),
 
         ("genesis", 27, 19) => Some(Verse {
-            content: "And Iacob said vnto his father, I am Esau, thy first borne; I haue done according as thou badest mee: arise, I pray thee, sit, and eate of my venison, that thy soule may blesse me.",
+            content: "",
         }),
 
         ("genesis", 27, 20) => Some(Verse {
-            content: "And Isaac said vnto his sonne, How is it that thou hast found it so quickly, my sonne? And he said, Because the LORD thy God brought it to me.",
+            content: "",
         }),
 
         ("genesis", 27, 21) => Some(Verse {
-            content: "And Isaac saide vnto Iacob, Come neere, I pray thee, that I may feele thee, my sonne, whether thou bee my very sonne Esau, or not.",
+            content: "",
         }),
 
         ("genesis", 27, 22) => Some(Verse {
-            content: "And Iacob went neere vnto Isaac his father: and hee felt him, and said, The voyce is Iacobs voyce, but the hands are the hands of Esau.",
+            content: "",
         }),
 
         ("genesis", 27, 23) => Some(Verse {
-            content: "And he discerned him not, because his hands were hairie, as his brother Esaus hands: So he blessed him.",
+            content: "",
         }),
 
         ("genesis", 27, 24) => Some(Verse {
-            content: "And he said, Art thou my very sonne Esau? and he said, I am.",
+            content: "",
         }),
 
         ("genesis", 27, 25) => Some(Verse {
-            content: "And he said, Bring it neere to me, and I will eate of my sonnes venison, that my soule may blesse thee: and hee brought it neere to him, and he did eate: and he brought him wine, & he dranke.",
+            content: "",
         }),
 
         ("genesis", 27, 26) => Some(Verse {
-            content: "And his father Isaac saide vnto him, Come neere now, and kisse me, my sonne.",
+            content: "",
         }),
 
         ("genesis", 27, 27) => Some(Verse {
-            content: "And hee came neere, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my sonne is as the smell of a field, which the LORD hath blessed.",
+            content: "",
         }),
 
         ("genesis", 27, 28) => Some(Verse {
-            content: "Therefore God giue thee of the dew of heauen, and the fatnesse of the earth, and plenty of corne and wine.",
+            content: "",
         }),
 
         ("genesis", 27, 29) => Some(Verse {
-            content: "Let people serue thee, and nations bow downe to thee: bee lord ouer thy brethren, & let thy mothers sonnes bow downe to thee: Cursed bee euery one that curseth thee, and blessed be hee that blesseth thee.",
+            content: "",
         }),
 
         ("genesis", 27, 30) => Some(Verse {
-            content: "And it came to passe, as soone as Isaac had made an ende of blessing Iacob, and Iacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.",
+            content: "",
         }),
 
         ("genesis", 27, 31) => Some(Verse {
-            content: "And hee also had made sauoury meate, and brought it vnto his father, and said vnto his father, Let my father arise, and eat of his sonnes venison, that thy soule may blesse me.",
+            content: "",
         }),
 
         ("genesis", 27, 32) => Some(Verse {
-            content: "And Isaac his father said vnto him, Who art thou? and he said, I am thy sonne, thy first borne Esau.",
+            content: "",
         }),
 
         ("genesis", 27, 33) => Some(Verse {
-            content: "And Isaac trembled very exceedingly, and said, Who? Where is he that hath taken venison, and brought it me, and I haue eaten of all before thou camest, and haue blessed him? yea and he shalbe blessed.",
+            content: "",
         }),
 
         ("genesis", 27, 34) => Some(Verse {
-            content: "And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said vnto his father, Blesse mee, euen me also, O my father.",
+            content: "",
         }),
 
         ("genesis", 27, 35) => Some(Verse {
-            content: "And hee said, Thy brother came with subtilty, and hath taken away thy blessing.",
+            content: "",
         }),
 
         ("genesis", 27, 36) => Some(Verse {
-            content: "And he said, Is not he rightly naned Iacob? for he hath supplanted me these two times: hee tooke away my birthright, and behold, now he hath taken away my blessing: and hee said, Hast thou not reserued a blessing for mee?",
+            content: "",
         }),
 
         ("genesis", 27, 37) => Some(Verse {
-            content: "And Isaac answered and saide vnto Esau, Behold, I haue made him thy lord, and all his brethren haue I giuen to him for seruants: and with corne and wine haue I susteined him: and what shall I doe now vnto thee, my sonne?",
+            content: "",
         }),
 
         ("genesis", 27, 38) => Some(Verse {
-            content: "And Esau said vnto his father, Hast thou but one blessing, my father? blesse mee, euen mee also, O my father. And Esau lift vp his voyce, and wept.",
+            content: "",
         }),
 
         ("genesis", 27, 39) => Some(Verse {
-            content: "And Isaac his father answered, and said vnto him, Behold, thy dwelling shall be the fatnesse of the earth, and of the dew of heauen from aboue.",
+            content: "",
         }),
 
         ("genesis", 27, 40) => Some(Verse {
-            content: "And by thy sword shalt thou liue, and shalt serue thy brother: and it shall come to passe when thou shalt haue the dominion, that thou shalt breake his yoke from off thy necke.",
+            content: "",
         }),
 
         ("genesis", 27, 41) => Some(Verse {
-            content: "And Esau hated Iacob, because of the blessing, wherewith his father blessed him: and Esau said in his heart, The dayes of mourning for my father are at hand; then will I slay my brother Iacob.",
+            content: "",
         }),
 
         ("genesis", 27, 42) => Some(Verse {
-            content: "And these words of Esau her elder sonne were told to Rebekah: And shee sent and called Iacob her yonger sonne, and said vnto him, Behold, thy brother Esau, as touching thee, doeth comfort himselfe, purposing to kill thee.",
+            content: "",
         }),
 
         ("genesis", 27, 43) => Some(Verse {
-            content: "Now therefore my sonne, obey my voice: and arise, flee thou to Laban my brother, to Haran.",
+            content: "",
         }),
 
         ("genesis", 27, 44) => Some(Verse {
-            content: "And tary with him a few dayes, vntill thy brothers furie turne away;",
+            content: "",
         }),
 
         ("genesis", 27, 45) => Some(Verse {
-            content: "Untill thy brothers anger turne away from thee, and hee forget that, which thou hast done to him: then I will send, and fetch thee from thence: why should I be depriued also of you both in one day?",
+            content: "",
         }),
 
         ("genesis", 27, 46) => Some(Verse {
-            content: "And Rebekah said to Isaac, I am weary of my life, because of the daughters of Heth: If Iacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life doe me?",
+            content: "",
         }),
 
         ("genesis", 28, 1) => Some(Verse {
-            content: "And Isaac called Iacob, and blessed him, and charged him, and saide vnto him, Thou shalt not take a wife, of the daughters of Canaan.",
+            content: "",
         }),
 
         ("genesis", 28, 2) => Some(Verse {
-            content: "Arise, goe to Padan Aram, to the house of Bethuel thy mothers father, and take thee a wife from thence, of the daughters of Laban thy mothers brother.",
+            content: "",
         }),
 
         ("genesis", 28, 3) => Some(Verse {
-            content: "And God Almighty blesse thee, and make thee fruitfull, and multiply thee, that thou mayest be a multitude of people:",
+            content: "",
         }),
 
         ("genesis", 28, 4) => Some(Verse {
-            content: "And giue thee the blessing of Abraham, to thee and to thy seede with thee, that thou mayest inherit the lande wherein thou art a stranger, which God gaue vnto Abraham.",
+            content: "",
         }),
 
         ("genesis", 28, 5) => Some(Verse {
-            content: "And Isaac sent away Iacob, and hee went to Padan-Aram vnto Laban, sonne of Bethuel the Syrian, the brother of Rebekah, Iacobs and Esaus mother.",
+            content: "",
         }),
 
         ("genesis", 28, 6) => Some(Verse {
-            content: "When Esau sawe that Isaac had blessed Iacob, and sent him away to Padan-Aram, to take him a wife from thence; and that as he blessed him, he gaue him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;",
+            content: "",
         }),
 
         ("genesis", 28, 7) => Some(Verse {
-            content: "And that Iacob obeyed his father, and his mother, and was gone to Padan-Aram;",
+            content: "",
         }),
 
         ("genesis", 28, 8) => Some(Verse {
-            content: "And Esau seeing that the daughters of Canaan pleased not Isaac his father.",
+            content: "",
         }),
 
         ("genesis", 28, 9) => Some(Verse {
-            content: "Then went Esau vnto Ishmael, and tooke vnto the wiues which hee had, Mahalath the daughter of Ishmael Abrahams sonne, the sister of Nebaioth, to be his wife.",
+            content: "",
         }),
 
         ("genesis", 28, 10) => Some(Verse {
-            content: "And Iacob went out from Beer-sheba, and went toward Haran.",
+            content: "",
         }),
 
         ("genesis", 28, 11) => Some(Verse {
-            content: "And hee lighted vpon a certaine place, and taried there all night, because the sunne was set: and hee tooke of the stones of that place, and put them for his pillowes, and lay downe in that place to sleepe.",
+            content: "",
         }),
 
         ("genesis", 28, 12) => Some(Verse {
-            content: "And he dreamed, and beholde, a ladder set vp on the earth, and the top of it reached to heauen: and beholde the Angels of God ascending and descending on it.",
+            content: "",
         }),
 
         ("genesis", 28, 13) => Some(Verse {
-            content: "And behold, the LORD stood aboue it, and said, I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I giue it, and to thy seede.",
+            content: "",
         }),
 
         ("genesis", 28, 14) => Some(Verse {
-            content: "And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the West, and to the East, and to the North, and to the South: and in thee, and in thy seed, shall all the families of the earth be blessed.",
+            content: "",
         }),
 
         ("genesis", 28, 15) => Some(Verse {
-            content: "And behold, I am with thee, and will keepe thee in all places whither thou goest, and will bring thee againe into this land: for I will not leaue thee, vntill I haue done that which I haue spoken to thee of.",
+            content: "",
         }),
 
         ("genesis", 28, 16) => Some(Verse {
-            content: "And Iacob awaked out of his sleepe, and he said, Surely the LORD is in this place, and I knew it not.",
+            content: "",
         }),
 
         ("genesis", 28, 17) => Some(Verse {
-            content: "And he was afraid, and said, How dreadful is this place? this is none other, but the house of God, and this is the gate of heauen.",
+            content: "",
         }),
 
         ("genesis", 28, 18) => Some(Verse {
-            content: "And Iacob rose vp earely in the morning, and tooke the stone that hee had put for his pillowes, and set it vp for a pillar, and powred oile vpon the top of it.",
+            content: "",
         }),
 
         ("genesis", 28, 19) => Some(Verse {
-            content: "And hee called the name of that place Beth-el: but the name of that citie was called Luz, at the first.",
+            content: "",
         }),
 
         ("genesis", 28, 20) => Some(Verse {
-            content: "And Iacob vowed a vow, saying, If God will be with me, and will keepe me in this way that I goe, and will giue me bread to eate, and raiment to put on,",
+            content: "",
         }),
 
         ("genesis", 28, 21) => Some(Verse {
-            content: "So that I come againe to my fathers house in peace: then shall the LORD be my God.",
+            content: "",
         }),
 
         ("genesis", 28, 22) => Some(Verse {
-            content: "And this stone which I haue set for a pillar, shall be Gods house: and of all that thou shalt giue me, I will surely giue the tenth vnto thee.",
+            content: "",
         }),
 
         ("genesis", 29, 1) => Some(Verse {
-            content: "Then Iacob went on his iourney, and came into the land of the people of the East.",
+            content: "",
         }),
 
         ("genesis", 29, 2) => Some(Verse {
-            content: "And he looked, and behold, a well in the field, and loe, there were three flocks of sheepe lying by it: for out of that wel they watered the flocks: and a great stone was vpon the welles mouth.",
+            content: "",
         }),
 
         ("genesis", 29, 3) => Some(Verse {
-            content: "And thither were all the flockes gathered, and they rolled the stone from the wels mouth, & watered the sheepe, and put the stone againe vpon the wels mouth in his place.",
+            content: "",
         }),
 
         ("genesis", 29, 4) => Some(Verse {
-            content: "And Iacob said vnto them, My brethren, whence be ye? and they saide, Of Haran are we.",
+            content: "",
         }),
 
         ("genesis", 29, 5) => Some(Verse {
-            content: "And he said vnto them, Know ye Laban the sonne of Nahor? And they sayde, We knowe him.",
+            content: "",
         }),
 
         ("genesis", 29, 6) => Some(Verse {
-            content: "And he said vnto them, Is hee well? and they said, He is well: and behold, Rachel his daughter commeth with the sheepe.",
+            content: "",
         }),
 
         ("genesis", 29, 7) => Some(Verse {
-            content: "And hee said, Loe, it is yet high day, neither is it time that the cattell should be gathered together: water yee the sheepe, and goe and feed them.And hee said, Loe, it is yet high day, neither is it time that the cattell should be gathered together: water yee the sheepe, and goe and feed them.",
+            content: "",
         }),
 
         ("genesis", 29, 8) => Some(Verse {
-            content: "And they said, We cannot, vntill all the flockes bee gathered together, and till they rolle the stone from the welles mouth: then wee water the sheepe.",
+            content: "",
         }),
 
         ("genesis", 29, 9) => Some(Verse {
-            content: "And while hee yet spake with them, Rachel came with her fathers sheepe: for she kept them.",
+            content: "",
         }),
 
         ("genesis", 29, 10) => Some(Verse {
-            content: "And it came to passe, when Iacob saw Rachel the daughter of Laban his mothers brother, and the sheepe of Laban his mothers brother; that Iacob went neere, and rolled the stone from the wels mouth, and watered the flocke of Laban his mothers brother.",
+            content: "",
         }),
 
         ("genesis", 29, 11) => Some(Verse {
-            content: "And Iacob kissed Rachel, and lifted vp his voyce, and wept.",
+            content: "",
         }),
 
         ("genesis", 29, 12) => Some(Verse {
-            content: "And Iacob told Rachel, that hee was her fathers brother, and that hee was Rebekahs sonne: and she ranne, and told her father.",
+            content: "",
         }),
 
         ("genesis", 29, 13) => Some(Verse {
-            content: "And it came to passe, when Laban heard the tidings of Iacob his sisters sonne, that he ranne to meete him, and imbraced him, and kissed him, & brought him to his house: and hee tolde Laban all these things.",
+            content: "",
         }),
 
         ("genesis", 29, 14) => Some(Verse {
-            content: "And Laban said to him, Surely thou art my bone and my flesh: and he abode with him the space of a moneth.",
+            content: "",
         }),
 
         ("genesis", 29, 15) => Some(Verse {
-            content: "And Laban said vnto Iacob, Because thou art my brother, shouldest thou therefore serue me for nought? tell me, what shall thy wages be?",
+            content: "",
         }),
 
         ("genesis", 29, 16) => Some(Verse {
-            content: "And Laban had two daughters: the name of the elder was Leah, and the name of the yonger was Rachel.",
+            content: "",
         }),
 
         ("genesis", 29, 17) => Some(Verse {
-            content: "Leah was tender eyed: but Rachel was beautiful and well fauoured.",
+            content: "",
         }),
 
         ("genesis", 29, 18) => Some(Verse {
-            content: "And Iacob loued Rachel, and said, I will serue thee seuen yeeres for Rachel thy yonger daughter.",
+            content: "",
         }),
 
         ("genesis", 29, 19) => Some(Verse {
-            content: "And Laban said, It is better that I giue her to thee, then that I should giue her to another man: abide with mee.",
+            content: "",
         }),
 
         ("genesis", 29, 20) => Some(Verse {
-            content: "And Iacob serued seuen yeeres for Rachel: and they seemed vnto him but a few dayes, for the loue hee had to her.",
+            content: "",
         }),
 
         ("genesis", 29, 21) => Some(Verse {
-            content: "And Iacob said vnto Laban, Giue me my wife (for my dayes are fulfilled) that I may goe in vnto her.",
+            content: "",
         }),
 
         ("genesis", 29, 22) => Some(Verse {
-            content: "And Laban gathered together all the men of the place, and made a feast.",
+            content: "",
         }),
 
         ("genesis", 29, 23) => Some(Verse {
-            content: "And it came to passe in the euening, that he tooke Leah his daughter, and brought her to him, and he went in vnto her.",
+            content: "",
         }),
 
         ("genesis", 29, 24) => Some(Verse {
-            content: "And Laban gaue vnto his daughter Leah, Zilpah his mayde, for a handmayd.",
+            content: "",
         }),
 
         ("genesis", 29, 25) => Some(Verse {
-            content: "And it came to passe, that in the morning, behold it was Leah: and he said to Laban, What is this thou hast done vnto mee? did not I serue with thee for Rachel? wherefore then hast thou beguiled me?",
+            content: "",
         }),
 
         ("genesis", 29, 26) => Some(Verse {
-            content: "And Laban said, It must not be so done in our countrey, to giue the yonger, before the first borne.",
+            content: "",
         }),
 
         ("genesis", 29, 27) => Some(Verse {
-            content: "Fulfill her weeke, and wee will giue thee this also, for the seruice which thou shalt serue with mee, yet seuen other yeeres.",
+            content: "",
         }),
 
         ("genesis", 29, 28) => Some(Verse {
-            content: "And Iacob did so, and fulfilled her weeke: and he gaue him Rachel his daughter to wife also.",
+            content: "",
         }),
 
         ("genesis", 29, 29) => Some(Verse {
-            content: "And Laban gaue to Rachel his daughter, Bilhah his handmayd, to be her mayd.",
+            content: "",
         }),
 
         ("genesis", 29, 30) => Some(Verse {
-            content: "And hee went in also vnto Rachel, and he loued also Rachel more then Leah, and serued with him yet seuen other yeeres.",
+            content: "",
         }),
 
         ("genesis", 29, 31) => Some(Verse {
-            content: "And when the LORD saw that Leah was hated, hee opened her wombe: but Rachel was barren.",
+            content: "",
         }),
 
         ("genesis", 29, 32) => Some(Verse {
-            content: "And Leah conceiued and bare a sonne, and shee called his name Reuben: for she said, Surely, the LORD hath looked vpon my affliction; now therefore my husband will loue me.",
+            content: "",
         }),
 
         ("genesis", 29, 33) => Some(Verse {
-            content: "And shee conceiued againe, and bare a sonne, and saide, Because the LORD hath heard that I was hated, hee hath therefore giuen mee this sonne also, and she called his name Simeon.",
+            content: "",
         }),
 
         ("genesis", 29, 34) => Some(Verse {
-            content: "And shee conceiued againe, and bare a sonne, and said, Now this time will my husband be ioyned vnto me, because I haue borne him three sonnes: therefore was his name called Leui.",
+            content: "",
         }),
 
         ("genesis", 29, 35) => Some(Verse {
-            content: "And shee conceiued againe, and bare a sonne: and she said, Now wil I praise the LORD: therefore she called his name Iudah, and left bearing.",
+            content: "",
         }),
 
         ("genesis", 30, 1) => Some(Verse {
-            content: "And when Rachel saw that shee bare Iacob no children, Rachel enuied her sister, and said vnto Iacob, Giue mee children, or els I die.",
+            content: "",
         }),
 
         ("genesis", 30, 2) => Some(Verse {
-            content: "And Iacobs anger was kindled against Rachel, and he said, Am I in Gods stead, who hath withheld from thee the fruit of the wombe?",
+            content: "",
         }),
 
         ("genesis", 30, 3) => Some(Verse {
-            content: "And she said, Behold my mayde Bilhah: goe in vnto her, and she shall beare vpon my knees, that I may also have children by her.",
+            content: "",
         }),
 
         ("genesis", 30, 4) => Some(Verse {
-            content: "And shee gaue him Bilhah her handmayd to wife: and Iacob went in vnto her.",
+            content: "",
         }),
 
         ("genesis", 30, 5) => Some(Verse {
-            content: "And Bilhah conceiued and bare Iacob a sonne.",
+            content: "",
         }),
 
         ("genesis", 30, 6) => Some(Verse {
-            content: "And Rachel said, God hath iudged me, and hath also heard my voyce, and hath giuen me a sonne; therefore called she his name Dan.",
+            content: "",
         }),
 
         ("genesis", 30, 7) => Some(Verse {
-            content: "And Bilhah Rachels mayd conceiued againe, and bare Iacob a second sonne.",
+            content: "",
         }),
 
         ("genesis", 30, 8) => Some(Verse {
-            content: "And Rachel saide, With great wrastlings haue I wrastled with my sister, and I haue preuailed: and she called his name Naphtali.",
+            content: "",
         }),
 
         ("genesis", 30, 9) => Some(Verse {
-            content: "When Leah saw that she had left bearing, shee tooke Zilpah her mayde, and gaue her Iacob to wife.",
+            content: "",
         }),
 
         ("genesis", 30, 10) => Some(Verse {
-            content: "And Zilpah Leahs mayde bare Iacob a sonne.",
+            content: "",
         }),
 
         ("genesis", 30, 11) => Some(Verse {
-            content: "And Leah said, A troupe commeth: and she called his name Gad.",
+            content: "",
         }),
 
         ("genesis", 30, 12) => Some(Verse {
-            content: "And Zilpah Leahs mayde bare Iacob a second sonne.",
+            content: "",
         }),
 
         ("genesis", 30, 13) => Some(Verse {
-            content: "And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher.",
+            content: "",
         }),
 
         ("genesis", 30, 14) => Some(Verse {
-            content: "And Reuben went in the dayes of wheat haruest, & found Mandrakes in the field, and brought them vnto his mother Leah. Then Rachel saide to Leah, Giue me, I pray thee, of thy sonnes Mandrakes.",
+            content: "",
         }),
 
         ("genesis", 30, 15) => Some(Verse {
-            content: "And shee said vnto her, Is it a small matter, that thou hast taken my husband? and wouldst thou take away my sonnes Mandrakes also? and Rachel said, Therefore hee shall lye with thee to night, for thy sonnes Mandrakes.",
+            content: "",
         }),
 
         ("genesis", 30, 16) => Some(Verse {
-            content: "And Iacob came out of the field in the euening, and Leah went out to meet him, and said, Thou must come in vnto mee: for surely I haue hired thee with my sonnes Mandrakes. And hee lay with her that night.",
+            content: "",
         }),
 
         ("genesis", 30, 17) => Some(Verse {
-            content: "And God hearkened vnto Leah, and she conceiued, and bare Iacob the fift sonne.",
+            content: "",
         }),
 
         ("genesis", 30, 18) => Some(Verse {
-            content: "And Leah said, God hath giuen mee my hire, because I haue giuen my mayden to my husband: and she called his name Issachar.",
+            content: "",
         }),
 
         ("genesis", 30, 19) => Some(Verse {
-            content: "And Leah conceiued againe, and bare Iacob the sixth sonne.",
+            content: "",
         }),
 
         ("genesis", 30, 20) => Some(Verse {
-            content: "And Leah said, God hath endued me with a good dowry: Now will my husband dwel with me, because I haue borne him sixe sonnes: and shee called his name Zebulun.",
+            content: "",
         }),
 
         ("genesis", 30, 21) => Some(Verse {
-            content: "And afterwardes shee bare a daughter, and called her name Dinah.",
+            content: "",
         }),
 
         ("genesis", 30, 22) => Some(Verse {
-            content: "And God remembred Rachel, and God hearkened to her, and opened her wombe.",
+            content: "",
         }),
 
         ("genesis", 30, 23) => Some(Verse {
-            content: "And shee conceiued and bare a sonne, and said; God hath taken away my reproch:",
+            content: "",
         }),
 
         ("genesis", 30, 24) => Some(Verse {
-            content: "And shee called his name Ioseph, and saide, The LORD shall adde to me another sonne.",
+            content: "",
         }),
 
         ("genesis", 30, 25) => Some(Verse {
-            content: "And it came to passe when Rachel had borne Ioseph, that Iacob said vnto Laban, Send me away, that I may goe vnto mine owne place, and to my countrey.",
+            content: "",
         }),
 
         ("genesis", 30, 26) => Some(Verse {
-            content: "Giue mee my wiues and my children, for whom I haue serued thee, and let me goe: for thou knowest my seruice which I haue done thee.",
+            content: "",
         }),
 
         ("genesis", 30, 27) => Some(Verse {
-            content: "And Laban said vnto him, I pray thee, if I haue found fauour in thine eyes, tary: for I haue learned by experience, that the LORD hath blessed me for thy sake.",
+            content: "",
         }),
 
         ("genesis", 30, 28) => Some(Verse {
-            content: "And he said, Appoint me thy wages, and I will giue it.",
+            content: "",
         }),
 
         ("genesis", 30, 29) => Some(Verse {
-            content: "And hee said vnto him, Thou knowest how I haue serued thee, and how thy cattell was with me.",
+            content: "",
         }),
 
         ("genesis", 30, 30) => Some(Verse {
-            content: "For it was little which thou hadst before I came; and it is now increased vnto a multitude; and the LORD hath blessed thee since my comming: and now when shall I prouide for mine owne house also?",
+            content: "",
         }),
 
         ("genesis", 30, 31) => Some(Verse {
-            content: "And hee said, what shall I giue thee? and Iacob said, Thou shalt not giue me any thing; if thou wilt doe this thing for mee, I will againe feed and keepe thy flocke.",
+            content: "",
         }),
 
         ("genesis", 30, 32) => Some(Verse {
-            content: "I will passe through all thy flocke to day, remoouing from thence all the speckled and spotted cattell: and all the browne cattell among the sheepe, and the spotted and speckled among the goates, and of such shalbe my hire.",
+            content: "",
         }),
 
         ("genesis", 30, 33) => Some(Verse {
-            content: "So shall my righteousnesse answere for mee in time to come, when it shall come for my hire, before thy face: euery one that is not speckled and spotted amongst the goates, and browne amongst the sheepe, that shalbe counted stollen with me.",
+            content: "",
         }),
 
         ("genesis", 30, 34) => Some(Verse {
-            content: "And Laban saide, Beholde, I would it might bee according to thy word.",
+            content: "",
         }),
 
         ("genesis", 30, 35) => Some(Verse {
-            content: "And he remoued that day the hee goates that were ring-straked, and spotted, and all the shee goats that were speckled and spotted, and euery one that had some white in it, and all the browne amongst the sheepe, and gaue them into the hand of his sonnes.",
+            content: "",
         }),
 
         ("genesis", 30, 36) => Some(Verse {
-            content: "And hee set three dayes iourney betwixt himselfe and Iacob: and Iacob fed the rest of Labans flocks.",
+            content: "",
         }),
 
         ("genesis", 30, 37) => Some(Verse {
-            content: "And Iacob tooke him rods of greene poplar, and of the hasel and chesnut tree, and pilled white strakes in them, and made the white appeare which was in the rods.",
+            content: "",
         }),
 
         ("genesis", 30, 38) => Some(Verse {
-            content: "And he set the rods which he had pilled, before the flockes in the gutters in the watering troughes when the flocks came to drinke, that they should conceiue when they came to drinke.",
+            content: "",
         }),
 
         ("genesis", 30, 39) => Some(Verse {
-            content: "And the flockes conceiued before the rods, and brought forth cattell ringstraked, speckled and spotted.",
+            content: "",
         }),
 
         ("genesis", 30, 40) => Some(Verse {
-            content: "And Iacob did separate the lambes, and set the faces of the flockes toward the ring-straked, and all the browne in the flocke of Laban: and he put his owne flocks by themselues, and put them not vnto Labans cattell.",
+            content: "",
         }),
 
         ("genesis", 30, 41) => Some(Verse {
-            content: "And it came to passe whensoeuer the stronger cattell did conceiue, that Iacob layd the rods before the eyes of the cattell in the gutters, that they might conceiue among the rods.",
+            content: "",
         }),
 
         ("genesis", 30, 42) => Some(Verse {
-            content: "But when the cattel were feeble, hee put them not in: so the feebler were Labans, and the stronger Iacobs.",
+            content: "",
         }),
 
         ("genesis", 30, 43) => Some(Verse {
-            content: "And the man increased exceedingly, and had much cattell, and maydseruants, and men seruants, and camels, and asses.",
+            content: "",
         }),
 
         ("genesis", 31, 1) => Some(Verse {
-            content: "And he heard the words of Labans sonnes, saying, Iacob hath taken away all that was our fathers; and of that which was of our fathers, hath hee gotten all this glory.",
+            content: "",
         }),
 
         ("genesis", 31, 2) => Some(Verse {
-            content: "And Iacob behelde the countenance of Laban, and behold, it was not toward him as before.",
+            content: "",
         }),
 
         ("genesis", 31, 3) => Some(Verse {
-            content: "And the LORD said vnto Iacob, Returne vnto the land of thy fathers, and to thy kindred; and I wil be with thee.",
+            content: "",
         }),
 
         ("genesis", 31, 4) => Some(Verse {
-            content: "And Iacob sent and called Rachel and Leah, to the field vnto his flocke,",
+            content: "",
         }),
 
         ("genesis", 31, 5) => Some(Verse {
-            content: "And said vnto them, I see your fathers countenance, that it is not toward mee as before: but the God of my father hath bene with me.",
+            content: "",
         }),
 
         ("genesis", 31, 6) => Some(Verse {
-            content: "And yee know, that with all my power I haue serued your father.",
+            content: "",
         }),
 
         ("genesis", 31, 7) => Some(Verse {
-            content: "And your father hath deceiued mee, and changed my wages ten times: but God suffered him not to hurt me.",
+            content: "",
         }),
 
         ("genesis", 31, 8) => Some(Verse {
-            content: "If hee said thus, The speckled shall be thy wages, then all the cattell bare speckled: and if he said thus, The ring-straked shalbe thy hire, then bare all the cattell ring-straked.",
+            content: "",
         }),
 
         ("genesis", 31, 9) => Some(Verse {
-            content: "Thus God hath taken away the cattell of your father, and giuen them to mee.",
+            content: "",
         }),
 
         ("genesis", 31, 10) => Some(Verse {
-            content: "And it came to passe at the time that the cattell conceiued, that I lifted vp mine eyes and saw in a dreame, and behold, the rammes which leaped vpon the cattell were ring-straked, speckled and grisled.",
+            content: "",
         }),
 
         ("genesis", 31, 11) => Some(Verse {
-            content: "And the Angel of God spake vnto me in a dreame, saying, Iacob; And I said, Here am I.",
+            content: "",
         }),
 
         ("genesis", 31, 12) => Some(Verse {
-            content: "And hee said, Lift vp now thine eyes, and see, all the rammes which leape vpon the cattell are ring-straked, speckled and grisled: for I haue seene all that Laban doeth vnto thee.",
+            content: "",
         }),
 
         ("genesis", 31, 13) => Some(Verse {
-            content: "I am the God of Bethel, where thou annoyntedst the pillar, and where thou vowedst a vow vnto mee: now arise, get thee out from this land, and returne vnto the land of thy kindred.",
+            content: "",
         }),
 
         ("genesis", 31, 14) => Some(Verse {
-            content: "And Rachel and Leah answered, and said vnto him; Is there yet any portion or inheritance for vs in our fathers house?",
+            content: "",
         }),
 
         ("genesis", 31, 15) => Some(Verse {
-            content: "Are we not counted of him strangers? for he hath sold vs, and hath quite deuoured also our money.",
+            content: "",
         }),
 
         ("genesis", 31, 16) => Some(Verse {
-            content: "For all the riches which God hath taken from our father, that is ours, and our childrens: now then whatsoeuer God hath said vnto thee, doe.",
+            content: "",
         }),
 
         ("genesis", 31, 17) => Some(Verse {
-            content: "Then Iacob rose vp, and set his sonnes and his wiues vpon camels.",
+            content: "",
         }),
 
         ("genesis", 31, 18) => Some(Verse {
-            content: "And he caried away all his cattell, and all his goods which he had gotten, the cattell of his getting, which hee had gotten in Padan Aram, for to goe to Isaac his father in the land of Canaan.",
+            content: "",
         }),
 
         ("genesis", 31, 19) => Some(Verse {
-            content: "And Laban went to sheare his sheepe: and Rachel had stollen the Images that were her fathers.",
+            content: "",
         }),
 
         ("genesis", 31, 20) => Some(Verse {
-            content: "And Iacob stale away vnawares to Laban the Syrian, in that he told him not that he fled.",
+            content: "",
         }),
 
         ("genesis", 31, 21) => Some(Verse {
