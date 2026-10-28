@@ -132127,6 +132127,2183 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF ADDITIONS TO ESTHER
+
+        // additions to esther 1-9 research (XDoc)
+
+        ("additions to esther", 10, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 10, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 10, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 10, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 10, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 10, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 10, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 10, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 10, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 10, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 10, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 10, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 10, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 11, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 11, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 11, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 11, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 11, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 11, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 11, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 11, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 11, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 11, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 11, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 11, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 12, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 12, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 12, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 12, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 12, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 12, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 13, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 14, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 15, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("additions to esther", 16, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        // THE BOOK OF THE WISDOM OF SOLOMON
+
+        ("wisdom of solomon", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 9) => Some(Verse { 
+            content: "",
+        }),
+
+        ("wisdom of solomon", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+        
+        ("wisdom of solomon", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+        
+        ("wisdom of solomon", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+        
+        ("wisdom of solomon", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+        
+        ("wisdom of solomon", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+        
+        ("wisdom of solomon", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 21) => Some(Verse { 
+            content: "", 
+        }),
+        
+        ("wisdom of solomon", 2, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 2, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 4, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 5, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 9) => Some(Verse { 
+            content: "",
+        }),
+
+        ("wisdom of solomon", 6, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 6, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 7, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 8, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 9, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 10, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 11, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 12, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 13, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 14, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 15, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 16, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 17, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 18, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("wisdom of solomon", 19, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        // THE BOOK OF ECCLESIASTICUS
+
+
         _ => None,
     }
 }
