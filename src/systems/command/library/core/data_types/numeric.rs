@@ -22,6 +22,15 @@ use crate::core::data_types::numeric::F64_MINIMUM_VALUE;
 use crate::core::data_types::numeric::F32_MINIMUM_POSITIVE_NORMAL_VALUE;
 use crate::core::data_types::numeric::F64_MAXIMUM_POSITIVE_NORMAL_VALUE;
 
+use crate::core::data_types::numeric::Numeric;
+
+use std::io::{Write, stdin, stdout};
+
+fn read(input: &mut String) {
+    stdout().flush().expect("failed to flush");
+    stdin().read_line(input).expect("failed to read");
+}
+
 pub fn print_numeric() {
     println!("NUMERIC DATA TYPE MINIMUM MAXIMUM VALUES");
     println!();
@@ -57,4 +66,35 @@ pub fn print_numeric() {
     );
 
     println!();
+}
+
+pub fn numeric_cli() {
+    loop {
+        print!("GPSE> COMMAND> ");
+
+        let mut command: String = String::new();
+
+        read(&mut command);
+
+        let command = command.trim().to_lowercase();
+
+        match command.as_str() {
+            "minimum values" => {
+                Numeric::minimum_values();
+            }
+
+            "maximum values" => {
+                Numeric::maximum_values();
+            }
+
+            "exit" => {
+                println!("exiting the numeric...");
+                break;
+            }
+
+            _ => {
+                println!("unknown numeric command.");
+            }
+        }
+    }
 }

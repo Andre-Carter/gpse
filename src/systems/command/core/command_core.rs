@@ -1,4 +1,7 @@
 use crate::archive::ledger::ledger_cli::open_ledger;
+
+use crate::systems::command::library::core::data_types::numeric::numeric_cli;
+
 //use crate::mathematical::arithmetic::arithmetic::checked_add;
 use crate::mathematical::carter::carter_family::carter_formula_cli;
 use crate::mathematical::carter::carter_family::carter_formula_repeat;
@@ -129,6 +132,10 @@ pub fn cli_commands() {
 
             "math" => {
                 math_cli();
+            }
+
+            "numeric" => {
+                numeric_cli();
             }
 
             "test mathematical" => {
