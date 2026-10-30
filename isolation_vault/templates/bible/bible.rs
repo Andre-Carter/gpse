@@ -11048,955 +11048,955 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("leviticus", 1, 12) => Some(Verse {
-            content: "And he shall cut it into his pieces, with his head and his fat: and the Priest shall lay them in order on the wood that is on the fire, which is vpon the altar:",
+            content: "",
         }),
 
         ("leviticus", 1, 13) => Some(Verse {
-            content: "But hee shall wash the inwards and the legs with water, and the Priest shall bring it all, and burne it vpon the altar: it is a burnt sacrifice, an offering made by fire, of a sweet sauour vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 1, 14) => Some(Verse {
-            content: "And if the burnt sacrifice for his offring to the Lord be of foules, then he shall bring his offering of turtle doues, or of yong pigeons.",
+            content: "",
         }),
 
         ("leviticus", 1, 15) => Some(Verse {
-            content: "And the Priest shall bring it vnto the altar, and wring off his head, and burne it on the altar: and the blood thereof shall be wrung out at the side of the altar.",
+            content: "",
         }),
 
         ("leviticus", 1, 16) => Some(Verse {
-            content: "And he shall plucke away his crop with his feathers, and cast it beside the altar on the East part, by the place of the ashes.",
+            content: "",
         }),
 
         ("leviticus", 1, 17) => Some(Verse {
-            content: "And hee shall cleane it with the wings thereof, but shall not diuide it asunder: And the Priest shall burne it vpon the altar, vpon the wood that is vpon the fire: it is a burnt sacrifice, an offering made by fire of a sweet sauour vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 2, 1) => Some(Verse {
-            content: "And when any will offer a meate offering vnto the Lord, his offring shall be of fine flowre: and hee shall powre oyle vpon it, and put frankincense thereon.",
+            content: "",
         }),
 
         ("leviticus", 2, 2) => Some(Verse {
-            content: "And he shall bring it to Aarons sonnes the Priests: and hee shall take thereout his handfull of the flowre thereof, and of the oile thereof, with all the frankincense thereof, and the Priest shall burne the memoriall of it vpon the altar, to be an offering made by fire of a sweet sauour vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 2, 3) => Some(Verse {
-            content: "And the remnant of the meat offering shall be Aarons and his sonnes: it is a thing most holy of the offerings of the Lord made by fire.",
+            content: "",
         }),
 
         ("leviticus", 2, 4) => Some(Verse {
-            content: "And if thou bring an oblation of a meate offering baken in the ouen, it shall bee an vnleauened cake of fine flowre mingled with oyle, or vnleauened wafers anointed with oyle.",
+            content: "",
         }),
 
         ("leviticus", 2, 5) => Some(Verse {
-            content: "And if thy oblation be a meate offering baken in a panne, it shall bee of fine flowre vnleauened, mingled with oyle.",
+            content: "",
         }),
 
         ("leviticus", 2, 6) => Some(Verse {
-            content: "Thou shalt part it in pieces, and powre oyle thereon: it is a meate offering.",
+            content: "",
         }),
 
         ("leviticus", 2, 7) => Some(Verse {
-            content: "And if thy oblation be a meate offering baken in the frying pan, it shalbe made of fine flowre with oyle.",
+            content: "",
         }),
 
         ("leviticus", 2, 8) => Some(Verse {
-            content: "And thou shalt bring the meat offering that is made of these things vnto the Lord, and when it is presented vnto the Priest, he shall bring it vnto the Altar.",
+            content: "",
         }),
 
         ("leviticus", 2, 9) => Some(Verse {
-            content: "And the Priest shall take from the meat offering a memoriall thereof, and shall burne it vpon the Altar, it is an offering made by fire of a sweet sauour vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 2, 10) => Some(Verse {
-            content: "And that which is left of the meat offering, shalbe Aarons and his sonnes: It is a thing most holy, of the offerings of the Lord made by fire.",
+            content: "",
         }),
 
         ("leviticus", 2, 11) => Some(Verse {
-            content: "No meat offering, which ye shall bring vnto the Lord, shall be made with leauen: For ye shall burne no leauen, nor any hony, in any offering of the Lord made by fire.",
+            content: "",
         }),
 
         ("leviticus", 2, 12) => Some(Verse {
-            content: "As for the oblation of the first fruits, yee shall offer them vnto the Lord, but they shall not be burnt on the Altar for a sweet sauour.",
+            content: "",
         }),
 
         ("leviticus", 2, 13) => Some(Verse {
-            content: "And euery oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the Couenant of thy God to bee lacking from thy meat offering: with all thine offerings thou shalt offer salt.",
+            content: "",
         }),
 
         ("leviticus", 2, 14) => Some(Verse {
-            content: "And if thou offer a meat offering of thy first fruits vnto the Lord, thou shalt offer for the meat offering of thy first fruits, greene eares of corne dried by the fire, euen corne beaten out of full eares.",
+            content: "",
         }),
 
         ("leviticus", 2, 15) => Some(Verse {
-            content: "And thou shalt put oyle vpon it, and lay frankincense theron; it is a meat offering.",
+            content: "",
         }),
 
         ("leviticus", 2, 16) => Some(Verse {
-            content: "And the Priest shall burne the memoriall of it, part of the beaten corne thereof, and part of the oyle thereof, with all the frankincense thereof: it is an offering made by fire vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 3, 1) => Some(Verse {
-            content: "And if his oblation be a sacrifice of peace offering, if hee offer it of the herd, whether it be a male or female, he shal offer it without blemish before the Lord.",
+            content: "",
         }),
 
         ("leviticus", 3, 2) => Some(Verse {
-            content: "And he shall lay his hand vpon the head of his offering, and kil it at the doore of the Tabernacle of the Congregation: and Aarons sonnes the Priests shall sprinckle the blood vpon the Altar round about.",
+            content: "",
         }),
 
         ("leviticus", 3, 3) => Some(Verse {
-            content: "And he shall offer of the sacrifice of the peace offering, an offering made by fire vnto the Lord; the fat that couereth the inwards, and all the fat that is vpon the inwards.",
+            content: "",
         }),
 
         ("leviticus", 3, 4) => Some(Verse {
-            content: "And the two kidneys, and the fat that is on them, which is by the flanks: and the caule aboue the liuer with the kidneys, it shall he take away.",
+            content: "",
         }),
 
         ("leviticus", 3, 5) => Some(Verse {
-            content: "And Aarons sonnes shall burne it on the Altar vpon the burnt sacrifice, which is vpon the wood that is on the fire: it is an offering made by fire of a sweet sauour vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 3, 6) => Some(Verse {
-            content: "And if his offering for a sacrifice of peace offering vnto the Lord, be of the flocke, male or female, he shall offer it without blemish.",
+            content: "",
         }),
 
         ("leviticus", 3, 7) => Some(Verse {
-            content: "If hee offer a lambe for his offering, then shall he offer it before the Lord.",
+            content: "",
         }),
 
         ("leviticus", 3, 8) => Some(Verse {
-            content: "And he shall lay his hand vpon the head of his offering, and kill it before the Tabernacle of the Congregation: And Aarons sonnes shall sprinkle the blood thereof, round about vpon the Altar.",
+            content: "",
         }),
 
         ("leviticus", 3, 9) => Some(Verse {
-            content: "And he shall offer of the sacrifice of the peace offering, an offering made by fire vnto the Lord: the fat thereof and the whole rumpe, it shall he take off hard by the backe bone: and the fat that couereth the inwards, and all the fat that is vpon the inwards.",
+            content: "",
         }),
 
         ("leviticus", 3, 10) => Some(Verse {
-            content: "And the two kidneys, and the fat that is vpon them, which is by the flankes, and the caule aboue the liuer, with the kidneys, it shall he take away.",
+            content: "",
         }),
 
         ("leviticus", 3, 11) => Some(Verse {
-            content: "And the Priest shall burne it vpon the Altar: it is the food of the offering made by fire vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 3, 12) => Some(Verse {
-            content: "And if his offering be a goat, then he shall offer it before the Lord.",
+            content: "",
         }),
 
         ("leviticus", 3, 13) => Some(Verse {
-            content: "And he shall lay his hand vpon the head of it, and kill it before the Tabernacle of the Congregation: and the sonnes of Aaron shall sprinckle the blood thereof vpon the Altar, round about.",
+            content: "",
         }),
 
         ("leviticus", 3, 14) => Some(Verse {
-            content: "And he shall offer thereof his offering, euen an offering made by fire vnto the Lord; the fat that couereth the inwards, and al the fat that is vpon the inwards.",
+            content: "",
         }),
 
         ("leviticus", 3, 15) => Some(Verse {
-            content: "And the two kidneys, and the fat that is vpon them, which is by the flancks, and the caule aboue the liuer with the kidneys, it shall he take away.",
+            content: "",
         }),
 
         ("leviticus", 3, 16) => Some(Verse {
-            content: "And the Priest shall burne them vpon the Altar: it is the food of the offering made by fire, for a sweet sauour: All the fat is the Lords.",
+            content: "",
         }),
 
         ("leviticus", 3, 17) => Some(Verse {
-            content: "It shall be a perpetuall statute for your generations, throughout all your dwellings, that ye eat neither fat, nor blood.",
+            content: "",
         }),
 
         ("leviticus", 4, 1) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("leviticus", 4, 2) => Some(Verse {
-            content: "Speake vnto the children of Israel, saying, If a soule shall sinne through ignorance against any of the commandements of the Lord (concerning things which ought not to bee done) and shall do against any of them:",
+            content: "",
         }),
 
         ("leviticus", 4, 3) => Some(Verse {
-            content: "If the Priest that is anointed, doe sinne according to the sinne of the people, then let him bring for his sinne which he hath sinned, a yong bullocke without blemish, vnto the Lord for a sinne offering.",
+            content: "",
         }),
 
         ("leviticus", 4, 4) => Some(Verse {
-            content: "And hee shall bring the bullocke vnto the doore of the Tabernacle of the Congregation before the Lord, and shall lay his hand vpon the bullockes head, and kill the bullocke before the Lord.",
+            content: "",
         }),
 
         ("leviticus", 4, 5) => Some(Verse {
-            content: "And the Priest that is anointed, shall take of the bullocks blood, and bring it to the Tabernacle of the Congregation.",
+            content: "",
         }),
 
         ("leviticus", 4, 6) => Some(Verse {
-            content: "And the Priest shall dip his finger in the blood, and sprinkle of the blood seuen times before the Lord, before the Uaile of the Sanctuary.",
+            content: "",
         }),
 
         ("leviticus", 4, 7) => Some(Verse {
-            content: "And the Priest shall put some of the blood vpon the hornes of the Altar of sweet incense before the Lord, which is in the Tabernacle of the Congregation, and shal powre all the blood of the bullocke at the bottome of the altar of the burnt offering, which is at the doore of the Tabernacle of the Congregation.",
+            content: "",
         }),
 
         ("leviticus", 4, 8) => Some(Verse {
-            content: "And he shall take off from it all the fat of the bullocke for the sinne offering: the fat that couereth the inwards, and all the fat that is vpon the inwards.",
+            content: "",
         }),
 
         ("leviticus", 4, 9) => Some(Verse {
-            content: "And the two kidneis, and the fat that is vpon them, which is by the flankes, and the caule aboue the liuer with the kidneis, it shall he take away,",
+            content: "",
         }),
 
         ("leviticus", 4, 10) => Some(Verse {
-            content: "As it was taken off from the bullocke of the sacrifice of peace offerings: and the Priest shall burne them vpon the altar of the burnt offering.",
+            content: "",
         }),
 
         ("leviticus", 4, 11) => Some(Verse {
-            content: "And the skinne of the bullocke, and all his flesh, with his head, and with his legs, and his inwards, and his doung,",
+            content: "",
         }),
 
         ("leviticus", 4, 12) => Some(Verse {
-            content: "Euen the whole bullocke shall he carie foorth without the campe, vnto a cleane place, where the ashes are powred out, and burne him on the wood with fire: where the ashes are powred out, shall he be burnt.",
+            content: "",
         }),
 
         ("leviticus", 4, 13) => Some(Verse {
-            content: "And if the whole Congregation of Israel sinne through ignorance, and the thing be hid from the eyes of the assembly, and they haue done somewhat against any of the Commandements of the Lord, concerning things which should not be done, and are guiltie:",
+            content: "",
         }),
 
         ("leviticus", 4, 14) => Some(Verse {
-            content: "When the sinne which they haue sinned against it, is knowen, then the Congregation shall offer a yong bullocke for the sinne, and bring him before the Tabernacle of the Congregation.",
+            content: "",
         }),
 
         ("leviticus", 4, 15) => Some(Verse {
-            content: "And the Elders of the Congregation shall lay their hands vpon the head of the bullocke, before the Lord: and the bullocke shall be killed before the Lord.",
+            content: "",
         }),
 
         ("leviticus", 4, 16) => Some(Verse {
-            content: "And the Priest that is anointed, shall bring of the bullockes blood to the Tabernacle of the Congregation.",
+            content: "",
         }),
 
         ("leviticus", 4, 17) => Some(Verse {
-            content: "And the Priest shall dip his finger in some of the blood, and sprinkle it seuen times before the Lord, euen before the vaile.",
+            content: "",
         }),
 
         ("leviticus", 4, 18) => Some(Verse {
-            content: "And he shal put some of the blood vpon the hornes of the altar, which is before the Lord, that is in the Tabernacle of the Congregation, and shall powre out all the blood at the bottome of the altar of the burnt offring, which is at the doore of the Tabernacle of the Congregation.",
+            content: "",
         }),
 
         ("leviticus", 4, 19) => Some(Verse {
-            content: "And he shall take all his fat from him, and burne it vpon the altar.",
+            content: "",
         }),
 
         ("leviticus", 4, 20) => Some(Verse {
-            content: "And he shall do with the bullocke as he did with the bullocke for a sinne offring, so shall he do with this: And the Priest shall make an atonement for them, and it shall be forgiuen them.",
+            content: "",
         }),
 
         ("leviticus", 4, 21) => Some(Verse {
-            content: "And he shall carie foorth the bullocke without the campe, and burne him as he burned the first bullocke: it is a sinne offering for the Congregation.",
+            content: "",
         }),
 
         ("leviticus", 4, 22) => Some(Verse {
-            content: "When a ruler hath sinned and done somewhat through ignorance against any of the Commandements of the Lord his God, concerning things which should not be done, and is guilty:",
+            content: "",
         }),
 
         ("leviticus", 4, 23) => Some(Verse {
-            content: "Or if his sinne wherein hee hath sinned, come to his knowledge: he shall bring his offering, a kid of the goates, a male without blemish.",
+            content: "",
         }),
 
         ("leviticus", 4, 24) => Some(Verse {
-            content: "And hee shall lay his hand vpon the head of the goate, and kill it in the place where they kill the burnt offering before the Lord: it is a sinne offring.",
+            content: "",
         }),
 
         ("leviticus", 4, 25) => Some(Verse {
-            content: "And the Priest shall take of the blood of the sinne offering with his finger, and put it vpon the hornes of the Altar of burnt offring, and shall powre out his blood at the bottome of the Altar of burnt offering.",
+            content: "",
         }),
 
         ("leviticus", 4, 26) => Some(Verse {
-            content: "And he shall burne all his fat vpon the Altar, as the fat of the sacrifice of peace offerings: and the Priest shall make an atonement for him, as concerning his sinne, and it shall be forgiuen him.",
+            content: "",
         }),
 
         ("leviticus", 4, 27) => Some(Verse {
-            content: "And if any one of the common people sinne through ignorance, while he doeth somewhat against any of the commandements of the Lord, concerning things which ought not to be done, and be guiltie:",
+            content: "",
         }),
 
         ("leviticus", 4, 28) => Some(Verse {
-            content: "Or if his sinne which he hath sinned come to his knowledge, then hee shall bring his offering, a kidde of the goats, a female without blemish, for his sinne which he hath sinned.",
+            content: "",
         }),
 
         ("leviticus", 4, 29) => Some(Verse {
-            content: "And he shall lay his hand vpon the head of the sinne offering, and slay the sin offering in the place of the burnt offering.",
+            content: "",
         }),
 
         ("leviticus", 4, 30) => Some(Verse {
-            content: "And the Priest shall take of the blood thereof with his finger, and put it vpon the hornes of the Altar of burnt offering, and shall powre out all the blood thereof at the bottome of the Altar.",
+            content: "",
         }),
 
         ("leviticus", 4, 31) => Some(Verse {
-            content: "And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings: and the Priest shall burne it vpon the Altar, for a sweet sauour vnto the Lord, and the Priest shall make an atonement for him, and it shall be forgiuen him.",
+            content: "",
         }),
 
         ("leviticus", 4, 32) => Some(Verse {
-            content: "And if he bring a lambe for a sinne offering, he shall bring it a female without blemish.",
+            content: "",
         }),
 
         ("leviticus", 4, 33) => Some(Verse {
-            content: "And he shall lay his hand vpon the head of the sinne offering, and slay it for a sinne offering, in the place where they kill the burnt offering.",
+            content: "",
         }),
 
         ("leviticus", 4, 34) => Some(Verse {
-            content: "And the Priest shall take of the blood of the sinne offering with his finger, and put it vpon the hornes of the Altar of burnt offring, and shall powre out all the blood thereof at the bottome of the Altar.",
+            content: "",
         }),
 
         ("leviticus", 4, 35) => Some(Verse {
-            content: "And he shall take away all the fat thereof, as the fat of the lambe is taken away from the sacrifice of the peace offerings: and the Priest shall burnt them vpon the Altar, according to the offerings made by fire vnto the Lord, and the Priest shall make an atonement for his sinne that he hath committed, and it shalbe forgiuen him.",
+            content: "",
         }),
 
         ("leviticus", 5, 1) => Some(Verse {
-            content: "And if a soule sinne, and heare the voyce of swearing, and is a witnesse, whether he hath seene or knowen of it, if he doe not vtter it, then he shall beare his iniquity.",
+            content: "",
         }),
 
         ("leviticus", 5, 2) => Some(Verse {
-            content: "Or if a soule touch any vncleane thing, whether it be a carcase of an vncleane beast, or a carcase of vncleane cattell, or the carcase of vncleane creeping things, and if it be hidden from him, he also shall be vncleane, and guilty:",
+            content: "",
         }),
 
         ("leviticus", 5, 3) => Some(Verse {
-            content: "Or if he touch the vncleannesse of man, whatsoeuer vncleannesse it be that a man shalbe defiled withall, and it be hid from him, when he knoweth of it, then he shalbe guilty.",
+            content: "",
         }),
 
         ("leviticus", 5, 4) => Some(Verse {
-            content: "Or if a soule sweare, pronouncing with his lips to do euill, or to do good, whatsoeuer it be that a man shall pronounce with an oath, and it be hid from him, when he knoweth of it, then he shalbe guilty in one of these.",
+            content: "",
         }),
 
         ("leviticus", 5, 5) => Some(Verse {
-            content: "And it shalbe when he shalbe guiltie in one of these things, that he shall confesse that hee hath sinned in that thing.",
+            content: "",
         }),
 
         ("leviticus", 5, 6) => Some(Verse {
-            content: "And he shall bring his trespasse offering vnto the Lord for his sinne which he hath sinned, a female from the flocke, a lambe, or a kidde of the goates, for a sinne offering: And the Priest shal make an atonement for him concerning his sinne.",
+            content: "",
         }),
 
         ("leviticus", 5, 7) => Some(Verse {
-            content: "And if hee be not able to bring a lambe, then he shall bring for his trespasse which hee hath committed, two turtle doues, or two yong pigeons vnto the Lord: one for a sinne offring, and the other for a burnt offering.",
+            content: "",
         }),
 
         ("leviticus", 5, 8) => Some(Verse {
-            content: "And he shall bring them vnto the Priest, who shall offer that which is for the sinne offering first, and wring off his head from his necke, but shall not diuide it asunder.",
+            content: "",
         }),
 
         ("leviticus", 5, 9) => Some(Verse {
-            content: "And he shall sprinckle of the blood of the sinne offering vpon the side of the Altar, and the rest of the blood shall be wrung out at the bottome of the altar: it is a sinne offering.",
+            content: "",
         }),
 
         ("leviticus", 5, 10) => Some(Verse {
-            content: "And hee shall offer the second for a burnt offering, according to the maner: and the Priest shal make an atonement for him for his sinne, which he had sinned, and it shall be forgiuen him.",
+            content: "",
         }),
 
         ("leviticus", 5, 11) => Some(Verse {
-            content: "But if hee be not able to bring two turtle doues, or two yong pigeons; then he that sinned, shall bring for his offring the tenth part of an Ephah of fine flowre for a sinne offering: hee shall put no oyle vpon it, neither shall he put any frankincense thereon: for it is a sinne offering.",
+            content: "",
         }),
 
         ("leviticus", 5, 12) => Some(Verse {
-            content: "Then shall hee bring it to the Priest, and the Priest shall take his handfull of it, euen a memoriall thereof, and burne it on the altar, according to the offerings made by fire vnto the Lord: it is a sinne offering.",
+            content: "",
         }),
 
         ("leviticus", 5, 13) => Some(Verse {
-            content: "And the Priest shall make an atonement for him as touching his sinne that he hath sinned in one of these, and it shall be forgiuen him: and the remnant shall be the Priests, as a meat offering.",
+            content: "",
         }),
 
         ("leviticus", 5, 14) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("leviticus", 5, 15) => Some(Verse {
-            content: "If a soule commit a trespasse, and sinne through ignorance, in the holy things of the Lord; then hee shall bring for his trespasse vnto the Lord, a ramme without blemish, out of the flockes, with thy estimation by shekels of siluer, after the shekel of the Sanctuarie, for a trespasse offering.",
+            content: "",
         }),
 
         ("leviticus", 5, 16) => Some(Verse {
-            content: "And hee shall make amends for the harme that he hath done in the holy thing, and shall adde the fift part thereto, and giue it vnto the Priest: and the Priest shall make an atonement for him with the ramme of the trespasse offering, and it shall be forgiuen him.",
+            content: "",
         }),
 
         ("leviticus", 5, 17) => Some(Verse {
-            content: "And if a soule sinne, and commit any of these things which are forbidden to be done by the commaundements of the Lord, though he wist it not, yet is hee guiltie, and shall beare his iniquitie.",
+            content: "",
         }),
 
         ("leviticus", 5, 18) => Some(Verse {
-            content: "And he shall bring a ramme without blemish out of the flocke, with thy estimation, for a trespasse offering vnto the Priest: and the Priest shall make an atonement for him concerning his ignorance wherein he erred, and wist it not: and it shall be forgiuen him.",
+            content: "",
         }),
 
         ("leviticus", 5, 19) => Some(Verse {
-            content: "It is a trespasse offring: he hath certainly trespassed against the Lord.",
+            content: "",
         }),
 
         ("leviticus", 6, 1) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("leviticus", 6, 2) => Some(Verse {
-            content: "If a soule sinne, and commit a trespasse against the Lord, and lie vnto his neighbour in that which was deliuered him to keepe, or in fellowship, or in a thing taken away by violence, or hath deceiued his neighbour:",
+            content: "",
         }),
 
         ("leviticus", 6, 3) => Some(Verse {
-            content: "Or haue found that which was lost, and lieth concerning it, and sweareth falsly: in any of all these that a man doth, sinning therein:",
+            content: "",
         }),
 
         ("leviticus", 6, 4) => Some(Verse {
-            content: "Then it shall be, because he hath sinned, and is guiltie, that hee shall restore that which he tooke violently away, or the thing which he hath deceitfully gotten, or that which was deliuered him to keepe, or the lost thing which he found:",
+            content: "",
         }),
 
         ("leviticus", 6, 5) => Some(Verse {
-            content: "Or all that about which hee hath sworne falsly: hee shall euen restore it in the principall, and shall adde the fift part more thereto, and giue it vnto him to whom it apperteineth, in the day of his trespasse offering.",
+            content: "",
         }),
 
         ("leviticus", 6, 6) => Some(Verse {
-            content: "And hee shall bring his trespasse offering vnto the Lord, a ramme without blemish out of the flocke, with thy estimation, for a trespasse offering vnto the Priest.",
+            content: "",
         }),
 
         ("leviticus", 6, 7) => Some(Verse {
-            content: "And the Priest shall make an atonement for him, before the Lord: and it shall bee forgiuen him, for any thing of all that he hath done, in trespassing therein.",
+            content: "",
         }),
 
         ("leviticus", 6, 8) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("leviticus", 6, 9) => Some(Verse {
-            content: "Command Aaron and his sonnes, saying, This is the law of the burnt offring: (It is the burnt offring, because of the burning vpon the Altar all night vnto the morning, and the fire of the altar shall be burning in it.)",
+            content: "",
         }),
 
         ("leviticus", 6, 10) => Some(Verse {
-            content: "And the Priest shal put on his linnen garment, & his linnen breeches shal he put vpon his flesh, and take vp the ashes which the fire hath consumed with the burnt offering on the Altar, and he shall put them besides the Altar.",
+            content: "",
         }),
 
         ("leviticus", 6, 11) => Some(Verse {
-            content: "And he shal put off his garments, and put on other garments, and carry foorth the ashes without the Campe, vnto a cleane place.",
+            content: "",
         }),
 
         ("leviticus", 6, 12) => Some(Verse {
-            content: "And the fire vpon the Altar shall be burning in it: it shall not be put out; And the Priest shall burne wood on it euery morning, and lay the burnt offering in order vpon it, and he shall burne thereon the fatte of the peace offerings.",
+            content: "",
         }),
 
         ("leviticus", 6, 13) => Some(Verse {
-            content: "The fire shall euer be burning vpon the Altar: it shall neuer goe out.",
+            content: "",
         }),
 
         ("leviticus", 6, 14) => Some(Verse {
-            content: "And this is the law of the meat offering: the sonnes of Aaron shall offer it before the Lord, before the Altar.",
+            content: "",
         }),
 
         ("leviticus", 6, 15) => Some(Verse {
-            content: "And he shall take of it his handfull, of the flowre of the meat offering, and of the oyle therof, and all the frankincense which is vpon the meat offring, and shall burne it vpon the Altar, for a sweet sauour, euen the memoriall of it vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 6, 16) => Some(Verse {
-            content: "And the remainder thereof shall Aaron and his sonnes eat: with vnleauened bread shall it be eaten in the holy place: in the court of the Tabernacle of the Congregation they shall eat it.",
+            content: "",
         }),
 
         ("leviticus", 6, 17) => Some(Verse {
-            content: "It shall not be baken with leauen: I haue giuen it vnto them for their portion of my offerings made by fire: it is most holy, as is the sin offering, and as the trespasse offering.",
+            content: "",
         }),
 
         ("leviticus", 6, 18) => Some(Verse {
-            content: "All the males among the children of Aaron shall eat of it: It shalbe a statute for euer in your generations concerning the offerings of the Lord made by fire: euery one that toucheth them shalbe holy.",
+            content: "",
         }),
 
         ("leviticus", 6, 19) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("leviticus", 6, 20) => Some(Verse {
-            content: "This is the offering of Aaron, and of his sonnes which they shall offer vnto the Lord, in the day when he is anoynted: The tenth part of an Ephah of fine flowre for a meat offering perpetuall, halfe of it in the morning, and halfe thereof at night.",
+            content: "",
         }),
 
         ("leviticus", 6, 21) => Some(Verse {
-            content: "In a panne it shalbe made with oyle, and when it is baken, thou shalt bring it in: and the baken pieces of the meat offering shalt thou offer for a sweet sauour vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 6, 22) => Some(Verse {
-            content: "And the Priest of his sonnes that is anoynted in his stead, shal offer it: It is a statute for euer vnto the Lord, it shalbe wholly burnt.",
+            content: "",
         }),
 
         ("leviticus", 6, 23) => Some(Verse {
-            content: "For euery meat offering for the Priest shal be wholly burnt: it shall not be eaten.",
+            content: "",
         }),
 
         ("leviticus", 6, 24) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("leviticus", 6, 25) => Some(Verse {
-            content: "Speake vnto Aaron and to his sonnes, saying, This is the law of the sinne offering: In the place where the burnt offering is killed, shall the sinne offering be killed before the Lord: it is most holy.",
+            content: "",
         }),
 
         ("leviticus", 6, 26) => Some(Verse {
-            content: "The Priest that offereth it for sinne, shall eat it: In the holy place shal it be eaten, in the court of the Tabernacle of the Congregation.",
+            content: "",
         }),
 
         ("leviticus", 6, 27) => Some(Verse {
-            content: "Whatsoeuer shall touch the flesh thereof, shalbe holy: and when there is sprinckled of the blood thereof vpon any garment, thou shalt wash that whereon it was sprinckled, in the holy place.",
+            content: "",
         }),
 
         ("leviticus", 6, 28) => Some(Verse {
-            content: "But the earthen vessell wherein it is sodden, shall be broken: And if it be sodden in a brasen pot, it shall be both scowred, and rinsed in water.",
+            content: "",
         }),
 
         ("leviticus", 6, 29) => Some(Verse {
-            content: "All the males among the Priests shall eate thereof: it is most holy.",
+            content: "",
         }),
 
         ("leviticus", 6, 30) => Some(Verse {
-            content: "And no sinne offering whereof any of the blood is brought into the Tabernacle of the Congregation to reconcile withall in the holy place, shall be eaten: it shall be burnt in the fire.",
+            content: "",
         }),
 
         ("leviticus", 7, 1) => Some(Verse {
-            content: "Likewise this is the lawe of the trespasse offering: it is most holy.",
+            content: "",
         }),
 
         ("leviticus", 7, 2) => Some(Verse {
-            content: "In the place where they kil the burnt offring, shall they kil the trespasse offering; and the blood thereof shall hee sprinckle round about vpon the Altar.",
+            content: "",
         }),
 
         ("leviticus", 7, 3) => Some(Verse {
-            content: "And he shall offer of it, all the fat thereof; the rumpe, and the fat that couereth the inwards,",
+            content: "",
         }),
 
         ("leviticus", 7, 4) => Some(Verse {
-            content: "And the two kidneys, and the fat that is on them, which is by the flankes, and the caule that is aboue the liuer, with the kidneys, it shall he take away.",
+            content: "",
         }),
 
         ("leviticus", 7, 5) => Some(Verse {
-            content: "And the Priest shall burne them vpon the Altar, for an offering made by fire vnto the Lord: it is a trespasse offering.",
+            content: "",
         }),
 
         ("leviticus", 7, 6) => Some(Verse {
-            content: "Euery male among the Priestes shall eate thereof: it shall be eaten in the holy place: it is most holy.",
+            content: "",
         }),
 
         ("leviticus", 7, 7) => Some(Verse {
-            content: "As the sinne offering is, so is the trespasse offering: there is one law for them: the Priest that maketh atonement therewith, shall haue it.",
+            content: "",
         }),
 
         ("leviticus", 7, 8) => Some(Verse {
-            content: "And the Priest that offereth any mans burnt offering, euen the Priest shall haue to himselfe the skinne of the burnt offering which he hath offered.",
+            content: "",
         }),
 
         ("leviticus", 7, 9) => Some(Verse {
-            content: "And all the meate offering that is baken in the ouen, and all that is dressed in the frying panne, and in the panne, shall be the Priests that offereth it.",
+            content: "",
         }),
 
         ("leviticus", 7, 10) => Some(Verse {
-            content: "And euery meate offering mingled with oyle, and drie, shall all the sonnes of Aaron haue, one as much as another.",
+            content: "",
         }),
 
         ("leviticus", 7, 11) => Some(Verse {
-            content: "And this is the law of the sacrifice of peace offerings, which he shall offer vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 7, 12) => Some(Verse {
-            content: "If hee offer it for a thankesgiuing, then he shall offer with the sacrifice of thankesgiuing vnleauened cakes mingled with oyle, and vnleauened wafers anointed with oile, and cakes mingled with oyle of fine flowre fried.",
+            content: "",
         }),
 
         ("leviticus", 7, 13) => Some(Verse {
-            content: "Besides the cakes, hee shall offer for his offring leauened bread, with the sacrifice of thankesgiuing of his peace offerings.",
+            content: "",
         }),
 
         ("leviticus", 7, 14) => Some(Verse {
-            content: "And of it he shall offer one out of the whole oblation, for an heaue offering vnto the Lord, and it shall bee the Priests that sprinkleth the blood of the peace offerings.",
+            content: "",
         }),
 
         ("leviticus", 7, 15) => Some(Verse {
-            content: "And the flesh of the sacrifice of his peace offerings for thankesgiuing, shall be eaten the same day that it is offered: he shall not leaue any of it vntill the morning.",
+            content: "",
         }),
 
         ("leviticus", 7, 16) => Some(Verse {
-            content: "But if the sacrifice of his offering be a vow, or a voluntary offering, it shall be eaten the same day that he offereth his sacrifice: and on the morrowe also the remainder of it shall be eaten.",
+            content: "",
         }),
 
         ("leviticus", 7, 17) => Some(Verse {
-            content: "But the remainder of the flesh of the sacrifice on the third day shall bee burnt with fire.",
+            content: "",
         }),
 
         ("leviticus", 7, 18) => Some(Verse {
-            content: "And if any of the flesh of the sacrifice of his peace offerings be eaten at all on the third day, it shall not be accepted, neither shal it be imputed vnto him that offereth it: it shall be an abomination, and the soule that eateth of it, shall beare his iniquitie.",
+            content: "",
         }),
 
         ("leviticus", 7, 19) => Some(Verse {
-            content: "And the flesh that toucheth any vncleane thing, shal not be eaten: it shal be burnt with fire, and as for the flesh, all that be cleane shall eate thereof.",
+            content: "",
         }),
 
         ("leviticus", 7, 20) => Some(Verse {
-            content: "But the soule that eateth of the flesh of the sacrifice of peace offerings, that pertaine vnto the Lord, hauing his vncleanesse vpon him, euen that soule shall be cut off from his people.",
+            content: "",
         }),
 
         ("leviticus", 7, 21) => Some(Verse {
-            content: "Moreouer, the soule that shall touch any vncleane thing, as the vncleannesse of man, or any vncleane beast, or any abominable vncleane thing, and eate of the flesh of the sacrifice of peace offerings which pertaine vnto the Lord, euen that soule shall be cut off from his people.",
+            content: "",
         }),
 
         ("leviticus", 7, 22) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("leviticus", 7, 23) => Some(Verse {
-            content: "Speake vnto the children of Israel, saying, Ye shall eat no maner fat of oxe, or of sheepe, or of goat.",
+            content: "",
         }),
 
         ("leviticus", 7, 24) => Some(Verse {
-            content: "And the fat of the beast that dieth of it selfe, and the fat of that which is torne with beasts, may be vsed in any other vse: but yee shall in no wise eate of it.",
+            content: "",
         }),
 
         ("leviticus", 7, 25) => Some(Verse {
-            content: "For whosoeuer eateth the fat of the beast, of which men offer an offring made by fire vnto the Lord, euen the soule that eateth it, shall be cut off from his people.",
+            content: "",
         }),
 
         ("leviticus", 7, 26) => Some(Verse {
-            content: "Moreouer ye shall eat no maner of blood, whether it bee of foule or of beast in any of your dwellings.",
+            content: "",
         }),
 
         ("leviticus", 7, 27) => Some(Verse {
-            content: "Whatsoeuer soule it be that eateth any maner of blood, euen that soule shalbe cut off from his people.",
+            content: "",
         }),
 
         ("leviticus", 7, 28) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("leviticus", 7, 29) => Some(Verse {
-            content: "Speake vnto the children of Israel, saying, Hee that offereth the sacrifice of his peace offerings vnto the Lord, shall bring his oblation vnto the Lord, of the sacrifice of his peaceofferings.",
+            content: "",
         }),
 
         ("leviticus", 7, 30) => Some(Verse {
-            content: "His owne hands shall bring the offerings of the Lord made by fire, the fat with the brest, it shall hee bring, that the brest may be waued for a waue offering before the Lord.",
+            content: "",
         }),
 
         ("leviticus", 7, 31) => Some(Verse {
-            content: "And the Priest shall burne the fat vpon the Altar: but the brest shalbe Aarons and his sonnes.",
+            content: "",
         }),
 
         ("leviticus", 7, 32) => Some(Verse {
-            content: "And the right shoulder shall ye giue vnto the Priest for an heaue offering of the sacrifices of your peace offerings.",
+            content: "",
         }),
 
         ("leviticus", 7, 33) => Some(Verse {
-            content: "Hee among the sonnes of Aaron that offereth the blood of the peace offerings, and the fat, shall haue the right shoulder for his part.",
+            content: "",
         }),
 
         ("leviticus", 7, 34) => Some(Verse {
-            content: "For the waue brest and the heaue shoulder haue I taken of the children of Israel, from off the sacrifices of their peace offerings, and haue giuen them vnto Aaron the Priest, and vnto his sonnes, by a statute for euer, from among the children of Israel.",
+            content: "",
         }),
 
         ("leviticus", 7, 35) => Some(Verse {
-            content: "This is the portion of the anointing of Aaron, and of the anointing of his sonnes, out of the offerings of the Lord made by fire, in the day when he presented them, to minister vnto the Lord in the Priests office:",
+            content: "",
         }),
 
         ("leviticus", 7, 36) => Some(Verse {
-            content: "Which the Lord commanded to be giuen them of the children of Israel, in the day that hee anointed them, by a statute for euer, throughout their generations.",
+            content: "",
         }),
 
         ("leviticus", 7, 37) => Some(Verse {
-            content: "This is the law of the burnt offering, of the meate offering, and of the sinne offering, and of the trespasse offering, and of the consecrations, and of the sacrifice of the peace offerings:",
+            content: "",
         }),
 
         ("leviticus", 7, 38) => Some(Verse {
-            content: "Which the Lord commanded Moses in mount Sinai, in the day that he commanded the children of Israel to offer their oblations vnto the Lord, in the wildernesse of Sinai.",
+            content: "",
         }),
 
         ("leviticus", 8, 1) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("leviticus", 8, 2) => Some(Verse {
-            content: "Take Aaron and his sonnes with him, and the garments, and the anointing oyle, and a bullocke for the sinne offering, and two rammes, and a basket of vnleauened bread.",
+            content: "",
         }),
 
         ("leviticus", 8, 3) => Some(Verse {
-            content: "And gather thou all the Congregation together vnto the doore of the Tabernacle of the Congregation.",
+            content: "",
         }),
 
         ("leviticus", 8, 4) => Some(Verse {
-            content: "And Moses did as the Lord commanded him, & the assembly was gathered together vnto the doore of the Tabernacle of the Congregation.",
+            content: "",
         }),
 
         ("leviticus", 8, 5) => Some(Verse {
-            content: "And Moses saide vnto the Congregation, This is the thing which the Lord commanded to be done.",
+            content: "",
         }),
 
         ("leviticus", 8, 6) => Some(Verse {
-            content: "And Moses brought Aaron and his sonnes, and washed them with water.",
+            content: "",
         }),
 
         ("leviticus", 8, 7) => Some(Verse {
-            content: "And he put vpon him the coate, and girded him with the girdle, and clothed him with the robe, and put the Ephod vpon him, and he girded him with the curious girdle of the Ephod, and bound it vnto him therewith.",
+            content: "",
         }),
 
         ("leviticus", 8, 8) => Some(Verse {
-            content: "And hee put the brest plate vpon him: also he put in the brest plate the Urim and the Thummim.",
+            content: "",
         }),
 
         ("leviticus", 8, 9) => Some(Verse {
-            content: "And he put the miter vpon his head; also vpon the miter, euen vpon his forefront did hee put the golden plate, the holy crowne, as the Lord commanded Moses.",
+            content: "",
         }),
 
         ("leviticus", 8, 10) => Some(Verse {
-            content: "And Moses tooke the anointing oile, and anointed the tabernacle and all that was therein, and sanctified them.",
+            content: "",
         }),
 
         ("leviticus", 8, 11) => Some(Verse {
-            content: "And he sprinkled thereof vpon the altar seuen times, and anointed the altar and all his vessels, both the lauer and his foot, to sanctifie them.",
+            content: "",
         }),
 
         ("leviticus", 8, 12) => Some(Verse {
-            content: "And he powred of the anointing oile vpon Aarons head, and anointed him, to sanctifie him.",
+            content: "",
         }),
 
         ("leviticus", 8, 13) => Some(Verse {
-            content: "And Moses brought Aarons sonnes, and put coats vpon them, and girded them with girdles, and put bonnets vpon them, as the Lord commanded Moses.",
+            content: "",
         }),
 
         ("leviticus", 8, 14) => Some(Verse {
-            content: "And he brought the bullocke for the sinne offering, and Aaron and his sonnes laid their hands vpon the head of the bullocke for the sinne offering.",
+            content: "",
         }),
 
         ("leviticus", 8, 15) => Some(Verse {
-            content: "And he slew it, and Moses tooke the blood, and put it vpon the hornes of the altar round about with his finger, and purified the altar, and powred the blood at the bottome of the altar, and sanctified it, to make reconciliation vpon it.",
+            content: "",
         }),
 
         ("leviticus", 8, 16) => Some(Verse {
-            content: "And he tooke all the fat that was vpon the inwards, and the kall aboue the liuer, and the two kidneis, and their fat, and Moses burned it vpon the Altar.",
+            content: "",
         }),
 
         ("leviticus", 8, 17) => Some(Verse {
-            content: "But the bullocke, and his hide, his flesh and his doung, he burnt with fire without the campe, as the Lord commanded Moses.",
+            content: "",
         }),
 
         ("leviticus", 8, 18) => Some(Verse {
-            content: "And he brought the ramme for the burnt offring: and Aaron and his sonnes laid their hands vpon the head of the ramme.",
+            content: "",
         }),
 
         ("leviticus", 8, 19) => Some(Verse {
-            content: "And he killed it, and Moses sprinkled the blood vpon the Altar round about.",
+            content: "",
         }),
 
         ("leviticus", 8, 20) => Some(Verse {
-            content: "And he cut the ramme into pieces, and Moses burnt the head, and the pieces, and the fat.",
+            content: "",
         }),
 
         ("leviticus", 8, 21) => Some(Verse {
-            content: "And he washed the inwards and the legges in water, and Moses burnt the whole ramme vpon the Altar: It was a burnt sacrifice for a sweet sauour, and an offering made by fire vnto the Lord, as the Lord commanded Moses.",
+            content: "",
         }),
 
         ("leviticus", 8, 22) => Some(Verse {
-            content: "And hee brought the other ramme, the ramme of consecration: and Aaron and his sonnes layd their hands vpon the head of the ramme.",
+            content: "",
         }),
 
         ("leviticus", 8, 23) => Some(Verse {
-            content: "And he slew it, and Moses tooke of the blood of it, and put it vpon the tip of Aarons right eare, and vpon the thumbe of his right hand, and vpon the great toe of his right foot.",
+            content: "",
         }),
 
         ("leviticus", 8, 24) => Some(Verse {
-            content: "And he brought Aarons sonnes, and Moses put of the blood vpon the tippe of their right eare, and vpon the thumbs of their right hands, and vpon the great toes of their right feete: and Moses sprinkled the blood vpon the Altar round about.",
+            content: "",
         }),
 
         ("leviticus", 8, 25) => Some(Verse {
-            content: "And hee tooke the fat, and the rumpe, and all the fat that was vpon the inwards, and the caule aboue the liuer, and the two kidneys and their fat, and the right shoulder.",
+            content: "",
         }),
 
         ("leviticus", 8, 26) => Some(Verse {
-            content: "And out of the basket of vnleauened bread, that was before the Lord, he tooke one vnleauened cake, and a cake of oyled bread, and one wafer, and put them on the fat, and vpon the right shoulder.",
+            content: "",
         }),
 
         ("leviticus", 8, 27) => Some(Verse {
-            content: "And hee put all vpon Aarons hands, and vpon his sonnes hands, and waued them for a waue offering before the Lord.",
+            content: "",
         }),
 
         ("leviticus", 8, 28) => Some(Verse {
-            content: "And Moses tooke them from off their hands, and burnt them on the Altar, vpon the burnt offering: They were consecrations for a sweet sauour: It is an offering made by fire vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 8, 29) => Some(Verse {
-            content: "And Moses tooke the brest, and waued it for a waue offering before the Lord: For of the ramme of consecration it was Moses part, as the Lord commanded Moses.",
+            content: "",
         }),
 
         ("leviticus", 8, 30) => Some(Verse {
-            content: "And Moses tooke of the anoynting oyle, and of the blood which was vpon the Altar, and sprinckled it vpon Aaron, and vpon his garments, and vpon his sonnes, and vpon his sunnes garments with him: and sanctified Aaron, and his garments, and his sonnes, and his sonnes garments with him.",
+            content: "",
         }),
 
         ("leviticus", 8, 31) => Some(Verse {
-            content: "And Moses said vnto Aaron and to his sonnes, Boile the flesh at the doore of the Tabernacle of the Congregation: and there eat it with the bread that is in the basket of consecrations, as I commanded, saying, Aaron and his sonnes shall eat it.",
+            content: "",
         }),
 
         ("leviticus", 8, 32) => Some(Verse {
-            content: "And that which remaineth of the flesh, and of the bread, shall yee burne with fire.",
+            content: "",
         }),
 
         ("leviticus", 8, 33) => Some(Verse {
-            content: "And ye shall not goe out of the doore of the Tabernacle of the Congregation in seuen dayes, vntill the dayes of your consecration be at an end: for seuen dayes shall he consecrate you.",
+            content: "",
         }),
 
         ("leviticus", 8, 34) => Some(Verse {
-            content: "As he hath done this day, so the Lord hath commanded to doe, to make an atonement for you.",
+            content: "",
         }),
 
         ("leviticus", 8, 35) => Some(Verse {
-            content: "Therefore shall ye abide at the doore of the Tabernacle of the Congregation day and night, seuen dayes, and keepe the charge of the Lord, that ye die not: for so I am commanded.",
+            content: "",
         }),
 
         ("leviticus", 8, 36) => Some(Verse {
-            content: "So Aaron and his sonnes did all things which the Lord commanded by the hand of Moses.",
+            content: "",
         }),
 
         ("leviticus", 9, 1) => Some(Verse {
-            content: "And it came to passe on the eight day, that Moses called Aaron and his sonnes, and the elders of Israel.",
+            content: "",
         }),
 
         ("leviticus", 9, 2) => Some(Verse {
-            content: "And hee saide vnto Aaron, Take thee a yong calfe for a sinne offering, and a ramme for a burnt offering, without blemish, and offer them before the Lord.",
+            content: "",
         }),
 
         ("leviticus", 9, 3) => Some(Verse {
-            content: "And vnto the children of Israel thou shalt speake, saying, Take ye a kid of the goats, for a sinne offering, and a calfe, and a lambe, both of the first yeere without blemish, for a burnt offering.",
+            content: "",
         }),
 
         ("leviticus", 9, 4) => Some(Verse {
-            content: "Also a bullocke and a ramme, for peace offerings, to sacrifice before the Lord, and a meat offring mingled with oyle: for to day the Lord will appeare vnto you.",
+            content: "",
         }),
 
         ("leviticus", 9, 5) => Some(Verse {
-            content: "And they brought that which Moses commanded, before the Tabernacle of the Congregation: and all the Congregation drew neere and stood before the Lord.",
+            content: "",
         }),
 
         ("leviticus", 9, 6) => Some(Verse {
-            content: "And Moses said, This is the thing which the Lord commanded that ye should doe: and the glory of the Lord shall appeare vnto you.",
+            content: " ",
         }),
 
         ("leviticus", 9, 7) => Some(Verse {
-            content: "And Moses said vnto Aaron, Goe vnto the Altar, and offer thy sinne offering, and thy burnt offering, and make an atonement for thy selfe, and for the people: and offer the offering of the people, and make an atonement for them, as the Lord commanded.",
+            content: "",
         }),
 
         ("leviticus", 9, 8) => Some(Verse {
-            content: "Aaron therefore went vnto the Altar, and slew the calfe of the sinne offering, which was for himselfe.",
+            content: "",
         }),
 
         ("leviticus", 9, 9) => Some(Verse {
-            content: "And the sonnes of Aaron brought the blood vnto him, and he dipt his finger in the blood, and put it vpon the hornes of the Altar, and powred out the blood at the bottome of the Altar.",
+            content: "",
         }),
 
         ("leviticus", 9, 10) => Some(Verse {
-            content: "But the fat and the kidneys, and the caule aboue the liuer of the sinne offering he burnt vpon the Altar, as the Lord commanded Moses.",
+            content: "",
         }),
 
         ("leviticus", 9, 11) => Some(Verse {
-            content: "And the flesh and the hide he burnt with fire, without the campe.",
+            content: "",
         }),
 
         ("leviticus", 9, 12) => Some(Verse {
-            content: "And hee slew the burnt offering, and Aarons sonnes presented vnto him the blood, which he sprinckled round about vpon the Altar.",
+            content: "",
         }),
 
         ("leviticus", 9, 13) => Some(Verse {
-            content: "And they presented the burnt offering vnto him, with the pieces thereof, and the head: and he burnt them vpon the Altar.",
+            content: "",
         }),
 
         ("leviticus", 9, 14) => Some(Verse {
-            content: "And he did wash the inwards, and the legs, and burnt them vpon the burnt offering on the Altar.",
+            content: "",
         }),
 
         ("leviticus", 9, 15) => Some(Verse {
-            content: "And he brought the peoples offering, and tooke the goat, which was the sinne offering for the people, and slew it, and offered it for sinne, as the first.",
+            content: "",
         }),
 
         ("leviticus", 9, 16) => Some(Verse {
-            content: "And he brought the burnt offring, and offered it according to the maner.",
+            content: "",
         }),
 
         ("leviticus", 9, 17) => Some(Verse {
-            content: "And he brought the meat offring, and tooke an handfull thereof, and burnt it vpon the Altar, beside the burnt sacrifice of the morning.",
+            content: "",
         }),
 
         ("leviticus", 9, 18) => Some(Verse {
-            content: "He slew also the bullocke and the ramme, for a sacrifice of peace offerings, which was for the people: And Aarons sonnes presented vnto him the blood, (which hee sprinckled vpon the Altar round about)",
+            content: "",
         }),
 
         ("leviticus", 9, 19) => Some(Verse {
-            content: "And the fat of the bullocke and of the ramme, the rumpe, and that which couereth the inwards, and the kidneys, and the caule aboue the liuer,",
+            content: "",
         }),
 
         ("leviticus", 9, 20) => Some(Verse {
-            content: "And they put the fat vpon the brests, & he burnt the fat vpon the altar:",
+            content: "",
         }),
 
         ("leviticus", 9, 21) => Some(Verse {
-            content: "And the breasts and the right shoulder, Aaron waued for a waue offering before the Lord, as Moses commanded.",
+            content: "",
         }),
 
         ("leviticus", 9, 22) => Some(Verse {
-            content: "And Aaron lift up his hand towards the people, and blessed them, and came downe from offering of the sinne offering, and the burnt offering, and peace offerings.",
+            content: "",
         }),
 
         ("leviticus", 9, 23) => Some(Verse {
-            content: "And Moses and Aaron went into the Tabernacle of the Congregation, and came out, and blessed the people: and the glory of the Lord appeared vnto all the people.",
+            content: "",
         }),
 
         ("leviticus", 9, 24) => Some(Verse {
-            content: "And there came a fire out from before the Lord, and consumed vpon the Altar the burnt offering, and the fat: which when all the people saw, they shouted, and fell on their faces.",
+            content: "",
         }),
 
         ("leviticus", 10, 1) => Some(Verse {
-            content: "And Nadab and Abihu, the sonnes of Aaron, tooke either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the Lord, which hee commaunded them not.",
+            content: "",
         }),
 
         ("leviticus", 10, 2) => Some(Verse {
-            content: "And there went out fire from the Lord and deuoured them, and they died before the Lord.",
+            content: "",
         }),
 
         ("leviticus", 10, 3) => Some(Verse {
-            content: "Then Moses said vnto Aaron, This is it that the Lord spake, saying, I will bee sanctified in them that come nigh me, and before all the people I will be glorified: And Aaron held his peace.",
+            content: "",
         }),
 
         ("leviticus", 10, 4) => Some(Verse {
-            content: "And Moses called Mishael and Elzaphan the sonnes of Uzziel, the vncle of Aaron, and said vnto them, Come neere, cary your brethren from before the Sanctuary, out of the campe.",
+            content: "",
         }),
 
         ("leviticus", 10, 5) => Some(Verse {
-            content: "So they went neere, and caried them in their coats out of the campe, as Moses had said.",
+            content: "",
         }),
 
         ("leviticus", 10, 6) => Some(Verse {
-            content: "And Moses said vnto Aaron, and vnto Eleazar and vnto Ithamar his sonnes, Uncouer not your heads, neither rend your clothes, lest you die, and lest wrath come vpon all the people: But let your brethren, the whole house of Israel, bewaile the burning which the Lord hath kindled.",
+            content: "",
         }),
 
         ("leviticus", 10, 7) => Some(Verse {
-            content: "And ye shal not goe out from the doore of the Tabernacle of the Congregation, lest you die: for the anointing oyle of the Lord is vpon you: and they did according to the word of Moses.",
+            content: "",
         }),
 
         ("leviticus", 10, 8) => Some(Verse {
-            content: "And the Lord spake vnto Aaron, saying,",
+            content: "",
         }),
 
         ("leviticus", 10, 9) => Some(Verse {
-            content: "Doe not drinke wine nor strong drinke, thou, nor thy sonnes with thee, when ye goe into the Tabernacle of the Congregation, lest yee die: It shall bee a statute for euer, throughout your generations:",
+            content: "",
         }),
 
         ("leviticus", 10, 10) => Some(Verse {
-            content: "And that ye may put difference betweene holy and vnholy, and betweene vncleane and cleane:",
+            content: "",
         }),
 
         ("leviticus", 10, 11) => Some(Verse {
-            content: "And that ye may teach the children of Israel all the statutes which the Lord hath spoken vnto them by the hand of Moses.",
+            content: "",
         }),
 
         ("leviticus", 10, 12) => Some(Verse {
-            content: "And Moses spake vnto Aaron, and vnto Eleazar and vnto Ithamar his sonnes that were left, Take the meate offering that remaineth of the offerings of the Lord made by fire, and eate it without leauen, beside the altar: for it is most holy.",
+            content: "",
         }),
 
         ("leviticus", 10, 13) => Some(Verse {
-            content: "And ye shal eat it in the holy place, because it is thy due, and thy sonnes due of the sacrifices of the Lord, made by fire: for so I am commanded.",
+            content: "",
         }),
 
         ("leviticus", 10, 14) => Some(Verse {
-            content: "And the waue breast and heaue shoulder shall ye eate in a cleane place, thou, and thy sonnes, and thy daughters with thee: For they be thy due and thy sonnes due, which are giuen out of the sacrifice of peace offerings, of the children of Israel.",
+            content: "",
         }),
 
         ("leviticus", 10, 15) => Some(Verse {
-            content: "The heaue shoulder, and the waue breast shal they bring, with the offrings made by fire of the fat, to waue it for a waue offering before the Lord: and it shall bee thine, and thy sonnes with thee, by a statute for euer, as the Lord hath commanded.",
+            content: "",
         }),
 
         ("leviticus", 10, 16) => Some(Verse {
-            content: "And Moses diligently sought the goate of the sinne offering, and behold, it was burnt: and he was angry with Eleazar and Ithamar, the sonnes of Aaron, which were left aliue, saying,",
+            content: "",
         }),
 
         ("leviticus", 10, 17) => Some(Verse {
-            content: "Wherefore haue ye not eaten the sinne offering in the holy place, seeing it is most holy, and God hath giuen it you to beare the iniquitie of the Congregation, to make atonement for them, before the Lord?",
+            content: "",
         }),
 
         ("leviticus", 10, 18) => Some(Verse {
