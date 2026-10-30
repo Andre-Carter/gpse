@@ -94,3 +94,4 @@ Does it calculate a value from arguments alone?	Standalone function
 Does it coordinate several systems or objects?	Standalone service or domain coordinator
 Does it read terminal input or print menus?	CLI/presentation module
 Does it define how an individual stat behaves?	Potentially impl Stat or the relevant stat type
+

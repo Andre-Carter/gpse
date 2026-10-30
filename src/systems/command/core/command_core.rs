@@ -10,13 +10,16 @@ use crate::mathematical::test_mathematical::test_mathematical;
 use crate::programs::library::marvel_rivals_random_hero::marvel_rivals_random_hero;
 
 use crate::systems::command::library::archive::bible::kjv1611::kjv_1611_cli::kjv_1611_cli_funk;
-use crate::systems::command::library::core::data_types::numeric::numeric_cli;
+use crate::systems::command::library::core::data_types::data_types_cli::data_types_cli;
 use crate::systems::command::library::programs::rpg_engine::rpg_engine_cli::rpg_engine_cli;
 use crate::systems::command::tools::calculator::cli_calc;
 use crate::systems::command::tools::calculator::cli_sqrt;
 use crate::systems::command::tools::math::math_cli;
 
 use crate::theory::test_theory::logic_cli;
+
+
+
 
 use std::io::{Write, stdin, stdout};
 
@@ -115,6 +118,10 @@ pub fn cli_commands() {
                 cli_calc();
             }
 
+            "data types" => {
+                data_types_cli();
+            }
+
             "sqrt" => {
                 cli_sqrt();
             }
@@ -129,10 +136,6 @@ pub fn cli_commands() {
 
             "math" => {
                 math_cli();
-            }
-
-            "numeric" => {
-                numeric_cli();
             }
 
             "test mathematical" => {

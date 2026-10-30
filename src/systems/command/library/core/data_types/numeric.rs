@@ -25,7 +25,7 @@ pub fn positive_normal_values() {
 
 pub fn numeric_cli() {
     loop {
-        print!("GPSE> COMMAND> NUMERIC> ");
+        print!("GPSE> COMMAND> DATA_TYPES> NUMERIC> ");
 
         let mut command: String = String::new();
 

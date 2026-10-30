@@ -1,9 +1,5 @@
 use gpse::systems::command::core::command_core::cli_commands;
 
-use gpse::core::data_types::numeric::f32_to_f64;
-use gpse::core::data_types::numeric::i32_to_i64;
-use gpse::core::data_types::numeric::u32_to_u64;
-
 use gpse::core::data_types::numeric::NumericType;
 
 use gpse::mathematical::arithmetic::arithmetic::add_u8;
@@ -16,16 +12,7 @@ fn read(input: &mut String) {
 }
 
 fn main() {
-    // Start of Tests
-    let unsigned = u32_to_u64(100);
-    let integer = i32_to_i64(100);
-    let floater = f32_to_f64(100.0);
-
-    println!("{}", unsigned);
-    println!("{}", integer);
-    println!("{}", floater);
-
-    println!();
+    // Start of Tests (Implementation Phase)
 
     println!("RANGE");
     println!("{:?}", NumericType::U32.range());
@@ -34,7 +21,9 @@ fn main() {
 
     println!("{:?}", add_u8(u8::MAX, 1));
 
-    // End of Tests
+    // End of Tests (Implementation Phase) 
+
+    // Refactor Test to systems::command::core
 
     print!("GREETINGS, WELCOME BACK! ");
     println!("[ DATE / TIME ]");
