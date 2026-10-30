@@ -1,20 +1,21 @@
 use crate::archive::ledger::ledger_cli::open_ledger;
 
-use crate::systems::command::library::core::data_types::numeric::numeric_cli;
-
 //use crate::mathematical::arithmetic::arithmetic::checked_add;
 use crate::mathematical::carter::carter_family::carter_formula_cli;
 use crate::mathematical::carter::carter_family::carter_formula_repeat;
 use crate::mathematical::sequences::sequence::sequence_cli;
 use crate::mathematical::test_mathematical::test_mathematical;
+
 #[cfg(feature = "marvel-rivals")]
 use crate::programs::library::marvel_rivals_random_hero::marvel_rivals_random_hero;
+
 use crate::systems::command::library::archive::bible::kjv1611::kjv_1611_cli::kjv_1611_cli_funk;
-use crate::systems::command::library::core::data_types::numeric::print_numeric;
+use crate::systems::command::library::core::data_types::numeric::numeric_cli;
 use crate::systems::command::library::programs::rpg_engine::rpg_engine_cli::rpg_engine_cli;
 use crate::systems::command::tools::calculator::cli_calc;
 use crate::systems::command::tools::calculator::cli_sqrt;
 use crate::systems::command::tools::math::math_cli;
+
 use crate::theory::test_theory::logic_cli;
 
 use std::io::{Write, stdin, stdout};
@@ -124,10 +125,6 @@ pub fn cli_commands() {
 
             "carter repeat" => {
                 carter_formula_repeat();
-            }
-
-            "data types" => {
-                print_numeric();
             }
 
             "math" => {
