@@ -1,7 +1,26 @@
+# GPSE - General Purpose Simulation Engine
+
 [package]
 name = "gpse"
 version = "0.1.0"
 edition = "2024"
 
+# General dependancies
+
 [dependencies]
-rand = "0.10.3"
+
+# temp placeholder till optional dependencies gets green
+#rand = "0.10.3"
+
+# Optional dependancies for specialized programs
+
+rand = { version = "0.10.3", optional = true }
+
+# Features configuration
+
+[features]
+default = []
+
+# Enables the Marvel Rivals random hero program
+
+marvel-rivals = ["dep:rand"]
