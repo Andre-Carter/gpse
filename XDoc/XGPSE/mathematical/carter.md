@@ -328,3 +328,7 @@ The next investigation should therefore focus on the **current formula independe
 * That the Carter Ratio itself constitutes a novel mathematical discovery.
 
 The investigation remains open.
+
+// section
+
+h is the half-side of a square, and also represents the radius of a circle inscribed with the 
