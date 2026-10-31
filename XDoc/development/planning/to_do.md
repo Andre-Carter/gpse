@@ -5,3 +5,5 @@ PlayerStats. Implement.
 - add f32/f64:MIN_POSITIVE (we have const built) to our data types> numeric "inspection" check roadmap> line: 859
 
 - command_core> help>: needs some love. data types> numeric> minimum values & maximum values are not built, and probably some others. (TLC: command> help) CLI LOVE 
+
+- move capitilize_first_letter function from command_core to core>input> text

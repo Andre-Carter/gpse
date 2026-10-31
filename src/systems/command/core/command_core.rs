@@ -18,22 +18,11 @@ use crate::systems::command::tools::math::math_cli;
 
 use crate::theory::test_theory::logic_cli;
 
-
-
-
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
     stdout().flush().expect("failed to flush");
     stdin().read_line(input).expect("failed to read");
-}
-
-pub fn captialize_first_letter(input: &str) -> String {
-    let mut chars = input.chars();
-    match chars.next() {
-        Some(first_char) => first_char.to_uppercase().collect::<String>() + chars.as_str(),
-        None => String::new(),
-    }
 }
 
 pub fn cli_commands() {

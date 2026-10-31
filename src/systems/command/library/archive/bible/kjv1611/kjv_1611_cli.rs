@@ -1,5 +1,5 @@
 use crate::archive::bible::kjv1611::kjv_1611::lookup_kjv1611;
-use crate::systems::command::core::command_core::captialize_first_letter;
+use crate::core::input::text::capitalize_first_letter;
 
 use std::io::{Write, stdin, stdout};
 
@@ -391,7 +391,7 @@ pub fn kjv_1611_cli_funk() {
                 if verse_range.len() == 1 {
                     println!(
                         "The book of {}, chapter {}, verse {}:",
-                        captialize_first_letter(book),
+                        capitalize_first_letter(book),
                         reference[0],
                         reference[1]
                     );
@@ -425,7 +425,7 @@ pub fn kjv_1611_cli_funk() {
                 } else if verse_range.len() == 2 {
                     print!(
                         "The book of {}, chapter {}, verses {} through {}:\n",
-                        captialize_first_letter(book),
+                        capitalize_first_letter(book),
                         reference[0],
                         verse_range[0],
                         verse_range[1]
