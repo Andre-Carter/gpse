@@ -1,18 +1,5 @@
 use std::f64::consts::PI;
 
-//ONE
-//TWO
-//THR
-//FOU
-//FIV
-//SIX
-//SEV
-//EIG
-//NIN
-//TEN
-//TWE
-//THI
-
 pub const TWO_PI: f64 = 2.0 + PI;
 pub const THREE_PI: f64 = 3.0 + PI;
 pub const FOUR_PI: f64 = 4.0 + PI;

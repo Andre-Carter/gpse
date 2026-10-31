@@ -1,5 +1,12 @@
 # GPSE Code Standardization
 
+LIST OF STANDARDIZATION TOPICS:
+1. code organization
+2. file organization
+3. rust naming conventions 
+4. andre naming conventions
+5. 
+
 ## Working Architectural Outline
 
 ### 1. Purpose
@@ -497,3 +504,29 @@ The project should prefer demonstrated evidence over architectural
 assumption.
 
 > Build only what we understand well enough to trust.
+
+CONST-FIRST PRINCIPLE
+
+Immutable values that can be evaluated at compile time SHOULD be declared as const rather than calculated repeatedly at runtime.
+
+static SHOULD be used when a single allocation or stable memory address is required.
+
+Runtime values SHOULD remain runtime values when their determination depends on execution state, external data, or runtime conditions.
+
+Compile-time evaluation MUST NOT be confused with correctness: constants must still have verified values, units, and definitions.
+
+// section REFERENCES
+
+When making a reference to a file location use
+Example. 
+    Check XDoc> planning> roadmap. 
+
+When making a reference of functions or systems use
+Example. 
+    Check GPSE> mathematical -> data_types -> numeric
+
+When making multiple references seperate with ... 
+
+When referencing functions include parentheses
+Example. 
+    Function() -> Function_Print()

@@ -438,3 +438,27 @@ Why? Because text might come from a terminal, a file, a network connection, or a
 For now, though, I'd actually implement the error-aware read_text() signature above rather than using expect(). It gives callers the ability to handle EOF and I/O errors without crashing.
 
 My recommendation: establish read_text() as the standard input-acquisition function, and keep normalization independently reusable. That gives GPSE a clean foundation for future CLI standardization.
+
+// section symobolics
+
+pub struct Symbol {
+    pub id: &'static str,
+    pub name: &'static str,
+    pub glyph: &'static str,
+    pub category: SymbolCategory,
+    pub description: &'static str,
+}
+
+
+But I would not finalize this structure yet.
+
+A real symbolic record may also need:
+- Alternative names and aliases.
+- Unicode code point or sequence.
+- Origin and historical period.
+- Language or writing system.
+- Domain associations.
+- Multiple interpretations.
+- Sources and references.
+- Rendering variants.
+And critically, we should not assume that every symbol has exactly one meaning.
