@@ -4,6 +4,8 @@ use gpse::core::data_types::numeric::NumericType;
 
 use gpse::mathematical::arithmetic::arithmetic::add_u8;
 
+use gpse::lang::alphabet;
+
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -20,6 +22,10 @@ fn main() {
     println!();
 
     println!("{:?}", add_u8(u8::MAX, 1));
+
+    //
+
+    alphabet();
 
     // End of Tests (Implementation Phase) 
 

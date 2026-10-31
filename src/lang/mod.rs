@@ -1,3 +1,4 @@
+
 // SYMBOLICS
 
 //ONE
@@ -12,12 +13,20 @@
 //TEN
 //TWE
 //THI
-pub const POI: &str = ".";
 
-pub const VOI: u8 = 0;
-pub const ONE: u8 = 1;
+//pub const POI: &str = ".";
 
-pub struct One {
-    name: &str,
-    value: &str,
+//pub const VOI: u8 = 0;
+//pub const ONE: u8 = 1;
+
+
+// a,e,i,o,u
+
+
+pub fn alphabet() {
+    let alphabet = "abcdefghijklmnopqrstuvwxyz".to_string();
+
+    let letters = alphabet.chars();
+
+    println!("{:?}", letters);
 }
