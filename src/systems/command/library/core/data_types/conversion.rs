@@ -25,6 +25,12 @@ pub fn conversion_cli() {
         let command = command.trim();
 
         match command {
+            "help" => {
+                println!("u32 to u64");
+                println!("i32 to i64");
+                println!("f32 to f64");
+            }
+
             "u32 to u64" => {
                 let mut command: String = String::new();
                 

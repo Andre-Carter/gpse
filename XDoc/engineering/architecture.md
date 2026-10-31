@@ -392,3 +392,49 @@ validation	Checks structural correctness
 systems::command	Coordinates command requests and dispatch
 
 One important architectural rule: core::input should not depend on systems::command. The dependency should flow in the opposite direction.
+
+// section
+
+/*
+let mut command: String = String::new();
+
+read(&mut command);
+
+let command = command.trim();
+
+NEW IMPLEMENTATION
+
+Now you can replace the three lines with:
+
+let command = read_text();
+
+And import it:
+
+use crate::core::input::text::read_text;
+
+2. Why this is useful
+
+We have consolidated a repeated operation:
+
+Operation	        Responsibility
+
+Create String	    Input acquisition
+Flush stdout	    Ensure prompt visibility
+Read stdin	        Receive input
+Trim whitespace	    Basic text normalization
+Return String	    Provide normalized input
+
+3. An important architectural consideration
+Eventually, we might want to separate these two operations:
+pub fn read_text() -> io::Result<String>
+
+
+and
+pub fn normalize_text(input: &str) -> String
+
+
+Why? Because text might come from a terminal, a file, a network connection, or another GPSE system. Normalization shouldn't require terminal access.
+
+For now, though, I'd actually implement the error-aware read_text() signature above rather than using expect(). It gives callers the ability to handle EOF and I/O errors without crashing.
+
+My recommendation: establish read_text() as the standard input-acquisition function, and keep normalization independently reusable. That gives GPSE a clean foundation for future CLI standardization.
