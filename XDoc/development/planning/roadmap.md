@@ -902,3 +902,29 @@ The core provides the data. The command system presents it.
 We're building a reusable data-type inspection system, not just a terminal display.
 
 And brother, I have to say: this is exactly the kind of foundational work that will make GPSE useful across its mathematical, physical, chemical, and simulation systems.
+
+// section
+
+No new parser architecture until we've audited the parsing GPSE already performs.
+
+We're going to refactor existing behavior, identify duplication, establish consistent interfaces, and only then decide what belongs in GPSE Core.
+1. Initial parsing inventory
+Based on our previous work, I see several existing parsing operations worth investigating:
+Area	Existing operation	What we should examine
+CLI	Command input	Trimming, normalization, command recognition
+Calculator	Numeric input	f64 parsing, separators, validation
+Calculator	Operator input	Symbols and word aliases
+Data types	Numeric conversion	&str into primitive numeric types
+Bible	Scripture references	Book, chapter, verse parsing
+Carter functions	Numeric input	Input normalization and validation
+
+We also have the RSVP program as inspiration, but let's inspect its existing implementation before drawing architectural conclusions.
+2. Refactoring objectives
+I propose this order:
+1. Inventory — identify every existing parsing function.
+2. Characterize — document exactly what each currently accepts and returns.
+3. Consolidate — identify duplicated operations.
+4. Standardize — establish consistent parsing and error-handling conventions.
+5. Test — preserve existing behavior and catch regressions.
+6. Integrate — determine what belongs in core/parsing.
+One important principle: parsing should interpret input and produce structured data. It shouldn't become responsible for executing commands or performing mathematical operations.

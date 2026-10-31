@@ -210,3 +210,185 @@ command> core> formatting
 and 
 example.
 command> library> programs> rpg_engine> formmating
+
+// section
+
+# Geometry — Organization & Architecture
+
+**Project:** GPSE  
+**Domain:** Mathematics  
+**Status:** PROPOSED  
+**Version:** 0.0.1
+
+## 1. Objective
+
+Establish an extensible organizational structure for GPSE's geometry domain.
+
+The organization should reflect mathematical relationships rather than create arbitrary directories for anticipated functionality.
+
+## 2. Foundational Organization
+
+Proposed hierarchy:
+
+```text
+mathematical/
+└── geometry/
+    ├── primitives/
+    ├── shapes/
+    │   ├── two_dimensional/
+    │   └── three_dimensional/
+    └── transformations/
+```
+
+This hierarchy is conceptual and is not yet an approved implementation.
+
+## 3. Shapes
+
+Shapes are the primary organizational domain for geometric objects.
+
+Potential two-dimensional shapes:
+- Circle
+- Triangle
+- Square
+- Rectangle
+- Polygon
+
+Potential three-dimensional shapes:
+- Sphere
+- Cube
+- Cuboid
+- Cylinder
+- Cone
+- Polyhedron
+
+## 4. Shape Measurements
+
+Measurements belong conceptually to their respective shapes.
+
+Examples:
+
+**Circle**
+- Radius
+- Diameter
+- Circumference
+- Area
+
+**Triangle**
+- Side lengths
+- Angles
+- Perimeter
+- Area
+
+**Sphere**
+- Radius
+- Diameter
+- Surface area
+- Volume
+
+## 5. Shape Properties
+
+Properties describe characteristics of geometric objects.
+
+Examples:
+- Symmetry
+- Number of sides
+- Curvature
+- Regularity
+- Angles
+- Faces
+- Edges
+- Vertices
+
+Distinguish descriptive properties from quantitative measurements.
+
+## 6. Architectural Considerations
+
+1. Avoid duplicating shared mathematical operations.
+2. Keep dimensional distinctions explicit.
+3. Preserve reusable geometric primitives.
+4. Avoid empty modules and premature abstractions.
+5. Allow future higher-dimensional geometry without requiring its immediate implementation.
+6. Keep mathematical definitions independent of CLI presentation.
+
+## 7. Outstanding Decisions
+
+- Should measurements be implemented within individual shape modules?
+- Which geometric primitives should be shared?
+- How should dimensionality be represented in the underlying types?
+- Should higher-dimensional geometry eventually be supported?
+- How should geometry integrate with physical and simulation domains?
+
+## 8. Implementation Status
+
+No implementation is authorized by this proposal alone.
+
+Architecture must be evaluated before creating the corresponding source modules.
+
+// section
+
+src/
+└── core/
+    └── parsing/
+        ├── mod.rs
+        │
+        ├── input/
+        │   ├── mod.rs
+        │   └── input.rs
+        │
+        ├── lexical/
+        │   ├── mod.rs
+        │   ├── tokenizer.rs
+        │   └── tokens.rs
+        │
+        ├── syntax/
+        │   ├── mod.rs
+        │   └── grammar.rs
+        │
+        ├── interpretation/
+        │   ├── mod.rs
+        │   └── expressions.rs
+        │
+        └── errors/
+            ├── mod.rs
+            └── parsing_error.rs
+
+the intent: gpse> core> parsing; is the home for general purpose reusable parsing infrastructure that other GPSE systems are built with. Pro-error handling. From this we can extend our command parser and expression (math) parser.
+
+core/
+└── input/
+    ├── normalization/
+    └── parsing/
+
+// the refined system here >
+
+src/
+└── core/
+    └── input/
+        ├── mod.rs
+        │
+        └── text/
+            ├── mod.rs
+            ├── normalization/
+            ├── tokenization/
+            ├── parsing/
+            └── validation/
+
+core/
+└── input/
+    ├── text/
+    ├── binary/
+    ├── numerical/
+    ├── structured/
+    └── ...
+
+The separation of responsibilities
+Layer	Responsibility
+core::input	General input infrastructure
+core::input::text	Text input processing
+normalization	Standardizes representations
+tokenization	Identifies individual tokens
+parsing	Interprets structure and meaning
+validation	Checks structural correctness
+systems::command	Coordinates command requests and dispatch
+
+One important architectural rule: core::input should not depend on systems::command. The dependency should flow in the opposite direction.
