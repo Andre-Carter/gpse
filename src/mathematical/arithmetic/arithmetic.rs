@@ -83,11 +83,11 @@ pub fn add_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
 }
 
 pub fn add_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
-    if right > i8::MAX - left {
+    if right > 0 && left > i8::MAX - right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if right < i8::MIN {
+    if right < 0 && left < i8::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -95,11 +95,11 @@ pub fn add_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
 }
 
 pub fn add_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
-    if right > i16::MAX - left {
+    if right > 0 && left > i16::MAX - right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if right < i16::MIN {
+    if right < 0 && left < i16::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -107,11 +107,11 @@ pub fn add_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
 }
 
 pub fn add_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
-    if right > i32::MAX - left {
+    if right > 0 && left > i32::MAX - right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if right < i32::MIN {
+    if right < 0 && left < i32::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -119,11 +119,11 @@ pub fn add_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
 }
 
 pub fn add_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
-    if right > i64::MAX - left {
+    if right > 0 && left > i64::MAX - right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if right < i64::MIN {
+    if right < 0 && left < i64::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -131,11 +131,11 @@ pub fn add_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
 }
 
 pub fn add_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
-    if right > i128::MAX - left {
+    if right > 0 && left > i128::MAX - right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if right < i128::MIN {
+    if right < 0 && left < i128::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -143,11 +143,11 @@ pub fn add_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
 }
 
 pub fn add_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
-    if right > isize::MAX - left {
+    if right > 0 && left > isize::MAX - right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if right < isize::MIN {
+    if right < 0 && left < isize::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -159,7 +159,7 @@ pub fn add_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
         return Err(ArithmeticError::Overflow);
     }
 
-    if right < f32::MIN {
+    if right < 0.0 && left < f32::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -171,7 +171,7 @@ pub fn add_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
         return Err(ArithmeticError::Overflow);
     }
 
-    if right < f64::MIN {
+    if right < 0.0 && left < f64::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -229,11 +229,11 @@ pub fn sub_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
 }
 
 pub fn sub_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
-    if left > 0 {
+    if right > 0 && left > i8::MAX - right {
         return Err(ArithmeticError::Overflow);
     }
-   
-    if left <= 0 && right > i8::MAX {
+
+    if right < 0 && left < i8::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -241,11 +241,11 @@ pub fn sub_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
 }
 
 pub fn sub_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
-    if right > i16::MAX - left {
+    if right > 0 && left > i16::MAX - right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if left < i16::MIN + right {
+    if right < 0 && left < i16::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -253,11 +253,11 @@ pub fn sub_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
 }
 
 pub fn sub_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
-    if right > i32::MAX - left {
+    if right > 0 && left > i32::MAX - right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if left < i32::MIN + right {
+    if right < 0 && left < i32::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -265,11 +265,11 @@ pub fn sub_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
 }
 
 pub fn sub_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
-    if right > i64::MAX - left {
+    if right > 0 && left > i64::MAX - right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if left < i64::MIN + right {
+    if right < 0 && left < i64::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -277,11 +277,11 @@ pub fn sub_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
 }
 
 pub fn sub_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
-    if right > i128::MAX - left {
+    if right > 0 && left > i128::MAX - right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if left < i128::MIN + right {
+    if right < 0 && left < i128::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -289,11 +289,11 @@ pub fn sub_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
 }
 
 pub fn sub_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
-    if right > isize::MAX - left {
+    if right > 0 && left > isize::MAX - right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if left < isize::MIN + right {
+    if right < 0 && left < isize::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -305,7 +305,7 @@ pub fn sub_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
         return Err(ArithmeticError::Overflow);
     }
 
-    if left < f32::MIN + right {
+    if right < 0.0 && left < f32::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -317,7 +317,7 @@ pub fn sub_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
         return Err(ArithmeticError::Overflow);
     }
 
-    if left < f64::MIN + right {
+    if right < 0.0 && left < f64::MIN - right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -415,7 +415,7 @@ pub fn mul_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
         return Err(ArithmeticError::Overflow);
     }
 
-    if right < i64::MIN / right {
+    if right < i64::MIN / left {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -1227,13 +1227,8 @@ mod tests {
     }
 
     #[test]
-    fn test_sub_u8_overflow() {
-        assert_eq!(sub_u8(1, -127), Err(ArithmeticError::Overflow))
-    }
-
-    #[test]
     fn test_sub_u8_underflow() {
-        assert_eq!(sub_u8(-1, 127), Err(ArithmeticError::Underflow))
+        assert_eq!(sub_u8(0, 1), Err(ArithmeticError::Underflow))
     }
 
     #[test]
