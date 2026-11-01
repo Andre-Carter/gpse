@@ -473,20 +473,12 @@ pub fn div_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
-    if right > left / u8::MAX {
-        return Err(ArithmeticError::Overflow);
-    }
-
     Ok(left / right)
 }
 
 pub fn div_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
-    }
-
-    if right > left / u16::MAX {
-        return Err(ArithmeticError::Overflow);
     }
 
     Ok(left / right)
@@ -497,20 +489,12 @@ pub fn div_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
-    if right > left / u32::MAX {
-        return Err(ArithmeticError::Overflow);
-    }
-
     Ok(left / right)
 }
 
 pub fn div_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
-    }
-
-    if right > left / u64::MAX {
-        return Err(ArithmeticError::Overflow);
     }
 
     Ok(left / right)
@@ -521,20 +505,12 @@ pub fn div_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
-    if right > left / u128::MAX {
-        return Err(ArithmeticError::Overflow);
-    }
-
     Ok(left / right)
 }
 
 pub fn div_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
-    }
-
-    if right > left / usize::MAX {
-        return Err(ArithmeticError::Overflow);
     }
 
     Ok(left / right)
@@ -545,15 +521,7 @@ pub fn div_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
-    if right > left / i8::MAX {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < right / i8::MIN {
-        return Err(ArithmeticError::Underflow);
-    }
-
-    Ok(left / right)
+    left.checked_div(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn div_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
@@ -561,15 +529,7 @@ pub fn div_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
-    if right > left / i16::MAX {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < right / i16::MIN {
-        return Err(ArithmeticError::Underflow);
-    }
-
-    Ok(left / right)
+    left.checked_div(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn div_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
@@ -577,15 +537,7 @@ pub fn div_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
-    if right > left / i32::MAX {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < right / i32::MIN {
-        return Err(ArithmeticError::Underflow);
-    }
-
-    Ok(left / right)
+    left.checked_div(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn div_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
@@ -593,15 +545,7 @@ pub fn div_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
-    if right > left / i64::MAX {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < right / i64::MIN {
-        return Err(ArithmeticError::Underflow);
-    }
-
-    Ok(left / right)
+    left.checked_div(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn div_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
@@ -609,15 +553,7 @@ pub fn div_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
-    if right > left / i128::MAX {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < right / i128::MIN {
-        return Err(ArithmeticError::Underflow);
-    }
-
-    Ok(left / right)
+    left.checked_div(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn div_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
@@ -625,15 +561,7 @@ pub fn div_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
-    if right > left / isize::MAX {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < right / isize::MIN {
-        return Err(ArithmeticError::Underflow);
-    }
-
-    Ok(left / right)
+    left.checked_div(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn div_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
@@ -641,15 +569,13 @@ pub fn div_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
-    if right > left / f32::MAX {
-        return Err(ArithmeticError::Overflow);
+    let result = left / right;
+    
+    if result.is_infinite() {
+        return Err(if result > 0.0 { ArithmeticError::Overflow } else { ArithmeticError::Underflow });
     }
 
-    if left < right / f32::MIN {
-        return Err(ArithmeticError::Underflow);
-    }
-
-    Ok(left / right)
+    Ok(result)
 }
 
 pub fn div_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
@@ -657,15 +583,13 @@ pub fn div_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
 
-    if right > left / f64::MAX {
-        return Err(ArithmeticError::Overflow);
+    let result = left / right;
+
+    if result.is_infinite() {
+        return Err(if result > 0.0 { ArithmeticError::Overflow } else { ArithmeticError::Underflow });
     }
 
-    if left < right / f64::MIN {
-        return Err(ArithmeticError::Underflow);
-    }
-
-    Ok(left / right)
+    Ok(result)
 }
 
 // Remainder
@@ -673,10 +597,6 @@ pub fn div_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
 pub fn rem_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
-    }
-    
-    if right > u8::MAX % left {
-        return Err(ArithmeticError::Overflow);
     }
     
     Ok(left % right)
@@ -687,20 +607,12 @@ pub fn rem_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
     
-    if right > u16::MAX % left {
-        return Err(ArithmeticError::Overflow);
-    }
-    
     Ok(left % right)
 }
 
 pub fn rem_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
-    }
-    
-    if right > u32::MAX % left {
-        return Err(ArithmeticError::Overflow);
     }
     
     Ok(left % right)
@@ -711,20 +623,12 @@ pub fn rem_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
     
-    if right > u64::MAX % left {
-        return Err(ArithmeticError::Overflow);
-    }
-    
     Ok(left % right)
 }
 
 pub fn rem_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
     if right == 0 {
         return Err(ArithmeticError::DivisionByZero);
-    }
-    
-    if right > u128::MAX % left {
-        return Err(ArithmeticError::Overflow);
     }
     
     Ok(left % right)
@@ -735,10 +639,6 @@ pub fn rem_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
     
-    if right > usize::MAX % left {
-        return Err(ArithmeticError::Overflow);
-    }
-    
     Ok(left % right)
 }
 
@@ -747,15 +647,7 @@ pub fn rem_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
     
-    if right > i8::MAX % left {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < i8::MIN % right {
-        return Err(ArithmeticError::Underflow);
-    }
-    
-    Ok(left % right)
+    left.checked_rem(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn rem_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
@@ -763,15 +655,7 @@ pub fn rem_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
     
-    if right > i16::MAX % left {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < i16::MIN % right {
-        return Err(ArithmeticError::Underflow);
-    }
-    
-    Ok(left % right)
+    left.checked_rem(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn rem_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
@@ -779,15 +663,7 @@ pub fn rem_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
     
-    if right > i32::MAX % left {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < i32::MIN % right {
-        return Err(ArithmeticError::Underflow);
-    }
-    
-    Ok(left % right)
+    left.checked_rem(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn rem_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
@@ -795,15 +671,7 @@ pub fn rem_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
     
-    if right > i64::MAX % left {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < i64::MIN % right {
-        return Err(ArithmeticError::Underflow);
-    }
-
-    Ok(left % right)
+    left.checked_rem(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn rem_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
@@ -811,15 +679,7 @@ pub fn rem_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
     
-    if right > i128::MAX % left {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < i128::MIN % right {
-        return Err(ArithmeticError::Underflow);
-    }
-    
-    Ok(left % right)
+    left.checked_rem(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn rem_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
@@ -827,28 +687,12 @@ pub fn rem_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
     
-    if right > isize::MAX % left {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < isize::MIN % right {
-        return Err(ArithmeticError::Underflow);
-    }
-    
-    Ok(left % right)
+    left.checked_rem(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn rem_f32(left: f32, right: f32) -> Result<f32, ArithmeticError> {
     if right == 0.0 {
         return Err(ArithmeticError::DivisionByZero);
-    }
-    
-    if right > f32::MAX / left {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < f32::MIN / right {
-        return Err(ArithmeticError::Underflow);
     }
     
     Ok(left % right)
@@ -859,113 +703,90 @@ pub fn rem_f64(left: f64, right: f64) -> Result<f64, ArithmeticError> {
         return Err(ArithmeticError::DivisionByZero);
     }
     
-    if right > f64::MAX % left {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    if left < f64::MIN % right {
-        return Err(ArithmeticError::Underflow);
-    }
-    
     Ok(left % right)
 }
 
 // Power (exponent)
 
 pub fn pow_u8(left: u8, right: u8) -> Result<u8, ArithmeticError> {
-    if right > 8_u8 {
-        return Err(ArithmeticError::Overflow);
-    }
-    
-    Ok(left ^ right)
+    left.checked_pow(u32::from(right)).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn pow_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
-    if right > 16_u16 {
-        return Err(ArithmeticError::Overflow);
-    }
-    
-    Ok(left ^ right)
+    left.checked_pow(u32::from(right)).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn pow_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
-    if right > 32_u32 {
-        return Err(ArithmeticError::Overflow);
-    }
-    
-    Ok(left ^ right)
+    left.checked_pow(u32::from(right)).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn pow_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
-    if right > 64_u64 {
-        return Err(ArithmeticError::Overflow);
-    }
-    
-    Ok(left ^ right)
+    let exp = u32::try_from(right).map_err(|_| ArithmeticError::InvalidExponent)?;
+    left.checked_pow(exp).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn pow_u128(left: u128, right: u128) -> Result<u128, ArithmeticError> {
-    if right > 128_u128 {
-        return Err(ArithmeticError::Overflow);
-    }
-    
-    Ok(left ^ right)
+    let exp = u32::try_from(right).map_err(|_| ArithmeticError::InvalidExponent)?;
+    left.checked_pow(exp).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn pow_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
-    if right > usize::MAX {
-        return Err(ArithmeticError::Overflow);
-    }
-    
-    Ok(left ^ right)
+    let exp = u32::try_from(right).map_err(|_| ArithmeticError::InvalidExponent)?;
+    left.checked_pow(exp).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn pow_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
-    if right > 8_i8 {
-        return Err(ArithmeticError::Overflow);
-    }
-    
-    Ok(left ^ right)
+    let exp = u32::try_from(right).map_err(|_| ArithmeticError::InvalidExponent)?;
+    left.checked_pow(exp).ok_or(if left < 0 && exp % 2 == 1 {
+        ArithmeticError::Underflow
+    } else {
+        ArithmeticError::Overflow
+    })
 }
 
 pub fn pow_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
-    if right > 16_i16 {
-        return Err(ArithmeticError::Overflow);
-    }
-    
-    Ok(left ^ right)
+    let exp = u32::try_from(right).map_err(|_| ArithmeticError::InvalidExponent)?;
+    left.checked_pow(exp).ok_or(if left < 0 && exp % 2 == 1 {
+        ArithmeticError::Underflow
+    } else {
+        ArithmeticError::Overflow
+    })
 }
 
 pub fn pow_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
-    if right > 32_i32 {
-        return Err(ArithmeticError::Overflow);
-    }
-    
-    Ok(left ^ right)
+    let exp = u32::try_from(right).map_err(|_| ArithmeticError::InvalidExponent)?;
+    left.checked_pow(exp).ok_or(if left < 0 && exp % 2 == 1 {
+        ArithmeticError::Underflow
+    } else {
+        ArithmeticError::Overflow
+    })
 }
 
 pub fn pow_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
-    if left ^ right > 64_i64 {
-        return Err(ArithmeticError::Overflow);
-    }
-
-    Ok(left ^ right)
+    let exp = u32::try_from(right).map_err(|_| ArithmeticError::InvalidExponent)?;
+    left.checked_pow(exp).ok_or(if left < 0 && exp % 2 == 1 {
+        ArithmeticError::Underflow
+    } else {
+        ArithmeticError::Overflow
+    })
 }
 
 pub fn pow_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
-    if right > 128_i128 {
-        return Err(ArithmeticError::Overflow);
-    }
-    
-    Ok(left ^ right)
+    let exp = u32::try_from(right).map_err(|_| ArithmeticError::InvalidExponent)?;
+    left.checked_pow(exp).ok_or(if left < 0 && exp % 2 == 1 {
+        ArithmeticError::Underflow
+    } else {
+        ArithmeticError::Overflow
+    })
 }
 
 pub fn pow_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
-    if right > isize::MAX {
-        return Err(ArithmeticError::Overflow);
-    }
-    
-    Ok(left ^ right)
+    let exp = u32::try_from(right).map_err(|_| ArithmeticError::InvalidExponent)?;
+    left.checked_pow(exp).ok_or(if left < 0 && exp % 2 == 1 {
+        ArithmeticError::Underflow
+    } else {
+        ArithmeticError::Overflow
+    })
 }
 
 // No rust-implentation for (bitwise XOR) floating-point ^ (f32 ^ f32 & f64 ^ f64)
@@ -1009,11 +830,6 @@ mod tests {
     }
 
     #[test]
-    fn test_add_u8_max() {
-        assert_eq!(add_u8(0, u8::MAX), Ok(u8::MAX))
-    }
-
-    #[test]
     fn test_add_u8_overflow() {
         assert_eq!(add_u8(1, u8::MAX), Err(ArithmeticError::Overflow))
     }
@@ -1021,11 +837,6 @@ mod tests {
     #[test]
     fn test_add_u16() {
         assert_eq!(add_u16(1, 2), Ok(3))
-    }
-
-    #[test]
-    fn test_add_u16_max() {
-        assert_eq!(add_u16(0, u16::MAX), Ok(u16::MAX))
     }
 
     #[test]
@@ -1039,11 +850,6 @@ mod tests {
     }
 
     #[test]
-    fn test_add_u32_max() {
-        assert_eq!(add_u32(0, u32::MAX), Ok(u32::MAX))
-    }
-
-    #[test]
     fn test_add_u32_overflow() {
         assert_eq!(add_u32(1, u32::MAX), Err(ArithmeticError::Overflow))
     }
@@ -1051,11 +857,6 @@ mod tests {
     #[test]
     fn test_add_u64() {
         assert_eq!(add_u64(1, 2), Ok(3))
-    }
-
-    #[test]
-    fn test_add_u64_max() {
-        assert_eq!(add_u64(0, u64::MAX), Ok(u64::MAX))
     }
 
     #[test]
@@ -1069,11 +870,6 @@ mod tests {
     }
 
     #[test]
-    fn test_add_u128_max() {
-        assert_eq!(add_u128(0, u128::MAX), Ok(u128::MAX))
-    }
-
-    #[test]
     fn test_add_u128_overflow() {
         assert_eq!(add_u128(1, u128::MAX), Err(ArithmeticError::Overflow))
     }
@@ -1081,11 +877,6 @@ mod tests {
     #[test]
     fn test_add_usize() {
         assert_eq!(add_usize(1, 2), Ok(3))
-    }
-
-    #[test]
-    fn test_add_usize_max() {
-        assert_eq!(add_usize(0, usize::MAX), Ok(usize::MAX))
     }
 
     #[test]
@@ -1099,11 +890,6 @@ mod tests {
     }
 
     #[test]
-    fn test_add_i8_max() {
-        assert_eq!(add_i8(0, i8::MAX), Ok(i8::MAX))
-    }
-
-    #[test]
     fn test_add_i8_overflow() {
         assert_eq!(add_i8(1, i8::MAX), Err(ArithmeticError::Overflow))
     }
@@ -1111,11 +897,6 @@ mod tests {
     #[test]
     fn test_add_i16() {
         assert_eq!(add_i16(1, 2), Ok(3))
-    }
-
-    #[test]
-    fn test_add_i16_max() {
-        assert_eq!(add_i16(0, i16::MAX), Ok(i16::MAX))
     }
 
     #[test]
@@ -1129,11 +910,6 @@ mod tests {
     }
 
     #[test]
-    fn test_add_i32_max() {
-        assert_eq!(add_i32(0, i32::MAX), Ok(i32::MAX))
-    }
-
-    #[test]
     fn test_add_i32_overflow() {
         assert_eq!(add_i32(1, i32::MAX), Err(ArithmeticError::Overflow))
     }
@@ -1141,11 +917,6 @@ mod tests {
     #[test]
     fn test_add_i64() {
         assert_eq!(add_i64(1, 2), Ok(3))
-    }
-
-    #[test]
-    fn test_add_i64_max() {
-        assert_eq!(add_i64(0, i64::MAX), Ok(i64::MAX))
     }
 
     #[test]
@@ -1159,11 +930,6 @@ mod tests {
     }
 
     #[test]
-    fn test_add_i128_max() {
-        assert_eq!(add_i128(0, i128::MAX), Ok(i128::MAX))
-    }
-
-    #[test]
     fn test_add_i128_overflow() {
         assert_eq!(add_i128(1, i128::MAX), Err(ArithmeticError::Overflow))
     }
@@ -1171,11 +937,6 @@ mod tests {
     #[test]
     fn test_add_isize() {
         assert_eq!(add_isize(1, 2), Ok(3))
-    }
-
-    #[test]
-    fn test_add_isize_max() {
-        assert_eq!(add_isize(0, isize::MAX), Ok(isize::MAX))
     }
 
     #[test]
@@ -1189,11 +950,6 @@ mod tests {
     }
 
     #[test]
-    fn test_add_f32_max() {
-        assert_eq!(add_f32(0.0, f32::MAX), Ok(f32::MAX))
-    }
-
-    #[test]
     fn test_add_f32_overflow() {
         assert_eq!(add_f32(f32::MAX, f32::MAX), Err(ArithmeticError::Overflow))
     }
@@ -1201,11 +957,6 @@ mod tests {
     #[test]
     fn test_add_f64() {
         assert_eq!(add_f64(1.0, 2.0), Ok(3.0))
-    }
-
-    #[test]
-    fn test_add_f64_max() {
-        assert_eq!(add_f64(0.0, f64::MAX), Ok(f64::MAX))
     }
 
     #[test]
@@ -1343,6 +1094,11 @@ mod tests {
     }
 
     #[test]
+    fn test_sub_f32_max() {
+        assert_eq!(sub_f32(f32::MAX, f32::MAX), Ok(0.0))
+    }
+
+    #[test]
     fn test_sub_f64() {
         assert_eq!(sub_f64(3.0, 2.0), Ok(1.0))
     }
@@ -1352,6 +1108,12 @@ mod tests {
     #[test]
     fn test_mul_u8() {
         assert_eq!(mul_u8(10, 10), Ok(100))
+    }
+
+    // test bug
+    #[test]
+    fn test_mul_u8_two() {
+        assert_eq!(mul_u8(0, 5), Ok(0))
     }
 
     #[test]
@@ -1382,6 +1144,17 @@ mod tests {
     #[test]
     fn test_mul_i8() {
         assert_eq!(mul_i8(10, 10), Ok(100))
+    }
+
+    // test bug
+    #[test]
+    fn test_mul_i8() {
+        assert_eq!(mul_i8(-1, 5), Ok(-5))
+    }
+
+    #[test]
+    fn test_mul_i8_overflow() {
+        assert_eq!(mul_i8(i8::MIN, -1), Err(ArithmeticError::Overflow))
     }
 
     #[test]
@@ -1423,72 +1196,142 @@ mod tests {
 
     #[test]
     fn test_div_u8() {
-        assert_eq!(div_u8(10, 10), Ok(1))
+        assert_eq!(div_u8(100, 10), Ok(10))
+    }
+
+    #[test]
+    fn test_div_u8_division_by_zero() {
+        assert_eq!(div_u8(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_u16() {
-        assert_eq!(div_u16(10, 10), Ok(1))
+        assert_eq!(div_u16(100, 10), Ok(10))
+    }
+
+    #[test]
+    fn test_div_u16_division_by_zero() {
+        assert_eq!(div_u16(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_u32() {
-        assert_eq!(div_u32(10, 10), Ok(1))
+        assert_eq!(div_u32(100, 10), Ok(10))
+    }
+
+    #[test]
+    fn test_div_u32_division_by_zero() {
+        assert_eq!(div_u32(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_u64() {
-        assert_eq!(div_u64(10, 10), Ok(1))
+        assert_eq!(div_u64(100, 10), Ok(10))
+    }
+
+    #[test]
+    fn test_div_u64_division_by_zero() {
+        assert_eq!(div_u64(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_u128() {
-        assert_eq!(div_u128(10, 10), Ok(1))
+        assert_eq!(div_u128(100, 10), Ok(10))
+    }
+
+    #[test]
+    fn test_div_u128_division_by_zero() {
+        assert_eq!(div_u128(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_usize() {
-        assert_eq!(div_usize(10, 10), Ok(1))
+        assert_eq!(div_usize(100, 10), Ok(10))
+    }
+
+    #[test]
+    fn test_div_usize_division_by_zero() {
+        assert_eq!(div_usize(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_i8() {
-        assert_eq!(div_i8(10, 10), Ok(1))
+        assert_eq!(div_i8(100, 10), Ok(10))
+    }
+
+    #[test]
+    fn test_div_i8_division_by_zero() {
+        assert_eq!(div_i8(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_i16() {
-        assert_eq!(div_i16(10, 10), Ok(1))
+        assert_eq!(div_i16(100, 10), Ok(10))
+    }
+
+    #[test]
+    fn test_div_i16_division_by_zero() {
+        assert_eq!(div_i16(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_i32() {
-        assert_eq!(div_i32(10, 10), Ok(1))
+        assert_eq!(div_i32(100, 10), Ok(10))
+    }
+
+    #[test]
+    fn test_div_i32_division_by_zero() {
+        assert_eq!(div_i32(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_i64() {
-        assert_eq!(div_i64(10, 10), Ok(1))
+        assert_eq!(div_i64(100, 10), Ok(10))
+    }
+    
+    #[test]
+    fn test_div_i64_division_by_zero() {
+        assert_eq!(div_i64(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_i128() {
-        assert_eq!(div_i128(10, 10), Ok(1))
+        assert_eq!(div_i128(100, 10), Ok(10))
+    }
+
+    #[test]
+    fn test_div_i128_division_by_zero() {
+        assert_eq!(div_i128(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_isize() {
-        assert_eq!(div_isize(10, 10), Ok(1))
+        assert_eq!(div_isize(100, 10), Ok(10))
+    }
+
+    #[test]
+    fn test_div_isize_division_by_zero() {
+        assert_eq!(div_isize(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_f32() {
-        assert_eq!(div_f32(10.0, 10.0), Ok(1.0))
+        assert_eq!(div_f32(100.0, 10.0), Ok(10.0))
+    }
+
+    #[test]
+    fn test_div_f32_division_by_zero() {
+        assert_eq!(div_f32(100.0, 0.0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
     fn test_div_f64() {
-        assert_eq!(div_f64(10.0, 10.0), Ok(1.0))
+        assert_eq!(div_f64(100.0, 10.0), Ok(10.0))
+    }
+
+    #[test]
+    fn test_div_f64_division_by_zero() {
+        assert_eq!(div_f64(100.0, 0.0), Err(ArithmeticError::DivisionByZero))
     }
 
     // TEST REMAINDER
@@ -1499,8 +1342,18 @@ mod tests {
     }
 
     #[test]
+    fn test_rem_u8_division_by_zero() {
+        assert_eq!(rem_u8(100, 0), Err(ArithmeticError::DivisionByZero))
+    }
+
+    #[test]
     fn test_rem_u16() {
         assert_eq!(rem_u16(u16::MAX, 10), Ok(5))
+    }
+
+    #[test]
+    fn test_rem_u16_division_by_zero() {
+        assert_eq!(rem_u16(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
@@ -1509,8 +1362,18 @@ mod tests {
     }
 
     #[test]
+    fn test_rem_u32_division_by_zero() {
+        assert_eq!(rem_u32(100, 0), Err(ArithmeticError::DivisionByZero))
+    }
+
+    #[test]
     fn test_rem_u64() {
         assert_eq!(rem_u64(u64::MAX, 10), Ok(5))
+    }
+
+    #[test]
+    fn test_rem_u64_division_by_zero() {
+        assert_eq!(rem_u64(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
@@ -1519,8 +1382,18 @@ mod tests {
     }
 
     #[test]
+    fn test_rem_u128_division_by_zero() {
+        assert_eq!(rem_u128(100, 0), Err(ArithmeticError::DivisionByZero))
+    }
+
+    #[test]
     fn test_rem_usize() {
         assert_eq!(rem_usize(usize::MAX, 10), Ok(5))
+    }
+
+    #[test]
+    fn test_rem_usize_division_by_zero() {
+        assert_eq!(rem_usize(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
@@ -1529,8 +1402,18 @@ mod tests {
     }
 
     #[test]
+    fn test_rem_i8_division_by_zero() {
+        assert_eq!(rem_i8(100, 0), Err(ArithmeticError::DivisionByZero))
+    }
+
+    #[test]
     fn test_rem_i16() {
         assert_eq!(rem_i16(i16::MAX, 10), Ok(7))
+    }
+
+    #[test]
+    fn test_rem_i16_division_by_zero() {
+        assert_eq!(rem_i16(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
@@ -1539,8 +1422,18 @@ mod tests {
     }
 
     #[test]
+    fn test_rem_i32_division_by_zero() {
+        assert_eq!(rem_i32(100, 0), Err(ArithmeticError::DivisionByZero))
+    }
+
+    #[test]
     fn test_rem_i64() {
         assert_eq!(rem_i64(i64::MAX, 10), Ok(7))
+    }
+
+    #[test]
+    fn test_rem_i64_division_by_zero() {
+        assert_eq!(rem_i64(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
@@ -1549,8 +1442,18 @@ mod tests {
     }
 
     #[test]
+    fn test_rem_i128_division_by_zero() {
+        assert_eq!(rem_i128(100, 0), Err(ArithmeticError::DivisionByZero))
+    }
+
+    #[test]
     fn test_rem_isize() {
         assert_eq!(rem_isize(isize::MAX, 10), Ok(7))
+    }
+
+    #[test]
+    fn test_rem_isize_division_by_zero() {
+        assert_eq!(rem_isize(100, 0), Err(ArithmeticError::DivisionByZero))
     }
 
     #[test]
@@ -1559,8 +1462,18 @@ mod tests {
     }
 
     #[test]
+    fn test_rem_f32_division_by_zero() {
+        assert_eq!(rem_f32(100.0, 0.0), Err(ArithmeticError::DivisionByZero))
+    }
+
+    #[test]
     fn test_rem_f64() {
         assert_eq!(rem_f64(f64::MAX, 10.0), Ok(8.0))
+    }
+
+    #[test]
+    fn test_rem_f64_division_by_zero() {
+        assert_eq!(rem_f64(100.0, 0.0), Err(ArithmeticError::DivisionByZero))
     }
 
     // TEST POWER
@@ -1568,6 +1481,11 @@ mod tests {
     #[test]
     fn test_pow_u8() {
         assert_eq!(pow_u8(10, 2), Ok(100))
+    }
+
+    #[test]
+    fn test_pow_u8_overflow() {
+        assert_eq!(pow_u8(2, 8_u8), Err(ArithmeticError::Overflow))
     }
 
     #[test]

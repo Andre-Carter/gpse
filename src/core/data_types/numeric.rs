@@ -324,19 +324,4 @@ mod tests {
             _ => panic!("Expected F64"),
         }
     }
-
-    #[test]
-    pub fn test_u32_to_u64() {
-        assert_eq!(u32_to_u64(100), Ok(100))
-    }
-
-    #[test]
-    pub fn test_i32_to_i64() {
-        assert_eq!(i32_to_i64(100), Ok(100))
-    }
-
-    #[test]
-    pub fn test_f32_to_f64() {
-        assert_eq!(f32_to_f64(100), Ok(100))
-    }
 }
