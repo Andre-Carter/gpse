@@ -229,11 +229,10 @@ pub fn sub_usize(left: usize, right: usize) -> Result<usize, ArithmeticError> {
 }
 
 pub fn sub_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
-    if right > 0 && left > i8::MAX - right {
+    if right < 0 && left > i8::MAX + right {
         return Err(ArithmeticError::Overflow);
     }
-
-    if right < 0 && left < i8::MIN - right {
+    if right > 0 && left < i8::MIN + right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -241,11 +240,10 @@ pub fn sub_i8(left: i8, right: i8) -> Result<i8, ArithmeticError> {
 }
 
 pub fn sub_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
-    if right > 0 && left > i16::MAX - right {
+    if right < 0 && left > i16::MAX + right {
         return Err(ArithmeticError::Overflow);
     }
-
-    if right < 0 && left < i16::MIN - right {
+    if right > 0 && left < i16::MIN + right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -253,11 +251,11 @@ pub fn sub_i16(left: i16, right: i16) -> Result<i16, ArithmeticError> {
 }
 
 pub fn sub_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
-    if right > 0 && left > i32::MAX - right {
+    if right < 0 && left > i32::MAX + right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if right < 0 && left < i32::MIN - right {
+    if right > 0 && left < i32::MIN + right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -265,11 +263,10 @@ pub fn sub_i32(left: i32, right: i32) -> Result<i32, ArithmeticError> {
 }
 
 pub fn sub_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
-    if right > 0 && left > i64::MAX - right {
+    if right < 0 && left > i64::MAX + right {
         return Err(ArithmeticError::Overflow);
     }
-
-    if right < 0 && left < i64::MIN - right {
+    if right > 0 && left < i64::MIN + right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -277,11 +274,10 @@ pub fn sub_i64(left: i64, right: i64) -> Result<i64, ArithmeticError> {
 }
 
 pub fn sub_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
-    if right > 0 && left > i128::MAX - right {
+    if right < 0 && left > i128::MAX + right {
         return Err(ArithmeticError::Overflow);
     }
-
-    if right < 0 && left < i128::MIN - right {
+    if right > 0 && left < i128::MIN + right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -289,11 +285,11 @@ pub fn sub_i128(left: i128, right: i128) -> Result<i128, ArithmeticError> {
 }
 
 pub fn sub_isize(left: isize, right: isize) -> Result<isize, ArithmeticError> {
-    if right > 0 && left > isize::MAX - right {
+    if right < 0 && left > isize::MAX + right {
         return Err(ArithmeticError::Overflow);
     }
 
-    if right < 0 && left < isize::MIN - right {
+    if right > 0 && left < isize::MIN + right {
         return Err(ArithmeticError::Underflow);
     }
     
@@ -1199,7 +1195,7 @@ mod tests {
 
     #[test]
     fn test_add_f32_overflow() {
-        assert_eq!(add_f32(1.0, f32::MAX), Err(ArithmeticError::Overflow))
+        assert_eq!(add_f32(f32::MAX, f32::MAX), Err(ArithmeticError::Overflow))
     }
 
     #[test]
@@ -1214,7 +1210,7 @@ mod tests {
 
     #[test]
     fn test_add_f64_overflow() {
-        assert_eq!(add_f64(1.0, f64::MAX), Err(ArithmeticError::Overflow))
+        assert_eq!(add_f64(f64::MAX, f64::MAX), Err(ArithmeticError::Overflow))
     }
 
     // TEST SUBTRACTION: SUB, UPPER, LOWER, OVERFLOW, UNDERFLOW
@@ -1287,8 +1283,18 @@ mod tests {
     }
 
     #[test]
+    fn test_sub_i8_underflow() {
+        assert_eq!(sub_i8(i8::MIN, 1), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
     fn test_sub_i16() {
         assert_eq!(sub_i16(3, 2), Ok(1))
+    }
+
+    #[test]
+    fn test_sub_i16_underflow() {
+        assert_eq!(sub_i16(i16::MIN, 1), Err(ArithmeticError::Underflow))
     }
 
     #[test]
@@ -1297,8 +1303,18 @@ mod tests {
     }
 
     #[test]
+    fn test_sub_i32_underflow() {
+        assert_eq!(sub_i32(i32::MIN, 1), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
     fn test_sub_i64() {
         assert_eq!(sub_i64(3, 2), Ok(1))
+    }
+
+    #[test]
+    fn test_sub_i64_underflow() {
+        assert_eq!(sub_i64(i64::MIN, 1), Err(ArithmeticError::Underflow))
     }
 
     #[test]
@@ -1307,8 +1323,18 @@ mod tests {
     }
 
     #[test]
+    fn test_sub_i128_underflow() {
+        assert_eq!(sub_i128(i128::MIN, 1), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
     fn test_sub_isize() {
         assert_eq!(sub_isize(3, 2), Ok(1))
+    }
+
+    #[test]
+    fn test_sub_isize_underflow() {
+        assert_eq!(sub_isize(isize::MIN, 1), Err(ArithmeticError::Underflow))
     }
 
     #[test]
@@ -1325,288 +1351,288 @@ mod tests {
 
     #[test]
     fn test_mul_u8() {
-        assert_eq!(mul_u8(10, 11), Ok(21))
+        assert_eq!(mul_u8(10, 10), Ok(100))
     }
 
     #[test]
     fn test_mul_u16() {
-        assert_eq!(mul_u16(10, 11), Ok(21))
+        assert_eq!(mul_u16(10, 10), Ok(100))
     }
 
     #[test]
     fn test_mul_u32() {
-        assert_eq!(mul_u32(10, 11), Ok(21))
+        assert_eq!(mul_u32(10, 10), Ok(100))
     }
 
     #[test]
     fn test_mul_u64() {
-        assert_eq!(mul_u64(10, 11), Ok(21))
+        assert_eq!(mul_u64(10, 10), Ok(100))
     }
 
     #[test]
     fn test_mul_u128() {
-        assert_eq!(mul_u128(10, 11), Ok(21))
+        assert_eq!(mul_u128(10, 10), Ok(100))
     }
 
     #[test]
     fn test_mul_usize() {
-        assert_eq!(mul_usize(10, 11), Ok(21))
+        assert_eq!(mul_usize(10, 10), Ok(100))
     }
 
     #[test]
     fn test_mul_i8() {
-        assert_eq!(mul_i8(10, 11), Ok(21))
+        assert_eq!(mul_i8(10, 10), Ok(100))
     }
 
     #[test]
     fn test_mul_i16() {
-        assert_eq!(mul_i16(10, 11), Ok(21))
+        assert_eq!(mul_i16(10, 10), Ok(100))
     }
 
     #[test]
     fn test_mul_i32() {
-        assert_eq!(mul_i32(10, 11), Ok(21))
+        assert_eq!(mul_i32(10, 10), Ok(100))
     }
 
     #[test]
     fn test_mul_i64() {
-        assert_eq!(mul_i64(10, 11), Ok(21))
+        assert_eq!(mul_i64(10, 10), Ok(100))
     }
 
     #[test]
     fn test_mul_i128() {
-        assert_eq!(mul_i128(10, 11), Ok(21))
+        assert_eq!(mul_i128(10, 10), Ok(100))
     }
 
     #[test]
     fn test_mul_isize() {
-        assert_eq!(mul_isize(10, 11), Ok(21))
+        assert_eq!(mul_isize(10, 10), Ok(100))
     }
 
     #[test]
     fn test_mul_f32() {
-        assert_eq!(mul_f32(10.0, 11.0), Ok(21.0))
+        assert_eq!(mul_f32(10.0, 10.0), Ok(100.0))
     }
 
     #[test]
     fn test_mul_f64() {
-        assert_eq!(mul_f64(10.0, 11.0), Ok(21.0))
+        assert_eq!(mul_f64(10.0, 10.0), Ok(100.0))
     }
 
     // TEST DIVISION
 
     #[test]
     fn test_div_u8() {
-        assert_eq!(div_u8(10, 11), Ok(21))
+        assert_eq!(div_u8(10, 10), Ok(1))
     }
 
     #[test]
     fn test_div_u16() {
-        assert_eq!(div_u16(10, 11), Ok(21))
+        assert_eq!(div_u16(10, 10), Ok(1))
     }
 
     #[test]
     fn test_div_u32() {
-        assert_eq!(div_u32(10, 11), Ok(21))
+        assert_eq!(div_u32(10, 10), Ok(1))
     }
 
     #[test]
     fn test_div_u64() {
-        assert_eq!(div_u64(10, 11), Ok(21))
+        assert_eq!(div_u64(10, 10), Ok(1))
     }
 
     #[test]
     fn test_div_u128() {
-        assert_eq!(div_u128(10, 11), Ok(21))
+        assert_eq!(div_u128(10, 10), Ok(1))
     }
 
     #[test]
     fn test_div_usize() {
-        assert_eq!(div_usize(10, 11), Ok(21))
+        assert_eq!(div_usize(10, 10), Ok(1))
     }
 
     #[test]
     fn test_div_i8() {
-        assert_eq!(div_i8(10, 11), Ok(21))
+        assert_eq!(div_i8(10, 10), Ok(1))
     }
 
     #[test]
     fn test_div_i16() {
-        assert_eq!(div_i16(10, 11), Ok(21))
+        assert_eq!(div_i16(10, 10), Ok(1))
     }
 
     #[test]
     fn test_div_i32() {
-        assert_eq!(div_i32(10, 11), Ok(21))
+        assert_eq!(div_i32(10, 10), Ok(1))
     }
 
     #[test]
     fn test_div_i64() {
-        assert_eq!(div_i64(10, 11), Ok(21))
+        assert_eq!(div_i64(10, 10), Ok(1))
     }
 
     #[test]
     fn test_div_i128() {
-        assert_eq!(div_i128(10, 11), Ok(21))
+        assert_eq!(div_i128(10, 10), Ok(1))
     }
 
     #[test]
     fn test_div_isize() {
-        assert_eq!(div_isize(10, 11), Ok(21))
+        assert_eq!(div_isize(10, 10), Ok(1))
     }
 
     #[test]
     fn test_div_f32() {
-        assert_eq!(div_f32(10.0, 11.0), Ok(21.0))
+        assert_eq!(div_f32(10.0, 10.0), Ok(1.0))
     }
 
     #[test]
     fn test_div_f64() {
-        assert_eq!(div_f64(10.0, 11.0), Ok(21.0))
+        assert_eq!(div_f64(10.0, 10.0), Ok(1.0))
     }
 
     // TEST REMAINDER
 
     #[test]
     fn test_rem_u8() {
-        assert_eq!(rem_u8(10, 11), Ok(21))
+        assert_eq!(rem_u8(u8::MAX, 10), Ok(5))
     }
 
     #[test]
     fn test_rem_u16() {
-        assert_eq!(rem_u16(10, 11), Ok(21))
+        assert_eq!(rem_u16(u16::MAX, 10), Ok(5))
     }
 
     #[test]
     fn test_rem_u32() {
-        assert_eq!(rem_u32(10, 11), Ok(21))
+        assert_eq!(rem_u32(u32::MAX, 10), Ok(5))
     }
 
     #[test]
     fn test_rem_u64() {
-        assert_eq!(rem_u64(10, 11), Ok(21))
+        assert_eq!(rem_u64(u64::MAX, 10), Ok(5))
     }
 
     #[test]
     fn test_rem_u128() {
-        assert_eq!(rem_u128(10, 11), Ok(21))
+        assert_eq!(rem_u128(u128::MAX, 10), Ok(5))
     }
 
     #[test]
     fn test_rem_usize() {
-        assert_eq!(rem_usize(10, 11), Ok(21))
+        assert_eq!(rem_usize(usize::MAX, 10), Ok(5))
     }
 
     #[test]
     fn test_rem_i8() {
-        assert_eq!(rem_i8(10, 11), Ok(21))
+        assert_eq!(rem_i8(i8::MAX, 10), Ok(7))
     }
 
     #[test]
     fn test_rem_i16() {
-        assert_eq!(rem_i16(10, 11), Ok(21))
+        assert_eq!(rem_i16(i16::MAX, 10), Ok(7))
     }
 
     #[test]
     fn test_rem_i32() {
-        assert_eq!(rem_i32(10, 11), Ok(21))
+        assert_eq!(rem_i32(i32::MAX, 10), Ok(7))
     }
 
     #[test]
     fn test_rem_i64() {
-        assert_eq!(rem_i64(10, 11), Ok(21))
+        assert_eq!(rem_i64(i64::MAX, 10), Ok(7))
     }
 
     #[test]
     fn test_rem_i128() {
-        assert_eq!(rem_i128(10, 11), Ok(21))
+        assert_eq!(rem_i128(i128::MAX, 10), Ok(7))
     }
 
     #[test]
     fn test_rem_isize() {
-        assert_eq!(rem_isize(10, 11), Ok(21))
+        assert_eq!(rem_isize(isize::MAX, 10), Ok(7))
     }
 
     #[test]
     fn test_rem_f32() {
-        assert_eq!(rem_f32(10.0, 11.0), Ok(21.0))
+        assert_eq!(rem_f32(10.0, 10.0), Ok(0.0))
     }
 
     #[test]
     fn test_rem_f64() {
-        assert_eq!(rem_f64(10.0, 11.0), Ok(21.0))
+        assert_eq!(rem_f64(f64::MAX, 10.0), Ok(8.0))
     }
 
     // TEST POWER
 
     #[test]
     fn test_pow_u8() {
-        assert_eq!(pow_u8(10, 11), Ok(21))
+        assert_eq!(pow_u8(10, 2), Ok(100))
     }
 
     #[test]
     fn test_pow_u16() {
-        assert_eq!(pow_u16(10, 11), Ok(21))
+        assert_eq!(pow_u16(10, 2), Ok(100))
     }
 
     #[test]
     fn test_pow_u32() {
-        assert_eq!(pow_u32(10, 11), Ok(21))
+        assert_eq!(pow_u32(10, 2), Ok(100))
     }
 
     #[test]
     fn test_pow_u64() {
-        assert_eq!(pow_u64(10, 11), Ok(21))
+        assert_eq!(pow_u64(10, 2), Ok(100))
     }
 
     #[test]
     fn test_pow_u128() {
-        assert_eq!(pow_u128(10, 11), Ok(21))
+        assert_eq!(pow_u128(10, 2), Ok(100))
     }
 
     #[test]
     fn test_pow_usize() {
-        assert_eq!(pow_usize(10, 11), Ok(21))
+        assert_eq!(pow_usize(10, 2), Ok(100))
     }
 
     #[test]
     fn test_pow_i8() {
-        assert_eq!(pow_i8(10, 11), Ok(21))
+        assert_eq!(pow_i8(10, 2), Ok(100))
     }
 
     #[test]
     fn test_pow_i16() {
-        assert_eq!(pow_i16(10, 11), Ok(21))
+        assert_eq!(pow_i16(10, 2), Ok(100))
     }
 
     #[test]
     fn test_pow_i32() {
-        assert_eq!(pow_i32(10, 11), Ok(21))
+        assert_eq!(pow_i32(10, 2), Ok(100))
     }
 
     #[test]
     fn test_pow_i64() {
-        assert_eq!(pow_i64(10, 11), Ok(21))
+        assert_eq!(pow_i64(10, 2), Ok(100))
     }
 
     #[test]
     fn test_pow_i128() {
-        assert_eq!(pow_i128(10, 11), Ok(21))
+        assert_eq!(pow_i128(10, 2), Ok(100))
     }
 
     #[test]
     fn test_pow_isize() {
-        assert_eq!(pow_isize(10, 11), Ok(21))
+        assert_eq!(pow_isize(10, 2), Ok(100))
     }
 
     #[test]
     fn test_pow_f32() {
-        assert_eq!(pow_f32(10.0, 11.0), Ok(21.0))
+        assert_eq!(pow_f32(10.0, 2.0), Ok(100.0))
     }
 
     #[test]
     fn test_pow_f64() {
-        assert_eq!(pow_f64(10.0, 11.0), Ok(21.0))
+        assert_eq!(pow_f64(10.0, 2.0), Ok(100.0))
     }
 }
 
