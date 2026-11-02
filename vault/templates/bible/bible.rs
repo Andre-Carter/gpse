@@ -19546,237 +19546,237 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("numbers", 36, 2) => Some(Verse {
-            content: "And they said, The Lord commanded my lord to giue the lande for an inheritance by lot to the children of Israel: and my lord was commanded by the Lord, to giue the inheritance of Zelophehad our brother, vnto his daughters.",
+            content: "",
         }),
 
         ("numbers", 36, 3) => Some(Verse {
-            content: "And if they bee married to any of the sonnes of the other tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall bee put to the inheritance of the tribe, whereinto they are receiued: so shal it be taken from the lot of our inheritance.",
+            content: "",
         }),
 
         ("numbers", 36, 4) => Some(Verse {
-            content: "And when the Iubile of the children of Israel shall be, then shall their inheritance be put vnto the inheritance of the tribe, whereunto they are receiued: So shal their inheritance be taken away from the inheritance of the tribe of our fathers.",
+            content: "",
         }),
 
         ("numbers", 36, 5) => Some(Verse {
-            content: "And Moses commanded the children of Israel, according to the worde of the Lord, saying, The tribe of the sonnes of Ioseph hath said well.",
+            content: "",
         }),
 
         ("numbers", 36, 6) => Some(Verse {
-            content: "This is the thing which the Lord doeth command concerning the daughters of Zelophehad, saying, Let them marry to whom they thinke best: onely to the family of the tribe of their father shall they marry.",
+            content: "",
         }),
 
         ("numbers", 36, 7) => Some(Verse {
-            content: "So shall not the inheritance of the children of Israel remooue from tribe to tribe: for euery one of the children of Israel shall keepe himselfe to the inheritance of the tribe of his fathers.",
+            content: "",
         }),
 
         ("numbers", 36, 8) => Some(Verse {
-            content: "And euery daughter that possesseth an inheritance, in any tribe of the children of Israel, shall be wife vnto one of the family of the tribe of her father, that the children of Israel may enioy euery man the inheritance of his fathers.",
+            content: "",
         }),
 
         ("numbers", 36, 9) => Some(Verse {
-            content: "Neither shall the inheritance remoue from one tribe to another tribe: but euery one of the tribes of the children of Israel, shall keepe himselfe to his owne inheritance.",
+            content: "",
         }),
 
         ("numbers", 36, 10) => Some(Verse {
-            content: "Euen as the Lord commanded Moses, so did the daughters of Zelophehad.",
+            content: "",
         }),
 
         ("numbers", 36, 11) => Some(Verse {
-            content: "For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah the daughters of Zelophehad, were married vnto their fathers brothers sonnes.",
+            content: "",
         }),
 
         ("numbers", 36, 12) => Some(Verse {
-            content: "And they were married into the families of the sonnes of Manasseh, the sonne of Ioseph, and their inheritance remained in the tribe of the family of their father.",
+            content: "",
         }),
 
         ("numbers", 36, 13) => Some(Verse {
-            content: "These are the commandements and the iudgements which the Lord commanded by the hand of Moses, vnto the children of Israel in the plaines of Moab, by Iordane, neere Iericho.",
+            content: "",
         }),
 
         // THE BOOK OF DEUTERONOMY
 
         ("deuteronomy", 1, 1) => Some(Verse {
-            content: "These bee the woordes which Moses spake vnto all Israel, on this side Iordane in the wildernes, in the plaine ouer against the Red sea, betweene Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 2) => Some(Verse {
-            content: "(There are eleuen daies iourney from Horeb, by the way of mount Seir, vnto Kadesh Barnea.)",
+            content: "",
         }),
 
         ("deuteronomy", 1, 3) => Some(Verse {
-            content: "And it came to passe in the fourtieth yeere, in the eleuenth moneth, on the first day of the moneth, that Moses spake vnto the children of Israel, according vnto all that the Lord had giuen him in commandement vnto them:",
+            content: "",
         }),
 
         ("deuteronomy", 1, 4) => Some(Verse {
-            content: "After hee had slaine Sihon the King of the Amorites, which dwelt in Heshbon, and Og the King of Bashan, which dwelt at Astaroth, in Edrei.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 5) => Some(Verse {
-            content: "On this side Iordane, in the land of Moab, began Moses to declare this law, saying,",
+            content: "",
         }),
 
         ("deuteronomy", 1, 6) => Some(Verse {
-            content: "The Lord our God spake vnto vs in Horeb, saying, Ye haue dwelt long ynough in this mount:",
+            content: "",
         }),
 
         ("deuteronomy", 1, 7) => Some(Verse {
-            content: "Turne you, and take your iourney, and goe to the mount of the Amorites, and vnto all the places nigh thereunto, in the plaine, in the hills, and in the vale, and in the South, and by the sea side, to the land of the Canaanites, and vnto Lebanon, vnto the great riuer, the riuer Euphrates.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 8) => Some(Verse {
-            content: "Behold, I haue set the land before you: Goe in, and possesse the land, which the Lord sware vnto your fathers, Abraham, Isaac, and Iacob, to giue vnto them, and to their seed after them.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 9) => Some(Verse {
-            content: "And I spake vnto you at that time, saying, I am not able to beare you my selfe alone:",
+            content: "",
         }),
 
         ("deuteronomy", 1, 10) => Some(Verse {
-            content: "The Lord your God hath multiplied you, and beholde, you are this day as the starres of heauen for multitude.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 11) => Some(Verse {
-            content: "(The Lord God of your fathers make you a thousand times so many moe as ye are, and blesse you as he hath promised you.)",
+            content: "",
         }),
 
         ("deuteronomy", 1, 12) => Some(Verse {
-            content: "How can I my selfe alone beare your cumbrance, and your burden, and your strife?",
+            content: "",
         }),
 
         ("deuteronomy", 1, 13) => Some(Verse {
-            content: "Take ye wise men, and vnderstanding, and knowen among your tribes, and I will make them rulers ouer you.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 14) => Some(Verse {
-            content: "And ye answered me, and saide, The thing which thou hast spoken, is good for vs to doe.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 15) => Some(Verse {
-            content: "So I tooke the chiefe of your tribes, wise men, and knowen, and made them heads ouer you, captaines ouer thousands, and captaines ouer hundreds, and captaines ouer fifties, and captaines ouer tennes, and officers among your tribes.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 16) => Some(Verse {
-            content: "And I charged your Iudges at that time, saying, Heare the causes betweene your brethren, and iudge righteously betweene euery man and his brother, & the stranger that is with him.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 17) => Some(Verse {
-            content: "Ye shall not respect persons in iudgement, but you shall heare the small aswell as the great: you shall not bee afraid of the face of man, for the iudgment is Gods: and the cause that is too hard for you, bring it vnto me, and I will heare it.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 18) => Some(Verse {
-            content: "And I commanded you at that time all the things which ye should doe.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 19) => Some(Verse {
-            content: "And when wee departed from Horeb, we went through all that great and terrible wildernes, which you saw by the way of the mountaine of the Amorites, as the Lord our God commanded vs: and wee came to Kadesh Barnea.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 20) => Some(Verse {
-            content: "And I said vnto you, Ye are come vnto the mountaine of the Amorites, which the Lord our God doth giue vnto vs.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 21) => Some(Verse {
-            content: "Behold, the Lord thy God hath set the land before thee: Goe vp, and possesse it, as the Lord God of thy fathers hath said vnto thee: Feare not, neither be discouraged.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 22) => Some(Verse {
-            content: "And ye came neere vnto mee euery one of you, and said, We will send men before vs, and they shall search vs out the land, and bring vs word againe, by what way we must goe vp, and into what cities we shall come.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 23) => Some(Verse {
-            content: "And the saying pleased mee well: and I tooke twelue men of you, one of a tribe.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 24) => Some(Verse {
-            content: "And they turned and went vp into the mountaine, and came vnto the valley of Eshcol, and searched it out.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 25) => Some(Verse {
-            content: "And they tooke of the fruit of the land in their handes, and brought it downe vnto vs, and brought vs worde againe, and said, It is a good lande which the Lord our God doeth giue vs.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 26) => Some(Verse {
-            content: "Notwithstanding, ye would not goe vp, but rebelled against the commandement of the Lord your God.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 27) => Some(Verse {
-            content: "And ye murmured in your tents and said, Because the Lord hated vs, he hath brought vs forth out of the land of Egypt, to deliuer vs into the hand of the Amorites, to destroy vs:",
+            content: "",
         }),
 
         ("deuteronomy", 1, 28) => Some(Verse {
-            content: "Whither shall wee goe vp? our brethren haue discouraged our heart, saying, The people is greater and taller then we, the cities are great, and walled vp to heauen, and moreouer we haue seene the sonnes of the Anakims there.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 29) => Some(Verse {
-            content: "Then I said vnto you, Dread not, neither be afraid of them.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 30) => Some(Verse {
-            content: "The Lord your God which goeth before you, he shall fight for you, according to all that hee did for you in Egypt before your eyes:",
+            content: "",
         }),
 
         ("deuteronomy", 1, 31) => Some(Verse {
-            content: "And in the wildernes, where thou hast seene how that the Lord thy God bare thee, as a man doth beare his sonne, in all the way that ye went, vntil ye came into this place.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 32) => Some(Verse {
-            content: "Yet in this thing ye did not beleeue the Lord your God,",
+            content: "",
         }),
 
         ("deuteronomy", 1, 33) => Some(Verse {
-            content: "Who went in the way before you to search you out a place to pitch your tents in, in fire by night, to shew you by what way ye should goe, and in a cloud by day.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 34) => Some(Verse {
-            content: "And the Lord heard the voice of your words, and was wroth, and sware, saying,",
+            content: "",
         }),
 
         ("deuteronomy", 1, 35) => Some(Verse {
-            content: "Surely there shall not one of these men of this euill generation see that good land, which I sware to giue vnto your fathers:",
+            content: "",
         }),
 
         ("deuteronomy", 1, 36) => Some(Verse {
-            content: "Saue Caleb the sonne of Iephunneh, he shall see it, and to him will I giue the land that he hath troden vpon, and to his children, because hee hath wholly followed the Lord.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 37) => Some(Verse {
-            content: "Also the Lord was angry with me for your sakes, saying, Thou also shalt not goe in thither.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 38) => Some(Verse {
-            content: "But Ioshua the sonne of Nun, which standeth before thee, he shall goe in thither. Encourage him: for he shall cause Israel to inherite it.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 39) => Some(Verse {
-            content: "Moreouer, your litle ones, which ye said should be a pray, and your children, which in that day had no knowledge betweene good and euil, they shall goe in thither; and vnto them will I giue it, and they shall possesse it.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 40) => Some(Verse {
-            content: "But as for you, turne ye, and take your iourney into the wildernesse, by the way of the Red sea.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 41) => Some(Verse {
-            content: "Then ye answered, and said vnto mee, Wee haue sinned against the Lord, we will goe vp and fight, according to all that the Lord our God commanded vs. And when ye had girded on euery man his weapons of warre, yee were ready to goe vp into the hill.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 42) => Some(Verse {
-            content: "And the Lord said vnto me, Say vnto them, Goe not vp, neither fight, for I am not among you: least ye be smitten before your enemies.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 43) => Some(Verse {
-            content: "So I spake vnto you, and you would not heare, but rebelled against the commandement of the Lord, and went presumptuously vp into the hill.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 44) => Some(Verse {
-            content: "And the Amorites which dwelt in that mountaine, came out against you, and chased you, as Bees doe, and destroyed you in Seir, euen vnto Hormah.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 45) => Some(Verse {
-            content: "And ye returned and wept before the Lord; but the Lord would not hearken to your voyce, nor giue eare vnto you.",
+            content: "",
         }),
 
         ("deuteronomy", 1, 46) => Some(Verse {
-            content: "So yee abode in Kadesh many dayes, according vnto the dayes that ye abode there.",
+            content: "",
         }),
 
         ("deuteronomy", 2, 1) => Some(Verse {
