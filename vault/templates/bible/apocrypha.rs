@@ -13,10 +13,8 @@ impl fmt::Display for Verse {
 
 pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
     match (book, chapter, verse) {
-        
-        // APOCRYPHA
-
-        // 1 ESDRAS: THE BOOK OF FIRST ESDRAS
+    
+        // THE BOOK OF FIRST ESDRAS
 
         ("1 esdras", 1, 1) => Some(Verse { 
             content: "", 
@@ -1825,6 +1823,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("1 esdras", 9, 55) => Some(Verse { 
             content: "", 
         }),
+
+        // THE BOOK OF SECOND ESDRAS
 
         ("2 esdras", 1, 1) => Some(Verse { 
             content: "", 
@@ -5322,6 +5322,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF TOBIT
+
         ("tobit", 1, 1) => Some(Verse { 
             content: "", 
         }),
@@ -6297,6 +6299,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("tobit", 14, 15) => Some(Verse { 
             content: "", 
         }),
+
+        // THE BOOK OF JUDITH
 
         ("judith", 1, 1) => Some(Verse { 
             content: "", 
@@ -9828,7 +9832,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // THE BOOK OF ECCLESIASTICUS (1-51)
+        // THE BOOK OF ECCLESIASTICUS
 
         ("ecclesiasticus", 1, 1) => Some(Verse { 
             content: "", 
@@ -15403,6 +15407,564 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("baruch", 1, 1) => Some(Verse { 
             content: "", 
         }),
+
+        ("baruch", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 1, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 2, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 3, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 4, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 5, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 5, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 5, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 5, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 5, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 5, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 5, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 5, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("baruch", 5, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        // THE BOOK OF LETTER OF JEREMIAH
 
         _ => None,
     }

@@ -28881,7 +28881,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "",
         }),
 
-        // THE BOOK 1 SAMUEL
+        // THE BOOK OF FIRST SAMUEL
 
         ("1 samuel", 1, 1) => Some(Verse { 
             content: "", 
@@ -32031,7 +32031,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // THE BOOK OF 2 SAMUEL
+        // THE BOOK OF SECOND SAMUEL
 
         ("2 samuel", 1, 1) => Some(Verse { 
             content: "", 
@@ -34817,7 +34817,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // THE BOOK OF 1 KINGS
+        // THE BOOK OF FIRST KINGS
 
         ("1 kings", 1, 1) => Some(Verse { 
             content: "", 
@@ -38083,7 +38083,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // THE BOOK OF 2 KINGS
+        // THE BOOK OF SECOND KINGS
 
         ("2 kings", 1, 1) => Some(Verse { 
             content: "", 
@@ -40977,7 +40977,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // THE BOOK OF 1 CHRONICLES
+        // THE BOOK OF FIRST CHRONICLES
 
         ("1 chronicles", 1, 1) => Some(Verse { 
             content: "", 
@@ -44751,7 +44751,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // THE BOOK OF 2 CHRONICLES
+        // THE BOOK OF SECOND CHRONICLES
 
         ("2 chronicles", 1, 1) => Some(Verse { 
             content: "", 
@@ -70179,7 +70179,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // THE BOOK OF SONG OF SOLOMON (THE BOOK OF SONGS)
+        // THE BOOK OF SONG OF SOLOMON
 
         ("song of solomon", 1, 1) => Some(Verse { 
             content: "", 
@@ -99635,6 +99635,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF LUKE
+
         ("luke", 1, 1) => Some(Verse { 
             content: "", 
         }),
@@ -104239,6 +104241,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF JOHN
+
         ("john", 1, 1) => Some(Verse { 
             content: "", 
         }),
@@ -107754,6 +107758,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("john", 21, 25) => Some(Verse { 
             content: "", 
         }),
+
+        // THE BOOK OF ACTS
 
         ("acts", 1, 1) => Some(Verse { 
             content: "", 
@@ -111783,6 +111789,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF ROMANS
+
         ("romans", 1, 1) => Some(Verse { 
             content: "", 
         }),
@@ -113514,6 +113522,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("romans", 16, 27) => Some(Verse { 
             content: "", 
         }),
+
+        // THE BOOK OF FIRST CORINTHIANS
 
         ("1 corinthians", 1, 1) => Some(Verse { 
             content: "", 
@@ -115263,6 +115273,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF SECOND CORINTHIANS
+
         ("2 corinthians", 1, 1) => Some(Verse { 
             content: "", 
         }),
@@ -116291,6 +116303,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF GALATIANS
+
         ("galatians", 1, 1) => Some(Verse { 
             content: "", 
         }),
@@ -116886,6 +116900,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("galatians", 6, 18) => Some(Verse { 
             content: "", 
         }),
+
+        // THE BOOK OF EPHESIANS
 
         ("ephesians", 1, 1) => Some(Verse { 
             content: "", 
@@ -117507,6 +117523,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF PHILIPPIANS
+
         ("philippians", 1, 1) => Some(Verse { 
             content: "", 
         }),
@@ -117923,6 +117941,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF COLOSSIANS
+
         ("colossians", 1, 1) => Some(Verse { 
             content: "", 
         }),
@@ -118303,6 +118323,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF FIRST THESSALONIANS
+
         ("1 thessalonians", 1, 1) => Some(Verse { 
             content: "", 
         }),
@@ -118659,6 +118681,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF SECOND THESSALONIANS
+
         ("2 thessalonians", 1, 1) => Some(Verse { 
             content: "", 
         }),
@@ -118846,6 +118870,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("2 thessalonians", 3, 18) => Some(Verse { 
             content: "", 
         }),
+
+        // THE BOOK OF FIRST TIMOTHY
 
         ("1 timothy", 1, 1) => Some(Verse { 
             content: "", 
@@ -119298,6 +119324,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("1 timothy", 6, 21) => Some(Verse { 
             content: "", 
         }),
+
+        // THE BOOK OF SECOND TIMOTHY
 
         ("2 timothy", 1, 1) => Some(Verse { 
             content: "", 
@@ -121132,6 +121160,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("hebrews", 13, 25) => Some(Verse { 
             content: "", 
         }),
+
+        // THE BOOK OF JAMES
        
         ("james", 1, 1) => Some(Verse { 
             content: "", 
@@ -121565,6 +121595,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        // THE BOOK OF FIRST PETER
+
         ("1 peter", 1, 1) => Some(Verse { 
             content: "", 
         }),
@@ -121984,6 +122016,8 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         ("1 peter", 5, 14) => Some(Verse { 
             content: "", 
         }),
+
+        // THE BOOK OF SECOND PETER
 
         ("2 peter", 1, 1) => Some(Verse { 
             content: "", 
@@ -122705,7 +122739,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // THE BOOK OF THIRD JOHN (3 JOHN)
+        // THE BOOK OF THIRD JOHN
 
         ("3 john", 1, 1) => Some(Verse { 
             content: "", 
