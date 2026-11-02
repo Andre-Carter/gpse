@@ -15966,6 +15966,572 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
 
         // THE BOOK OF LETTER OF JEREMIAH
 
+        ("letter of jeremiah", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 41) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 42) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 43) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 44) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 45) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 46) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 47) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 48) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 49) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 50) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 51) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 52) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 53) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 54) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 55) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 56) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 57) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 58) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 59) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 60) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 61) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 62) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 63) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 64) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 65) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 66) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 67) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 68) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 69) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 70) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 71) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 72) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("letter of jeremiah", 1, 73) => Some(Verse { 
+            content: "", 
+        }),
+
+        // THE BOOK OF PRAYER OF AZARIAH
+
+        ("prayer of azariah", 1, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 41) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 42) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 43) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 44) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 45) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 46) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 47) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 48) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 49) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 50) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 51) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 52) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 53) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 54) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 55) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 56) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 57) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 58) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 59) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 60) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 61) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 62) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 63) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 64) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 65) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 66) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 67) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("prayer of azariah", 1, 68) => Some(Verse { 
+            content: "", 
+        }),
+
         _ => None,
     }
 }
