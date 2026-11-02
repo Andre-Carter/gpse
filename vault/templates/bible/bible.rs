@@ -15302,487 +15302,487 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("numbers", 5, 28) => Some(Verse {
-            content: "And if the woman be not defiled, but be cleane, then she shall be free, and shall conceiue seed.",
+            content: "",
         }),
 
         ("numbers", 5, 29) => Some(Verse {
-            content: "This is the law of ielousies, when a wife goeth aside to another in stead of her husband, and is defiled:",
+            content: "",
         }),
 
         ("numbers", 5, 30) => Some(Verse {
-            content: "Or when the spirit of ielousie commeth vpon him, and hee be ielous ouer his wife, and shall set the woman before the Lord, and the Priest shal execute vpon her all this law.",
+            content: "",
         }),
 
         ("numbers", 5, 31) => Some(Verse {
-            content: "Then shall the man bee guiltlesse from iniquitie, and this woman shall beare her iniquitie.",
+            content: "",
         }),
 
         ("numbers", 6, 1) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 6, 2) => Some(Verse {
-            content: "Speake vnto the children of Israel, and say vnto them, When either man or woman shall separate themselues to vow a vow of a Nazarite, to separate themselues vnto the Lord:",
+            content: "",
         }),
 
         ("numbers", 6, 3) => Some(Verse {
-            content: "Hee shall separate himselfe from wine, and strong drinke, and shal drinke no vineger of wine, or vineger of strong drinke, neither shal he drinke any liquor of grapes, nor eate moist grapes, or dried.",
+            content: "",
         }),
 
         ("numbers", 6, 4) => Some(Verse {
-            content: "All the dayes of his separation shall he eat nothing that is made of the vine tree, from the kernels euen to the huske.",
+            content: "",
         }),
 
         ("numbers", 6, 5) => Some(Verse {
-            content: "All the dayes of the vow of his separation, there shall no rasour come vpon his head: vntill the dayes bee fulfilled in the which hee separateth himselfe vnto the Lord, he shall be holy, and shall let the lockes of the haire of his head grow.",
+            content: "",
         }),
 
         ("numbers", 6, 6) => Some(Verse {
-            content: "All the dayes that he separateth himselfe vnto the Lord, hee shall come at no dead body.",
+            content: "",
         }),
 
         ("numbers", 6, 7) => Some(Verse {
-            content: "Hee shall not make himselfe vncleane for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God is vpon his head.",
+            content: "",
         }),
 
         ("numbers", 6, 8) => Some(Verse {
-            content: "All the dayes of his separation he is holy vnto the Lord.",
+            content: "",
         }),
 
         ("numbers", 6, 9) => Some(Verse {
-            content: "And if any man die very suddenly by him, and he hath defiled the head of his consecration, then he shall shaue his head in the day of his cleansing, on the seuenth day shall he shaue it.",
+            content: "",
         }),
 
         ("numbers", 6, 10) => Some(Verse {
-            content: "And on the eight day he shal bring two turtles or two yong pigeons to the Priest, to the doore of the Tabernacle of the Congregation.",
+            content: "",
         }),
 
         ("numbers", 6, 11) => Some(Verse {
-            content: "And the Priest shall offer the one for a sinne offering, and the other for a burnt offering, and make an atonement for him, for that hee sinned by the dead, and shall hallow his head that same day.",
+            content: "",
         }),
 
         ("numbers", 6, 12) => Some(Verse {
-            content: "And hee shall consecrate vnto the Lord the dayes of his separation, and shall bring a lambe of the first yeere for a trespasse offering: but the dayes that were before shall be lost, because his separation was defiled.",
+            content: "",
         }),
 
         ("numbers", 6, 13) => Some(Verse {
-            content: "And this is the Lawe of the Nazarite: when the dayes of his separation are fulfilled, he shall be brought vnto the doore of the Tabernacle of the Congregation.",
+            content: "",
         }),
 
         ("numbers", 6, 14) => Some(Verse {
-            content: "And he shall offer his offring vnto the Lord, one hee lambe of the first yeere without blemish, for a burnt offering, and one ewe lambe of the first yeere without blemish, for a sinne offering, and one lambe without blemish for peace offerings,",
+            content: "",
         }),
 
         ("numbers", 6, 15) => Some(Verse {
-            content: "And a basket of vnleauened bread, cakes of fine flowre mingled with oyle, and wafers of vnleauened bread anointed with oyle, and their meate offering, and their drinke offerings.",
+            content: "",
         }),
 
         ("numbers", 6, 16) => Some(Verse {
-            content: "And the Priest shall bring them before the Lord, and shall offer his sinne offering, and his burnt offering.",
+            content: "",
         }),
 
         ("numbers", 6, 17) => Some(Verse {
-            content: "And he shall offer the ramme for a sacrifice of peace offerings vnto the Lord, with the basket of vnleauened bread: the Priest shall offer also his meate offering, and his drinke offering.",
+            content: "",
         }),
 
         ("numbers", 6, 18) => Some(Verse {
-            content: "And the Nazarite shal shaue the head of his separation, at the doore of the Tabernacle of the Congregation, and shall take the haire of the head of his separation, and put it in the fire which is vnder the sacrifice of the peace offerings.",
+            content: "",
         }),
 
         ("numbers", 6, 19) => Some(Verse {
-            content: "And the Priest shall take the sodden shoulder of the ramme, and one vnleauened cake out of the basket, and one vnleauened wafer, and shall put them vpon the hands of the Nazarite, after the haire of his separation is shauen.",
+            content: "",
         }),
 
         ("numbers", 6, 20) => Some(Verse {
-            content: "And the Priest shall waue them for a waue offring before the Lord: this is holy for the Priest, with the waue breast, and heaue shoulder: and after that, the Nazarite may drinke wine.",
+            content: "",
         }),
 
         ("numbers", 6, 21) => Some(Verse {
-            content: "This is the Law of the Nazarite, who hath vowed, and of his offering vnto the Lord for his separation, besides that, that his hand shall get: according to the vow which he vowed, so he must do after the law of his separation.",
+            content: "",
         }),
 
         ("numbers", 6, 22) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 6, 23) => Some(Verse {
-            content: "Speake vnto Aaron, and vnto his sonnes, saying, On this wise ye shall blesse the children of Israel, saying vnto them:",
+            content: "",
         }),
 
         ("numbers", 6, 24) => Some(Verse {
-            content: "The Lord blesse thee, and keepe thee:",
+            content: "",
         }),
 
         ("numbers", 6, 25) => Some(Verse {
-            content: "The Lord make his face shine vpon thee, and be gracious vnto thee:",
+            content: "",
         }),
 
         ("numbers", 6, 26) => Some(Verse {
-            content: "The Lord lift vp his countenance vpon thee, and giue thee peace.",
+            content: "",
         }),
 
         ("numbers", 6, 27) => Some(Verse {
-            content: "And they shall put my Name vpon the children of Israel, and I will blesse them.",
+            content: "",
         }),
 
         ("numbers", 7, 1) => Some(Verse {
-            content: "And it came to passe on the day that Moses had fully set vp the Tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the Altar, and all the vessels thereof, and had anointed them, and sanctified them:",
+            content: "",
         }),
 
         ("numbers", 7, 2) => Some(Verse {
-            content: "That the Princes of Israel, heads of the house of their fathers, (who were the Princes of the tribes, and were ouer them that were numbred) offered:",
+            content: "",
         }),
 
         ("numbers", 7, 3) => Some(Verse {
-            content: "And they brought their offering before the Lord, sixe couered wagons, and twelue oxen: a wagon for two of the Princes, and for each one an oxe, and they brought them before the Tabernacle.",
+            content: "",
         }),
 
         ("numbers", 7, 4) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 7, 5) => Some(Verse {
-            content: "Take it of them, that they may be to doe the seruice of the Tabernacle of the Congregation, and thou shalt giue them vnto the Leuites, to euery man according to his seruice.",
+            content: "",
         }),
 
         ("numbers", 7, 6) => Some(Verse {
-            content: "And Moses tooke the wagons, and the oxen, and gaue them vnto the Leuites.",
+            content: "",
         }),
 
         ("numbers", 7, 7) => Some(Verse {
-            content: "Two wagons and foure oxen he gaue vnto the sonnes of Gershon, according to their seruice.",
+            content: "",
         }),
 
         ("numbers", 7, 8) => Some(Verse {
-            content: "And foure wagons and eight oxen he gaue vnto the sonnes of Merari, according vnto their seruice, vnder the hand of Ithamar the sonne of Aaron the Priest.",
+            content: "",
         }),
 
         ("numbers", 7, 9) => Some(Verse {
-            content: "But vnto the sonnes of Kohath he gaue none: because the seruice of the Sanctuary belonging vnto them, was that they should beare vpon their shoulders.",
+            content: "",
         }),
 
         ("numbers", 7, 10) => Some(Verse {
-            content: "And the Princes offered for dedicating of the Altar, in the day that it was anointed, euen the Princes offered their offering before the Altar.",
+            content: "",
         }),
 
         ("numbers", 7, 11) => Some(Verse {
-            content: "And the Lord said vnto Moses, They shall offer their offering eche Prince on his day, for the dedicating of the Altar.",
+            content: "",
         }),
 
         ("numbers", 7, 12) => Some(Verse {
-            content: "And he that offered his offring the first day, was Nahshon the sonne of Amminadab, of the tribe of Iudah.",
+            content: "",
         }),
 
         ("numbers", 7, 13) => Some(Verse {
-            content: "And his offering was one siluer charger, the weight thereof was an hundred and thirty shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuary; both of them were full of fine flowre mingled with oile for a meat offering:",
+            content: "",
         }),
 
         ("numbers", 7, 14) => Some(Verse {
-            content: "One spoone of ten shekels of gold, full of incense:",
+            content: "",
         }),
 
         ("numbers", 7, 15) => Some(Verse {
-            content: "One yong bullocke, one ramme, one lambe of the first yeere, for a burnt offering,",
+            content: "",
         }),
 
         ("numbers", 7, 16) => Some(Verse {
-            content: "One kid of the goats for a sinne offering:",
+            content: "",
         }),
 
         ("numbers", 7, 17) => Some(Verse {
-            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goats, fiue lambes of the first yeere: this was the offering of Nahshon the sonne of Amminadab.",
+            content: "",
         }),
 
         ("numbers", 7, 18) => Some(Verse {
-            content: "On the second day Nethaneel the sonne of Zuar, Prince of Issachar did offer.",
+            content: "",
         }),
 
         ("numbers", 7, 19) => Some(Verse {
-            content: "He offered for his offering one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuenty shekels, after the shekel of the Sanctuary, both of them full of fine flowre mingled with oile, for a meat offering:",
+            content: "",
         }),
 
         ("numbers", 7, 20) => Some(Verse {
-            content: "One spoone of gold of ten shekels, full of incense:",
+            content: "",
         }),
 
         ("numbers", 7, 21) => Some(Verse {
-            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
+            content: "",
         }),
 
         ("numbers", 7, 22) => Some(Verse {
-            content: "One kid of the goats for a sinne offering:",
+            content: "",
         }),
 
         ("numbers", 7, 23) => Some(Verse {
-            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goats, fiue lambes of the first yeere: this was the offering of Nethaneel the sonne of Zuar.",
+            content: "",
         }),
 
         ("numbers", 7, 24) => Some(Verse {
-            content: "On the third day Eliab the sonne of Helon, Prince of the children of Zebulun did offer.",
+            content: "",
         }),
 
         ("numbers", 7, 25) => Some(Verse {
-            content: "His offering was one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuary, both of them full of fine flowre mingled with oile, for a meat offering:",
+            content: "",
         }),
 
         ("numbers", 7, 26) => Some(Verse {
-            content: "One golden spoone of ten shekels, full of incense:",
+            content: "",
         }),
 
         ("numbers", 7, 27) => Some(Verse {
-            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
+            content: "",
         }),
 
         ("numbers", 7, 28) => Some(Verse {
-            content: "One kid of the goats for a sinne offering:",
+            content: "",
         }),
 
         ("numbers", 7, 29) => Some(Verse {
-            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goats, fiue lambes of the first yeere: This was the offring of Eliab the sonne of Helon.",
+            content: "",
         }),
 
         ("numbers", 7, 30) => Some(Verse {
-            content: "On the fourth day Elizur the sonne of Shedeur, Prince of the children of Reuben did offer.",
+            content: "",
         }),
 
         ("numbers", 7, 31) => Some(Verse {
-            content: "His offering was one siluer charger of an hundred and thirty shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuary, both of them full of fine flowre mingled with oyle, for a meat offering:",
+            content: "",
         }),
 
         ("numbers", 7, 32) => Some(Verse {
-            content: "One golden spoone of tenne shekels, full of incense:",
+            content: "",
         }),
 
         ("numbers", 7, 33) => Some(Verse {
-            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
+            content: "",
         }),
 
         ("numbers", 7, 34) => Some(Verse {
-            content: "One kid of the goats for a sinne offering:",
+            content: "",
         }),
 
         ("numbers", 7, 35) => Some(Verse {
-            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goats, fiue lambs of the first yere: This was the offering of Elizur the sonne of Shedeur.",
+            content: "",
         }),
 
         ("numbers", 7, 36) => Some(Verse {
-            content: "On the fifth day Shelumiel the sonne of Zurishaddai Prince of the children of Simeon, did offer.",
+            content: "",
         }),
 
         ("numbers", 7, 37) => Some(Verse {
-            content: "His offring was one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuary, both of them full of fine flowre, mingled with oyle, for a meate offering:",
+            content: "",
         }),
 
         ("numbers", 7, 38) => Some(Verse {
-            content: "One golden spoone of ten shekels, full of incense:",
+            content: "",
         }),
 
         ("numbers", 7, 39) => Some(Verse {
-            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
+            content: "",
         }),
 
         ("numbers", 7, 40) => Some(Verse {
-            content: "One kidde of the goates for a sinne offering:",
+            content: "",
         }),
 
         ("numbers", 7, 41) => Some(Verse {
-            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goates, fiue lambes of the first yeere: This was the offering of Shelumiel the sonne of Zurishaddai.",
+            content: "",
         }),
 
         ("numbers", 7, 42) => Some(Verse {
-            content: "On the sixt day, Eliasaph the sonne of Deuel, Prince of the children of Gad, offered:",
+            content: "",
         }),
 
         ("numbers", 7, 43) => Some(Verse {
-            content: "His offering was one siluer charger of the weight of an hundred and thirtie shekels, a siluer bowle of seuentie shekels, after the shekel of the Sanctuarie, both of them ful of fine flowre mingled with oyle, for a meate offering:",
+            content: "",
         }),
 
         ("numbers", 7, 44) => Some(Verse {
-            content: "One golden spoone of ten shekels, full of incense:",
+            content: "",
         }),
 
         ("numbers", 7, 45) => Some(Verse {
-            content: "One yong bullocke, one ramme, one lambe of the first yeere, for a burnt offering:",
+            content: "",
         }),
 
         ("numbers", 7, 46) => Some(Verse {
-            content: "One kid of the goates for a sinne offering:",
+            content: "",
         }),
 
         ("numbers", 7, 47) => Some(Verse {
-            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goates, fiue lambes of the first yeere. This was the offering of Eliasaph the sonne of Deuel.",
+            content: "",
         }),
 
         ("numbers", 7, 48) => Some(Verse {
-            content: "On the seuenth day, Elishama the sonne of Ammiud, Prince of the children of Ephraim offered.",
+            content: "",
         }),
 
         ("numbers", 7, 49) => Some(Verse {
-            content: "His offering was one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuarie, both of them full of fine flowre mingled with oile for a meat offering:",
+            content: "",
         }),
 
         ("numbers", 7, 50) => Some(Verse {
-            content: "One golden spoone of ten shekels, full of incense:",
+            content: "",
         }),
 
         ("numbers", 7, 51) => Some(Verse {
-            content: "One yong bullocke, one ramme, one lambe of the first yeere, for a burnt offering:",
+            content: "",
         }),
 
         ("numbers", 7, 52) => Some(Verse {
-            content: "One kid of the goates for a sinne offering:",
+            content: "",
         }),
 
         ("numbers", 7, 53) => Some(Verse {
-            content: "And for a sacrifice of peace offrings, two oxen, fiue rammes, fiue hee goats, fiue lambes of the first yeere. This was the offering of Elishama the sonne of Ammiud.",
+            content: "",
         }),
 
         ("numbers", 7, 54) => Some(Verse {
-            content: "On the eight day offered Gamaliel the sonne of Pedazur, Prince of the children of Manasseh.",
+            content: "",
         }),
 
         ("numbers", 7, 55) => Some(Verse {
-            content: "His offering was one siluer charger of an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuary, both of them full of fine flowre mingled with oile, for a meate offering:",
+            content: "",
         }),
 
         ("numbers", 7, 56) => Some(Verse {
-            content: "One golden spoone of ten shekels, full of incense:",
+            content: "",
         }),
 
         ("numbers", 7, 57) => Some(Verse {
-            content: "One yong bullocke, one ramme, one lambe of the first yeere, for a burnt offering:",
+            content: "",
         }),
 
         ("numbers", 7, 58) => Some(Verse {
-            content: "One kid of the goates for a sinne offering:",
+            content: "",
         }),
 
         ("numbers", 7, 59) => Some(Verse {
-            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goats, fiue lambes of the first yeere. This was the offering of Gamaliel the sonne of Pedazur.",
+            content: "",
         }),
 
         ("numbers", 7, 60) => Some(Verse {
-            content: "On the ninth day, Abidan the sonne of Gideoni, prince of the children of Beniamin offered.",
+            content: "",
         }),
 
         ("numbers", 7, 61) => Some(Verse {
-            content: "His offering was one siluer charger, the weight whereof was an hundred and thirtie shekels, a siluer bowle of seuentie shekels, after the shekel of the Sanctuary, both of them full of fine flowre mingled with oyle, for a meate offering:",
+            content: "",
         }),
 
         ("numbers", 7, 62) => Some(Verse {
-            content: "One golden spoone of ten shekels, full of incense:",
+            content: "",
         }),
 
         ("numbers", 7, 63) => Some(Verse {
-            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
+            content: "",
         }),
 
         ("numbers", 7, 64) => Some(Verse {
-            content: "One kid of the goats for a sinne offering:",
+            content: "",
         }),
 
         ("numbers", 7, 65) => Some(Verse {
-            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goates, fiue lambes of the first yeere. This was the offering of Abidan, the sonne of Gideoni.",
+            content: "",
         }),
 
         ("numbers", 7, 66) => Some(Verse {
-            content: "On the tenth day Ahiezer the sonne of Ammishaddai, Prince of the children of Dan offered.",
+            content: "",
         }),
 
         ("numbers", 7, 67) => Some(Verse {
-            content: "His offring was one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuarie, both of them full of fine flowre mingled with oyle, for a meate offering:",
+            content: "",
         }),
 
         ("numbers", 7, 68) => Some(Verse {
-            content: "One golden spoone of ten shekels, full of incense:",
+            content: "",
         }),
 
         ("numbers", 7, 69) => Some(Verse {
-            content: "One yong bullocke, one ramme, one lambe of the first yeere, for a burnt offering:",
+            content: "",
         }),
 
         ("numbers", 7, 70) => Some(Verse {
-            content: "One kid of the goates for a sinne offering:",
+            content: "",
         }),
 
         ("numbers", 7, 71) => Some(Verse {
-            content: "And for a sacrifice of peace offerings, two oxen, fiue rammes, fiue hee goats, fiue lambes of the first yeere. This was the offering of Ahiezer the sonne of Ammishaddai.",
+            content: "",
         }),
 
         ("numbers", 7, 72) => Some(Verse {
-            content: "On the eleuenth day, Pagiel the sonne of Ocran, Prince of the children of Asher offered.",
+            content: "",
         }),
 
         ("numbers", 7, 73) => Some(Verse {
-            content: "His offering was one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuarie, both of them full of fine flowre mingled with oyle, for a meat offering:",
+            content: "",
         }),
 
         ("numbers", 7, 74) => Some(Verse {
-            content: "One golden spoone of ten shekels, full of incense:",
+            content: "",
         }),
 
         ("numbers", 7, 75) => Some(Verse {
-            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
+            content: "",
         }),
 
         ("numbers", 7, 76) => Some(Verse {
-            content: "One kid of the goates for a sinne offering:",
+            content: "",
         }),
 
         ("numbers", 7, 77) => Some(Verse {
-            content: "And for a sacrifice of peace offrings, two oxen, fiue rammes, fiue hee goats, fiue lambs of the first yeere. This was the offering of Pagiel the sonne of Ocran.",
+            content: "",
         }),
 
         ("numbers", 7, 78) => Some(Verse {
-            content: "On the twelfth day, Ahira the sonne of Enan, Prince of the children of Naphtali, offered.",
+            content: "",
         }),
 
         ("numbers", 7, 79) => Some(Verse {
-            content: "His offering was one siluer charger, the weight whereof was an hundred and thirtie shekels, one siluer bowle of seuentie shekels, after the shekel of the Sanctuary, both of them full of fine flowre mingled with oyle, for a meate offering:",
+            content: "",
         }),
 
         ("numbers", 7, 80) => Some(Verse {
-            content: "One golden spoone of ten shekels, full of incense:",
+            content: "",
         }),
 
         ("numbers", 7, 81) => Some(Verse {
-            content: "One yong bullocke, one ramme, one lambe of the first yeere for a burnt offering:",
+            content: "",
         }),
 
         ("numbers", 7, 82) => Some(Verse {
-            content: "One kidde of the goats for a sinne offering:",
+            content: "",
         }),
 
         ("numbers", 7, 83) => Some(Verse {
-            content: "And for a sacrifice of peace offrings, two oxen, fiue rammes, fiue hee goats, fiue lambs of the first yeere. This was the offering of Ahira the sonne of Enan.",
+            content: "",
         }),
 
         ("numbers", 7, 84) => Some(Verse {
-            content: "This was the dedication of the Altar (in the day when it was annointed) by the Princes of Israel: twelue chargers of siluer, twelue siluer bowles, twelue spoones of gold:",
+            content: "",
         }),
 
         ("numbers", 7, 85) => Some(Verse {
-            content: "Each charger of siluer weighing an hundred and thirtie shekels, each bowle seuentie: all the siluer vessels weighed two thousand and foure hundred shekels, after the shekel of the Sanctuary.",
+            content: "",
         }),
 
         ("numbers", 7, 86) => Some(Verse {
-            content: "The golden spoones were twelue, full of incense, weighing ten shekels a piece, after the shekel of the Sanctuary: all the gold of the spoones, was an hundred and twentie shekels.",
+            content: "",
         }),
 
         ("numbers", 7, 87) => Some(Verse {
-            content: "All the oxen for the burnt offering, were twelue bullocks, the rams twelue, the lambes of the first yeere twelue, with their meat offering: and the kids of the goats for sinne offering, twelue.",
+            content: "",
         }),
 
         ("numbers", 7, 88) => Some(Verse {
-            content: "And all the oxen for the sacrifice of the peace offerings, were twenty and foure bullocks, the rammes sixtie, the hee goates sixtie, the lambes of the first yeere sixtie. This was the dedication of the Altar, after that it was anoynted.",
+            content: "",
         }),
 
         ("numbers", 7, 89) => Some(Verse {
-            content: "And when Moses was gone into the Tabernacle of the Congregation, to speake with him, then he heard the voyce of one speaking vnto him, from off the Mercie seat, that was vpon the Arke of Testimony from betweene the two Cherubims: and he spake vnto him.",
+            content: "",
         }),
 
         ("numbers", 8, 1) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 8, 2) => Some(Verse {
