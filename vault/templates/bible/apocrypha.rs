@@ -18848,6 +18848,654 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        ("1 maccabees", 9, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 41) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 42) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 43) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 44) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 45) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 46) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 47) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 48) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 49) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 50) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 51) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 52) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 53) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 54) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 55) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 56) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 57) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 58) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 59) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 60) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 61) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 62) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 63) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 64) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 65) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 66) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 67) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 68) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 69) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 70) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 71) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 72) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 9, 73) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 23) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 24) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 25) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 26) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 27) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 28) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 29) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 30) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 31) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 32) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 33) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 34) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 35) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 36) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 37) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 38) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 39) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 40) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 41) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 42) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 43) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 44) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 45) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 46) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 47) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 48) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 49) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 50) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 51) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 52) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 53) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 54) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 55) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 56) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 57) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 58) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 59) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 60) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 61) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 62) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 63) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 64) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 65) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 66) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 67) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 68) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 69) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 70) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 71) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 72) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 73) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 74) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 75) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 76) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 77) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 78) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 79) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 80) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 81) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 82) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 83) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 84) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 85) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 86) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 87) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 88) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 10, 89) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 maccabees", 11, 1) => Some(Verse { 
+            content: "", 
+        }),
+
         _ => None,
     }
 }
