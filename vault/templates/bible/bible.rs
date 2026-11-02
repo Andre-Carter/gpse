@@ -17914,711 +17914,711 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("numbers", 25, 2) => Some(Verse {
-            content: "And they called the people vnto the sacrifices of their gods: and the people did eate, and bowed downe to their gods.",
+            content: "",
         }),
 
         ("numbers", 25, 3) => Some(Verse {
-            content: "And Israel ioyned himselfe vnto Baal-Peor: and the anger of the Lord was kindled against Israel.",
+            content: "",
         }),
 
         ("numbers", 25, 4) => Some(Verse {
-            content: "And the Lord said vnto Moses, Take all the heads of the people, and hang them vp before the Lord against the Sunne, that the fierce anger of the Lord may be turned away from Israel.",
+            content: "",
         }),
 
         ("numbers", 25, 5) => Some(Verse {
-            content: "And Moses said vnto the Iudges of Israel, Slay ye euery one his men, that were ioyned vnto Baal-Peor.",
+            content: "",
         }),
 
         ("numbers", 25, 6) => Some(Verse {
-            content: "And behold, one of the children of Israel came and brought vnto his brethren a Midianitish woman, in the sight of Moses, and in the sight of all the Congregation of the children of Israel, who were weeping before the doore of the Tabernacle of the Congregation.",
+            content: "",
         }),
 
         ("numbers", 25, 7) => Some(Verse {
-            content: "And when Phinehas the sonne of Eleazar, the sonne of Aaron the Priest saw it, hee rose vp from amongst the Congregation, and tooke a iauelin in his hand.",
+            content: "",
         }),
 
         ("numbers", 25, 8) => Some(Verse {
-            content: "And he went after the man of Israel into the tent, and thrust both of them thorow, the man of Israel, and the woman, thorow her belly: So the plague was stayed from the children of Israel.",
+            content: "",
         }),
 
         ("numbers", 25, 9) => Some(Verse {
-            content: "And those that died in the plague, were twentie and foure thousand.",
+            content: "",
         }),
 
         ("numbers", 25, 10) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 25, 11) => Some(Verse {
-            content: "Phinehas the sonne of Eleazar, the sonne of Aaron the Priest, hath turned my wrath away from the children of Israel, (while hee was zealous for my sake among them) that I consumed not the children of Israel in my ielousie.",
+            content: "",
         }),
 
         ("numbers", 25, 12) => Some(Verse {
-            content: "Wherefore say, Behold, I giue vnto him my Couenant of peace.",
+            content: "",
         }),
 
         ("numbers", 25, 13) => Some(Verse {
-            content: "And he shall haue it, and his seed after him, euen the Couenant of an euerlasting Priesthood, because he was zealous for his God, and made an atonement for the children of Israel.",
+            content: "",
         }),
 
         ("numbers", 25, 14) => Some(Verse {
-            content: "Now the name of the Israelite that was slaine, euen that was slaine with the Midianitish woman, was Zimri the sonne of Salu, a Prince of a chiefe house among the Simeonites.",
+            content: "",
         }),
 
         ("numbers", 25, 15) => Some(Verse {
-            content: "And the name of the Midianitish woman that was slaine, was Cozbi, the daughter of Zur, hee was head ouer a people, and of a chiefe house in Midian.",
+            content: "",
         }),
 
         ("numbers", 25, 16) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 25, 17) => Some(Verse {
-            content: "Uexe the Midianites, and smite them:",
+            content: "",
         }),
 
         ("numbers", 25, 18) => Some(Verse {
-            content: "For they vexe you with their wiles, wherewith they haue beguiled you, in the matter of Peor, and in the matter of Cozbi, the daughter of a Prince of Midian their sister, which was slaine in the day of the plague, for Peors sake.",
+            content: "",
         }),
 
         ("numbers", 26, 1) => Some(Verse {
-            content: "And it came to passe after the plague, that the Lord spake vnto Moses, and vnto Eleazar the sonne of Aaron the Priest, saying,",
+            content: "",
         }),
 
         ("numbers", 26, 2) => Some(Verse {
-            content: "Take the summe of all the Congregation of the children of Israel, from twenty yeeres old and vpward, throughout their fathers house, all that are able to goe to warre in Israel.",
+            content: "",
         }),
 
         ("numbers", 26, 3) => Some(Verse {
-            content: "And Moses & Eleazar the Priest spake with them in the plaines of Moab by Iordane neere Iericho, saying,",
+            content: "",
         }),
 
         ("numbers", 26, 4) => Some(Verse {
-            content: "Take the summe of the people from twenty yeeres old and vpward, as the Lord commanded Moses, and the children of Israel which went foorth out of the land of Egypt.",
+            content: "",
         }),
 
         ("numbers", 26, 5) => Some(Verse {
-            content: "Reuben the eldest sonne of Israel: the children of Reuben, Hanoch, of whom commeth the family of the Hanochites: of Pallu the family of the Palluites:",
+            content: "",
         }),
 
         ("numbers", 26, 6) => Some(Verse {
-            content: "Of Hesron the family of the Hesronites: of Carmi the family of the Carmites.",
+            content: "",
         }),
 
         ("numbers", 26, 7) => Some(Verse {
-            content: "These are the families of the Reubenites: and they that were numbred of them, were fourtie and three thousand, and seuen hundred and thirtie.",
+            content: "",
         }),
 
         ("numbers", 26, 8) => Some(Verse {
-            content: "And the sonnes of Pallu, Eliab.",
+            content: "",
         }),
 
         ("numbers", 26, 9) => Some(Verse {
-            content: "And the sonnes of Eliab, Nemuel, and Dathan, and Abiram: this is that Dathan & Abiram, which were famous in the Congregation, who stroue against Moses and against Aaron in the companie of Korah, when they stroue against the Lord:",
+            content: "",
         }),
 
         ("numbers", 26, 10) => Some(Verse {
-            content: "And the earth opened her mouth, and swallowed them vp together with Korah when that companie died, what time the fire deuoured two hundred and fiftie men: and they became a signe.",
+            content: "",
         }),
 
         ("numbers", 26, 11) => Some(Verse {
-            content: "Notwithstanding, the children of Korah died not.",
+            content: "",
         }),
 
         ("numbers", 26, 12) => Some(Verse {
-            content: "The sonnes of Simeon, after their families: Of Nemuel, the family of the Nemuelites: Of Iamin, the familie of the Iaminites: Of Iachin, the familie of the Iachinites:",
+            content: "",
         }),
 
         ("numbers", 26, 13) => Some(Verse {
-            content: "Of Zerah, the familie of the Zarhites: Of Shaul, the familie of the Shaulites.",
+            content: "",
         }),
 
         ("numbers", 26, 14) => Some(Verse {
-            content: "These are the families of the Simeonites, twentie and two thousand, and two hundred.",
+            content: "",
         }),
 
         ("numbers", 26, 15) => Some(Verse {
-            content: "The children of Gad after their families: Of Zephon, the familie of the Zephonites: of Haggi the familie of the Haggites: of Shuni the familie of the Shunites.",
+            content: "",
         }),
 
         ("numbers", 26, 16) => Some(Verse {
-            content: "Of Ozni, the familie of the Oznites: Of Eri the familie of the Erites.",
+            content: "",
         }),
 
         ("numbers", 26, 17) => Some(Verse {
-            content: "Of Arod the familie of the Arodites: of Areli the familie of the Arelites.",
+            content: "",
         }),
 
         ("numbers", 26, 18) => Some(Verse {
-            content: "These are the families of the children of Gad, according to those that were numbred of them, fourtie thousand and fiue hundred.",
+            content: "",
         }),
 
         ("numbers", 26, 19) => Some(Verse {
-            content: "The sonnes of Iudah, were Er and Onan: and Er and Onan died in the land of Canaan.",
+            content: "",
         }),
 
         ("numbers", 26, 20) => Some(Verse {
-            content: "And the sonnes of Iudah after their families were: Of Shelah the familie of the Shelanites: Of Pharez the familie of the Pharzites: Of Zerah the familie of the Zarhites.",
+            content: "",
         }),
 
         ("numbers", 26, 21) => Some(Verse {
-            content: "And the sonnes of Pharez were: Of Hesron the familie of the Hesronites: Of Hamul the familie of the Hamulites.",
+            content: "",
         }),
 
         ("numbers", 26, 22) => Some(Verse {
-            content: "These are the families of Iudah according to those that were numbred of them, threescore and sixteene thousand and fiue hundred.",
+            content: "",
         }),
 
         ("numbers", 26, 23) => Some(Verse {
-            content: "Of the sonnes of Issachar after their families: Of Tola the familie of the Tolaites: of Pua the familie of the Punites.",
+            content: "",
         }),
 
         ("numbers", 26, 24) => Some(Verse {
-            content: "Of Iashub the familie of the Iashubites: of Shimron the familie of the Shimronites.",
+            content: "",
         }),
 
         ("numbers", 26, 25) => Some(Verse {
-            content: "These are the families of Issachar according to those that were numbred of them, threescore and foure thousand, and three hundred.",
+            content: "",
         }),
 
         ("numbers", 26, 26) => Some(Verse {
-            content: "Of the sonnes of Zebulun after their families, of Sered the familie of the Sardites: Of Elon the familie of the Elonites: of Iahleel the familie of the Iahleelites.",
+            content: "",
         }),
 
         ("numbers", 26, 27) => Some(Verse {
-            content: "These are the families of the Zebulunites, according to those that were numbred of them, threescore thousand and fiue hundred.",
+            content: "",
         }),
 
         ("numbers", 26, 28) => Some(Verse {
-            content: "The sonnes of Ioseph after their families, were Manasseh and Ephraim.",
+            content: "",
         }),
 
         ("numbers", 26, 29) => Some(Verse {
-            content: "Of the sonnes of Manasseh: Of Machir the familie of the Machirites: and Machir begate Gilead: Of Gilead come the familie of the Gileadites.",
+            content: "",
         }),
 
         ("numbers", 26, 30) => Some(Verse {
-            content: "These are the sonnes of Gilead: Of Ieezer the family of the Ieezerites: Of Helek the familie of the Helekites.",
+            content: "",
         }),
 
         ("numbers", 26, 31) => Some(Verse {
-            content: "And of Asriel the family of the Asrielites: and of Shechem the familie of the Shechemites.",
+            content: "",
         }),
 
         ("numbers", 26, 32) => Some(Verse {
-            content: "And of Shemida the familie of the Shemidaites: and of Hepher the familie of the Hepherites.",
+            content: "",
         }),
 
         ("numbers", 26, 33) => Some(Verse {
-            content: "And Zelophehad the sonne of Hepher had no sonnes, but daughters: and the names of the daughters of Zelophehad, were Mahlah, and Noah, Hoglah, Milcah, and Tirzah.",
+            content: "",
         }),
 
         ("numbers", 26, 34) => Some(Verse {
-            content: "These are the families of Manasseh, and those that were numbred of them, fiftie and two thousand and seuen hundred.",
+            content: "",
         }),
 
         ("numbers", 26, 35) => Some(Verse {
-            content: "These are the sonnes of Ephraim, after their families: Of Shuthelah the familie of the Shuthalhites: Of Becher the familie of the Bachrites: Of Tahan the familie of the Tahanites.",
+            content: "",
         }),
 
         ("numbers", 26, 36) => Some(Verse {
-            content: "And these are the sonnes of Shuthelah: Of Eran the familie of the Eranites.",
+            content: "",
         }),
 
         ("numbers", 26, 37) => Some(Verse {
-            content: "These are the families of the sonnes of Ephraim, according to those that were numbred of them, thirtie and two thousand, and fiue hundred. These are the sonnes of Ioseph after their families.",
+            content: "",
         }),
 
         ("numbers", 26, 38) => Some(Verse {
-            content: "The sonnes of Beniamin after their families: Of Bela the familie of the Belaites: Of Ashbel the familie of the Ashbelites: Of Ahiram the family of the Ahiramites:",
+            content: "",
         }),
 
         ("numbers", 26, 39) => Some(Verse {
-            content: "Of Shupham the family of the Shuphamites: Of Hupham the family of the Huphamites.",
+            content: "",
         }),
 
         ("numbers", 26, 40) => Some(Verse {
-            content: "And the sonnes of Bela were Ard and Naaman: of Ard, the family of the Ardites: and of Naaman the family of the Naamites.",
+            content: "",
         }),
 
         ("numbers", 26, 41) => Some(Verse {
-            content: "These are the sonnes of Beniamin after their families; and they that were numbred of them, were fourty and fiue thousand, and sixe hundred.",
+            content: "",
         }),
 
         ("numbers", 26, 42) => Some(Verse {
-            content: "These are the sonnes of Dan after their families: Of Shuham the family of the Shuhamites. These are the families of Dan, after their families.",
+            content: "",
         }),
 
         ("numbers", 26, 43) => Some(Verse {
-            content: "All the families of the Shuhamites, according to those that were numbred of them, were three score and foure thousand, and foure hundred.",
+            content: "",
         }),
 
         ("numbers", 26, 44) => Some(Verse {
-            content: "Of the children of Asher after their families: Of Iimna the family of the Iimnites: Of Iesui the family of the Iesuites: Of Beriah the family of the Beriites.",
+            content: "",
         }),
 
         ("numbers", 26, 45) => Some(Verse {
-            content: "Of the sonnes of Beriah; of Heber the family of the Heberites: of Malchiel, the family of the Malchielites.",
+            content: "",
         }),
 
         ("numbers", 26, 46) => Some(Verse {
-            content: "And the name of the daughter of Asher, was Sarah.",
+            content: "",
         }),
 
         ("numbers", 26, 47) => Some(Verse {
-            content: "These are the families of the sonnes of Asher, according to those that were numbred of them; who were fiftie and three thousand, and foure hundred.",
+            content: "",
         }),
 
         ("numbers", 26, 48) => Some(Verse {
-            content: "Of the sonnes of Naphtali, after their families, of Iahzeel the family of the Iahzeelites: Of Guni, the family of the Gunites:",
+            content: "",
         }),
 
         ("numbers", 26, 49) => Some(Verse {
-            content: "Of Iezer, the family of the Iezerites: Of Shillem the family of the Shillemites.",
+            content: "",
         }),
 
         ("numbers", 26, 50) => Some(Verse {
-            content: "These are the families of Naphtali, according to their families: and they that were numbred of them, were fourty and fiue thousand, and foure hundred.",
+            content: "",
         }),
 
         ("numbers", 26, 51) => Some(Verse {
-            content: "These were the numbred of the children of Israel, sixe hundred thousand, and a thousand, seuen hundred and thirtie.",
+            content: "",
         }),
 
         ("numbers", 26, 52) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 26, 53) => Some(Verse {
-            content: "Unto these the land shall be diuided for an inheritance, according to the number of names.",
+            content: "",
         }),
 
         ("numbers", 26, 54) => Some(Verse {
-            content: "To many thou shalt giue the more inheritance, and to few thou shalt giue the lesse inheritance: to euery one shall his inheritance be giuen, according to those that were numbred of him.",
+            content: "",
         }),
 
         ("numbers", 26, 55) => Some(Verse {
-            content: "Notwithstanding the land shall bee diuided by lot: according to the names of the tribes of their fathers, they shall inherite.",
+            content: "",
         }),
 
         ("numbers", 26, 56) => Some(Verse {
-            content: "According to the lot shall the possession thereof be diuided betweene many and few.",
+            content: "",
         }),
 
         ("numbers", 26, 57) => Some(Verse {
-            content: "And these are they that were numbred of the Leuites, after their families: Of Gershon, the family of the Gershonites: Of Kohath the family of the Kohathites: Of Merari the family of the Merarites.",
+            content: "",
         }),
 
         ("numbers", 26, 58) => Some(Verse {
-            content: "These are the families of the Leuites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites: and Kohath begate Amram.",
+            content: "",
         }),
 
         ("numbers", 26, 59) => Some(Verse {
-            content: "And the name of Amrams wife was Iochebed the daughter of Leui, whom her mother bare to Leui in Egypt: And shee bare vnto Amram, Aaron and Moses, and Miriam their sister.",
+            content: "",
         }),
 
         ("numbers", 26, 60) => Some(Verse {
-            content: "And vnto Aaron was borne Nadab and Abihu, Eleazar and Ithamar.",
+            content: "",
         }),
 
         ("numbers", 26, 61) => Some(Verse {
-            content: "And Nadab and Abihu died, when they offered strange fire before the Lord.",
+            content: "",
         }),
 
         ("numbers", 26, 62) => Some(Verse {
-            content: "And those that were numbred of them, were twenty and three thousand, all males from a moneth old and vpward: for they were not numbred among the children of Israel, because there was no inheritance giuen them among the children of Israel.",
+            content: "",
         }),
 
         ("numbers", 26, 63) => Some(Verse {
-            content: "These are they that were numbred by Moses and Eleazar the Priest, who numbred the children of Israel in the plaines of Moab, by Iordane neere Iericho.",
+            content: "",
         }),
 
         ("numbers", 26, 64) => Some(Verse {
-            content: "But among these there was not a man of them, whom Moses and Aaron the Priest numbred, when they numbred the children of Israel in the wildernesse of Sinai.",
+            content: "",
         }),
 
         ("numbers", 26, 65) => Some(Verse {
-            content: "For the Lord had said of them, They shall surely die in the wildernesse: and there was not left a man of them, saue Caleb the sonne of Iephunneh, and Ioshua the sonne of Nun.",
+            content: "",
         }),
 
         ("numbers", 27, 1) => Some(Verse {
-            content: "Then came the daughters of Zelophehad, the sonne of Hepher, the sonne of Gilead, the sonne of Machir, the sonne of Manasseh, of the families of Manasseh, the sonne of Ioseph; and these are the names of his daughters: Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.",
+            content: "",
         }),
 
         ("numbers", 27, 2) => Some(Verse {
-            content: "And they stood before Moses, and before Eleazar the Priest, and before the Princes, and all the Congregation, by the doore of the Tabernacle of the Congregation, saying,",
+            content: "",
         }),
 
         ("numbers", 27, 3) => Some(Verse {
-            content: "Our father died in the wildernesse, and he was not in the company of them that gathered themselues together against the Lord in the company of Korah: but died in his owne sinne, and had no sonnes.",
+            content: "",
         }),
 
         ("numbers", 27, 4) => Some(Verse {
-            content: "Why should the name of our father be done away from among his family, because he hath no sonne? Giue vnto vs therefore a possession among the brethren of our father.",
+            content: "",
         }),
 
         ("numbers", 27, 5) => Some(Verse {
-            content: "And Moses brought their cause before the Lord.",
+            content: "",
         }),
 
         ("numbers", 27, 6) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 27, 7) => Some(Verse {
-            content: "The daughters of Zelophehad speake right: thou shalt surely giue them a possession of an inheritance among their fathers brethren, and thou shalt cause the inheritance of their father to passe vnto them.",
+            content: "",
         }),
 
         ("numbers", 27, 8) => Some(Verse {
-            content: "And thou shalt speake vnto the children of Israel, saying, If a man die, and haue no sonne, then yee shall cause his inheritance to passe vnto his daughter.",
+            content: "",
         }),
 
         ("numbers", 27, 9) => Some(Verse {
-            content: "And if he haue no daughter, then yee shall giue his inheritance vnto his brethren.",
+            content: "",
         }),
 
         ("numbers", 27, 10) => Some(Verse {
-            content: "And if he haue no brethren, then yee shall giue his inheritance vnto his fathers brethren.",
+            content: "",
         }),
 
         ("numbers", 27, 11) => Some(Verse {
-            content: "And if his father haue no brethren, then ye shall giue his inheritance vnto his kinseman that is next to him of his family, and hee shall possesse it: And it shall be vnto the children of Israel a statute of iudgement, as the Lord commanded Moses.",
+            content: "",
         }),
 
         ("numbers", 27, 12) => Some(Verse {
-            content: "And the Lord saide vnto Moses, Get thee vp into this mount Abarim, and see the land which I haue giuen vnto the children of Israel.",
+            content: "",
         }),
 
         ("numbers", 27, 13) => Some(Verse {
-            content: "And when thou hast seene it, thou also shalt be gathered vnto thy people, as Aaron thy brother was gathered.",
+            content: "",
         }),
 
         ("numbers", 27, 14) => Some(Verse {
-            content: "For ye rebelled against my Commandement (in the desart of Zin, in the strife of the Congregation) to sanctifie me at the water, before their eyes: that is the water of Meribah in Kadesh in the wildernesse of Zin.",
+            content: "",
         }),
 
         ("numbers", 27, 15) => Some(Verse {
-            content: "And Moses spake vnto the Lord, saying,",
+            content: "",
         }),
 
         ("numbers", 27, 16) => Some(Verse {
-            content: "Let the Lord, the God of the spirits of all flesh, set a man ouer the Congregation,",
+            content: "",
         }),
 
         ("numbers", 27, 17) => Some(Verse {
-            content: "Which may goe out before them, and which may goe in before them, and which may lead them out, and which may bring them in, that the Congregation of the Lord bee not as sheepe which haue no shepheard.",
+            content: "",
         }),
 
         ("numbers", 27, 18) => Some(Verse {
-            content: "And the Lord saide vnto Moses, Take thee Ioshua the sonne of Nun, a man in whom is the spirit, and lay thine hand vpon him.",
+            content: "",
         }),
 
         ("numbers", 27, 19) => Some(Verse {
-            content: "And set him before Eleazar the Priest, and before all the Congregation: and giue him a charge in their sight.",
+            content: "",
         }),
 
         ("numbers", 27, 20) => Some(Verse {
-            content: "And thou shalt put some of thine honour vpon him, that all the Congregation of the children of Israel may be obedient.",
+            content: "",
         }),
 
         ("numbers", 27, 21) => Some(Verse {
-            content: "And he shall stand before Eleazar the Priest, who shall aske counsell for him, after the iudgement of Urim before the Lord: at his word shal they goe out, and at his word they shal come in, both he, and al the children of Israel with him, euen all the Congregation.",
+            content: "",
         }),
 
         ("numbers", 27, 22) => Some(Verse {
-            content: "And Moses did as the Lord commanded him: and he tooke Ioshua and set him before Eleazar the Priest, and before all the Congregation.",
+            content: "",
         }),
 
         ("numbers", 27, 23) => Some(Verse {
-            content: "And hee layd his handes vpon him, and gaue him a charge, as the Lord commaunded by the hand of Moses.",
+            content: "",
         }),
 
         ("numbers", 28, 1) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 28, 2) => Some(Verse {
-            content: "Command the children of Israel, and say vnto them, My offering, and my bread for my sacrifices, made by fire for a sweet sauour vnto mee, shall yee obserue, to offer vnto me, in their due season.",
+            content: "",
         }),
 
         ("numbers", 28, 3) => Some(Verse {
-            content: "And thou shalt say vnto them, This is the offering made by fire, which ye shall offer vnto the Lord: Two lambes of the first yeere without spot day by day, for a continuall burnt offering.",
+            content: "",
         }),
 
         ("numbers", 28, 4) => Some(Verse {
-            content: "The one lambe shalt thou offer in the morning, and the other lambe shalt thou offer at Euen.",
+            content: "",
         }),
 
         ("numbers", 28, 5) => Some(Verse {
-            content: "And a tenth part of an Ephah of flowre for a meate offering, mingled with the fourth part of an Hyn of beaten oyle.",
+            content: "",
         }),
 
         ("numbers", 28, 6) => Some(Verse {
-            content: "It is a continuall burnt offering which was ordeined in mount Sinai for a sweete sauour, a sacrifice made by fire vnto the Lord.",
+            content: "",
         }),
 
         ("numbers", 28, 7) => Some(Verse {
-            content: "And the drinke offering thereof shall be the fourth part of an Hyn for the one lambe: in the holy place shalt thou cause the strong wine to bee powred vnto the Lord for a drinke offring.",
+            content: "",
         }),
 
         ("numbers", 28, 8) => Some(Verse {
-            content: "And the other lambe shalt thou offer at Euen: as the meate offring of the morning, and as the drinke offering thereof, thou shalt offer it, a sacrifice made by fire of a sweet sauour vnto the Lord.",
+            content: "",
         }),
 
         ("numbers", 28, 9) => Some(Verse {
-            content: "And on the Sabbath day, two lambes of the first yeere without spot, and two tenth deales of flowre for a meate offering mingled with oyle, and the drinke offering thereof.",
+            content: "",
         }),
 
         ("numbers", 28, 10) => Some(Verse {
-            content: "This is the burnt offring of euery Sabbath, beside the continuall burnt offering, and his drinke offering.",
+            content: "",
         }),
 
         ("numbers", 28, 11) => Some(Verse {
-            content: "And in the beginnings of your moneths, ye shall offer a burnt offering vnto the Lord: Two yong bullocks and one ramme, seuen lambs of the first yeere, without spot,",
+            content: "",
         }),
 
         ("numbers", 28, 12) => Some(Verse {
-            content: "And three tenth deales of flowre for a meate offering, mingled with oyle, for one bullocke, and two tenth deales of flowre for a meat offering, mingled with oyle, for one ramme:",
+            content: "",
         }),
 
         ("numbers", 28, 13) => Some(Verse {
-            content: "And a seueral tenth deale of flowre mingled with oyle for a meate offering, vnto one lambe, for a burnt offering of a sweet sauour, a sacrifice made by fire vnto the Lord.",
+            content: "",
         }),
 
         ("numbers", 28, 14) => Some(Verse {
-            content: "And their drinke offerings shal be halfe an Hin of wine vnto a bullocke, and the third part of an Hin vnto a ramme, and a fourth part of an Hin vnto a lambe: This is the burnt offring of euery moneth, throughout the moneths of the yeere.",
+            content: "",
         }),
 
         ("numbers", 28, 15) => Some(Verse {
-            content: "And one kidde of the goates for a sinne offering vnto the Lord shalbe offered, besides the continuall burnt offring and his drinke offering.",
+            content: "",
         }),
 
         ("numbers", 28, 16) => Some(Verse {
-            content: "And in the fourteenth day of the first moneth, is the Passeouer of the Lord.",
+            content: "",
         }),
 
         ("numbers", 28, 17) => Some(Verse {
-            content: "And in the fifteenth day of this moneth is the feast: seuen dayes shall vnleauened bread be eaten.",
+            content: "",
         }),
 
         ("numbers", 28, 18) => Some(Verse {
-            content: "In the first day shall bee an holy conuocation, yee shall doe no maner of seruile worke therein.",
+            content: "",
         }),
 
         ("numbers", 28, 19) => Some(Verse {
-            content: "But ye shall offer a sacrifice made by fire for a burnt offering vnto the Lord, two yong bullockes, and one ramme, and seuen lambes of the first yeere: they shall be vnto you without blemish.",
+            content: "",
         }),
 
         ("numbers", 28, 20) => Some(Verse {
-            content: "And their meate offering shall be of flowre mingled with oyle: three tenth deales shall ye offer for a bullocke, and two tenth deales for a ramme.",
+            content: "",
         }),
 
         ("numbers", 28, 21) => Some(Verse {
-            content: "A seuerall tenth deale shalt thou offer for euery lambe, throughout the seuen lambes:",
+            content: "",
         }),
 
         ("numbers", 28, 22) => Some(Verse {
-            content: "And one goat for a sinne offering, to make an atonement for you.",
+            content: "",
         }),
 
         ("numbers", 28, 23) => Some(Verse {
-            content: "Ye shal offer these beside the burnt offering in the morning, which is for a continuall burnt offering.",
+            content: "",
         }),
 
         ("numbers", 28, 24) => Some(Verse {
-            content: "After this maner yee shall offer dayly throughout the seuen dayes, the meat of the sacrifice made by fire, of a sweet sauour vnto the Lord: it shal be offred beside the continuall burnt offring, and his drinke offering.",
+            content: "",
         }),
 
         ("numbers", 28, 25) => Some(Verse {
-            content: "And on the seuenth day yee shall haue an holy conuocation: yee shall doe no seruile worke.",
+            content: "",
         }),
 
         ("numbers", 28, 26) => Some(Verse {
-            content: "Also in the day of the first fruits when ye bring a new meat offering vnto the Lord, after your weekes bee out: ye shall haue an holy conuocation, ye shall doe no seruile worke.",
+            content: "",
         }),
 
         ("numbers", 28, 27) => Some(Verse {
-            content: "But yee shall offer the burnt offering for a sweete sauour vnto the Lord, two yong bullockes, one ramme, seuen lambes of the first yeere.",
+            content: "",
         }),
 
         ("numbers", 28, 28) => Some(Verse {
-            content: "And their meat offering of flowre mingled with oyle, three tenth deales vnto one bullocke, two tenth deales vnto one ramme,",
+            content: "",
         }),
 
         ("numbers", 28, 29) => Some(Verse {
-            content: "A seuerall tenth deale vnto one lambe, thorowout the seuen lambes,",
+            content: "",
         }),
 
         ("numbers", 28, 30) => Some(Verse {
-            content: "And one kidde of the goates, to make an atonement for you.",
+            content: "",
         }),
 
         ("numbers", 28, 31) => Some(Verse {
-            content: "Ye shall offer them besides the continuall burnt offering, and his meat offering, (they shall be vnto you without blemish) and their drinke offerings.",
+            content: "",
         }),
 
         ("numbers", 29, 1) => Some(Verse {
-            content: "And in the seuenth moneth, on the first day of the moneth, ye shall haue an holy conuocation, yee shall doe no seruile worke: it is a day of blowing the trumpets vnto you.",
+            content: "",
         }),
 
         ("numbers", 29, 2) => Some(Verse {
-            content: "And ye shall offer a burnt offering for a sweet sauour vnto the Lord, one yong bullocke, one ramme, and seuen lambes of the first yeere without blemish.",
+            content: "",
         }),
 
         ("numbers", 29, 3) => Some(Verse {
-            content: "And their meat offering shall be of floure mingled with oyle, three tenth deales for a bullocke, and two tenth deales for a ramme:",
+            content: "",
         }),
 
         ("numbers", 29, 4) => Some(Verse {
-            content: "And one tenth deale for one lambe thorowout the seuen lambes:",
+            content: "",
         }),
 
         ("numbers", 29, 5) => Some(Verse {
-            content: "And one kidde of the goats for a sinne offering to make an atonement for you:",
+            content: "",
         }),
 
         ("numbers", 29, 6) => Some(Verse {
-            content: "Beside the burnt offering of the moneth, and his meat offering, and the dayly burnt offering, and his meat offering, and their drinke offerings, according vnto their maner, for a sweet sauour, a sacrifice made by fire vnto the Lord.",
+            content: "",
         }),
 
         ("numbers", 29, 7) => Some(Verse {
-            content: "And ye shall haue on the tenth day of this seuenth moneth an holy conuocation; and yee shall afflict your soules: yee shall not doe any worke therein.",
+            content: "",
         }),
 
         ("numbers", 29, 8) => Some(Verse {
-            content: "But ye shall offer a burnt offering vnto the Lord for a sweet sauour, one yong bullock, one ramme, and seuen lambes of the first yeere, they shall bee vnto you without blemish.",
+            content: "",
         }),
 
         ("numbers", 29, 9) => Some(Verse {
-            content: "And their meate offering shall be of floure mingled with oyle, three tenth deales to a bullocke, and two tenth deales to one ramme:",
+            content: "",
         }),
 
         ("numbers", 29, 10) => Some(Verse {
-            content: "A seuerall tenth deale for one lambe, thorowout the seuen lambes;",
+            content: "",
         }),
 
         ("numbers", 29, 11) => Some(Verse {
-            content: "One kidde of the goats for a sinne offering, beside the sinne offering of atonement, and the continuall burnt offering, and the meat offering of it, and their drinke offerings.",
+            content: "",
         }),
 
         ("numbers", 29, 12) => Some(Verse {
-            content: "And on the fifteenth day of the seuenth moneth, yee shall haue an holy conuocation, yee shall doe no seruile worke, and ye shall keepe a feast vnto the Lord seuen dayes.",
+            content: "",
         }),
 
         ("numbers", 29, 13) => Some(Verse {
-            content: "And ye shall offer a burnt offring, a sacrifice made by fire, of a sweet sauour vnto the Lord, thirteene yong bullocks, two rammes, and fourteene lambes of the first yeere: They shall be without blemish.",
+            content: "",
         }),
 
         ("numbers", 29, 14) => Some(Verse {
-            content: "And their meat offering shall be of floure mingled with oyle, three tenth deales vnto euery bullocke of the thirteene bullocks, two tenth deales to each ramme of the two rammes:",
+            content: "",
         }),
 
         ("numbers", 29, 15) => Some(Verse {
-            content: "And a seuerall tenth deale to each lambe of the foureteene lambes:",
+            content: "",
         }),
 
         ("numbers", 29, 16) => Some(Verse {
-            content: "And one kidde of the goats for a sinne offring, beside the continual burnt offering, his meate offering, and his drinke offering.",
+            content: "",
         }),
 
         ("numbers", 29, 17) => Some(Verse {
-            content: "And on the second day ye shal offer twelue yong bullocks, two rammes, foureteene lambes of the first yeere without spot.",
+            content: "",
         }),
 
         ("numbers", 29, 18) => Some(Verse {
-            content: "And their meat offring, and their drinke offerings for the bullockes, for the rammes, and for the lambes, shall be according to their number, after the maner:",
+            content: "",
         }),
 
         ("numbers", 29, 19) => Some(Verse {
-            content: "And one kidde of the goats for a sinne offering, beside the continuall burnt offering, and the meate offering thereof, and their drinke offerings.",
+            content: "",
         }),
 
         ("numbers", 29, 20) => Some(Verse {
-            content: "And on the third day eleuen bullocks, two rammes, foureteene lambs of the first yere without blemish.",
+            content: "",
         }),
 
         ("numbers", 29, 21) => Some(Verse {
-            content: "And their meate offering, and their drinke offerings for the bullocks, for the rammes, and for the lambes, shall be according to their number after the maner:",
+            content: "",
         }),
 
         ("numbers", 29, 22) => Some(Verse {
-            content: "And one goat for a sinne offering, beside the continuall burnt offering, and his meate offering, and his drinke offering.",
+            content: "",
         }),
 
         ("numbers", 29, 23) => Some(Verse {
-            content: "And on the fourth day ten bullocks, two rammes, and foureteene lambs of the first yere without blemish.",
+            content: "",
         }),
 
         ("numbers", 29, 24) => Some(Verse {
-            content: "Their meat offering, and their drinke offerings, for the bullocks, for the rammes, and for the lambes, shall be according to their number after the maner:",
+            content: "",
         }),
 
         ("numbers", 29, 25) => Some(Verse {
-            content: "And one kidde of the goats for a sin offering, beside the continuall burnt offering, his meate offering, and his drinke offering.",
+            content: "",
         }),
 
         ("numbers", 29, 26) => Some(Verse {
-            content: "And on the fift day, nine bullockes, two rammes, and fourteene lambes of the first yeere, without spot:",
+            content: "",
         }),
 
         ("numbers", 29, 27) => Some(Verse {
-            content: "And their meat offring and their drinke offerings, for the bullockes, for the rammes, and for the lambes, shall be according to their number after the maner:",
+            content: "",
         }),
 
         ("numbers", 29, 28) => Some(Verse {
-            content: "And one goate for a sinne offring, beside the continuall burnt offring, and his meate offering and his drinke offering.",
+            content: "",
         }),
 
         ("numbers", 29, 29) => Some(Verse {
-            content: "And on the sixt day eight bullockes, two rammes, and fourteene lambes of the first yeere without blemish:",
+            content: "",
         }),
 
         ("numbers", 29, 30) => Some(Verse {
-            content: "And their meat offring, and their drinke offerings, for the bullockes, for the rammes, and for the lambes, shall be according to their number, after the maner:",
+            content: "",
         }),
 
         ("numbers", 29, 31) => Some(Verse {
-            content: "And one goat for a sinne offering, beside the continuall burnt offering, his meate offering and his drinke offering.",
+            content: "",
         }),
 
         ("numbers", 29, 32) => Some(Verse {
-            content: "And on the seuenth day, seuen bullockes, two rammes, and fourteene lambes of the first yeere without blemish.",
+            content: "",
         }),
 
         ("numbers", 29, 33) => Some(Verse {
-            content: "And their meate offring, and their drinke offerings, for the bullockes, for the rammes, and for the lambes, shall be according to their number, after the maner:",
+            content: "",
         }),
 
         ("numbers", 29, 34) => Some(Verse {
-            content: "And one goat for a sinne offring, beside the continuall burnt offering, his meate offering, and his drinke offring.",
+            content: "",
         }),
 
         ("numbers", 29, 35) => Some(Verse {
-            content: "On the eight day, ye shall haue a solemne assembly: ye shall do no seruile worke therein:",
+            content: "",
         }),
 
         ("numbers", 29, 36) => Some(Verse {
-            content: "But ye shal offer a burnt offring, a sacrifice made by fire, of a sweet sauour vnto the Lord, one bullocke, one ramme, seuen lambes of the first yeere without blemish:",
+            content: "",
         }),
 
         ("numbers", 29, 37) => Some(Verse {
-            content: "Their meate offering, and their drinke offrings, for the bullocke, for the ramme, and for the lambes shall be according to their number, after the maner:",
+            content: "",
         }),
 
         ("numbers", 29, 38) => Some(Verse {
-            content: "And one goat for a sinne offering, beside the continuall burnt offring, and his meate offering, and his drinke offering.",
+            content: "",
         }),
 
         ("numbers", 29, 39) => Some(Verse {
-            content: "These things ye shall doe vnto the Lord in your set feasts, besides your vowes, and your free will offerings, for your burnt offerings, and for your meate offerings, and for your drinke offerings, and for your peace offerings.",
+            content: "",
         }),
 
         ("numbers", 29, 40) => Some(Verse {
-            content: "And Moses tolde the children of Israel, according to all that the Lord commanded Moses.",
+            content: "",
         }),
 
         ("numbers", 30, 1) => Some(Verse {
-            content: "And Moses spake vnto the heads of the tribes, concerning the children of Israel, saying, This is the thing which the Lord hath commanded.",
+            content: "",
         }),
 
         ("numbers", 30, 2) => Some(Verse {
