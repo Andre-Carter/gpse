@@ -14160,293 +14160,293 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("leviticus", 26, 11) => Some(Verse {
-            content: "And I will set my Tabernacle amongst you: and my soule shall not abhorre you.",
+            content: "",
         }),
 
         ("leviticus", 26, 12) => Some(Verse {
-            content: "And I will walke among you, and will be your God, and ye shall be my people.",
+            content: "",
         }),
 
         ("leviticus", 26, 13) => Some(Verse {
-            content: "I am the Lord your God, which brought you forth out of the land of Egypt, that yee should not be their bondmen, & I haue broken the bandes of your yoke, and made you go vpright.",
+            content: "",
         }),
 
         ("leviticus", 26, 14) => Some(Verse {
-            content: "But if ye will not hearken vnto me, and will not doe all these Commandements:",
+            content: "",
         }),
 
         ("leviticus", 26, 15) => Some(Verse {
-            content: "And if ye shall despise my Statutes, or if your soule abhorre my Iudgements, so that ye wil not doe all my Commandements, but that yee breake my Couenant:",
+            content: "",
         }),
 
         ("leviticus", 26, 16) => Some(Verse {
-            content: "I also will doe this vnto you, I will euen appoint ouer you terrour, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seede in vaine, for your enemies shall eate it.",
+            content: "",
         }),
 
         ("leviticus", 26, 17) => Some(Verse {
-            content: "And I will set my face against you, and ye shall be slaine before your enemies: they that hate you shall reigne ouer you, and ye shall flee when none pursueth you.",
+            content: "",
         }),
 
         ("leviticus", 26, 18) => Some(Verse {
-            content: "And if ye will not yet for all this hearken vnto me, then I will punish you seuen times more for your sinnes.",
+            content: "",
         }),
 
         ("leviticus", 26, 19) => Some(Verse {
-            content: "And I will breake the pride of your power, and I will make your heauen as yron, and your earth as brasse:w",
+            content: "",
         }),
 
         ("leviticus", 26, 20) => Some(Verse {
-            content: "And your strength shall be spent in vaine: for your land shall not yeeld her increase, neither shall the trees of the land yeeld their fruits.",
+            content: "",
         }),
 
         ("leviticus", 26, 21) => Some(Verse {
-            content: "And if ye walke contrary vnto me, and will not hearken vnto mee, I will bring seuen times moe plagues vpon you, according to your sinnes.",
+            content: "",
         }),
 
         ("leviticus", 26, 22) => Some(Verse {
-            content: "I will also send wilde beasts among you, which shall rob you of your children, and destroy your cattell, and make you few in number, and your high wayes shall be desolate.",
+            content: "",
         }),
 
         ("leviticus", 26, 23) => Some(Verse {
-            content: "And if ye will not be reformed by these things, but will walke contrary vnto me:",
+            content: "",
         }),
 
         ("leviticus", 26, 24) => Some(Verse {
-            content: "Then will I also walke contrary vnto you, and will punish you yet seuen times for your sinnes.",
+            content: "",
         }),
 
         ("leviticus", 26, 25) => Some(Verse {
-            content: "And I will bring a sword vpon you, that shall auenge the quarell of my couenant: and when yee are gathered together within your cities, I wil send the pestilence among you, and ye shalbe deliuered into the hand of the enemie.",
+            content: "",
         }),
 
         ("leviticus", 26, 26) => Some(Verse {
-            content: "And when I haue broken the staffe of your bread, ten women shall bake your bread in one ouen, and they shall deliuer you your bread againe by weight: and ye shall eate, and not bee satisfied.",
+            content: "",
         }),
 
         ("leviticus", 26, 27) => Some(Verse {
-            content: "And if ye wil not for all this hearken vnto me, but walke contrary vnto mee,",
+            content: "",
         }),
 
         ("leviticus", 26, 28) => Some(Verse {
-            content: "Then I wil walke contrary vnto you also in fury, and I, euen I will chastise you seuen times for your sinnes.",
+            content: "",
         }),
 
         ("leviticus", 26, 29) => Some(Verse {
-            content: "And ye shal eate the flesh of your sonnes, and the flesh of your daughters shall ye eate.",
+            content: "",
         }),
 
         ("leviticus", 26, 30) => Some(Verse {
-            content: "And I will destroy your high places, and cut downe your images, and cast your carkeises vpon the carkeises of your idoles, and my soule shall abhorre you.",
+            content: "",
         }),
 
         ("leviticus", 26, 31) => Some(Verse {
-            content: "And I wil make your cities waste, and bring your sanctuaries vnto desolation, and I will not smell the sauour of your sweet odours.",
+            content: "",
         }),
 
         ("leviticus", 26, 32) => Some(Verse {
-            content: "And I will bring the land into desolation: and your enemies which dwel therein, shall be astonished at it.",
+            content: "",
         }),
 
         ("leviticus", 26, 33) => Some(Verse {
-            content: "And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste.",
+            content: "",
         }),
 
         ("leviticus", 26, 34) => Some(Verse {
-            content: "Then shall the lande enioy her Sabbaths, as long as it lieth desolate, and yee be in your enemies land, euen then shall the land rest, and enioy her Sabbaths.",
+            content: "",
         }),
 
         ("leviticus", 26, 35) => Some(Verse {
-            content: "As long as it lieth desolate, it shall rest: because it did not rest in your Sabbaths, when ye dwelt vpon it.",
+            content: "",
         }),
 
         ("leviticus", 26, 36) => Some(Verse {
-            content: "And vpon them that are left aliue of you, I will send a faintnesse into their hearts in the lands of their enemies, and the sound of a shaken leafe shall chase them, and they shall flee, as fleeing from a sword: and they shall fall, when none pursueth.",
+            content: "",
         }),
 
         ("leviticus", 26, 37) => Some(Verse {
-            content: "And they shall fall one vpon another, as it were before a sword, when none pursueth: and yee shall haue no power to stand before your enemies.",
+            content: "",
         }),
 
         ("leviticus", 26, 38) => Some(Verse {
-            content: "And yee shall perish among the Heathen, and the land of your enemies shall eate you vp.",
+            content: "",
         }),
 
         ("leviticus", 26, 39) => Some(Verse {
-            content: "And they that are left of you shall pine away in their iniquitie in your enemies lands, and also in the iniquities of their fathers shall they pine away with them.",
+            content: "",
         }),
 
         ("leviticus", 26, 40) => Some(Verse {
-            content: "If they shall confesse the iniquitie of their fathers, with their trespasse which they trespassed against me, and that also they haue walked contrary vnto me:",
+            content: "",
         }),
 
         ("leviticus", 26, 41) => Some(Verse {
-            content: "And that I also haue walked contrary vnto them, and haue brought them into the land of their enemies: if then their vncircumcised hearts bee humbled, and they then accept of the punishment of their iniquitie:",
+            content: "",
         }),
 
         ("leviticus", 26, 42) => Some(Verse {
-            content: "Then will I remember my couenant with Iacob, and also my couenant with Isaac, and also my couenant with Abraham will I remember, and I will remember the land.",
+            content: "",
         }),
 
         ("leviticus", 26, 43) => Some(Verse {
-            content: "The land also shalbe left of them, and shall enioy her Sabbaths, while she lieth desolate without them: and they shall accept of the punishment of their iniquitie: because, euen because they despised my Iudgements, and because their soule abhorred my Statutes",
+            content: "",
         }),
 
         ("leviticus", 26, 44) => Some(Verse {
-            content: "And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I abhorre them, to destroy them vtterly, and to breake my couenant with them: for I am the Lord their God.",
+            content: "",
         }),
 
         ("leviticus", 26, 45) => Some(Verse {
-            content: "But I wil for their sakes remember the couenant of their Ancestours, whom I brought forth out of the land of Egypt, in the sight of the Heathen, that I might be their God: I am the Lord.",
+            content: "",
         }),
 
         ("leviticus", 26, 46) => Some(Verse {
-            content: "These are the Statutes, and Iudgements, and Lawes which the Lord made betweene him and the children of Israel, in mount Sinai, by the hand of Moses.",
+            content: "",
         }),
 
         ("leviticus", 27, 1) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("leviticus", 27, 2) => Some(Verse {
-            content: "Speake vnto the children of Israel, and say vnto them, When a man shal make a singular vow, the persons shall be for the Lord, by thy estimation.",
+            content: "",
         }),
 
         ("leviticus", 27, 3) => Some(Verse {
-            content: "And thy estimation shall be: Of the male from twentie yeeres old, euen vnto sixtie yeeres old: euen thy estimation shall be fiftie shekels of siluer, after the shekel of the Sanctuary.",
+            content: "",
         }),
 
         ("leviticus", 27, 4) => Some(Verse {
-            content: "And if it be a female, then thy estimation shall be thirtie shekels.",
+            content: "",
         }),
 
         ("leviticus", 27, 5) => Some(Verse {
-            content: "And if it be from fiue yeeres olde, euen vnto twentie yeeres old, then thy estimation shall be of the male twentie shekels, and for the female ten shekels.",
+            content: "",
         }),
 
         ("leviticus", 27, 6) => Some(Verse {
-            content: "And if it be from a moneth old, euen vnto fiue yeeres old, then thy estimation shall be of the male, fiue shekels of siluer, and for the female, thy estimation shall be three shekels of siluer.",
+            content: "",
         }),
 
         ("leviticus", 27, 7) => Some(Verse {
-            content: "And if it be from sixtie yeeres old, and aboue, if it be a male, then thy estimation shall be fifteene shekels, and for the female ten shekels.",
+            content: "",
         }),
 
         ("leviticus", 27, 8) => Some(Verse {
-            content: "But if he bee poorer then thy estimation, then he shall present himselfe before the Priest, and the Priest shall value him: according to his abilitie that vowed, shall the Priest value him.",
+            content: "",
         }),
 
         ("leviticus", 27, 9) => Some(Verse {
-            content: "And if it be a beast whereof men bring an offering vnto the Lord, all that any man giueth of such vnto the Lord, shall be holy.",
+            content: "",
         }),
 
         ("leviticus", 27, 10) => Some(Verse {
-            content: "He shall not alter it, nor change it, a good for a bad, or a bad for a good: And if hee shall at all change beast for beast, then it, and the exchange thereof shall be holy.",
+            content: "",
         }),
 
         ("leviticus", 27, 11) => Some(Verse {
-            content: "And if it be any vncleane beast, of which they doe not offer a sacrifice vnto the Lord, then he shall present the beast before the Priest:",
+            content: "",
         }),
 
         ("leviticus", 27, 12) => Some(Verse {
-            content: "And the Priest shall value it, whether it be good or bad: as thou valuest it who art the Priest: so shall it be.",
+            content: "",
         }),
 
         ("leviticus", 27, 13) => Some(Verse {
-            content: "But if hee will at all redeeme it, then he shall adde a fift part thereof vnto thy estimation.",
+            content: "",
         }),
 
         ("leviticus", 27, 14) => Some(Verse {
-            content: "And when a man shall sanctifie his house to be holy vnto the Lord, then the Priest shal estimate it, whether it be good or bad: as the Priest shall estimate it, so shall it stand.",
+            content: "",
         }),
 
         ("leviticus", 27, 15) => Some(Verse {
-            content: "And if he that sanctified it, will redeeme his house, then he shall adde the fift part of the money of thy estimation vnto it, and it shall be his.",
+            content: "",
         }),
 
         ("leviticus", 27, 16) => Some(Verse {
-            content: "And if a man shall sanctifie vnto the Lord some part of a field of his possession, then thy estimation shall be according to the seed thereof: An Homer of barley seed shall be valued at fiftie shekels of siluer.",
+            content: "",
         }),
 
         ("leviticus", 27, 17) => Some(Verse {
-            content: "If hee sanctifie his field from the yeere of Iubile, according to thy estimation it shall stand.",
+            content: "",
         }),
 
         ("leviticus", 27, 18) => Some(Verse {
-            content: "But if hee sanctifie his field after the Iubile, then the Priest shall reckon vnto him the money, according to the yeeres that remaine, euen vnto the yeere of the Iubile, and it shall be abated from thy estimation.",
+            content: "",
         }),
 
         ("leviticus", 27, 19) => Some(Verse {
-            content: "And if he that sanctified the field, will in any wise redeeme it, then he shal adde the fift part of the money of thy estimation vnto it, and it shall be assured to him.",
+            content: "",
         }),
 
         ("leviticus", 27, 20) => Some(Verse {
-            content: "And if hee will not redeeme the field, or if he haue sold the field to another man, it shall not be redeemed any more.",
+            content: "",
         }),
 
         ("leviticus", 27, 21) => Some(Verse {
-            content: "But the field, when it goeth out in the Iubile, shall be holy vnto the Lord, as a field deuoted: the possession thereof shalbe the Priests.",
+            content: "",
         }),
 
         ("leviticus", 27, 22) => Some(Verse {
-            content: "And if a man sanctifie vnto the Lord a field which he hath bought, which is not of the fieldes of his possession:",
+            content: "",
         }),
 
         ("leviticus", 27, 23) => Some(Verse {
-            content: "Then the Priest shall reckon vnto him the worth of thy estimation, euen vnto the yeere of the Iubile, and hee shall giue thine estimation in that day, as a holy thing vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 27, 24) => Some(Verse {
-            content: "In the yeere of the Iubile, the field shall returne vnto him of whom it was bought, euen to him to whom the possession of the land did belong.",
+            content: "",
         }),
 
         ("leviticus", 27, 25) => Some(Verse {
-            content: "And all thy estimations shall be according to the shekel of the Sanctuarie: twentie Gerahs shall bee the shekel.",
+            content: "",
         }),
 
         ("leviticus", 27, 26) => Some(Verse {
-            content: "Onely the firstling of the beasts which should be the Lords firstling, no man shall sanctifie it, whether it bee oxe, or sheepe: It is the Lords.",
+            content: "",
         }),
 
         ("leviticus", 27, 27) => Some(Verse {
-            content: "And if it be of an vncleane beast, then hee shall redeeme it according to thine estimation, and shall adde a fifth part of it thereto: Or if it be not redeemed, then it shalbe sold according to thy estimation.",
+            content: "",
         }),
 
         ("leviticus", 27, 28) => Some(Verse {
-            content: "Notwithstanding, no deuoted thing that a man shall deuote vnto the Lord, of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: euery deuoted thing is most holy vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 27, 29) => Some(Verse {
-            content: "None deuoted, which shalbe deuoted of men, shall be redeemed: but shall surely be put to death.",
+            content: "",
         }),
 
         ("leviticus", 27, 30) => Some(Verse {
-            content: "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the Lords: it is holy vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 27, 31) => Some(Verse {
-            content: "And if a man will at all redeeme ought of his tithes, he shall adde thereto the fifth part thereof.",
+            content: "",
         }),
 
         ("leviticus", 27, 32) => Some(Verse {
-            content: "And concerning the tithe of the herde, or of the flocke, euen of whatsoeuer passeth vnder the rod, the tenth shalbe holy vnto the Lord.",
+            content: "",
         }),
 
         ("leviticus", 27, 33) => Some(Verse {
-            content: "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it, and the change thereof, shall be holy; it shall not be redeemed.",
+            content: "",
         }),
 
         ("leviticus", 27, 34) => Some(Verse {
-            content: "These are the Commandements which the Lord commanded Moses, for the children of Israel in mount Sinai.",
+            content: "",
         }),
 
         // THE BOOK OF NUMBERS
 
         ("numbers", 1, 1) => Some(Verse {
-            content: "And the Lord spake vnto Moses in the wildernesse of Sinai, in the Tabernacle of the Congregation, on the first day of the second moneth, in the second yeere, after they were come out of the land of Egypt, saying,",
+            content: "",
         }),
 
         ("numbers", 1, 2) => Some(Verse {
-            content: "Take yee the summe of all the Congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, euery male by their polle:",
+            content: "",
         }),
 
         ("numbers", 1, 3) => Some(Verse {
