@@ -17510,407 +17510,407 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("numbers", 21, 32) => Some(Verse {
-            content: "And Moses sent to spy out Iaazer, and they tooke the villages thereof, and droue out the Amorites that were there.",
+            content: "",
         }),
 
         ("numbers", 21, 33) => Some(Verse {
-            content: "And they turned and went vp by the way of Bashan: and Og the King of Bashan went out against them, he, and all his people, to the battell at Edrei.",
+            content: "",
         }),
 
         ("numbers", 21, 34) => Some(Verse {
-            content: "And the Lord said vnto Moses, Feare him not: for I haue deliuered him into thy hand, and all his people, and his land, and thou shalt doe to him as thou didst vnto Sihon King of the Amorites, which dwelt at Heshbon.",
+            content: "",
         }),
 
         ("numbers", 21, 35) => Some(Verse {
-            content: "So they smote him & his sonnes, and all his people, vntill there was none left him aliue, and they possessed his land.",
+            content: "",
         }),
 
         ("numbers", 22, 1) => Some(Verse {
-            content: "And the children of Israel set forward, and pitched in the plaines of Moab, on this side Iordane by Iericho.",
+            content: "",
         }),
 
         ("numbers", 22, 2) => Some(Verse {
-            content: "And Balak the sonne of Zippor, saw all that Israel had done to the Amorites.",
+            content: "",
         }),
 
         ("numbers", 22, 3) => Some(Verse {
-            content: "And Moab was sore afraid of the people, because they were many, and Moab was distressed, because of the children of Israel.",
+            content: "",
         }),
 
         ("numbers", 22, 4) => Some(Verse {
-            content: "And Moab said vnto the elders of Midian; Now shall this company licke vp all that are round about vs, as the oxe licketh vp the grasse of the field. And Balak the sonne of Zippor, was King of the Moabites at that time.",
+            content: "",
         }),
 
         ("numbers", 22, 5) => Some(Verse {
-            content: "He sent messengers therefore vnto Balaam the sonne of Beor, to Pethor, which is by the riuer of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: beholde, they couer the face of the earth, and they abide ouer against me.",
+            content: "",
         }),
 
         ("numbers", 22, 6) => Some(Verse {
-            content: "Come now therefore, I pray thee, curse mee this people, for they are too mightie for me: peraduenture I shall preuaile, that we may smite them, and that I may driue them out of the land: for I wot that he whom thou blessest, is blessed, and hee whom thou cursest, is cursed.",
+            content: "",
         }),
 
         ("numbers", 22, 7) => Some(Verse {
-            content: "And the elders of Moab, and the elders of Midian departed, with the rewards of diuination in their hand; and they came vnto Balaam, and spake vnto him the words of Balak.",
+            content: "",
         }),
 
         ("numbers", 22, 8) => Some(Verse {
-            content: "And hee said vnto them, Lodge here this night, and I will bring you word againe as the Lord shal speake vnto mee: and the Princes of Moab abode with Balaam.",
+            content: "",
         }),
 
         ("numbers", 22, 9) => Some(Verse {
-            content: "And God came vnto Balaam, and said, What men are these with thee?",
+            content: "",
         }),
 
         ("numbers", 22, 10) => Some(Verse {
-            content: "And Balaam said vnto God, Balak the sonne of Zippor, King of Moab, hath sent vnto me, saying;",
+            content: "",
         }),
 
         ("numbers", 22, 11) => Some(Verse {
-            content: "Behold, there is a people come out of Egypt, which couereth the face of the earth: Come now, curse me them; peraduenture I shalbe able to ouercome them, and driue them out.",
+            content: "",
         }),
 
         ("numbers", 22, 12) => Some(Verse {
-            content: "And God saide vnto Balaam; Thou shalt not goe with them, thou shalt not curse the people: for they are blessed.",
+            content: "",
         }),
 
         ("numbers", 22, 13) => Some(Verse {
-            content: "And Balaam rose vp in the morning, and said vnto the Princes of Balak, Get you into your land: for the Lord refuseth to giue mee leaue to goe with you.",
+            content: "",
         }),
 
         ("numbers", 22, 14) => Some(Verse {
-            content: "And the Princes of Moab rose vp, and they went vnto Balak, and said, Balaam refuseth to come with vs.",
+            content: "",
         }),
 
         ("numbers", 22, 15) => Some(Verse {
-            content: "And Balak sent yet againe Princes, moe, and more honourable then they.",
+            content: "",
         }),
 
         ("numbers", 22, 16) => Some(Verse {
-            content: "And they came to Balaam, and said to him, Thus saith Balak the son of Zippor; Let nothing, I pray thee, hinder thee from comming vnto me:",
+            content: "",
         }),
 
         ("numbers", 22, 17) => Some(Verse {
-            content: "For I wil promote thee vnto very great honour, and I will do whatsoeuer thou saiest vnto me: Come therefore, I pray thee, curse me this people.",
+            content: "",
         }),
 
         ("numbers", 22, 18) => Some(Verse {
-            content: "And Balaam answered and said vnto the seruants of Balak, If Balak would giue me his house full of siluer and gold, I cannot goe beyond the word of the Lord my God, to doe lesse or more.",
+            content: "",
         }),
 
         ("numbers", 22, 19) => Some(Verse {
-            content: "Now therefore, I pray you, tarie yee also here this night, that I may know what the Lord will say vnto me more.",
+            content: "",
         }),
 
         ("numbers", 22, 20) => Some(Verse {
-            content: "And God came vnto Balaam at night, and said vnto him, If the men come to call thee, rise vp, and goe with them: but yet the word which I shall say vnto thee, that shalt thou doe.",
+            content: "",
         }),
 
         ("numbers", 22, 21) => Some(Verse {
-            content: "And Balaam rose vp in the morning, and sadled his asse, and went with the princes of Moab.",
+            content: "",
         }),
 
         ("numbers", 22, 22) => Some(Verse {
-            content: "And Gods anger was kindled, because he went: and the Angel of the Lord stood in the way for an aduersarie against him: Now he was riding vpon his asse, and his two seruants were with him.",
+            content: "",
         }),
 
         ("numbers", 22, 23) => Some(Verse {
-            content: "And the Asse sawe the Angel of the Lord standing in the way, and his sword drawen in his hand: and the asse turned aside out of the way, and went into the field: and Balaam smote the asse, to turne her into the way.",
+            content: "",
         }),
 
         ("numbers", 22, 24) => Some(Verse {
-            content: "But the Angel of the Lord stood in a path of the vineyards, a wall being on this side, & a wall on that side.",
+            content: "",
         }),
 
         ("numbers", 22, 25) => Some(Verse {
-            content: "And when the asse saw the Angel of the Lord, she thrust her selfe vnto the wall, and crusht Balaams foote against the wall: and hee smote her againe.",
+            content: "",
         }),
 
         ("numbers", 22, 26) => Some(Verse {
-            content: "And the Angel of the Lord went further, and stood in a narrowe place, where was no way to turne, either to the right hand, or to the left.",
+            content: "",
         }),
 
         ("numbers", 22, 27) => Some(Verse {
-            content: "And when the asse sawe the Angel of the Lord, shee fell downe vnder Balaam, and Balaams anger was kindled, and hee smote the asse with a staffe.",
+            content: "",
         }),
 
         ("numbers", 22, 28) => Some(Verse {
-            content: "And the Lord opened the mouth of the asse, and shee saide vnto Balaam, What haue I done vnto thee, that thou hast smitten mee these three times?",
+            content: "",
         }),
 
         ("numbers", 22, 29) => Some(Verse {
-            content: "And Balaam said vnto the asse, Because thou hast mocked mee: I would there were a sword in mine hand, for now would I kill thee.",
+            content: "",
         }),
 
         ("numbers", 22, 30) => Some(Verse {
-            content: "And the asse said vnto Balaam, Am not I thine asse, vpon which thou hast ridden euer since I was thine, vnto this day? was I euer wont to do so vnto thee? And he said, Nay.",
+            content: "",
         }),
 
         ("numbers", 22, 31) => Some(Verse {
-            content: "Then the Lord opened the eyes of Balaam, and hee saw the Angel of the Lord standing in the way, and his sword drawen in his hand: and hee bowed downe his head, and fell flat on his face.",
+            content: "",
         }),
 
         ("numbers", 22, 32) => Some(Verse {
-            content: "And the Angel of the Lord said vnto him, Wherefore hast thou smitten thine asse these three times? Behold, I went out to withstand thee, because thy way is peruerse before me.",
+            content: "",
         }),
 
         ("numbers", 22, 33) => Some(Verse {
-            content: "And the asse saw me, and turned from me these three times: vnlesse shee had turned from me, surely now also I had slaine thee, and saued her aliue.",
+            content: "",
         }),
 
         ("numbers", 22, 34) => Some(Verse {
-            content: "And Balaam said vnto the Angel of the Lord, I haue sinned: for I knew not that thou stoodest in the way against mee: Now therefore if it displease thee, I will get mee backe againe.",
+            content: "",
         }),
 
         ("numbers", 22, 35) => Some(Verse {
-            content: "And the Angel of the Lord said vnto Balaam, Goe with the men: but onely the word that I shall speake vnto thee, that thou shalt speake: So Balaam went with the princes of Balak.",
+            content: "",
         }),
 
         ("numbers", 22, 36) => Some(Verse {
-            content: "And when Balak heard that Balaam was come, hee went out to meete him, vnto a citie of Moab, which is in the border of Arnon, which is in the vtmost coast.",
+            content: "",
         }),
 
         ("numbers", 22, 37) => Some(Verse {
-            content: "And Balak said vnto Balaam, Did I not earnestly send vnto thee to call thee? wherefore camest thou not vnto me? Am I not able indeed to promote thee to honour?",
+            content: "",
         }),
 
         ("numbers", 22, 38) => Some(Verse {
-            content: "And Balaam saide vnto Balak, Loe, I am come vnto thee: haue I now any power at all to say any thing? the worde that God putteth in my mouth, that shall I speake.",
+            content: "",
         }),
 
         ("numbers", 22, 39) => Some(Verse {
-            content: "And Balaam went with Balak, and they came vnto Kiriath-Huzoth.",
+            content: "",
         }),
 
         ("numbers", 22, 40) => Some(Verse {
-            content: "And Balak offered oxen, and sheepe, and sent to Balaam, and to the princes that were with him.",
+            content: "",
         }),
 
         ("numbers", 22, 41) => Some(Verse {
-            content: "And it came to passe on the morrow, that Balak tooke Balaam, and brought him vp into the high places of Baal, that thence hee might see the vtmost part of the people.",
+            content: "",
         }),
 
         ("numbers", 23, 1) => Some(Verse {
-            content: "And Balaam saide vnto Balak, Build me here seuen Altars, and prepare mee here seuen oxen, and seuen rammes.",
+            content: "",
         }),
 
         ("numbers", 23, 2) => Some(Verse {
-            content: "And Balak did as Balaam had spoken, and Balak & Balaam offered on euery altar a bullocke and a ramme.",
+            content: "",
         }),
 
         ("numbers", 23, 3) => Some(Verse {
-            content: "And Balaam said vnto Balak, Stand by thy burnt offring, and I wil goe: peraduenture the Lord will come to meete mee; and whatsoeuer he sheweth me, I will tell thee. And he went to an high place.",
+            content: "",
         }),
 
         ("numbers", 23, 4) => Some(Verse {
-            content: "And God met Balaam, and he said vnto him, I haue prepared seuen altars, and I haue offered vpon euery altar a bullocke and a ramme.",
+            content: "",
         }),
 
         ("numbers", 23, 5) => Some(Verse {
-            content: "And the Lord put a word in Balaams mouth, and said, Returne vnto Balak, & thus thou shalt speake.",
+            content: "",
         }),
 
         ("numbers", 23, 6) => Some(Verse {
-            content: "And he returned vnto him, and loe, he stood by his burnt sacrifice, hee, and all the Princes of Moab.",
+            content: "",
         }),
 
         ("numbers", 23, 7) => Some(Verse {
-            content: "And he tooke vp his parable, and said, Balak the King of Moab hath brought mee from Aram, out of the mountaines of the East, saying, Come, curse me Iacob, and come, defie Israel.",
+            content: "",
         }),
 
         ("numbers", 23, 8) => Some(Verse {
-            content: "How shall I curse, whom God hath not cursed? or how shall I defie, whom the Lord hath not defied?",
+            content: "",
         }),
 
         ("numbers", 23, 9) => Some(Verse {
-            content: "For from the top of the rockes I see him, and from the hilles I behold him: loe, the people shall dwell alone, and shall not bee reckoned among the nations.",
+            content: "",
         }),
 
         ("numbers", 23, 10) => Some(Verse {
-            content: "Who can count the dust of Iacob, and the number of the fourth part of Israel? Let mee die the death of the righteous, & let my last end be like his.",
+            content: "",
         }),
 
         ("numbers", 23, 11) => Some(Verse {
-            content: "And Balak saide vnto Balaam, What hast thou done vnto me? I tooke thee to curse mine enemies, and behold, thou hast blessed them altogether.",
+            content: "",
         }),
 
         ("numbers", 23, 12) => Some(Verse {
-            content: "And he answered, and said, Must I not take heede to speake that which the Lord hath put in my mouth?",
+            content: "",
         }),
 
         ("numbers", 23, 13) => Some(Verse {
-            content: "And Balak said vnto him, Come, I pray thee, with me, vnto another place, from whence thou mayest see them: thou shalt see but the vtmost part of them, and shalt not see them all: and curse me them from thence.",
+            content: "",
         }),
 
         ("numbers", 23, 14) => Some(Verse {
-            content: "And hee brought him into the fielde of Zophim, to the toppe of Pisgah, and built seuen altars, and offered a bullocke and a ramme on euery altar.",
+            content: "",
         }),
 
         ("numbers", 23, 15) => Some(Verse {
-            content: "And he said vnto Balak, Stand here by thy burnt offering, while I meete the Lord yonder.",
+            content: "",
         }),
 
         ("numbers", 23, 16) => Some(Verse {
-            content: "And the Lord met Balaam, and put a word in his mouth, and saide, Goe againe vnto Balak, and say thus.",
+            content: "",
         }),
 
         ("numbers", 23, 17) => Some(Verse {
-            content: "And when hee came to him, behold, he stood by his burnt offring, and the Princes of Moab with him. And Balak said vnto him, What hath the Lord spoken?",
+            content: "",
         }),
 
         ("numbers", 23, 18) => Some(Verse {
-            content: "And he tooke vp his parable, and said, Rise vp Balak, & heare; hearken vnto me, thou sonne of Zippor:",
+            content: "",
         }),
 
         ("numbers", 23, 19) => Some(Verse {
-            content: "God is not a man that he should lie, neither the sonne of man, that hee should repent: hath he said, and shall he not doe it? or, hath hee spoken, and shall he not make it good?",
+            content: "",
         }),
 
         ("numbers", 23, 20) => Some(Verse {
-            content: "Behold, I haue receiued commandement to blesse: and hee hath blessed, and I cannot reuerse it.",
+            content: "",
         }),
 
         ("numbers", 23, 21) => Some(Verse {
-            content: "Hee hath not beheld iniquitie in Iacob, neither hath he seene peruersenesse in Israel: the Lord his God is with him, and the shoute of a King is among them.",
+            content: "",
         }),
 
         ("numbers", 23, 22) => Some(Verse {
-            content: "God brought them out of Egypt; he hath as it were the strength of an Unicorne.",
+            content: "",
         }),
 
         ("numbers", 23, 23) => Some(Verse {
-            content: "Surely there is no inchantment against Iacob, neither is there any diuination against Israel: according to this time it shalbe said of Iacob, and of Israel, What hath God wrought!",
+            content: "",
         }),
 
         ("numbers", 23, 24) => Some(Verse {
-            content: "Beholde, the people shall rise vp as a great Lion, and lift vp himselfe as a yong Lion: hee shall not lie downe vntill he eate of the pray, and drinke the blood of the slaine.",
+            content: "",
         }),
 
         ("numbers", 23, 25) => Some(Verse {
-            content: "And Balak said vnto Balaam, Neither curse them at all, nor blesse them at all.",
+            content: "",
         }),
 
         ("numbers", 23, 26) => Some(Verse {
-            content: "But Balaam answered, and said vnto Balak, Told not I thee, saying, All that the Lord speaketh, that I must doe?",
+            content: "",
         }),
 
         ("numbers", 23, 27) => Some(Verse {
-            content: "And Balak saide vnto Balaam, Come, I pray thee, I will bring thee vnto another place, peraduenture it will please God, that thou mayest curse me them from thence.",
+            content: "",
         }),
 
         ("numbers", 23, 28) => Some(Verse {
-            content: "And Balak brought Balaam vnto the top of Peor, that looketh toward Ieshimon.",
+            content: "",
         }),
 
         ("numbers", 23, 29) => Some(Verse {
-            content: "And Balaam saide vnto Balak, Build mee here seuen altars, and prepare me here seuen bullocks, and seuen rammes.",
+            content: "",
         }),
 
         ("numbers", 23, 30) => Some(Verse {
-            content: "And Balak did as Balaam had said, and offred a bullocke and a ramme on euery altar.",
+            content: "",
         }),
 
         ("numbers", 24, 1) => Some(Verse {
-            content: "And when Balaam sawe that it pleased the Lord to blesse Israel, hee went not, as at other times to seeke for inchantments, but hee set his face toward the wildernesse.",
+            content: "",
         }),
 
         ("numbers", 24, 2) => Some(Verse {
-            content: "And Balaam lift vp his eyes, and he saw Israel abiding in his tents, according to their Tribes: and the Spirit of God came vpon him.",
+            content: "",
         }),
 
         ("numbers", 24, 3) => Some(Verse {
-            content: "And he tooke vp his parable, and said, Balaam the sonne of Beor hath said, and the man whose eyes are open hath said:",
+            content: "",
         }),
 
         ("numbers", 24, 4) => Some(Verse {
-            content: "Hee hath said, which heard the words of God, which saw the vision of the Almightie, falling into a trance, but hauing his eyes open:",
+            content: "",
         }),
 
         ("numbers", 24, 5) => Some(Verse {
-            content: "How goodly are thy tents, O Iacob, and thy Tabernacles, O Israel!",
+            content: "",
         }),
 
         ("numbers", 24, 6) => Some(Verse {
-            content: "As the valleyes are they spread forth, as gardens by the riuer side, as the trees of Lign-Aloes which the Lord hath planted, and as Cedar trees beside the waters.",
+            content: "",
         }),
 
         ("numbers", 24, 7) => Some(Verse {
-            content: "He shall powre the water out of his buckets, and his seed shall be in many waters, and his King shall be higher then Agag, and his Kingdome shall be exalted.",
+            content: "",
         }),
 
         ("numbers", 24, 8) => Some(Verse {
-            content: "God brought him forth out of Egypt, he hath as it were the strength of an Unicorne: he shall eate vp the nations his enemies, and shall breake their bones, and pierce them thorow with his arrowes.",
+            content: "",
         }),
 
         ("numbers", 24, 9) => Some(Verse {
-            content: "Hee couched, he lay downe as a Lyon, and as a great Lyon: who shal stirre him vp? Blessed is hee that blesseth thee, and cursed is hee that curseth thee.",
+            content: "",
         }),
 
         ("numbers", 24, 10) => Some(Verse {
-            content: "And Balaks anger was kindled against Balaam, and hee smote his hands together: and Balak said vnto Balaam, I called thee to curse mine enemies, and behold, thou hast altogether blessed them these three times.",
+            content: "",
         }),
 
         ("numbers", 24, 11) => Some(Verse {
-            content: "Therefore now, flee thou to thy place: I thought to promote thee vnto great honour, but loe, the Lord hath kept thee backe from honour.",
+            content: "",
         }),
 
         ("numbers", 24, 12) => Some(Verse {
-            content: "And Balaam said vnto Balak, Spake I not also to thy messengers which thou sentest vnto me, saying,",
+            content: "",
         }),
 
         ("numbers", 24, 13) => Some(Verse {
-            content: "If Balak would give mee his house full of siluer and gold, I cannot goe beyond the commandement of the Lord, to doe either good or bad of mine owne mind? But what the Lord saith, that will I speake.",
+            content: "",
         }),
 
         ("numbers", 24, 14) => Some(Verse {
-            content: "And now beholde, I goe vnto my people: come therefore, and I will aduertise thee, what this people shall doe to thy people in the latter dayes.",
+            content: "",
         }),
 
         ("numbers", 24, 15) => Some(Verse {
-            content: "And hee tooke vp his parable, and said, Balaam the sonne of Beor hath said, and the man whose eyes are open, hath said:",
+            content: "",
         }),
 
         ("numbers", 24, 16) => Some(Verse {
-            content: "He hath said which heard the words of God, and knewe the knowledge of the most High, which sawe the vision of the Almightie, falling into a trance, but hauing his eyes open.",
+            content: "",
         }),
 
         ("numbers", 24, 17) => Some(Verse {
-            content: "I shall see him, but not now: I shall behold him, but not nigh: There shall come a starre out of Iacob, and a Scepter shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.",
+            content: "",
         }),
 
         ("numbers", 24, 18) => Some(Verse {
-            content: "And Edom shall bee a possession, Seir also shall be a possession for his enemies, and Israel shall doe valiantly.",
+            content: "",
         }),
 
         ("numbers", 24, 19) => Some(Verse {
-            content: "Out of Iacob shall come he that shall haue dominion, and shall destroy him that remaineth of the citie.",
+            content: "",
         }),
 
         ("numbers", 24, 20) => Some(Verse {
-            content: "And when he looked on Amalek, he tooke vp his parable, and sayd, Amalek was the first of the nations, but his latter end shall bee, that hee perish for euer.",
+            content: "",
         }),
 
         ("numbers", 24, 21) => Some(Verse {
-            content: "And hee looked on the Kenites, and tooke vp his parable, and saide, Strong is thy dwelling place, and thou puttest thy nest in a rocke:",
+            content: "",
         }),
 
         ("numbers", 24, 22) => Some(Verse {
-            content: "Neuerthelesse, the Kenite shall be wasted, vntil Asshur shal carie thee away captiue.",
+            content: "",
         }),
 
         ("numbers", 24, 23) => Some(Verse {
-            content: "And he tooke vp his parable, and said, Alas! who shall liue when God doeth this?",
+            content: "",
         }),
 
         ("numbers", 24, 24) => Some(Verse {
-            content: "And shippes shall come from the coast of Chittim, and shal afflict Asshur, and shall afflict Eber, and hee also shall perish for euer.",
+            content: "",
         }),
 
         ("numbers", 24, 25) => Some(Verse {
-            content: "And Balaam rose vp, and went and returned to his place: and Balak also went his way.",
+            content: "",
         }),
 
         ("numbers", 25, 1) => Some(Verse {
-            content: "And Israel abode in Shittim, and the people begun to commit whoredome with the daughters of Moab.",
+            content: "",
         }),
 
         ("numbers", 25, 2) => Some(Verse {
