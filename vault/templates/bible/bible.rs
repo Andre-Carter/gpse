@@ -18622,927 +18622,927 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("numbers", 30, 2) => Some(Verse {
-            content: "If a man vowe a vow vnto the Lord, or sweare an othe to bind his soule with a bond: he shall not breake his word, hee shall doe according to all that proceedeth out of his mouth.",
+            content: "",
         }),
 
         ("numbers", 30, 3) => Some(Verse {
-            content: "If a woman also vow a vow vnto the Lord, and binde her selfe by a bond, being in her fathers house in her youth;",
+            content: "",
         }),
 
         ("numbers", 30, 4) => Some(Verse {
-            content: "And her father heare her vow, and her bond wherewith shee hath bound her soule, and her father shall holde his peace at her: then all her vowes shall stand, and euery bond wherewith shee hath bound her soule, shall stand.",
+            content: "",
         }),
 
         ("numbers", 30, 5) => Some(Verse {
-            content: "But if her father disallow her in the day that he heareth; not any of her vowes or of her bonds, wherewith she hath bound her soule, shall stand: and the Lord shall forgiue her, because her father disallowed her.",
+            content: "",
         }),
 
         ("numbers", 30, 6) => Some(Verse {
-            content: "And if she had at all an husband when she vowed, or vttered ought out of her lips, wherewith shee bound her soule,",
+            content: "",
         }),
 
         ("numbers", 30, 7) => Some(Verse {
-            content: "And her husband heard it, and held his peace at her in the day that hee heard it: then her vowes shall stand, and her bonds wherewith shee bound her soule, shall stand.",
+            content: "",
         }),
 
         ("numbers", 30, 8) => Some(Verse {
-            content: "But if her husband disallowe her on the day that he heard it, then he shall make her vowe which she vowed, and that which she vttered with her lippes wherewith shee bound her soule, of none effect, and the Lord shall forgiue her.",
+            content: "",
         }),
 
         ("numbers", 30, 9) => Some(Verse {
-            content: "But euery vow of a widow, and of her that is diuorced, wherewith they haue bound their soules, shall stand against her.",
+            content: "",
         }),
 
         ("numbers", 30, 10) => Some(Verse {
-            content: "And if she vowed in her husbands house, or bound her soule by a bond with an oath;",
+            content: "",
         }),
 
         ("numbers", 30, 11) => Some(Verse {
-            content: "And her husband heard it, and held his peace at her, and disallowed her not: then all her vowes shall stand, and euery bond wherewith shee bound her soule, shall stand.",
+            content: "",
         }),
 
         ("numbers", 30, 12) => Some(Verse {
-            content: "But if her husband hath vtterly made them voyd on the day hee heard them: then whatsoeuer proceeded out of her lips concerning her vowes, or concerning the bond of her soule, shall not stand: her husband hath made them voyd, and the Lord shal forgiue her.",
+            content: "",
         }),
 
         ("numbers", 30, 13) => Some(Verse {
-            content: "Euery vow, and euery binding othe to afflict the soule, her husband may establish it, or her husband may make it voyd.",
+            content: "",
         }),
 
         ("numbers", 30, 14) => Some(Verse {
-            content: "But if her husband altogether hold his peace at her, from day to day, then he establisheth all her vowes, or all her bonds which are vpon her: hee confirmeth them, because hee held his peace at her, in the day that hee heard them.",
+            content: "",
         }),
 
         ("numbers", 30, 15) => Some(Verse {
-            content: "But if hee shall any wayes make them voyd after that he hath heard them, then he shall beare her iniquitie.",
+            content: "",
         }),
 
         ("numbers", 30, 16) => Some(Verse {
-            content: "These are the statutes which the Lord commanded Moses betweene a man and his wife, betweene the father and his daughter, being yet in her youth, in her fathers house.",
+            content: "",
         }),
 
         ("numbers", 31, 1) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 31, 2) => Some(Verse {
-            content: "Auenge the children of Israel of the Midianites: afterward shalt thou be gathered vnto thy people.",
+            content: "",
         }),
 
         ("numbers", 31, 3) => Some(Verse {
-            content: "And Moses spake vnto the people, saying, Arme some of your selues vnto the warre, and let them goe against the Midianites, and auenge the Lord of Midian.",
+            content: "",
         }),
 
         ("numbers", 31, 4) => Some(Verse {
-            content: "Of euery tribe a thousand, throughout all the tribes of Israel, shall ye send to the warre.",
+            content: "",
         }),
 
         ("numbers", 31, 5) => Some(Verse {
-            content: "So there were deliuered out of the thousands of Israel, a thousand of euery tribe, twelue thousand armed for warre.",
+            content: "",
         }),
 
         ("numbers", 31, 6) => Some(Verse {
-            content: "And Moses sent them to the warre, a thousand of euery tribe, them and Phinehas the sonne of Eleazar the Priest, to the warre, with the holy instruments, and the trumpets to blow, in his hand.",
+            content: "",
         }),
 
         ("numbers", 31, 7) => Some(Verse {
-            content: "And they warred against the Midianites, as the Lord commanded Moses, and they slew all the males.",
+            content: "",
         }),
 
         ("numbers", 31, 8) => Some(Verse {
-            content: "And they slew the Kings of Midian, beside the rest of them that were slaine; namely Eui, and Rekem, and Zur, and Hur, and Reba, fiue Kings of Midian; Balaam also the sonne of Beor they slew with the sword.",
+            content: "",
         }),
 
         ("numbers", 31, 9) => Some(Verse {
-            content: "And the children of Israel tooke all the women of Midian captiues, and their little ones, and tooke the spoile of all their cattell, and all their flocks, and all their goods.",
+            content: "",
         }),
 
         ("numbers", 31, 10) => Some(Verse {
-            content: "And they burnt all their cities wherein they dwelt, and all their goodly castles with fire:",
+            content: "",
         }),
 
         ("numbers", 31, 11) => Some(Verse {
-            content: "And they tooke all the spoile, and all the pray, both of men and of beasts.",
+            content: "",
         }),
 
         ("numbers", 31, 12) => Some(Verse {
-            content: "And they brought the captiues, and the pray, and the spoile vnto Moses and Eleazar the Priest, and vnto the Congregation of the children of Israel, vnto the campe at the plaines of Moab, which are by Iordan neere Iericho.",
+            content: "",
         }),
 
         ("numbers", 31, 13) => Some(Verse {
-            content: "And Moses and Eleazar the Priest, and all the Princes of the Congregation went foorth to meete them without the campe.",
+            content: "",
         }),
 
         ("numbers", 31, 14) => Some(Verse {
-            content: "And Moses was wroth with the officers of the hoste, with the captaines ouer thousands, and captaines ouer hundreds, which came from the battel.",
+            content: "",
         }),
 
         ("numbers", 31, 15) => Some(Verse {
-            content: "And Moses said vnto them, Haue ye saued all the women aliue?",
+            content: "",
         }),
 
         ("numbers", 31, 16) => Some(Verse {
-            content: "Behold, these caused the children of Israel, through the counsell of Balaam, to commit trespasse against the Lord in the matter of Peor, and there was a plague among the Congregation of the Lord.",
+            content: "",
         }),
 
         ("numbers", 31, 17) => Some(Verse {
-            content: "Now therefore kill euery male among the little ones, and kill euery woman that hath knowen man, by lying with him.",
+            content: "",
         }),
 
         ("numbers", 31, 18) => Some(Verse {
-            content: "But all the women children that haue not knowen a man by lying with him, keepe aliue for your selues.",
+            content: "",
         }),
 
         ("numbers", 31, 19) => Some(Verse {
-            content: "And doe yee abide without the campe seuen dayes: whosoeuer hath killed any person, and whosoeuer hath touched any slaine, purifie both your selues, and your captiues, on the third day, and on the seuenth day.",
+            content: "",
         }),
 
         ("numbers", 31, 20) => Some(Verse {
-            content: "And purifie all your raiment, and all that is made of skinnes, and all worke of goates haire, and all things made of wood.",
+            content: "",
         }),
 
         ("numbers", 31, 21) => Some(Verse {
-            content: "And Eleazar the Priest said vnto the men of warre which went to the battell, This is the ordinance of the law which the Lord commaunded Moses.",
+            content: "",
         }),
 
         ("numbers", 31, 22) => Some(Verse {
-            content: "Onely the gold, and the siluer, the brasse, the yron, the tinne, and the lead,",
+            content: "",
         }),
 
         ("numbers", 31, 23) => Some(Verse {
-            content: "Euery thing that may abide the fire, yee shall make it goe through the fire, and it shall be cleane: neuerthelesse, it shall be purified with the water of separation: and all that abideth not the fire, yee shall make goe through the water.",
+            content: "",
         }),
 
         ("numbers", 31, 24) => Some(Verse {
-            content: "And ye shall wash your clothes on the seuenth day, and ye shalbe cleane, and afterward yee shall come into the campe.",
+            content: "",
         }),
 
         ("numbers", 31, 25) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 31, 26) => Some(Verse {
-            content: "Take the summe of the pray, that was taken, both of man and of beast, thou and Eleazar the Priest, and the chiefe fathers of the Congregation:",
+            content: "",
         }),
 
         ("numbers", 31, 27) => Some(Verse {
-            content: "And diuide the pray into two parts, betweene them that tooke the warre vpon them, who went out to battell, and betweene all the Congregation.",
+            content: "",
         }),
 
         ("numbers", 31, 28) => Some(Verse {
-            content: "And leuie a tribute vnto the Lord of the men of warre which went out to battell: one soule of fiue hundred, both of the persons, and of the beeues, and of the asses, and of the sheepe.",
+            content: "",
         }),
 
         ("numbers", 31, 29) => Some(Verse {
-            content: "Take it of their halfe, and giue it vnto Eleazar the Priest, for an heaue offering of the Lord.",
+            content: "",
         }),
 
         ("numbers", 31, 30) => Some(Verse {
-            content: "And of the children of Israels halfe, thou shalt take one portion of fiftie, of the persons, of the beeues, of the asses, and of the flockes, of all maner of beasts, and giue them vnto the Leuites, which keepe the charge of the Tabernacle of the Lord.",
+            content: "",
         }),
 
         ("numbers", 31, 31) => Some(Verse {
-            content: "And Moses and Eleazar the Priest did as the Lord commanded Moses.",
+            content: "",
         }),
 
         ("numbers", 31, 32) => Some(Verse {
-            content: "And the bootie being the rest of the pray which the men of war had caught, was six hundred thousand, and seuenty thousand, and fiue thousand sheepe,",
+            content: "",
         }),
 
         ("numbers", 31, 33) => Some(Verse {
-            content: "And threescore and twelue thousand beeues,",
+            content: "",
         }),
 
         ("numbers", 31, 34) => Some(Verse {
-            content: "And threescore and one thousand asses:",
+            content: "",
         }),
 
         ("numbers", 31, 35) => Some(Verse {
-            content: "And thirtie and two thousand persons in all, of women that had not knowen man by lying with him.",
+            content: "",
         }),
 
         ("numbers", 31, 36) => Some(Verse {
-            content: "And the halfe which was the portion of them that went out to warre, was in number three hundred thousand, and seuen and thirtie thousand, and fiue hundred sheepe.",
+            content: "",
         }),
 
         ("numbers", 31, 37) => Some(Verse {
-            content: "And the Lords tribute of the sheepe was sixe hundred and threescore and fifteene.",
+            content: "",
         }),
 
         ("numbers", 31, 38) => Some(Verse {
-            content: "And the beeues were thirtie and sixe thousand, of which the Lords tribute was threescore and twelue.",
+            content: "",
         }),
 
         ("numbers", 31, 39) => Some(Verse {
-            content: "And the asses were thirtie thousand and fiue hundred, of which the Lords tribute was threescore and one.",
+            content: "",
         }),
 
         ("numbers", 31, 40) => Some(Verse {
-            content: "And the persons were sixteene thousand, of which the Lords tribute was thirtie and two persons.",
+            content: "",
         }),
 
         ("numbers", 31, 41) => Some(Verse {
-            content: "And Moses gaue the tribute which was the Lords heaue offering, vnto Eleazar the Priest, as the Lord commanded Moses.",
+            content: "",
         }),
 
         ("numbers", 31, 42) => Some(Verse {
-            content: "And of the children of Israels halfe, which Moses diuided from the men that warred:",
+            content: "",
         }),
 
         ("numbers", 31, 43) => Some(Verse {
-            content: "(Now the halfe that perteined vnto the Congregation, was three hundred thousand, and thirtie thousand, and seuen thousand, and fiue hundred sheepe:",
+            content: "",
         }),
 
         ("numbers", 31, 44) => Some(Verse {
-            content: "And thirtie and sixe thousand beeues:",
+            content: "",
         }),
 
         ("numbers", 31, 45) => Some(Verse {
-            content: "And thirtie thousand asses, and fiue hundred:",
+            content: "",
         }),
 
         ("numbers", 31, 46) => Some(Verse {
-            content: "And sixteene thousand persons)",
+            content: "",
         }),
 
         ("numbers", 31, 47) => Some(Verse {
-            content: "Euen of the children of Israels halfe, Moses tooke one portion of fiftie, both of man and of beast, and gaue them vnto the Leuites, which kept the charge of the Tabernacle of the Lord, as the Lord commanded Moses.",
+            content: "",
         }),
 
         ("numbers", 31, 48) => Some(Verse {
-            content: "And the officers which were ouer thousands of the hoste, the captaines of thousands, and captaines of hundreds came neere vnto Moses.",
+            content: "",
         }),
 
         ("numbers", 31, 49) => Some(Verse {
-            content: "And they said vnto Moses, Thy seruants haue taken the summe of the men of warre which are vnder our charge, and there lacketh not one man of vs.",
+            content: "",
         }),
 
         ("numbers", 31, 50) => Some(Verse {
-            content: "Wee haue therefore brought an oblation for the Lord, what euerie man hath gotten, of iewels of golde chaines, and bracelets, rings, earerings, and tablets, to make an atonement for our soules before the Lord.",
+            content: "",
         }),
 
         ("numbers", 31, 51) => Some(Verse {
-            content: "And Moses and Eleazar the Priest tooke the gold of them: euen all wrought iewels.",
+            content: "",
         }),
 
         ("numbers", 31, 52) => Some(Verse {
-            content: "And all the gold of the offring that they offered vp to the Lord, of the captaines of thousands, and of the captaines of hundreds, was sixteene thousand, seuen hundred and fiftie shekels.",
+            content: "",
         }),
 
         ("numbers", 31, 53) => Some(Verse {
-            content: "(For the men of warre had taken spoile, euery man for himselfe.)",
+            content: "",
         }),
 
         ("numbers", 31, 54) => Some(Verse {
-            content: "And Moses and Eleazar the Priest tooke the gold of the captaines, of thousands, and of hundreds, and brought it into the Tabernacle of the Congregation, for a memoriall for the children of Israel before the Lord.",
+            content: "",
         }),
 
         ("numbers", 32, 1) => Some(Verse {
-            content: "Now the children of Reuben, and the children of Gad, had a very great multitude of cattell: and when they saw the land of Iazer, and the land of Gilead, that behold, the place was a place for cattell;",
+            content: "",
         }),
 
         ("numbers", 32, 2) => Some(Verse {
-            content: "The children of Gad, and the children of Reuben, came and spake vnto Moses, and to Eleazar the Priest, and vnto the Princes of the Congregation, saying,",
+            content: "",
         }),
 
         ("numbers", 32, 3) => Some(Verse {
-            content: "Ataroth, and Dibon, and Iazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,",
+            content: "",
         }),
 
         ("numbers", 32, 4) => Some(Verse {
-            content: "Euen the countrey which the Lord smote before the Congregation of Israel, is a land for cattell, and thy seruants haue cattell.",
+            content: "",
         }),
 
         ("numbers", 32, 5) => Some(Verse {
-            content: "Wherefore, said they, if wee haue found grace in thy sight, let this lande be giuen vnto thy seruants for a possession, and bring vs not ouer Iordane.",
+            content: "",
         }),
 
         ("numbers", 32, 6) => Some(Verse {
-            content: "And Moses said vnto the children of Gad, and to the children of Reuben, Shall your brethren goe to warre, and shall ye sit here?",
+            content: "",
         }),
 
         ("numbers", 32, 7) => Some(Verse {
-            content: "And wherefore discourage yee the heart of the children of Israel from going ouer into the lande, which the Lord hath giuen them?",
+            content: "",
         }),
 
         ("numbers", 32, 8) => Some(Verse {
-            content: "Thus did your fathers, when I sent them from Kadesh Barnea to see the land.",
+            content: "",
         }),
 
         ("numbers", 32, 9) => Some(Verse {
-            content: "For when they went vp vnto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not goe into the land which the Lord had giuen them.",
+            content: "",
         }),
 
         ("numbers", 32, 10) => Some(Verse {
-            content: "And the Lords anger was kindled the same time, and hee sware, saying,",
+            content: "",
         }),
 
         ("numbers", 32, 11) => Some(Verse {
-            content: "Surely none of the men that came vp out of Egypt, from twentie yeeres old and vpward, shall see the lande which I sware vnto Abraham, vnto Isaac, and vnto Iacob, because they haue not wholly followed me:",
+            content: "",
         }),
 
         ("numbers", 32, 12) => Some(Verse {
-            content: "Saue Caleb the sonne of Iephunneh the Kenezite, and Ioshua the sonne of Nun: for they haue wholly followed the Lord.",
+            content: "",
         }),
 
         ("numbers", 32, 13) => Some(Verse {
-            content: "And the Lords anger was kindled against Israel, and hee made them wander in the wildernesse fourty yeeres, vntill all the generation that had done euill in the sight of the Lord was consumed.",
+            content: "",
         }),
 
         ("numbers", 32, 14) => Some(Verse {
-            content: "And beholde, ye are risen vp in your fathers stead, an increase of sinfull men, to augment yet the fierce anger of the Lord toward Israel.",
+            content: "",
         }),
 
         ("numbers", 32, 15) => Some(Verse {
-            content: "For if yee turne away from after him, hee will yet againe leaue them in the wildernesse, and ye shall destroy all this people.",
+            content: "",
         }),
 
         ("numbers", 32, 16) => Some(Verse {
-            content: "And they came neere vnto him, and said, Wee will build sheepfoldes here for our cattell, and cities for our litle ones.",
+            content: "",
         }),
 
         ("numbers", 32, 17) => Some(Verse {
-            content: "But we ourselues will goe ready armed before the children of Israel, vntill wee haue brought them vnto their place: and our litle ones shall dwell in the fenced cities, because of the inhabitants of the land.",
+            content: "",
         }),
 
         ("numbers", 32, 18) => Some(Verse {
-            content: "Wee will not returne vnto our houses, vntill the children of Israel haue inherited euery man his inheritance:",
+            content: "",
         }),
 
         ("numbers", 32, 19) => Some(Verse {
-            content: "For wee will not inherite with them on yonder side Iordane, or forward, because our inheritance is fallen to vs on this side Iordane Eastward.",
+            content: "",
         }),
 
         ("numbers", 32, 20) => Some(Verse {
-            content: "And Moses said vnto them, If ye will doe this thing, if ye will goe armed before the Lord to warre,",
+            content: "",
         }),
 
         ("numbers", 32, 21) => Some(Verse {
-            content: "And will goe all of you armed ouer Iordane before the Lord, vntill he hath driuen out his enemies from before him,",
+            content: "",
         }),
 
         ("numbers", 32, 22) => Some(Verse {
-            content: "And the land bee subdued before the Lord: then afterward ye shall returne, and bee guiltlesse before the Lord, and before Israel; and this land shall be your possession before the Lord.",
+            content: "",
         }),
 
         ("numbers", 32, 23) => Some(Verse {
-            content: "But if ye will not doe so, behold, yee haue sinned against the Lord: and bee sure your sinne will finde you out.",
+            content: "",
         }),
 
         ("numbers", 32, 24) => Some(Verse {
-            content: "Build ye cities for your litle ones, and folds for your sheepe, and doe that which hath proceeded out of your mouth.",
+            content: "",
         }),
 
         ("numbers", 32, 25) => Some(Verse {
-            content: "And the children of Gad, and the children of Reuben spake vnto Moses, saying, Thy seruants will doe as my lord commandeth.",
+            content: "",
         }),
 
         ("numbers", 32, 26) => Some(Verse {
-            content: "Our little ones, our wiues, our flocks, and all our cattell shall be there in the cities of Gilead.",
+            content: "",
         }),
 
         ("numbers", 32, 27) => Some(Verse {
-            content: "But thy seruants will passe ouer, euery man armed for warre, before the Lord to battell, as my lord saith.",
+            content: "",
         }),
 
         ("numbers", 32, 28) => Some(Verse {
-            content: "So concerning them Moses commaunded Eleazar the Priest, and Ioshua the sonne of Nun, and the chiefe fathers of the tribes of the children of Israel:",
+            content: "",
         }),
 
         ("numbers", 32, 29) => Some(Verse {
-            content: "And Moses said vnto them, If the children of Gad, and the children of Reuben will passe with you ouer Iordane, euery man armed to battell before the Lord, and the land shall be subdued before you, then ye shall giue them the land of Gilead for a possession:",
+            content: "",
         }),
 
         ("numbers", 32, 30) => Some(Verse {
-            content: "But if they will not passe ouer with you armed, they shall haue possessions among you in the land of Canaan.",
+            content: "",
         }),
 
         ("numbers", 32, 31) => Some(Verse {
-            content: "And the children of Gad, and the children of Reuben answered, saying, As the Lord hath said vnto thy seruants, so will we doe.",
+            content: "",
         }),
 
         ("numbers", 32, 32) => Some(Verse {
-            content: "Wee will passe ouer armed before the Lord into the land of Canaan, that the possession of our inheritance on this side Iordane may be ours.",
+            content: "",
         }),
 
         ("numbers", 32, 33) => Some(Verse {
-            content: "And Moses gaue vnto them, euen to the children of Gad, and to the children of Reuben; and vnto halfe the tribe of Manasseh the sonne of Ioseph, the kingdome of Sihon King of the Amorites, and the kingdome of Og King of Bashan, the land with the cities thereof, in the coastes, euen the cities of the countrey round about.",
+            content: "",
         }),
 
         ("numbers", 32, 34) => Some(Verse {
-            content: "And the children of Gad built Dibon, and Ataroth, and Aroer,",
+            content: "",
         }),
 
         ("numbers", 32, 35) => Some(Verse {
-            content: "And Atroth, Shophan, and Iaazer, and Iogbehah,",
+            content: "",
         }),
 
         ("numbers", 32, 36) => Some(Verse {
-            content: "And Bethnimrah, and Bethharan, fenced cities: and foldes for sheepe.",
+            content: "",
         }),
 
         ("numbers", 32, 37) => Some(Verse {
-            content: "And the children of Reuben built Heshbon, and Elealeh, and Kiriathaim,",
+            content: "",
         }),
 
         ("numbers", 32, 38) => Some(Verse {
-            content: "And Nebo, and Baalmeon (their names being changed) and Shibmah: and gaue other names vnto the cities which they builded.",
+            content: "",
         }),
 
         ("numbers", 32, 39) => Some(Verse {
-            content: "And the children of Machir, the sonne of Manasseh, went to Gilead, and tooke it, and dispossessed the Amorite which was in it.",
+            content: "",
         }),
 
         ("numbers", 32, 40) => Some(Verse {
-            content: "And Moses gaue Gilead vnto Machir the sonne of Manasseh, and he dwelt therein.",
+            content: "",
         }),
 
         ("numbers", 32, 41) => Some(Verse {
-            content: "And Iair the sonne of Manasseh went and tooke the small townes thereof, and called them Hauoth-Iair.",
+            content: "",
         }),
 
         ("numbers", 32, 42) => Some(Verse {
-            content: "And Nobah went and tooke Kenath, and the villages thereof, and called it Nobah, after his owne name.",
+            content: "",
         }),
 
         ("numbers", 33, 1) => Some(Verse {
-            content: "These are the iourneyes of the children of Israel, which went foorth out of the land of Egypt, with their armies, vnder the hand of Moses and Aaron.",
+            content: "",
         }),
 
         ("numbers", 33, 2) => Some(Verse {
-            content: "And Moses wrote their goings out according to their iourneyes, by the commandement of the Lord: and these are their iourneyes according to their goings out.",
+            content: "",
         }),
 
         ("numbers", 33, 3) => Some(Verse {
-            content: "And they departed from Rameses in the first moneth, on the fifteenth day of the first moneth: on the morrow after the Passeouer, the children of Israel went out with an high hand in the sight of all the Egyptians.",
+            content: "",
         }),
 
         ("numbers", 33, 4) => Some(Verse {
-            content: "(For the Egyptians buried all their first borne, which the Lord had smitten among them: vpon their gods also the Lord executed iudgements.)",
+            content: "",
         }),
 
         ("numbers", 33, 5) => Some(Verse {
-            content: "And the children of Israel remoued from Rameses, and pitched in Succoth.",
+            content: "",
         }),
 
         ("numbers", 33, 6) => Some(Verse {
-            content: "And they departed from Succoth, and pitched in Etham, which is in the edge of the wildernesse.",
+            content: "",
         }),
 
         ("numbers", 33, 7) => Some(Verse {
-            content: "And they remoued from Etham, and turned againe vnto Pihahiroth, which is before Baal-zephon: and they pitched before Migdol.",
+            content: "",
         }),
 
         ("numbers", 33, 8) => Some(Verse {
-            content: "And they departed from before Pihahiroth, and passed thorow the midst of the sea, into the wildernes, and went three dayes iourney in the wildernesse of Etham, and pitched in Marah.",
+            content: "",
         }),
 
         ("numbers", 33, 9) => Some(Verse {
-            content: "And they remoued from Marah, and came vnto Elim, and in Elim were twelue fountaines of water, and three score and ten palme trees, and they pitched there.",
+            content: "",
         }),
 
         ("numbers", 33, 10) => Some(Verse {
-            content: "And they remooued from Elim, and encamped by the red sea.",
+            content: "",
         }),
 
         ("numbers", 33, 11) => Some(Verse {
-            content: "And they remooued from the red sea, and encamped in the wildernesse of Sin.",
+            content: "",
         }),
 
         ("numbers", 33, 12) => Some(Verse {
-            content: "And they tooke their iourney out of the wildernesse of Sin, and encamped in Dophkah.",
+            content: "",
         }),
 
         ("numbers", 33, 13) => Some(Verse {
-            content: "And they departed from Dophkah, and encamped in Alush.",
+            content: "",
         }),
 
         ("numbers", 33, 14) => Some(Verse {
-            content: "And they remoued from Alush, and encamped at Rephidim, where was no water for the people to drinke.",
+            content: "",
         }),
 
         ("numbers", 33, 15) => Some(Verse {
-            content: "And they departed from Rephidim, and pitched in the wildernesse of Sinai.",
+            content: "",
         }),
 
         ("numbers", 33, 16) => Some(Verse {
-            content: "And they remoued from the desert of Sinai, and pitched at Kibroth Hattaauah.",
+            content: "",
         }),
 
         ("numbers", 33, 17) => Some(Verse {
-            content: "And they departed from Kibroth Hattaauah, and encamped at Hazeroth.",
+            content: "",
         }),
 
         ("numbers", 33, 18) => Some(Verse {
-            content: "And they departed from Hazeroth, and pitched in Rithmah.",
+            content: "",
         }),
 
         ("numbers", 33, 19) => Some(Verse {
-            content: "And they departed from Rithmah, and pitched at Rimmon Parez.",
+            content: "",
         }),
 
         ("numbers", 33, 20) => Some(Verse {
-            content: "And they departed from Rimmon Parez, and pitched in Libnah.",
+            content: "",
         }),
 
         ("numbers", 33, 21) => Some(Verse {
-            content: "And they remoued from Libnah, and pitched at Rissah.",
+            content: "",
         }),
 
         ("numbers", 33, 22) => Some(Verse {
-            content: "And they iourneyed from Rissah, and pitched in Kehelathah.",
+            content: "",
         }),
 
         ("numbers", 33, 23) => Some(Verse {
-            content: "And they went from Kehelathah, and pitched in mount Shapher.",
+            content: "",
         }),
 
         ("numbers", 33, 24) => Some(Verse {
-            content: "And they remoued from mount Shapher, and encamped in Haradah.",
+            content: "",
         }),
 
         ("numbers", 33, 25) => Some(Verse {
-            content: "And they remooued from Haradah, and pitched in Makheloth.",
+            content: "",
         }),
 
         ("numbers", 33, 26) => Some(Verse {
-            content: "And they remooued from Makheloth, and encamped at Tahath.",
+            content: "",
         }),
 
         ("numbers", 33, 27) => Some(Verse {
-            content: "And they departed from Tahath, and pitched at Tarah.",
+            content: "",
         }),
 
         ("numbers", 33, 28) => Some(Verse {
-            content: "And they remoued from Tarah, and pitched in Mithcah.",
+            content: "",
         }),
 
         ("numbers", 33, 29) => Some(Verse {
-            content: "And they went from Mithcah, and pitched in Hashmonah.",
+            content: "",
         }),
 
         ("numbers", 33, 30) => Some(Verse {
-            content: "And they departed from Hashmonah, and encamped at Moseroth.",
+            content: "",
         }),
 
         ("numbers", 33, 31) => Some(Verse {
-            content: "And they departed from Moseroth, and pitched in Bene-Iaakan.",
+            content: "",
         }),
 
         ("numbers", 33, 32) => Some(Verse {
-            content: "And they remooued from Bene-Iaakan, & encamped at Horhagidgad.",
+            content: "",
         }),
 
         ("numbers", 33, 33) => Some(Verse {
-            content: "And they went from Horhagidgad, and pitched in Iotbathah.",
+            content: "",
         }),
 
         ("numbers", 33, 34) => Some(Verse {
-            content: "And they remooued from Iotbathah, and encamped at Ebronah.",
+            content: "",
         }),
 
         ("numbers", 33, 35) => Some(Verse {
-            content: "And they departed from Ebronah, and encamped at Ezion-gaber.",
+            content: "",
         }),
 
         ("numbers", 33, 36) => Some(Verse {
-            content: "And they remoued from Ezion-gaber, and pitched in the wildernes of Zin, which is Kadesh.",
+            content: "",
         }),
 
         ("numbers", 33, 37) => Some(Verse {
-            content: "And they remooued from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.",
+            content: "",
         }),
 
         ("numbers", 33, 38) => Some(Verse {
-            content: "And Aaron the Priest went vp into mount Hor, at the commandement of the Lord, and died there in the fourtieth yeere, after the children of Israel were come out of the lande of Egypt, in the first day of the fift moneth.",
+            content: "",
         }),
 
         ("numbers", 33, 39) => Some(Verse {
-            content: "And Aaron was an hundred and twentie and three yeeres old, when hee died in mount Hor.",
+            content: "",
         }),
 
         ("numbers", 33, 40) => Some(Verse {
-            content: "And King Arad the Canaanite (which dwelt in the South, in the land of Canaan) heard of the comming of the children of Israel.",
+            content: "",
         }),
 
         ("numbers", 33, 41) => Some(Verse {
-            content: "And they departed from mount Hor, and pitched in Zalmonah.",
+            content: "",
         }),
 
         ("numbers", 33, 42) => Some(Verse {
-            content: "And they departed from Zalmonah, and pitched in Punon.",
+            content: "",
         }),
 
         ("numbers", 33, 43) => Some(Verse {
-            content: "And they departed from Punon, and pitched in Oboth.",
+            content: "",
         }),
 
         ("numbers", 33, 44) => Some(Verse {
-            content: "And they departed from Oboth, and pitched in Iie-Abarim, in the border of Moab.",
+            content: "",
         }),
 
         ("numbers", 33, 45) => Some(Verse {
-            content: "And they departed from Iim, and pitched in Dibon Gad.",
+            content: "",
         }),
 
         ("numbers", 33, 46) => Some(Verse {
-            content: "And they remoued from Dibon Gad, and encamped in Almon-Diblathaim.",
+            content: "",
         }),
 
         ("numbers", 33, 47) => Some(Verse {
-            content: "And they remooued from Almon-Diblathaim, and pitched in the mountaines of Abarim, before Nebo.",
+            content: "",
         }),
 
         ("numbers", 33, 48) => Some(Verse {
-            content: "And they departed from the mountaines of Abarim, and pitched in the plaines of Moab, by Iordan neere Iericho.",
+            content: "",
         }),
 
         ("numbers", 33, 49) => Some(Verse {
-            content: "And they pitched by Iordane from Beth-Iesimoth, euen vnto Abel Shittim, in the plaines of Moab.",
+            content: "",
         }),
 
         ("numbers", 33, 50) => Some(Verse {
-            content: "And the Lord spake vnto Moses, in the plaines of Moab by Iordane, neere Iericho, saying,",
+            content: "",
         }),
 
         ("numbers", 33, 51) => Some(Verse {
-            content: "Speake vnto the children of Israel, and say vnto them, When ye are passed ouer Iordane into the land of Canaan;",
+            content: "",
         }),
 
         ("numbers", 33, 52) => Some(Verse {
-            content: "Then ye shall driue out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite plucke downe all their high places.",
+            content: "",
         }),
 
         ("numbers", 33, 53) => Some(Verse {
-            content: "And ye shall dispossesse the inhabitants of the land, and dwell therein: for I haue giuen you the land to possesse it.",
+            content: "",
         }),
 
         ("numbers", 33, 54) => Some(Verse {
-            content: "And ye shall diuide the land by lot, for an inheritance among your families, and to the moe ye shall giue the more inheritance, and to the fewer yee shall giue the lesse inheritance: euery mans inheritance shall bee in the place where his lot falleth, according to the tribes of your fathers, ye shall inherite.",
+            content: "",
         }),
 
         ("numbers", 33, 55) => Some(Verse {
-            content: "But if ye will not driue out the inhabitants of the land from before you, then it shall come to passe that those which ye let remaine of them, shall be prickes in your eyes, and thornes in your sides, and shal vexe you in the land wherein ye dwell.",
+            content: "",
         }),
 
         ("numbers", 33, 56) => Some(Verse {
-            content: "Moreouer, it shall come to passe, that I shall do vnto you, as I thought to doe vnto them.",
+            content: "",
         }),
 
         ("numbers", 34, 1) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 34, 2) => Some(Verse {
-            content: "Command the children of Israel, and say vnto them, When ye come into the land of Canaan, (this is the land that shall fall vnto you for an inheritance, euen the land of Canaan, with the coasts thereof.)",
+            content: "",
         }),
 
         ("numbers", 34, 3) => Some(Verse {
-            content: "Then your South quarter shall be from the wildernesse of Zin, along by the coast of Edom, and your South border shall be the outmost coast of the salt Sea Eastward.",
+            content: "",
         }),
 
         ("numbers", 34, 4) => Some(Verse {
-            content: "And your border shal turne from the South to the ascent of Akrabbim, and passe on to Zin: and the going foorth thereof shall be from the South to Kadesh-Barnea, and shall goe on to Hazar-Addar, and passe on to Azmon.",
+            content: "",
         }),
 
         ("numbers", 34, 5) => Some(Verse {
-            content: "And the border shall fetch a comcompasse from Azmon vnto the riuer of Egypt, and the goings out of it shall be at the sea.",
+            content: "",
         }),
 
         ("numbers", 34, 6) => Some(Verse {
-            content: "And as for the Westerne border, you shall euen haue the great sea for a border: this shall be your West border.",
+            content: "",
         }),
 
         ("numbers", 34, 7) => Some(Verse {
-            content: "And this shall be your North border: from the great sea, you shall point out for you, mount Hor.",
+            content: "",
         }),
 
         ("numbers", 34, 8) => Some(Verse {
-            content: "From mount Hor, ye shall point out your border vnto the entrance of Hamath: and the goings foorth of the border shall be to Zedad.",
+            content: "",
         }),
 
         ("numbers", 34, 9) => Some(Verse {
-            content: "And the border shall goe on to Ziphron, and the goings out of it shall bee at Hazar Enan: this shall be your North border.",
+            content: "",
         }),
 
         ("numbers", 34, 10) => Some(Verse {
-            content: "And ye shall point out your East border, from Hazar Enan to Shepham.",
+            content: "",
         }),
 
         ("numbers", 34, 11) => Some(Verse {
-            content: "And the coast shall goe downe from Shepham to Riblah, on the East side of Ain: and the border shall descend and shall reach vnto the side of the sea of Chinnereth Eastward.",
+            content: "",
         }),
 
         ("numbers", 34, 12) => Some(Verse {
-            content: "And the border shall goe downe to Iordane, and the goings out of it shall be at the salt sea: this shall be your land with the coastes thereof round about.",
+            content: "",
         }),
 
         ("numbers", 34, 13) => Some(Verse {
-            content: "And Moses commanded the children of Israel, saying, This is the land which ye shall inherite by lot, which the Lord commanded to giue vnto the nine tribes, and to the halfe tribe.",
+            content: "",
         }),
 
         ("numbers", 34, 14) => Some(Verse {
-            content: "For the tribe of the children of Reuben, according to the house of their fathers, and the tribe of the children of Gad, according to the house of their fathers, haue receiued their inheritance, and halfe the tribe of Manasseh haue receiued their inheritance.",
+            content: "",
         }),
 
         ("numbers", 34, 15) => Some(Verse {
-            content: "The two tribes, and the halfe tribe haue receiued their inheritance on this side Iordane neere Iericho, Eastward, toward the Sunne rising.",
+            content: "",
         }),
 
         ("numbers", 34, 16) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 34, 17) => Some(Verse {
-            content: "These are the names of the men which shall diuide the land vnto you: Eleazar the Priest, and Ioshua the sonne of Nun.",
+            content: "",
         }),
 
         ("numbers", 34, 18) => Some(Verse {
-            content: "And yee shall take one Prince of euery tribe, to diuide the land by inheritance.",
+            content: "",
         }),
 
         ("numbers", 34, 19) => Some(Verse {
-            content: "And the names of the men are these: Of the tribe of Iudah, Caleb the sonne of Iephunneh.",
+            content: "",
         }),
 
         ("numbers", 34, 20) => Some(Verse {
-            content: "And of the tribe of the children of Simeon, Shemuel the sonne of Ammihud.",
+            content: "",
         }),
 
         ("numbers", 34, 21) => Some(Verse {
-            content: "Of the tribe of Beniamin, Elidad the sonne of Chislon.",
+            content: "",
         }),
 
         ("numbers", 34, 22) => Some(Verse {
-            content: "And the Prince of the tribe of the children of Dan, Bukki the sonne of Iogli.",
+            content: "",
         }),
 
         ("numbers", 34, 23) => Some(Verse {
-            content: "The Prince of the children of Ioseph: for the tribe of the children of Manasseh, Hanniel the sonne of Ephod.",
+            content: "",
         }),
 
         ("numbers", 34, 24) => Some(Verse {
-            content: "And the Prince of the tribe of the children of Ephraim, Kemuel the sonne of Shiphtan.",
+            content: "",
         }),
 
         ("numbers", 34, 25) => Some(Verse {
-            content: "And the Prince of the tribe of the children of Zebulun, Elizaphan the sonne of Parnach.",
+            content: "",
         }),
 
         ("numbers", 34, 26) => Some(Verse {
-            content: "And the Prince of the tribe of the children of Issachar, Paltiel the sonne of Azzan.",
+            content: "",
         }),
 
         ("numbers", 34, 27) => Some(Verse {
-            content: "And the Prince of the tribe of the children of Asher, Ahihud the sonne of Shelomi.",
+            content: "",
         }),
 
         ("numbers", 34, 28) => Some(Verse {
-            content: "And the Prince of the tribe of the children of Naphtali, Pedahel the sonne of Ammihud.",
+            content: "",
         }),
 
         ("numbers", 34, 29) => Some(Verse {
-            content: "These are they whom the Lord commaunded to diuide the inheritance vnto the children of Israel in the land of Canaan.",
+            content: "",
         }),
 
         ("numbers", 35, 1) => Some(Verse {
-            content: "And the Lord spake vnto Moses in the plaines of Moab by Iordane, neere Iericho, saying,",
+            content: "",
         }),
 
         ("numbers", 35, 2) => Some(Verse {
-            content: "Command the children of Israel, that they giue vnto the Leuites of the inheritance of their possession, cities to dwell in: and yee shall giue also vnto the Leuites suburbs for the cities round about them.",
+            content: "",
         }),
 
         ("numbers", 35, 3) => Some(Verse {
-            content: "And the cities shall they haue to dwell in, and the suburbs of them shall be for their cattell, and for their goods, and for all their beasts.",
+            content: "",
         }),
 
         ("numbers", 35, 4) => Some(Verse {
-            content: "And the suburbs of the cities, which yee shall giue vnto the Leuites, shall reach from the wall of the citie, and outward, a thousand cubites round about.",
+            content: "",
         }),
 
         ("numbers", 35, 5) => Some(Verse {
-            content: "And ye shall measure from without the city on the Eastside two thousand cubites, and on the Southside two thousand cubites, and on the Westside two thousand cubites, & on the Northside two thousand cubites: and the citie shall be in the midst; this shalbe to them the suburbs of the cities.",
+            content: "",
         }),
 
         ("numbers", 35, 6) => Some(Verse {
-            content: "And among the cities which yee shal giue vnto the Leuites, there shalbe sixe cities for refuge, which ye shall appoint for the manslayer, that hee may flee thither: And to them ye shall adde fourty and two cities.",
+            content: "",
         }),
 
         ("numbers", 35, 7) => Some(Verse {
-            content: "So all the cities which ye shall giue to the Leuites, shall be fourty and eight cities: them shall yee giue with their suburbs.",
+            content: "",
         }),
 
         ("numbers", 35, 8) => Some(Verse {
-            content: "And the cities which ye shal giue, shalbe of the possession of the children of Israel: from them that haue many ye shall giue many; but from them that haue few, ye shall giue few. Euery one shal giue of his cities vnto the Leuites, according to his inheritance which he inheriteth.",
+            content: "",
         }),
 
         ("numbers", 35, 9) => Some(Verse {
-            content: "And the Lord spake vnto Moses, saying,",
+            content: "",
         }),
 
         ("numbers", 35, 10) => Some(Verse {
-            content: "Speake vnto the children of Israel, and say vnto them, When ye bee come ouer Iordane, into the land of Canaan:",
+            content: "",
         }),
 
         ("numbers", 35, 11) => Some(Verse {
-            content: "Then ye shall appoint you cities, to be cities of refuge for you; that the slayer may flee thither which killeth any person at vnawares.",
+            content: "",
         }),
 
         ("numbers", 35, 12) => Some(Verse {
-            content: "And they shall be vnto you cities for refuge from the auenger, that the man-slayer die not, vntill he stand before the Congregation in iudgement.",
+            content: "",
         }),
 
         ("numbers", 35, 13) => Some(Verse {
-            content: "And of these cities which ye shall giue, sixe cities shall ye haue for refuge.",
+            content: "",
         }),
 
         ("numbers", 35, 14) => Some(Verse {
-            content: "Yee shall giue three cities on this side Iordane, and three cities shall yee giue in the land of Canaan, which shall be cities of refuge.",
+            content: "",
         }),
 
         ("numbers", 35, 15) => Some(Verse {
-            content: "These sixe cities shall be a refuge, both for the children of Israel, and for the stranger, and for the soiourner among them: that euery one that killeth any person vnawares, may flee thither.",
+            content: "",
         }),
 
         ("numbers", 35, 16) => Some(Verse {
-            content: "And if he smite him with an instrument of Iron, (so that he die,) hee is a murderer: the murderer shall surely be put to death.",
+            content: "",
         }),
 
         ("numbers", 35, 17) => Some(Verse {
-            content: "And if he smite him with throwing a stone, (wherewith hee may die) and he die, he is a murderer: the murderer shall surely be put to death.",
+            content: "",
         }),
 
         ("numbers", 35, 18) => Some(Verse {
-            content: "Or if he smite him with an handweapon of wood, (wherewith he may die) and he die, hee is a murderer: the murderer shall surely be put to death.",
+            content: "",
         }),
 
         ("numbers", 35, 19) => Some(Verse {
-            content: "The reuenger of blood himselfe shall slay the murtherer: when he meeteth him, he shall slay him.",
+            content: "",
         }),
 
         ("numbers", 35, 20) => Some(Verse {
-            content: "But if he thrust him of hatred, or hurle at him by laying of waite that he die,",
+            content: "",
         }),
 
         ("numbers", 35, 21) => Some(Verse {
-            content: "Or in enmitie smite him with his hand, that he die: hee that smote him shall surely be put to death, for hee is a murderer: the reuenger of blood shall slay the murderer, when hee meeteth him.",
+            content: "",
         }),
 
         ("numbers", 35, 22) => Some(Verse {
-            content: "But if hee thrust him suddenly without enmitie, or haue cast vpon him any thing without laying of wait,",
+            content: "",
         }),
 
         ("numbers", 35, 23) => Some(Verse {
-            content: "Or with any stone wherewith a man may die, seeing him not, and cast it vpon him, that he die, and was not his enemie, neither sought his harme:",
+            content: "",
         }),
 
         ("numbers", 35, 24) => Some(Verse {
-            content: "Then the Congregation shall iudge betweene the slayer, and the reuenger of blood, according to these iudgements.",
+            content: "",
         }),
 
         ("numbers", 35, 25) => Some(Verse {
-            content: "And the Congregation shall deliuer the slayer out of the hand of the reuenger of blood, and the Congregation shal restore him to the city of his refuge, whither he was fled: and he shall abide in it vnto the death of the high Priest, which was annoynted with the holy oyle.",
+            content: "",
         }),
 
         ("numbers", 35, 26) => Some(Verse {
-            content: "But if the slayer shall at any time come without the border of the citie of his refuge, whither he was fled:",
+            content: "",
         }),
 
         ("numbers", 35, 27) => Some(Verse {
-            content: "And the reuenger of blood finde him without the borders of the citie of his refuge, and the reuenger of blood kill the slayer, he shall not be guiltie of blood:",
+            content: "",
         }),
 
         ("numbers", 35, 28) => Some(Verse {
-            content: "Because he should haue remained in the citie of his refuge, vntill the death of the high Priest: but after the death of the hie Priest, the slayer shal returne into the land of his possession.",
+            content: "",
         }),
 
         ("numbers", 35, 29) => Some(Verse {
-            content: "So these things shall be for a statute of iudgment vnto you, thorowout your generations in al your dwellings.",
+            content: "",
         }),
 
         ("numbers", 35, 30) => Some(Verse {
-            content: "Who so killeth any person, the murderer shall be put to death, by the mouth of witnesses: but one witnesse shall not testifie against any person, to cause him to die.",
+            content: "",
         }),
 
         ("numbers", 35, 31) => Some(Verse {
-            content: "Moreouer, yee shall take no satisfaction for the life of a murderer, which is guiltie of death, but he shalbe surely put to death.",
+            content: "",
         }),
 
         ("numbers", 35, 32) => Some(Verse {
-            content: "And yee shall take no satisfaction for him that is fled to the citie of his refuge, that hee should come againe to dwell in the land, vntil the death of the Priest.",
+            content: "",
         }),
 
         ("numbers", 35, 33) => Some(Verse {
-            content: "So ye shall not pollute the lande wherein ye are: for blood, it defileth the land: and the land cannot bee cleansed of the blood that is shed therein, but by the blood of him that shed it.",
+            content: "",
         }),
 
         ("numbers", 35, 34) => Some(Verse {
-            content: "Defile not therefore the lande which yee shall inhabite, wherein I dwell: for I the Lord dwell among the children of Israel.",
+            content: "",
         }),
 
         ("numbers", 36, 1) => Some(Verse {
-            content: "And the chiefe fathers of the families of the children of Gilead, the sonne of Machir, the sonne of Manasseh, of the families of the sonnes of Ioseph, came neere, and spake before Moses, and before the Princes the chiefe fathers of the children of Israel.",
+            content: "",
         }),
 
         ("numbers", 36, 2) => Some(Verse {
