@@ -24686,1393 +24686,1393 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("joshua", 13, 11) => Some(Verse {
-            content: "And Gilead, and the border of the Geshurites, and Maachathites, and all mount Hermon, and all Bashan vnto Salcah:",
+            content: "",
         }),
 
         ("joshua", 13, 12) => Some(Verse {
-            content: "All the kingdome of Og in Bashan, which reigned in Ashtaroth and in Edrei, who remained of the remnant of the giants: for these did Moses smite, and cast them out.",
+            content: "",
         }),
 
         ("joshua", 13, 13) => Some(Verse {
-            content: "Neuerthelesse, the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwel among the Israelites vntill this day.",
+            content: "",
         }),
 
         ("joshua", 13, 14) => Some(Verse {
-            content: "Onely vnto the tribe of Leui hee gaue none inheritance: the sacrifices of the Lord God of Israel made by fire, are their inheritance, as he said vnto them.",
+            content: "",
         }),
 
         ("joshua", 13, 15) => Some(Verse {
-            content: "And Moses gaue vnto the tribe of the children of Reuben inheritance according to their families:",
+            content: "",
         }),
 
         ("joshua", 13, 16) => Some(Verse {
-            content: "And their coast was from Aroer that is on the banke of the riuer Arnon, and the city that is in the midst of the riuer, and all the plaine by Medeba.",
+            content: "",
         }),
 
         ("joshua", 13, 17) => Some(Verse {
-            content: "Heshbon and all her cities that are in the plaine: Dibon, and Bamoth-Baal, and Beth-Baalmeon,",
+            content: "",
         }),
 
         ("joshua", 13, 18) => Some(Verse {
-            content: "And Iahazah, and Kedemoth, and Mephaath,",
+            content: "",
         }),
 
         ("joshua", 13, 19) => Some(Verse {
-            content: "And Kiriathaim, and Sibmah, and Zareth-shahar, in the mount of the valley,",
+            content: "",
         }),
 
         ("joshua", 13, 20) => Some(Verse {
-            content: "And Bethpeor, and Ashdoth-Pisgah, and Beth-ieshimoth:",
+            content: "",
         }),
 
         ("joshua", 13, 21) => Some(Verse {
-            content: "And all the cities of the plaine, and all the kingdome of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Eui, and Rekem, and Zur, and Hur, and Reba, which were dukes of Sihon, dwelling in the countrey.",
+            content: "",
         }),
 
         ("joshua", 13, 22) => Some(Verse {
-            content: "Balaam also the sonne of Beor the Sooth-sayer did the children of Israel slay with the sword, among them that were slaine by them.",
+            content: "",
         }),
 
         ("joshua", 13, 23) => Some(Verse {
-            content: "And the border of the children of Reuben, was Iordan and the border therof: This was the inheritance of the children of Reuben after their families, the cities, and villages thereof.",
+            content: "",
         }),
 
         ("joshua", 13, 24) => Some(Verse {
-            content: "And Moses gaue inheritance vnto the tribe of Gad, euen vnto the children of Gad, according to their families:",
+            content: "",
         }),
 
         ("joshua", 13, 25) => Some(Verse {
-            content: "And their coast was Iazer, and all the cities of Gilead, and halfe the land of the children of Ammon, vnto Aroer that is before Rabbah:",
+            content: "",
         }),
 
         ("joshua", 13, 26) => Some(Verse {
-            content: "And from Heshbon vnto Ramath-Mizpeh, and Betonim: and from Mahanaim vnto the border of Debir.",
+            content: "",
         }),
 
         ("joshua", 13, 27) => Some(Verse {
-            content: "And in the valley, Beth-aram, and Beth-nimrah, and Succoth, and Zaphon the rest of the kingdome of Sihon king of Heshbon, Iordan, and his border, euen vnto the edge of the sea of Cinneroth, on the other side Iordan Eastward.",
+            content: "",
         }),
 
         ("joshua", 13, 28) => Some(Verse {
-            content: "This is the inheritance of the children of Gad after their families: the cities and their villages.",
+            content: "",
         }),
 
         ("joshua", 13, 29) => Some(Verse {
-            content: "And Moses gaue inheritance vnto the halfe tribe of Manasseh: and this was the possession of the halfe tribe of Manasseh, by their families.",
+            content: "",
         }),
 
         ("joshua", 13, 30) => Some(Verse {
-            content: "And their coast was frō Mahanaim all Bashan, all the kingdome of Og king of Bashan, and all the townes of Iair, which are in Bashan, threescore cities:",
+            content: "",
         }),
 
         ("joshua", 13, 31) => Some(Verse {
-            content: "And halfe Gilead, and Ashtaroth, and Edrei, cities of the kingdom of Og in Bashan, were perteining vnto the children of Machir the sonne of Manasseh, euen to the one halfe of the children of Machir by their families.",
+            content: "",
         }),
 
         ("joshua", 13, 32) => Some(Verse {
-            content: "These are the countreyes which Moses did distribute for inheritance in the plaines of Moab, on the other side Iordan by Iericho Eastward.",
+            content: "",
         }),
 
         ("joshua", 13, 33) => Some(Verse {
-            content: "But vnto the tribe of Leui Moses gaue not any inheritance: the Lord God of Israel was their inheritance, as he said vnto them.",
+            content: "",
         }),
 
         ("joshua", 14, 1) => Some(Verse {
-            content: "And these are the countreys which the children of Israel inherited in the lande of Canaan, which Eleazar the Priest, & Ioshua the sonne of Nun, and the heads of the fathers of the tribes of the children of Israel distributed for inheritance to them:",
+            content: "",
         }),
 
         ("joshua", 14, 2) => Some(Verse {
-            content: "By lot was their inheritance, as the Lord commanded by the hande of Moses, for the nine tribes, and for the halfe tribe.",
+            content: "",
         }),
 
         ("joshua", 14, 3) => Some(Verse {
-            content: "For Moses had giuen the inheritance of two tribes and an halfe tribe, on the other side Iordan: but vnto the Leuites hee gaue none inheritance among them.",
+            content: "",
         }),
 
         ("joshua", 14, 4) => Some(Verse {
-            content: "For the children of Ioseph were two tribes, Manasseh and Ephraim: therefore they gaue no part vnto the Leuites in the land, saue cities to dwell in, with their suburbs for their cattell, and for their substance.",
+            content: "",
         }),
 
         ("joshua", 14, 5) => Some(Verse {
-            content: "As the Lord commaunded Moses, so the children of Israel did, and they diuided the land.",
+            content: "",
         }),
 
         ("joshua", 14, 6) => Some(Verse {
-            content: "Then the children of Iudah came vnto Ioshua in Gilgal: and Caleb the sonne of Iephunneh the Kenezite, said vnto him, Thou knowest the thing that the Lord said vnto Moses the man of God concerning me and thee, in Kadesh Barnea.",
+            content: "",
         }),
 
         ("joshua", 14, 7) => Some(Verse {
-            content: "Fourtie yeeres olde was I when Moses the seruant of the Lord sent me from Kadesh Barnea, to espie out the land, and I brought him worde againe, as it was in mine heart.",
+            content: "",
         }),
 
         ("joshua", 14, 8) => Some(Verse {
-            content: "Neuerthelesse, my brethren that went vp with me, made the heart of the people melt: but I wholly followed the Lord my God.",
+            content: "",
         }),
 
         ("joshua", 14, 9) => Some(Verse {
-            content: "And Moses sware on that day, saying, Surely the land whereon thy feet haue troden, shall be thine inheritance, and thy childrens for euer, because thou hast wholly followed the Lord my God.",
+            content: "",
         }),
 
         ("joshua", 14, 10) => Some(Verse {
-            content: "And now beholde, the Lord hath kept me aliue, as he said, these forty and fiue yeres, euen since the Lord spake this word vnto Moses, while the children of Israel wandered in the wildernesse: and now loe, I am this day fourescore and fiue yeeres old.",
+            content: "",
         }),
 
         ("joshua", 14, 11) => Some(Verse {
-            content: "As yet I am as strong this day, as I was in the day that Moses sent mee: as my strength was then, euen so is my strength now, for warre, both to goe out and to come in.",
+            content: "",
         }),
 
         ("joshua", 14, 12) => Some(Verse {
-            content: "Now therefore giue mee this mountaine, whereof the Lord spake in that day, (for thou heardest in that day how the Anakims were there, and that the cities were great and fenced) if so be the Lord will be with me, then I shall bee able to driue them out, as the Lord said.",
+            content: "",
         }),
 
         ("joshua", 14, 13) => Some(Verse {
-            content: "And Ioshua blessed him, and gaue vnto Caleb the sonne of Iephunneh, Hebron for an inheritance.",
+            content: "",
         }),
 
         ("joshua", 14, 14) => Some(Verse {
-            content: "Hebron therefore became the inheritance of Caleb the sonne of Iephunneh the Kenezite vnto this day: because that hee wholly followed the Lord God of Israel.",
+            content: "",
         }),
 
         ("joshua", 14, 15) => Some(Verse {
-            content: "And the name of Hebron before, was Kiriath-Arba, which Arba was a great man among the Anakims: and the land had rest from warre.",
+            content: "",
         }),
 
         ("joshua", 15, 1) => Some(Verse {
-            content: "This then was the lot of the tribe of the children of Iudah by their families, euen to the border of Edom; the wildernesse of Zin Southward, was the vttermost part of the South coast:",
+            content: "",
         }),
 
         ("joshua", 15, 2) => Some(Verse {
-            content: "And their South border was from the shore of the salt sea, from the bay that looketh Southward.",
+            content: "",
         }),
 
         ("joshua", 15, 3) => Some(Verse {
-            content: "And it went out to the Southside to Maalehacrabbim, and passed along to Zin, and ascended vp on the Southside vnto Kadesh-Barnea: and passed along to Hezron, and went vp to Adar, and fetched a compasse to Karkaa.",
+            content: "",
         }),
 
         ("joshua", 15, 4) => Some(Verse {
-            content: "From thence it passed toward Azmon, and went out vnto the riuer of Egypt, and the goings out of that coast were at the sea: this shalbe your South coast.",
+            content: "",
         }),
 
         ("joshua", 15, 5) => Some(Verse {
-            content: "And the East border was the salt Sea, euen vnto the end of Iordan: and their border in the North quarter, was from the bay of the sea, at the vttermost part of Iordan.",
+            content: "",
         }),
 
         ("joshua", 15, 6) => Some(Verse {
-            content: "And the border went vp to Bethhogla, and passed along by the North of Beth-arabah, and the border went vp to the stone of Bohan the sonne of Reuben.",
+            content: "",
         }),
 
         ("joshua", 15, 7) => Some(Verse {
-            content: "And the border went vp toward Debir from the valley of Achor, and so Northward, looking toward Gilgal, that is before the going vp to Adummim, which is on the Southside of the riuer: and the border passed towards the waters of Enshemesh, and the goings out thereof were at En-Rogel.",
+            content: "",
         }),
 
         ("joshua", 15, 8) => Some(Verse {
-            content: "And the border went vp by the valley of the sonne of Hinnom, vnto the South side of the Iebusite, the same is Ierusalem: and the border went vp to the top of the mountaine, that lieth before the valley of Hinnom, Westward, which is at the end of the valley of the giants, Northward.",
+            content: "",
         }),
 
         ("joshua", 15, 9) => Some(Verse {
-            content: "And the border was drawen from the top of the hill vnto the fountaine of the water of Nephtoah, and went out to the cities of mount Ephron, and the border was drawen to Baalah, which is Kiriath-iearim.",
+            content: "",
         }),
 
         ("joshua", 15, 10) => Some(Verse {
-            content: "And the border compassed from Baalah Westward vnto mount Seir, and passed along vnto the side of mount Iearim, (which is Chesalon) on the North side, and went downe to Bethshemesh, and passed on to Timnah.",
+            content: "",
         }),
 
         ("joshua", 15, 11) => Some(Verse {
-            content: "And the border went out vnto the side of Ekron Northward: and the border was drawen to Shicron, and passed along to mount Baalah, and went out vnto Iabneel; and the goings out of the border were at the sea.",
+            content: "",
         }),
 
         ("joshua", 15, 12) => Some(Verse {
-            content: "And the West border was to the great sea, and the coast therof: this is the coast of the children of Iudah round about, according to their families.",
+            content: "",
         }),
 
         ("joshua", 15, 13) => Some(Verse {
-            content: "And vnto Caleb the sonne of Iephunneh, he gaue a part among the children of Iudah, according to the cōmandement of the Lord to Ioshua, euen the citie of Arba the father of Anak, which citie is Hebron.",
+            content: "",
         }),
 
         ("joshua", 15, 14) => Some(Verse {
-            content: "And Caleb droue thence the three sonnes of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak.",
+            content: "",
         }),
 
         ("joshua", 15, 15) => Some(Verse {
-            content: "And he went vp thence to the inhabitants of Debir: and the name of Debir before was Kiriath-Sepher.",
+            content: "",
         }),
 
         ("joshua", 15, 16) => Some(Verse {
-            content: "And Caleb said, He that smiteth Kiriath-Sepher, and taketh it, to him will I giue Achsah my daughter to wife.",
+            content: "",
         }),
 
         ("joshua", 15, 17) => Some(Verse {
-            content: "And Othniel the sonne of Kenaz, the brother of Caleb, tooke it: and hee gaue him Achsah his daughter to wife.",
+            content: "",
         }),
 
         ("joshua", 15, 18) => Some(Verse {
-            content: "And it came to passe as shee came vnto him, that she moued him to aske of her father a field, and she lighted off her asse; and Caleb said vnto her, What wouldest thou?",
+            content: "",
         }),
 
         ("joshua", 15, 19) => Some(Verse {
-            content: "Who answered, Giue mee a blessing; for thou hast giuen mee a Southland, giue me also springs of water; and he gaue her the vpper springs, and the nether springs.",
+            content: "",
         }),
 
         ("joshua", 15, 20) => Some(Verse {
-            content: "This is the inheritance of the tribe of the children of Iudah according to their families.",
+            content: "",
         }),
 
         ("joshua", 15, 21) => Some(Verse {
-            content: "And the vttermost cities of the tribe of the children of Iudah toward the coast of Edom Southward, were Kabzeel, and Eder, and Iagur,",
+            content: "",
         }),
 
         ("joshua", 15, 22) => Some(Verse {
-            content: "And Kinah, and Dimonah, and Adadah,",
+            content: "",
         }),
 
         ("joshua", 15, 23) => Some(Verse {
-            content: "And Kedesh, and Hazor, and Ithnan,",
+            content: "",
         }),
 
         ("joshua", 15, 24) => Some(Verse {
-            content: "Ziph, and Telem, and Bealoth,",
+            content: "",
         }),
 
         ("joshua", 15, 25) => Some(Verse {
-            content: "And Hazor, Hadattah, and Kerioth: and Hezron, which is Hazor,",
+            content: "",
         }),
 
         ("joshua", 15, 26) => Some(Verse {
-            content: "Amam, and Shema, and Moladah,",
+            content: "",
         }),
 
         ("joshua", 15, 27) => Some(Verse {
-            content: "And Hazar-Gaddah, and Heshmon, and Beth-palet,",
+            content: "",
         }),
 
         ("joshua", 15, 28) => Some(Verse {
-            content: "And Hazarshual, and Beersheba, and Biziothiah,",
+            content: "",
         }),
 
         ("joshua", 15, 29) => Some(Verse {
-            content: "Baalah, and Iim, and Azem,",
+            content: "",
         }),
 
         ("joshua", 15, 30) => Some(Verse {
-            content: "And Eltolad, and Chesil, and Hormah,",
+            content: "",
         }),
 
         ("joshua", 15, 31) => Some(Verse {
-            content: "And Ziklag, and Madmannah, and Sansannah,",
+            content: "",
         }),
 
         ("joshua", 15, 32) => Some(Verse {
-            content: "And Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities are twentie and nine, with their villages.",
+            content: "",
         }),
 
         ("joshua", 15, 33) => Some(Verse {
-            content: "And in the valley, Esthaol, and Zoreah, and Ashnah,",
+            content: "",
         }),
 
         ("joshua", 15, 34) => Some(Verse {
-            content: "And Zanoah, and Engannim, Tappuah, and Enam,",
+            content: "",
         }),
 
         ("joshua", 15, 35) => Some(Verse {
-            content: "Iarmuth, and Adullam, Socoh, and Azekah,",
+            content: "",
         }),
 
         ("joshua", 15, 36) => Some(Verse {
-            content: "And Sharaim, and Adithaim, and Gederah, and Gederothaim: fourteene cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 15, 37) => Some(Verse {
-            content: "Zenam, and Hadashah, & Migdalgad,",
+            content: "",
         }),
 
         ("joshua", 15, 38) => Some(Verse {
-            content: "And Dileam, and Mizpeh, and Ioktheel,",
+            content: "",
         }),
 
         ("joshua", 15, 39) => Some(Verse {
-            content: "Lachish, and Bozkath, & Eglon,",
+            content: "",
         }),
 
         ("joshua", 15, 40) => Some(Verse {
-            content: "And Cabbon, and Lahmam, and Kithlish,",
+            content: "",
         }),
 
         ("joshua", 15, 41) => Some(Verse {
-            content: "And Gederoth, Beth-dagon, and Naamah, and Makkedah: sixteene cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 15, 42) => Some(Verse {
-            content: "Lebnah, and Ether, and Ashan,",
+            content: "",
         }),
 
         ("joshua", 15, 43) => Some(Verse {
-            content: "And Iiphta, and Ashnah, and Nezib,",
+            content: "",
         }),
 
         ("joshua", 15, 44) => Some(Verse {
-            content: "And Keilah, and Achzib, and Mareshah: nine cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 15, 45) => Some(Verse {
-            content: "Ekron with her townes, and her villages.",
+            content: "",
         }),
 
         ("joshua", 15, 46) => Some(Verse {
-            content: "From Ekron euen vnto the sea, all that lay neere Ashdod, with their villages.",
+            content: "",
         }),
 
         ("joshua", 15, 47) => Some(Verse {
-            content: "Ashdod with her townes and her villages, Gaza with her townes and her villages, vnto the riuer of Egypt, and the great sea and the border thereof.",
+            content: "",
         }),
 
         ("joshua", 15, 48) => Some(Verse {
-            content: "And in the mountaines, Shamir, and Iattir, and Socoh,",
+            content: "",
         }),
 
         ("joshua", 15, 49) => Some(Verse {
-            content: "And Dannah, & Kiriath-Sannath, which is Debir,",
+            content: "",
         }),
 
         ("joshua", 15, 50) => Some(Verse {
-            content: "And Anab, and Ashtemoh, and Anim,",
+            content: "",
         }),
 
         ("joshua", 15, 51) => Some(Verse {
-            content: "And Goshen, and Holon, and Giloh: eleuen cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 15, 52) => Some(Verse {
-            content: "Arab, and Dumah, and Eshean,",
+            content: "",
         }),
 
         ("joshua", 15, 53) => Some(Verse {
-            content: "And Ianum, and Beth-tappuah, and Aphekah,",
+            content: "",
         }),
 
         ("joshua", 15, 54) => Some(Verse {
-            content: "And Humtah, and Kiriatharba (which is Hebron) and Zior, nine cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 15, 55) => Some(Verse {
-            content: "Maon, Carmel, and Ziph, and Iuttah,",
+            content: "",
         }),
 
         ("joshua", 15, 56) => Some(Verse {
-            content: "Ind Iezreel, and Iokdeam, and Zanoah,",
+            content: "",
         }),
 
         ("joshua", 15, 57) => Some(Verse {
-            content: "Cain, Gibbeah, and Timnah: ten cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 15, 58) => Some(Verse {
-            content: "Halhul, Beth-zur, and Gedor,",
+            content: "",
         }),
 
         ("joshua", 15, 59) => Some(Verse {
-            content: "And Maarah, and Bethanoth, & Eltekon: six cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 15, 60) => Some(Verse {
-            content: "Kiriath-baal, which is Kiriathiearim, and Rabbah: two cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 15, 61) => Some(Verse {
-            content: "In the wildernesse, Beth-arabah, Middin, and Secacah,",
+            content: "",
         }),
 
         ("joshua", 15, 62) => Some(Verse {
-            content: "And Nibshan, and the city of Salt, and Engedi: sixe cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 15, 63) => Some(Verse {
-            content: "As for the Iebusites the inhabitants of Ierusalem, the children of Iudah could not driue them out: but the Iebusites dwell with the children of Iudah at Ierusalem vnto this day.",
+            content: "",
         }),
 
         ("joshua", 16, 1) => Some(Verse {
-            content: "And the lot of the children of Ioseph fell from Iordan by Iericho, vnto the water of Iericho on the East, to the wildernesse that goeth vp from Iericho throughout mount Bethel;",
+            content: "",
         }),
 
         ("joshua", 16, 2) => Some(Verse {
-            content: "And goeth out from Bethel to Luz, and passeth along vnto the borders of Archi, to Ataroth,",
+            content: "",
         }),
 
         ("joshua", 16, 3) => Some(Verse {
-            content: "And goeth downe Westward, to the coast of Iaphleti, vnto the coast of Bethoron the nether, and to Gezer: and the goings out thereof are at the Sea.",
+            content: "",
         }),
 
         ("joshua", 16, 4) => Some(Verse {
-            content: "So the children of Ioseph, Manasseh, and Ephraim, tooke their inheritance.",
+            content: "",
         }),
 
         ("joshua", 16, 5) => Some(Verse {
-            content: "And the border of the children of Ephraim according to their families, was thus: euen the border of their inheritance on the East side was Ataroth-Addar, vnto Bethoron the vpper.",
+            content: "",
         }),
 
         ("joshua", 16, 6) => Some(Verse {
-            content: "And the border went out toward the Sea, to Michmethah on the Northside, and the border went about Eastward vnto Taanath Shiloh, and passed by it on the East to Ianohah:",
+            content: "",
         }),
 
         ("joshua", 16, 7) => Some(Verse {
-            content: "And it went downe from Ianohah to Ataroth and to Naarath, and came to Iericho, and went out at Iordane.",
+            content: "",
         }),
 
         ("joshua", 16, 8) => Some(Verse {
-            content: "The border went out from Tappuah Westward vnto the riuer Kanah: and the goings out thereof were at the Sea. This is the inheritance of the tribe of the children of Ephraim by their families.",
+            content: "",
         }),
 
         ("joshua", 16, 9) => Some(Verse {
-            content: "And the separate cities for the children of Ephraim were among the inheritance of the children of Manasseh, all the cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 16, 10) => Some(Verse {
-            content: "And they draue not out the Canaanites that dwelt in Gezer: but the Canaanites dwell among the Ephramites vnto this day, and serue vnder tribute.",
+            content: "",
         }),
 
         ("joshua", 17, 1) => Some(Verse {
-            content: "There was also a lot for the tribe of Manasseh; ( for hee was the first borne of Ioseph) to wit, for Machir the first borne of Manasseh the father of Gilead: because he was a man of warre, therefore hee had Gilead and Bashan.",
+            content: "",
         }),
 
         ("joshua", 17, 2) => Some(Verse {
-            content: "There was also a lot for the rest of the children of Manasseh by their families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh, the sonne of Ioseph by their families.",
+            content: "",
         }),
 
         ("joshua", 17, 3) => Some(Verse {
-            content: "But Zelophehad the sonne of Hepher, the sonne of Gilead, the sonne of Machir, the sonne of Manasseh, had no sonnes but daughters: And these are the names of his daughters, Mahlah, and Noah, Hoglah, Milcah, and Tirzah.",
+            content: "",
         }),
 
         ("joshua", 17, 4) => Some(Verse {
-            content: "And they came neere before Eleazar the Priest, and before Ioshua the sonne of Nun, and before the Princes, saying, The Lord commanded Moses to giue vs an inheritance among our brethren: therefore according to the commaundement of the Lord, hee gaue them an inheritance among the brethren of their father.",
+            content: "",
         }),
 
         ("joshua", 17, 5) => Some(Verse {
-            content: "And there fel ten portions to Manasseh, beside the land of Gilead and Bashan, which were on the other side Iordan;",
+            content: "",
         }),
 
         ("joshua", 17, 6) => Some(Verse {
-            content: "Because the daughters of Manasseh had an inheritance among his sonnes: and the rest of Manassehs sonnes had the land of Gilead.",
+            content: "",
         }),
 
         ("joshua", 17, 7) => Some(Verse {
-            content: "And the coast of Manasseh was from Asher to Michmethah, that lieth before Shechem, and the border went along on the right hand, vnto the inhabitants of Entappuah.",
+            content: "",
         }),
 
         ("joshua", 17, 8) => Some(Verse {
-            content: "Now Manasseh had the land of Tappuah: but Tappuah on the border of Manasseh belonged to the children of Ephraim.",
+            content: "",
         }),
 
         ("joshua", 17, 9) => Some(Verse {
-            content: "And the coast descended vnto the riuer Kanah, Southward of the riuer: these cities of Ephraim are among the cities of Manasseh: the coast of Manasseh also was on the North side of the riuer, and the outgoings of it were at the Sea.",
+            content: "",
         }),
 
         ("joshua", 17, 10) => Some(Verse {
-            content: "Southward it was Ephraims, and Northward it was Manassehs, and the sea is his border, and they met together in Asher on the North, and in Issachar on the East.",
+            content: "",
         }),
 
         ("joshua", 17, 11) => Some(Verse {
-            content: "And Manasseh had in Issachar and in Asher, Bethshean & her townes, and Ibleam and her townes, and the inhabitants of Dor and her townes, and the inhabitants of Endor and her townes, and the inhabitants of Taanach and her townes, and the inhabitants of Megiddo and her townes, euen three countreyes.",
+            content: "",
         }),
 
         ("joshua", 17, 12) => Some(Verse {
-            content: "Yet the children of Manasseh could not driue out the inhabitants of those cities, but the Canaanites would dwell in that land.",
+            content: "",
         }),
 
         ("joshua", 17, 13) => Some(Verse {
-            content: "Yet it came to passe when the children of Israel were waxen strong, that they put the Canaanites to tribute: but did not vtterly driue them out.",
+            content: "",
         }),
 
         ("joshua", 17, 14) => Some(Verse {
-            content: "And the children of Ioseph spake vnto Ioshua, saying, Why hast thou giuen me but one lot and one portion to inherit, seeing I am a great people, forasmuch as the Lord hath blessed me hitherto?",
+            content: "",
         }),
 
         ("joshua", 17, 15) => Some(Verse {
-            content: "And Ioshua answered them, If thou be a great people, then get thee vp to the wood countrey, and cut downe for thy selfe there in the land of the Perizzites, and of the giants, if mount Ephraim be too narrow for thee.",
+            content: "",
         }),
 
         ("joshua", 17, 16) => Some(Verse {
-            content: "And the children of Ioseph saide, The hill is not enough for vs: and all the Canaanites that dwell in the lande of the valley, haue charets of yron, both they who are of Bethshean and her townes, and they who are of the valley of Iezreel.",
+            content: "",
         }),
 
         ("joshua", 17, 17) => Some(Verse {
-            content: "And Ioshua spake vnto the house of Ioseph, euen to Ephraim, and to Manasseh, saying, Thou art a great people, and hast great power: Thou shalt not haue one lot onely.",
+            content: "",
         }),
 
         ("joshua", 17, 18) => Some(Verse {
-            content: "But the mountaine shalbe thine, for it is a wood, and thou shalt cut it downe: and the outgoings of it shalbe thine: for thou shalt driue out the Canaanites, though they haue yron charets, and though they be strong.",
+            content: "",
         }),
 
         ("joshua", 18, 1) => Some(Verse {
-            content: "And the whole Congregation of the children of Israel assembled together at Shiloh, & set vp the Tabernacle of the Congregation there, and the land was subdued before them.",
+            content: "",
         }),
 
         ("joshua", 18, 2) => Some(Verse {
-            content: "And there remained among the children of Israel seuen tribes, which had not yet receiued their inheritance.",
+            content: "",
         }),
 
         ("joshua", 18, 3) => Some(Verse {
-            content: "And Ioshua said vnto the children of Israel, how long are you slacke to goe to possesse the lande which the Lord God of your fathers hath giuen you?",
+            content: "",
         }),
 
         ("joshua", 18, 4) => Some(Verse {
-            content: "Giue out from among you three men, for each tribe: and I will send them, and they shall rise, & goe through the land, and describe it according to the inheritance of them, and they shal come againe to me.",
+            content: "",
         }),
 
         ("joshua", 18, 5) => Some(Verse {
-            content: "And they shall diuide it into seuen parts: Iudah shall abide in their coast on the South, and the house of Ioseph shall abide in their coasts on the North.",
+            content: "",
         }),
 
         ("joshua", 18, 6) => Some(Verse {
-            content: "Ye shall therfore describe the land into seuen parts, and bring the description hither to me: that I may cast lots for you here before the Lord our God.",
+            content: "",
         }),
 
         ("joshua", 18, 7) => Some(Verse {
-            content: "But the Leuites haue no part among you, for the Priesthood of the Lord is their inheritance: and Gad and Reuben, and halfe the tribe of Manasseh, haue receiued their inheritance beyond Iordan on the East, which Moses the seruant of the Lord gaue them.",
+            content: "",
         }),
 
         ("joshua", 18, 8) => Some(Verse {
-            content: "And the men arose, and went away: and Ioshua charged them that went to describe the land, saying, Goe, and walke through the land, & describe it, and come againe to me, that I may here cast lots for you, before the Lord in Shiloh.",
+            content: "",
         }),
 
         ("joshua", 18, 9) => Some(Verse {
-            content: "And the men went, and passed thorow the land, and described it by cities, into seuen parts in a booke, and came againe to Ioshua to the hoste at Shiloh.",
+            content: "",
         }),
 
         ("joshua", 18, 10) => Some(Verse {
-            content: "And Ioshua cast lots for them in Shiloh, before the Lord: and there Ioshua diuided the land vnto the children of Israel according to their diuisions.",
+            content: "",
         }),
 
         ("joshua", 18, 11) => Some(Verse {
-            content: "And the lot of the tribe of the children of Beniamin came vp according to their families: and the coast of their lot came foorth betweene the children of Iudah, and the children of Ioseph.",
+            content: "",
         }),
 
         ("joshua", 18, 12) => Some(Verse {
-            content: "And their border on the Northside was from Iordan, and the border went vp to the side of Iericho, on the North side, and went vp through the mountaines Westward, and the goings out thereof were at the wildernesse of Beth-auen.",
+            content: "",
         }),
 
         ("joshua", 18, 13) => Some(Verse {
-            content: "And the border went ouer from thence toward Luz, to the side of Luz, (which is Bethel) Southward, and the border descended to Ataroth-Adar, neere the hill that lieth on the South side of the nether Beth-horon.",
+            content: "",
         }),
 
         ("joshua", 18, 14) => Some(Verse {
-            content: "And the border was drawen thence, and compassed the corner of the Sea Southward, from the hill that lieth before Beth-horon Southward: and the goings out thereof were at Kiriath-baal (which is Kiriath-iearim) a city of the children of Iudah: This was the West quarter.",
+            content: "",
         }),
 
         ("joshua", 18, 15) => Some(Verse {
-            content: "And the South quarter was from the end of Kiriath-iearim, & the border went out on the West, and went out to the well of waters of Nephtoah.",
+            content: "",
         }),
 
         ("joshua", 18, 16) => Some(Verse {
-            content: "And the border came downe to the end of the mountaine, that lieth before the valley of the sonne of Hinnom, and which is in the valley of the Giants on the North, and descended to the valley of Hinnom to the side of Iebusi on the South, and descended to En-Rogel,",
+            content: "",
         }),
 
         ("joshua", 18, 17) => Some(Verse {
-            content: "And was drawen frō the North, and went foorth to Enshemesh, and went foorth toward Geliloth, which is ouer against the going vp of Adummim, and descended to the stone of Bohan the sonne of Reuben,",
+            content: "",
         }),
 
         ("joshua", 18, 18) => Some(Verse {
-            content: "And passed along toward the side ouer against Arabah Northward, and went downe vnto Arabah.",
+            content: "",
         }),
 
         ("joshua", 18, 19) => Some(Verse {
-            content: "And the border passed along to the side of Beth-hoglah Northward: and the outgoings of the border were at the North bay of the salt Sea at the South end of Iordane: This was the South coast.",
+            content: "",
         }),
 
         ("joshua", 18, 20) => Some(Verse {
-            content: "And Iordane was the border of it on the East side: this was the inheritance of the children of Beniamin, by the coasts thereof round about, according to their families.",
+            content: "",
         }),
 
         ("joshua", 18, 21) => Some(Verse {
-            content: "Now the cities of the tribe of the children of Beniamin according to their families, were Iericho, and Bethhoglah, and the valley of Keziz,",
+            content: "",
         }),
 
         ("joshua", 18, 22) => Some(Verse {
-            content: "And Betharabah, and Zemaraim, and Bethel,",
+            content: "",
         }),
 
         ("joshua", 18, 23) => Some(Verse {
-            content: "And Auim, and Parah, and Ophrah,",
+            content: "",
         }),
 
         ("joshua", 18, 24) => Some(Verse {
-            content: "And Chephar-Haammonai, and Ophni, and Gaba, twelue cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 18, 25) => Some(Verse {
-            content: "Gibeon, and Ramah, and Beeroth,",
+            content: "",
         }),
 
         ("joshua", 18, 26) => Some(Verse {
-            content: "And Mizpeh, and Chephirah, and Mozah,",
+            content: "",
         }),
 
         ("joshua", 18, 27) => Some(Verse {
-            content: "And Rekem, and Irpeel, and Taralah,",
+            content: "",
         }),
 
         ("joshua", 18, 28) => Some(Verse {
-            content: "And Zela, Eleph, and Iebusi, (which is Ierusalem) Gibeath, and Kiriath, foureteene cities with their villages. This is the inheritance of the children of Beniamin according to their families.",
+            content: "",
         }),
 
         ("joshua", 19, 1) => Some(Verse {
-            content: "And the second lot came foorth to Simeon, euen for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Iudah.",
+            content: "",
         }),
 
         ("joshua", 19, 2) => Some(Verse {
-            content: "And they had in their inheritance Beer-sheba, or Sheba, and Moladah,",
+            content: "",
         }),
 
         ("joshua", 19, 3) => Some(Verse {
-            content: "And Hazarshual, and Balah, and Azem,",
+            content: "",
         }),
 
         ("joshua", 19, 4) => Some(Verse {
-            content: "And Eltolad, and Bethul, and Hormah,",
+            content: "",
         }),
 
         ("joshua", 19, 5) => Some(Verse {
-            content: "And Ziklag, and Beth-marcaboth, and Hazar-susah,",
+            content: "",
         }),
 
         ("joshua", 19, 6) => Some(Verse {
-            content: "And Beth-lebaoth, and Sharuhen: thirteene cities and their villages.",
+            content: "",
         }),
 
         ("joshua", 19, 7) => Some(Verse {
-            content: "Ain, Remmon, and Ether, and Ashan: foure cities and their villages,",
+            content: "",
         }),
 
         ("joshua", 19, 8) => Some(Verse {
-            content: "And all the villages that were round about these cities, to Baalath-Beer, Ramath of the South: This is the inheritance of the tribe of the children of Simeon according to their families.",
+            content: "",
         }),
 
         ("joshua", 19, 9) => Some(Verse {
-            content: "Out of the portion of the children of Iudah was the inheritance of the children of Simeon: for the part of the children of Iudah was too much for them: therefore the children of Simeon had their inheritance within the inheritance of them.",
+            content: "",
         }),
 
         ("joshua", 19, 10) => Some(Verse {
-            content: "And the third lot came vp for the children of Zebulun, according to their families: and the border of their inheritance was vnto Sarid.",
+            content: "",
         }),
 
         ("joshua", 19, 11) => Some(Verse {
-            content: "And their border went vp toward the Sea, and Maralah, and reached to Dabbasheth, and reached to the riuer that is before Iokneam,",
+            content: "",
         }),
 
         ("joshua", 19, 12) => Some(Verse {
-            content: "And turned from Sarid Eastward, toward the Sunne rising, vnto the border of Chisloth Tabor, and then goeth out to Daberath, and goeth vp to Iaphia,",
+            content: "",
         }),
 
         ("joshua", 19, 13) => Some(Verse {
-            content: "And from thence passeth on along on the East to Gittah-Hepher, to Ittah-Kazin, and goeth out to Remmon Methoar to Neah.",
+            content: "",
         }),
 
         ("joshua", 19, 14) => Some(Verse {
-            content: "And the border compasseth it on the North side to Hannathon: and the outgoings thereof are in the valley of Iiphthah-el.",
+            content: "",
         }),
 
         ("joshua", 19, 15) => Some(Verse {
-            content: "And Kattath, and Nahallal, and Shimron, and Idalah, and Bethlehem: twelue cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 19, 16) => Some(Verse {
-            content: "This is the inheritance of the children of Zebulun according to their families, these cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 19, 17) => Some(Verse {
-            content: "And the fourth lot came out to Issachar for the children of Issachar according to their families.",
+            content: "",
         }),
 
         ("joshua", 19, 18) => Some(Verse {
-            content: "And their border was toward Izreel, and Chesulloth, and Shunem,",
+            content: "",
         }),
 
         ("joshua", 19, 19) => Some(Verse {
-            content: "And Hapharaim, and Shion, and Anaharath,",
+            content: "",
         }),
 
         ("joshua", 19, 20) => Some(Verse {
-            content: "And Rabbith, and Kishion, and Abez,",
+            content: "",
         }),
 
         ("joshua", 19, 21) => Some(Verse {
-            content: "And Remeth, and Engannim, and Enhaddah, and Bethpazzez.",
+            content: "",
         }),
 
         ("joshua", 19, 22) => Some(Verse {
-            content: "And the coast reacheth to Tabor, and Shahazimath, and Bethshemesh, and the outgoings of their border were at Iordan, sixteene cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 19, 23) => Some(Verse {
-            content: "This is the inheritance of the tribe of the children of Issachar according to their families, the cities, and their villages.",
+            content: "",
         }),
 
         ("joshua", 19, 24) => Some(Verse {
-            content: "And the fift lot came out for the tribe of the children of Asher according to their families.",
+            content: "",
         }),
 
         ("joshua", 19, 25) => Some(Verse {
-            content: "And their border was Helkath, and Hali, and Beten, and Achshaph,",
+            content: "",
         }),
 
         ("joshua", 19, 26) => Some(Verse {
-            content: "And Alammelech, and Amad, and Misheal, and reacheth to Carmel westward, and to Shihor-Libnath,",
+            content: "",
         }),
 
         ("joshua", 19, 27) => Some(Verse {
-            content: "And turneth toward the Sunne rising to Beth-dagon, and reacheth to Zebulun, and to the valley of of Iiphthahel toward the Northside of Bethemek, and Neiel, and goeth out to Cabul on the left hand,",
+            content: "",
         }),
 
         ("joshua", 19, 28) => Some(Verse {
-            content: "And Hebron, and Rehob, and Hammon, and Kanah, euen vnto great Zidon:",
+            content: "",
         }),
 
         ("joshua", 19, 29) => Some(Verse {
-            content: "And then the coast turneth to Ramah, and to the strong citie Tyre, and the coast turneth to Hosah: and the outgoings thereof are at the Sea from the coast to Achzib.",
+            content: "",
         }),
 
         ("joshua", 19, 30) => Some(Verse {
-            content: "Ummah also, and Aphek, and Rehob: twentie and two cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 19, 31) => Some(Verse {
-            content: "This is the inheritance of the tribe of the children of Asher according to their families, these cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 19, 32) => Some(Verse {
-            content: "The sixt lot came out to the children of Naphtali: euen for the children of Naphtali according to their families.",
+            content: "",
         }),
 
         ("joshua", 19, 33) => Some(Verse {
-            content: "And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Iabneel vnto Lakum: and the outgoings thereof were at Iordan.",
+            content: "",
         }),
 
         ("joshua", 19, 34) => Some(Verse {
-            content: "And then the coast turneth westward to Aznoth-Tabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the Southside, and reacheth to Asher on the Westside, and to Iudah vpon Iordan toward the Sun rising.",
+            content: "",
         }),
 
         ("joshua", 19, 35) => Some(Verse {
-            content: "And the fenced cities are Ziddim, Zer, and Hammath, Rakkath, and Cinnereth,",
+            content: "",
         }),
 
         ("joshua", 19, 36) => Some(Verse {
-            content: "And Adamah, and Ramah, and Hazor,",
+            content: "",
         }),
 
         ("joshua", 19, 37) => Some(Verse {
-            content: "And Kedesh, and Edrei, and Enhazor,",
+            content: "",
         }),
 
         ("joshua", 19, 38) => Some(Verse {
-            content: "And Iron, and Migdal-el, Horem, and Bethanah, and Bethshemesh, nineteene cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 19, 39) => Some(Verse {
-            content: "This is the inheritance of the tribe of the children of Naphtali according to their families, the cities and their villages.",
+            content: "",
         }),
 
         ("joshua", 19, 40) => Some(Verse {
-            content: "And the seuenth lot came out for the tribe of the children of Dan according to their families:",
+            content: "",
         }),
 
         ("joshua", 19, 41) => Some(Verse {
-            content: "And the coast of their inheritance was Zorah, and Eshtaol, and Irshemesh,",
+            content: "",
         }),
 
         ("joshua", 19, 42) => Some(Verse {
-            content: "And Shaalabbin, and Aiialon, and Iethlah,",
+            content: "",
         }),
 
         ("joshua", 19, 43) => Some(Verse {
-            content: "And Elon, and Thimnathah, and Ekron,",
+            content: "",
         }),
 
         ("joshua", 19, 44) => Some(Verse {
-            content: "And Eltekeh, and Gibbethon, and Baalah,",
+            content: "",
         }),
 
         ("joshua", 19, 45) => Some(Verse {
-            content: "And Iehud, and Bene-berak, and Gath-rimmon,",
+            content: "",
         }),
 
         ("joshua", 19, 46) => Some(Verse {
-            content: "And Meiarkon, and Rakkon, with the border before Iapho.",
+            content: "",
         }),
 
         ("joshua", 19, 47) => Some(Verse {
-            content: "And the coast of the children of Dan went out too little for them: therefore the children of Dan went vp to fight against Leshem, and tooke it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father.",
+            content: "",
         }),
 
         ("joshua", 19, 48) => Some(Verse {
-            content: "This is the inheritance of the tribe of the children of Dan according to their families, these cities with their villages.",
+            content: "",
         }),
 
         ("joshua", 19, 49) => Some(Verse {
-            content: "When they had made an end of diuiding the land for inheritance by their coasts, the children of Israel gaue an inheritance to Ioshua the sonne of Nun among them:",
+            content: "",
         }),
 
         ("joshua", 19, 50) => Some(Verse {
-            content: "According to the word of the Lord, they gaue him the citie which he asked, euen Timnath-Serah in mount Ephraim: and he built the citie, and dwelt therein.",
+            content: "",
         }),
 
         ("joshua", 19, 51) => Some(Verse {
-            content: "These are the inheritances which Eleazar the Priest, and Ioshua the sonne of Nun, and the heads of the fathers of the tribes of the children of Israel, diuided for an inheritance by lot, in Shiloh before the Lord, at the doore of the Tabernacle of the Congregation: so they made an end of diuiding the countrey.",
+            content: "",
         }),
 
         ("joshua", 20, 1) => Some(Verse {
-            content: "The Lord also spake vnto Ioshua, saying,",
+            content: "",
         }),
 
         ("joshua", 20, 2) => Some(Verse {
-            content: "Speake to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake vnto you by the hand of Moses:",
+            content: "",
         }),
 
         ("joshua", 20, 3) => Some(Verse {
-            content: "That the slayer that killeth any person vnawares and vnwittingly, may flee thither: and they shall be your refuge from the auenger of blood.",
+            content: "",
         }),
 
         ("joshua", 20, 4) => Some(Verse {
-            content: "And when he that doeth flee vnto one of those cities, shall stand at the entring of the gate of the city, and shall declare his cause in the eares of the Elders of that citie; they shall take him into the citie vnto them, and giue him a place, that he may dwell among them.",
+            content: "",
         }),
 
         ("joshua", 20, 5) => Some(Verse {
-            content: "And if the auenger of blood pursue after him, then they shal not deliuer the slayer vp into his hand: because hee smote his neighbour vnwittingly, and hated him not beforetime.",
+            content: "",
         }),
 
         ("joshua", 20, 6) => Some(Verse {
-            content: "And hee shall dwell in that citie, vntill he stand before the Congregation for iudgement, and vntill the death of the high Priest that shall bee in those dayes: then shall the slayer returne, and come vnto his owne city, and vnto his owne house, vnto the citie from whence he fled.",
+            content: "",
         }),
 
         ("joshua", 20, 7) => Some(Verse {
-            content: "And they appointed Kedesh in Galilee, in mount Naphtali, and Shechem in mount Ephraim, and Kiriath-arba (which is Hebron) in the mountaine of Iudah.",
+            content: "",
         }),
 
         ("joshua", 20, 8) => Some(Verse {
-            content: "And on the other side Iordan by Iericho Eastward, they assigned Bezer in the wildernesse vpon the plaine, out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.",
+            content: "",
         }),
 
         ("joshua", 20, 9) => Some(Verse {
-            content: "These were the cities appointed for all the children of Israel, and for the stranger that soiourneth among them, that whosoeuer killeth any person at vnawares might flee thither, & not die by the hand of the auenger of blood, vntill he stood before the Congregation.",
+            content: "",
         }),
 
         ("joshua", 21, 1) => Some(Verse {
-            content: "Then came neere the heads of the fathers of the Leuites vnto Eleazar the Priest, and vnto Ioshua the sonne of Nun, and vnto the heads of the fathers of the tribes of the children of Israel.",
+            content: "",
         }),
 
         ("joshua", 21, 2) => Some(Verse {
-            content: "And they spake vnto them at Shiloh in the land of Canaan, saying, The Lord commaunded by the hand of Moses, to giue vs Cities to dwell in, with the suburbs thereof for our cattell.",
+            content: "",
         }),
 
         ("joshua", 21, 3) => Some(Verse {
-            content: "And the children of Israel gaue vnto the Leuites out of their inheritance at the commandement of the Lord, these cities and their suburbs.",
+            content: "",
         }),
 
         ("joshua", 21, 4) => Some(Verse {
-            content: "And the lot came out for the families of the Kohathites: and the children of Aaron the Priest, which were of the Leuites, had by lot out of the tribe of Iudah, and out of the tribe of Simeon, and out of the tribe of Beniamin, thirteene cities.",
+            content: "",
         }),
 
         ("joshua", 21, 5) => Some(Verse {
-            content: "And the rest of the children of Kohath had by lot, out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the halfe tribe of Manasseh, ten cities.",
+            content: "",
         }),
 
         ("joshua", 21, 6) => Some(Verse {
-            content: "And the children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the halfe tribe of Manasseh in Bashan, thirteene cities.",
+            content: "",
         }),
 
         ("joshua", 21, 7) => Some(Verse {
-            content: "The children of Merari by their families, had out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelue cities.",
+            content: "",
         }),
 
         ("joshua", 21, 8) => Some(Verse {
-            content: "And the children of Israel gaue by lot vnto the Leuites these cities with their suburbs, as the Lord commanded by the hand of Moses.",
+            content: "",
         }),
 
         ("joshua", 21, 9) => Some(Verse {
-            content: "And they gaue out of the tribe of the children of Iudah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name,",
+            content: "",
         }),
 
         ("joshua", 21, 10) => Some(Verse {
-            content: "Which the children of Aaron being of the families of the Kohathites, who were of the children of Leui, had: (for theirs was the first lot.)",
+            content: "",
         }),
 
         ("joshua", 21, 11) => Some(Verse {
-            content: "And they gaue them the citie of Arbah the father of Anak (which citie is Hebron) in the hill countrey of Iudah, with þe suburbs thereof round about it.",
+            content: "",
         }),
 
         ("joshua", 21, 12) => Some(Verse {
-            content: "But the fields of the citie, and the villages thereof, gaue they to Caleb the sonne of Iephunneh, for his possession.",
+            content: "",
         }),
 
         ("joshua", 21, 13) => Some(Verse {
-            content: "Thus they gaue to the children of Aaron the Priest Hebron with her suburbs to bee a citie of refuge for the slayer, and Libnah with her suburbs,",
+            content: "",
         }),
 
         ("joshua", 21, 14) => Some(Verse {
-            content: "And Iattir with her suburbs, and Eshtemoa with her suburbs:",
+            content: "",
         }),
 
         ("joshua", 21, 15) => Some(Verse {
-            content: "And Holon with her suburbs, and Debir with her suburbs:",
+            content: "",
         }),
 
         ("joshua", 21, 16) => Some(Verse {
-            content: "And Ain with her suburbs, and Iuttah with her suburbs, and Bethshemesh with her suburbs, nine cities out of those two tribes.",
+            content: "",
         }),
 
         ("joshua", 21, 17) => Some(Verse {
-            content: "And out of the tribe of Beniamin, Gibeon with her suburbs, Geba with her suburbs,",
+            content: "",
         }),
 
         ("joshua", 21, 18) => Some(Verse {
-            content: "Anathoth with her suburbs, and Almon with her suburbs, foure cities.",
+            content: "",
         }),
 
         ("joshua", 21, 19) => Some(Verse {
-            content: "All the cities of the children of Aaron the Priests, were thirteene cities with their suburbs.",
+            content: "",
         }),
 
         ("joshua", 21, 20) => Some(Verse {
-            content: "And the families of the children of Kohath the Leuites, which remained of the children of Kohath, euen they had the cities of their lot out of the tribe of Ephraim.",
+            content: "",
         }),
 
         ("joshua", 21, 21) => Some(Verse {
-            content: "For they gaue them Shechem with her suburbs in mount Ephraim, to be a citie of refuge for the slayer: and Gezer with her suburbs,",
+            content: "",
         }),
 
         ("joshua", 21, 22) => Some(Verse {
-            content: "And Kibzaim with her suburbs, and Beth-horon with her suburbs, foure cities.",
+            content: "",
         }),
 
         ("joshua", 21, 23) => Some(Verse {
-            content: "And out of the tribe of Dan, Eltekeh with her suburbs, Gibethon with her suburbs,",
+            content: "",
         }),
 
         ("joshua", 21, 24) => Some(Verse {
-            content: "Aijalon with her suburbs, Gathrimmon, with her suburbs: foure cities.",
+            content: "",
         }),
 
         ("joshua", 21, 25) => Some(Verse {
-            content: "And out of the halfe tribe of Manasseh, Tanach with her suburbs, and Gathrimmon with her suburbs, two cities.",
+            content: "",
         }),
 
         ("joshua", 21, 26) => Some(Verse {
-            content: "All the cities were ten with their suburbs, for the families of the children of Kohath that remained.",
+            content: "",
         }),
 
         ("joshua", 21, 27) => Some(Verse {
-            content: "And vnto the children of Gershon of the families of the Leuites, out of the other halfe tribe of Manasseh, they gaue Golan in Bashan, with her suburbs, to be a citie of refuge for the slayer: and Beeshterah with her suburbs, two cities.",
+            content: "",
         }),
 
         ("joshua", 21, 28) => Some(Verse {
-            content: "And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs,",
+            content: "",
         }),
 
         ("joshua", 21, 29) => Some(Verse {
-            content: "Iarmuth with her suburbs, Engannim with her suburbs, foure cities.",
+            content: "",
         }),
 
         ("joshua", 21, 30) => Some(Verse {
-            content: "And out of the tribe of Asher Mishal with her suburbs, Abdon with her suburbs,",
+            content: "",
         }),
 
         ("joshua", 21, 31) => Some(Verse {
-            content: "Helkah with her suburbs, and Rehob with her suburbs, foure cities.",
+            content: "",
         }),
 
         ("joshua", 21, 32) => Some(Verse {
-            content: "And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, to be a citie of refuge for the slayer, and Hammoth-dor with her suburbs, and Kartan with her suburbs, three cities.",
+            content: "",
         }),
 
         ("joshua", 21, 33) => Some(Verse {
-            content: "All the cities of the Gershonites according to their families were thirteen cities with their suburbs.",
+            content: "",
         }),
 
         ("joshua", 21, 34) => Some(Verse {
-            content: "And vnto the families of the children of Merari the rest of the Leuites, out of the tribe of Zebulun, Iokneam, with her suburbs, and Kartah with her suburbs,",
+            content: "",
         }),
 
         ("joshua", 21, 35) => Some(Verse {
-            content: "Dimnah with her suburbs, Nahalal with her suburbs, foure cities.",
+            content: "",
         }),
 
         ("joshua", 21, 36) => Some(Verse {
-            content: "And out of the tribe of Reuben, Bezer with her suburbs, and Iahazah with her suburbs,",
+            content: "",
         }),
 
         ("joshua", 21, 37) => Some(Verse {
-            content: "Kedemoth with her suburbs, and Mephaath with her suburbs, foure cities.",
+            content: "",
         }),
 
         ("joshua", 21, 38) => Some(Verse {
-            content: "And out of the tribe of Gad, Ramoth in Gilead with her suburbs, to be a city of refuge for the slayer; and Mahanaim with her suburbs,",
+            content: "",
         }),
 
         ("joshua", 21, 39) => Some(Verse {
-            content: "Heshbon with her suburbs, Iazer with her suburbs, foure cities in all.",
+            content: "",
         }),
 
         ("joshua", 21, 40) => Some(Verse {
-            content: "So all the cities for the children of Merari by their families, which were remayning of the families of the Leuites, were by their lot, twelue cities.",
+            content: "",
         }),
 
         ("joshua", 21, 41) => Some(Verse {
-            content: "All the cities of the Leuites within the possession of the children of Israel, were fourty and eight cities, with their suburbs.",
+            content: "",
         }),
 
         ("joshua", 21, 42) => Some(Verse {
-            content: "These cities were euery one with their suburbs round about them: thus were all these cities.",
+            content: "",
         }),
 
         ("joshua", 21, 43) => Some(Verse {
-            content: "And the Lord gaue vnto Israel all the land which hee sware to giue vnto their fathers: and they possessed it, and dwelt therein.",
+            content: "",
         }),
 
         ("joshua", 21, 44) => Some(Verse {
-            content: "And the Lord gaue them rest round about, according to all that he sware vnto their fathers, and there stood not a man of all their enemies before them: the Lord deliuered all their enemies into their hand.",
+            content: "",
         }),
 
         ("joshua", 21, 45) => Some(Verse {
-            content: "There failed not ought of any good thing which the Lord had spoken vnto the house of Israel: all came to passe.",
+            content: "",
         }),
 
         ("joshua", 22, 1) => Some(Verse {
-            content: "Then Ioshua called the Reubenites, and the Gadites, and the halfe tribe of Manasseh,",
+            content: "",
         }),
 
         ("joshua", 22, 2) => Some(Verse {
-            content: "And said vnto them, Yee haue kept all that Moses the seruant of the Lord commanded you, and haue obeyed my voyce in all that I commanded you.",
+            content: "",
         }),
 
         ("joshua", 22, 3) => Some(Verse {
-            content: "Yee haue not left your brethren these many dayes vnto this day, but haue kept the charge of the commandement of the Lord your God.",
+            content: "",
         }),
 
         ("joshua", 22, 4) => Some(Verse {
-            content: "And now the Lord your God hath giuen rest vnto your brethren, as hee promised them: therefore now returne yee, and get yee vnto your tents, and vnto the land of your possession, which Moses the seruant of the Lord gaue you on the other side Iordane.",
+            content: "",
         }),
 
         ("joshua", 22, 5) => Some(Verse {
-            content: "But take diligent heed, to doe the Commandement and the Law, which Moses the seruant of the Lord charged you, to loue the Lord your God, and to walke in all his wayes, and to keepe his Commaundements, and to cleaue vnto him, and to serue him with all your heart, and with all your soule.",
+            content: "",
         }),
 
         ("joshua", 22, 6) => Some(Verse {
-            content: "So Ioshua blessed them, and sent them away: and they went vnto their tents.",
+            content: "",
         }),
 
         ("joshua", 22, 7) => Some(Verse {
-            content: "Now to the one halfe of the tribe of Manasseh Moses had giuen possession in Bashan: but vnto the other halfe therof gaue Ioshua among their brethren on this side Iordane Westward. And when Ioshua sent them away also vnto their tents, then hee blessed them,",
+            content: "",
         }),
 
         ("joshua", 22, 8) => Some(Verse {
-            content: "And he spake vnto them, saying; Returne with much riches vnto your tents, and with very much cattell, with siluer and with gold, and with brasse, and with iron, and with very much raiment: Diuide the spoile of your enemies with your brethren.",
+            content: "",
         }),
 
         ("joshua", 22, 9) => Some(Verse {
-            content: "And the children of Reuben, and the children of Gad, and the halfe tribe of Manasseh returned, and departed from the children of Israel out of Shiloh which is in the land of Canaan, to goe vnto the countrey of Gilead, to the land of their possession, whereof they were possessed, according to the word of the Lord by the hand of Moses.",
+            content: "",
         }),
 
         ("joshua", 22, 10) => Some(Verse {
-            content: "And when they came vnto the borders of Iordan, that are in the land of Canaan, the children of Reuben, and the children of Gad, and the halfe tribe of Manasseh built there an altar by Iordan, a great altar to see to.",
+            content: "",
         }),
 
         ("joshua", 22, 11) => Some(Verse {
-            content: "And the children of Israel heard say, Behold, the children of Reuben, and the children of Gad, and the halfe tribe of Manasseh, haue built an altar ouer against the land of Canaan, in the borders of Iordan, at the passage of the children of Israel.",
+            content: "",
         }),
 
         ("joshua", 22, 12) => Some(Verse {
-            content: "And when the children of Israel heard of it, the whole Congregation of the children of Israel gathered themselues together at Shiloh, to goe vp to warre against them.",
+            content: "",
         }),
 
         ("joshua", 22, 13) => Some(Verse {
-            content: "And the children of Israel sent vnto the children of Reuben, and to the children of Gad, and to the halfe tribe of Manasseh into the lande of Gilead, Phinehas son of Eleazar the Priest,",
+            content: "",
         }),
 
         ("joshua", 22, 14) => Some(Verse {
-            content: "And with him ten princes, of ech chiefe house a prince, throughout all the tribes of Israel, and each one was an head of the house of their fathers, among the thousands of Israel.",
+            content: "",
         }),
 
         ("joshua", 22, 15) => Some(Verse {
-            content: "And they came vnto the children of Reuben, and to the children of Gad, and to the halfe tribe of Manasseh vnto the land of Gilead, and they spake with them, saying,",
+            content: "",
         }),
 
         ("joshua", 22, 16) => Some(Verse {
-            content: "Thus saith the whole Congregation of the Lord, What trespasse is this that ye haue committed against the God of Israel, to turne away this day from following the Lord, in that ye haue builded you an altar, that yee might rebell this day against the Lord ?",
+            content: "",
         }),
 
         ("joshua", 22, 17) => Some(Verse {
-            content: "Is the iniquitie of Peor too litle for vs, from which we are not cleansed vntil this day, (although there was a plague in the Congregation of the Lord )",
+            content: "",
         }),
 
         ("joshua", 22, 18) => Some(Verse {
-            content: "But that ye must turne away this day from following the Lord ? And it will be, seeing yee rebell to day against the Lord, that to morrow he will be wroth with the whole Congregation of Israel.",
+            content: "",
         }),
 
         ("joshua", 22, 19) => Some(Verse {
-            content: "Notwithstanding, if the lande of your possession be vncleane, then passe yee ouer vnto the land of the possession of the Lord, wherein the Lords Tabernacle dwelleth, and take possession among vs: but rebell not against the Lord, nor rebell against vs, in building you an altar, beside the Altar of the Lord our God.",
+            content: "",
         }),
 
         ("joshua", 22, 20) => Some(Verse {
-            content: "Did not Achan the sonne of Zerah commit a trespasse in the accursed thing, and wrath fell on all the Congregation of Israel? and that man perished not alone in his iniquitie.",
+            content: "",
         }),
 
         ("joshua", 22, 21) => Some(Verse {
-            content: "Then the children of Reuben, and the children of Gad, and the halfe tribe of Manasseh, answered and saide vnto the heads of the thousands of Israel,",
+            content: "",
         }),
 
         ("joshua", 22, 22) => Some(Verse {
-            content: "The Lord God of gods, the Lord God of gods, hee knoweth, and Israel he shall know; if it bee in rebellion, or if in transgression against the Lord, (saue vs not this day,)",
+            content: "",
         }),
 
         ("joshua", 22, 23) => Some(Verse {
-            content: "That wee haue built vs an altar to turne from following the Lord, or if to offer thereon burnt offering, or meat offering, or if to offer peace offerings thereon, let the Lord himselfe require it;",
+            content: "",
         }),
 
         ("joshua", 22, 24) => Some(Verse {
-            content: "And if we haue not rather done it for feare of this thing, saying, In time to come your children might speake vnto our children, saying, What haue you to doe with the Lord God of Israel?",
+            content: "",
         }),
 
         ("joshua", 22, 25) => Some(Verse {
-            content: "For the Lord hath made Iordan a border betweene vs and you, yee children of Reuben, and children of Gad, yee haue no part in the Lord: so shal your children make our children cease from fearing the Lord:",
+            content: "",
         }),
 
         ("joshua", 22, 26) => Some(Verse {
-            content: "Therefore we said, Let vs now prepare to build vs an altar, not for burnt offering, nor for sacrifice,",
+            content: "",
         }),
 
         ("joshua", 22, 27) => Some(Verse {
-            content: "But that it may bee a witnesse betweene vs and you, and our generations after vs, that we might do the seruice of the Lord before him with our burnt offrings, and with our sacrifices, and with our peace offerings, that your children may not say to our children in time to come, Ye haue no part in the Lord.",
+            content: "",
         }),
 
         ("joshua", 22, 28) => Some(Verse {
-            content: "Therefore said we, that it shalbe, when they should so say to vs, or to our generations in time to come, that wee may say againe, Beholde the paterne of the altar of the Lord, which our fathers made, not for burnt offrings, nor for sacrifices, but it is a witnes betweene vs and you.",
+            content: "",
         }),
 
         ("joshua", 22, 29) => Some(Verse {
-            content: "God forbid that we should rebell against the Lord, and turne this day from following the Lord, to build an altar for burnt offerings, for meate offerings, or for sacrifices, besides the Altar of the Lord our God that is before his Tabernacle.",
+            content: "",
         }),
 
         ("joshua", 22, 30) => Some(Verse {
-            content: "And when Phinehas the Priest and the Princes of the Congregation, and Heads of the thousands of Israel which were with him, heard the words that the children of Reuben and the children of Gad, and the children of Manasseh spake, it pleased them.",
+            content: "",
         }),
 
         ("joshua", 22, 31) => Some(Verse {
-            content: "And Phinehas the sonne of Eleazar the Priest said vnto the children of Reuben, and to the children of Gad, and to the children of Manasseh, This day we perceiue that the Lord is among vs, because ye haue not committed this trespasse against the Lord: now ye haue deliuered the children of Israel out of the hand of the Lord.",
+            content: "",
         }),
 
         ("joshua", 22, 32) => Some(Verse {
-            content: "And Phinehas the sonne of Eleazar the Priest, and the Princes, returned from the children of Reuben, and from the children of Gad, out of the land of Gilead, vnto the land of Canaan, to the children of Israel, & brought them word againe.",
+            content: "",
         }),
 
         ("joshua", 22, 33) => Some(Verse {
-            content: "And the thing pleased the children of Israel, and the children of Israel blessed God, and did not intend to goe vp against them in battel, to destroy the land wherein the children of Reuben and Gad dwelt.",
+            content: "",
         }),
 
         ("joshua", 22, 34) => Some(Verse {
-            content: "And the children of Reuben, and the children of Gad called the altar Ed: for it shall bee a witnesse betweene vs, that the Lord is God.",
+            content: "",
         }),
 
         ("joshua", 23, 1) => Some(Verse {
-            content: "And it came to passe, a long time after that the Lord had giuen rest vnto Israel from all their enemies round about, that Ioshua waxed old, and stricken in age.",
+            content: "",
         }),
 
         ("joshua", 23, 2) => Some(Verse {
-            content: "And Ioshua called for all Israel, and for their Elders, & for their Heads, and for their Iudges, and for their Officers, and said vnto them; I am old, and stricken in age.",
+            content: "",
         }),
 
         ("joshua", 23, 3) => Some(Verse {
-            content: "And yee haue seene all that the Lord your God hath done vnto all these nations, because of you; for the Lord your God is hee that hath fought for you.",
+            content: "",
         }),
 
         ("joshua", 23, 4) => Some(Verse {
-            content: "Behold, I haue diuided vnto you by lot these nations that remaine, to bee an inheritance for your tribes, from Iordan, with all the nations that I haue cut off, euen vnto the great Sea Westward.",
+            content: "",
         }),
 
         ("joshua", 23, 5) => Some(Verse {
-            content: "And the Lord your God, hee shall expell them from before you, and driue them from out of your sight, & ye shall possesse their land, as the Lord your God hath promised vnto you.",
+            content: "",
         }),
 
         ("joshua", 23, 6) => Some(Verse {
-            content: "Be ye therefore very courageous to keepe and to doe all that is written in the booke of the Law of Moses, that yee turne not aside therefrom, to the right hand, or to the left,",
+            content: "",
         }),
 
         ("joshua", 23, 7) => Some(Verse {
-            content: "That yee come not among these nations, these that remaine amongst you, neither make mention of the name of their gods, nor cause to sweare by them, neither serue them, nor bow your selues vnto them.",
+            content: "",
         }),
 
         ("joshua", 23, 8) => Some(Verse {
-            content: "But cleaue vnto the Lord your God, as yee haue done vnto this day.",
+            content: "",
         }),
 
         ("joshua", 23, 9) => Some(Verse {
-            content: "For the Lord hath driuen out from before you, great nations, and strong: But as for you, no man hath beene able to stand before you vnto this day.",
+            content: "",
         }),
 
         ("joshua", 23, 10) => Some(Verse {
-            content: "One man of you shall chase a thousand: for the Lord your God, he it is that fighteth for you, as hee hath promised you.",
+            content: "",
         }),
 
         ("joshua", 23, 11) => Some(Verse {
-            content: "Take good heed therefore vnto your selues, that ye loue the Lord your God.",
+            content: "",
         }),
 
         ("joshua", 23, 12) => Some(Verse {
-            content: "Else, if ye do in any wise go backe, and cleaue vnto the remnant of these nations, euen these that remaine among you, and shall make marriages with them, and goe in vnto them, and they to you:",
+            content: "",
         }),
 
         ("joshua", 23, 13) => Some(Verse {
-            content: "Know for a certainety, that the Lord your God will no more driue out any of these nations from before you: but they shalbe snares and traps vnto you, and scourges in your sides, and thornes in your eyes, vntill yee perish from off this good land which the Lord your God hath giuen you.",
+            content: "",
         }),
 
         ("joshua", 23, 14) => Some(Verse {
-            content: "And behold, this day I am going the way of all the earth, and ye know in all your hearts, and in all your soules, that not one thing hath failed of all the good things which the Lord your God spake concerning you; all are come to passe vnto you, and not one thing hath failed thereof.",
+            content: "",
         }),
 
         ("joshua", 23, 15) => Some(Verse {
-            content: "Therefore it shall come to passe, that as all good things are come vpon you, which the Lord your God promised you: so shall the Lord bring vpon you all euill things, vntill he haue destroyed you from off this good land which the Lord your God hath giuen you.",
+            content: "",
         }),
 
         ("joshua", 23, 16) => Some(Verse {
-            content: "When yee haue transgressed the Couenant of the Lord your God, which hee commaunded you, and haue gone and serued other gods, and bowed your selues to them: then shall the anger of the Lord bee kindled against you, and yee shall perish quickly from off the good land which hee hath giuen vnto you.",
+            content: "",
         }),
 
         ("joshua", 24, 1) => Some(Verse {
-            content: "And Ioshua gathered all the Tribes of Israel to Shechem, and called for the Elders of Israel, and for their Heads, and for their Iudges, and for their Officers, and they presented themselues before God.",
+            content: "",
         }),
 
         ("joshua", 24, 2) => Some(Verse {
-            content: "And Ioshua said vnto all the people, Thus saith the Lord God of Israel, Your fathers dwelt on the other side of the flood in old time, euen Terah the father of Abraham, and the father of Nachor: and they serued other gods.",
+            content: "",
         }),
 
         ("joshua", 24, 3) => Some(Verse {
-            content: "And I tooke your father Abraham frō the other side of the flood, and led him throughout all the land of Canaan, and multiplied his seed, and gaue him Isaac.",
+            content: "",
         }),
 
         ("joshua", 24, 4) => Some(Verse {
-            content: "And I gaue vnto Isaac, Iacob and Esau: & I gaue vnto Esau mount Seir, to possesse it: but Iacob and his children went downe into Egypt.",
+            content: "",
         }),
 
         ("joshua", 24, 5) => Some(Verse {
-            content: "I sent Moses also and Aaron, and I plagued Egypt, according to that which I did amongst them: and afterward, I brought you out.",
+            content: "",
         }),
 
         ("joshua", 24, 6) => Some(Verse {
-            content: "And I brought your fathers out of Egypt: and you came vnto the sea, and the Egyptians pursued after your fathers with charets and horsemen vnto the red sea.",
+            content: "",
         }),
 
         ("joshua", 24, 7) => Some(Verse {
-            content: "And when they cried vnto the Lord, hee put darkenesse betweene you and the Egyptians, and brought the sea vpon them, and couered them, and your eyes haue seene what I haue done in Egypt, and ye dwelt in the wildernes a long season.",
+            content: "",
         }),
 
         ("joshua", 24, 8) => Some(Verse {
-            content: "And I brought you into the land of the Amorites, which dwelt on the other side Iordan: and they fought with you, and I gaue them into your hand, that ye might possesse their land, and I destroyed them from before you.",
+            content: "",
         }),
 
         ("joshua", 24, 9) => Some(Verse {
-            content: "Then Balak the sonne of Zippor king of Moab, arose and warred against Israel, and sent and called Balaam the sonne of Beor to curse you:",
+            content: "",
         }),
 
         ("joshua", 24, 10) => Some(Verse {
-            content: "But I would not hearken vnto Balaam, therefore he blessed you still: so I deliuered you out of his hand.",
+            content: "",
         }),
 
         ("joshua", 24, 11) => Some(Verse {
-            content: "And ye went ouer Iordan, and came vnto Iericho: and the men of Iericho fought against you, the Amorites, and the Perizzites, & the Canaanites, and the Hittites, and the Girgashites, the Hiuites, and the Iebusites, and I deliuered them into your hand.",
+            content: "",
         }),
 
         ("joshua", 24, 12) => Some(Verse {
-            content: "And I sent the hornet before you, which draue them out from before you, euen the two kings of the Amorites: but not with thy sword, nor with thy bow.",
+            content: "",
         }),
 
         ("joshua", 24, 13) => Some(Verse {
-            content: "And I haue giuen you a land for which ye did not labour, & cities which ye built not, and yee dwell in them: of the vineyards and Oliue-yards which ye planted not, doe ye eate.",
+            content: "",
         }),
 
         ("joshua", 24, 14) => Some(Verse {
-            content: "Now therefore, feare the Lord, and serue him in sinceritie, and in trueth, and put away the gods which your fathers serued on the other side of the flood, and in Egypt: and serue yee the Lord.",
+            content: "",
         }),
 
         ("joshua", 24, 15) => Some(Verse {
-            content: "And if it seeme euill vnto you to serue the Lord, choose you this day whome you will serue, whether the gods which your fathers serued that were on the other side of the flood, or the gods of the Amorites, in whose lande ye dwell: but as for mee and my house, we will serue the Lord.",
+            content: "",
         }),
 
         ("joshua", 24, 16) => Some(Verse {
-            content: "And the people answered and said, God forbid that wee should forsake the Lord, to serue other gods.",
+            content: "",
         }),
 
         ("joshua", 24, 17) => Some(Verse {
-            content: "For the Lord our God, he it is that brought vs vp and our fathers out of the land of Egypt, from the house of bondage, & which did those great signes in our sight, and preserued vs in all the way wherein we went, and among all the people through whom we passed.",
+            content: "",
         }),
 
         ("joshua", 24, 18) => Some(Verse {
-            content: "And the Lord draue out from before vs all the people, euen the Amorites which dwelt in the land: therefore will we also serue the Lord, for he is our God.",
+            content: "",
         }),
 
         ("joshua", 24, 19) => Some(Verse {
-            content: "And Ioshua said vnto the people, Ye cannot serue the Lord: for hee is an holy God: he is a ielous God, he will not forgiue your transgressions nor your sinnes.",
+            content: "",
         }),
 
         ("joshua", 24, 20) => Some(Verse {
-            content: "If yee forsake the Lord, and serue strange gods, then he will turne, and doe you hurt, and consume you, after that he hath done you good.",
+            content: "",
         }),
 
         ("joshua", 24, 21) => Some(Verse {
-            content: "And the people said vnto Ioshua, Nay, but we will serue the Lord.",
+            content: "",
         }),
 
         ("joshua", 24, 22) => Some(Verse {
-            content: "And Ioshua said vnto the people, Yee are witnesses against your selues, that yee haue chosen you the Lord, to serue him. And they said, We are witnesses.",
+            content: "",
         }),
 
         ("joshua", 24, 23) => Some(Verse {
-            content: "Now therefore put away, said he, the strange gods which are among you, and encline your heart vnto the Lord God of Israel.",
+            content: "",
         }),
 
         ("joshua", 24, 24) => Some(Verse {
-            content: "And the people saide vnto Ioshua; The Lord our God will we serue, and his voice will we obey.",
+            content: "",
         }),
 
         ("joshua", 24, 25) => Some(Verse {
-            content: "So Ioshua made a couenant with the people that day, and set them a Statute, & an Ordinance in Shechem.",
+            content: "",
         }),
 
         ("joshua", 24, 26) => Some(Verse {
-            content: "And Ioshua wrote these words in the booke of the Law of God, and tooke a great stone, and set it vp there, vnder an oake, that was by the Sanctuary of the Lord.",
+            content: "",
         }),
 
         ("joshua", 24, 27) => Some(Verse {
-            content: "And Ioshua saide vnto all the people, Behold, this stone shalbe a witnesse vnto vs; for it hath heard all the words of the Lord which hee spake vnto vs; it shall be there for a witnesse vnto you, lest ye deny your God.",
+            content: "",
         }),
 
         ("joshua", 24, 28) => Some(Verse {
-            content: "So Ioshua let the people depart, euery man vnto his inheritance.",
+            content: "",
         }),
 
         ("joshua", 24, 29) => Some(Verse {
-            content: "And it came to passe after these things, that Ioshua the sonne of Nun the seruant of the Lord died, being an hundred and ten yeeres old.",
+            content: "",
         }),
 
         ("joshua", 24, 30) => Some(Verse {
-            content: "And they buried him in the border of his inheritance in Timnath-Serah, which is in mount Ephraim, on the North side of the hill of Gaash.",
+            content: "",
         }),
 
         ("joshua", 24, 31) => Some(Verse {
-            content: "And Israel serued the Lord all the dayes of Ioshua, & all the dayes of the Elders that ouerliued Ioshua, and which had knowen al the works of the Lord, that he had done for Israel.",
+            content: "",
         }),
 
         ("joshua", 24, 32) => Some(Verse {
-            content: "And the bones of Ioseph, which the children of Israel brought vp out of Egypt, buried they in Shechem, in a parcell of ground which Iacob bought of the sonnes of Hamor the father of Shechem, for an hundred pieces of siluer; and it became the inheritance of the children of Ioseph.",
+            content: "",
         }),
 
         ("joshua", 24, 33) => Some(Verse {
-            content: "And Eleazar the sonne of Aaron died, and they buried him in a hill that pertained to Phinehas his son, which was giuen him in mount Ephraim.",
+            content: "",
         }),
 
         // THE BOOK OF JUDGES
 
         ("judges", 1, 1) => Some(Verse {
-            content: "Now after the death of Ioshua, it came to passe, that the children of Israel asked the Lord, saying, Who shal goe vp for vs against the Canaanites first, to fight against them?",
+            content: "",
         }),
 
         ("judges", 1, 2) => Some(Verse {
-            content: "And the Lord sayd, Iudah shall goe vp: Behold, I haue deliuered the land into his hand.",
+            content: "",
         }),
 
         ("judges", 1, 3) => Some(Verse {
