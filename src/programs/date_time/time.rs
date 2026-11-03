@@ -16,6 +16,7 @@ pub const DAYS_PER_YEAR: u64 = 365;
 pub const DAYS: [&str; 7] = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 pub const MONTHS: [&str; 12] = ["January", "Febuary", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
+// do something with this
 
 pub fn physical_time(_distance: f64) -> f64 {
     let c: f64 = SPEED_OF_LIGHT_IN_VACUUM.value;
@@ -27,29 +28,55 @@ pub fn physical_time(_distance: f64) -> f64 {
     time
 }
 
+// work in progress: time
+
 pub fn system_time() -> SystemTime {
     let system_time_now = SystemTime::now();
 
     system_time_now
 }
 
-pub fn seconds_per_minute(seconds: u64) -> u64 {
+pub fn seconds_per_hour() -> u64 {
+    let seconds_per_hour = SECONDS_PER_MINUTE * MINUTES_PER_HOUR;
+    seconds_per_hour
+}
+
+pub fn seconds_per_day() -> u64 {
+    let seconds_per_day = SECONDS_PER_MINUTE * MINUTES_PER_HOUR * HOURS_PER_DAY;
+    seconds_per_day
+}
+
+pub fn seconds_per_year() -> u64 {
+    let seconds_per_year = SECONDS_PER_MINUTE * MINUTES_PER_HOUR * HOURS_PER_DAY * DAYS_PER_YEAR;
+    seconds_per_year
+}
+
+pub fn minutes_since(seconds: u64) -> u64 {
     let calc = seconds / SECONDS_PER_MINUTE;
+    
     calc
 }
 
-pub fn seconds_per_hour(seconds: u64) -> u64 {
-    let seconds_per_hour = SECONDS_PER_MINUTE * MINUTES_PER_HOUR;
+pub fn hours_since(seconds: u64) -> u64 {
+    let seconds_per_hour = seconds_per_hour();
 
     let calc = seconds / seconds_per_hour;
 
     calc
 }
 
-pub fn seconds_per_day(seconds: u64) -> u64 {
-    let seconds_per_day = SECONDS_PER_MINUTE * MINUTES_PER_HOUR * HOURS_PER_DAY;
+pub fn days_since(seconds: u64) -> u64 {
+    let seconds_per_day = seconds_per_day();
     
     let calc = seconds / seconds_per_day;
+
+    calc
+}
+
+pub fn years_since(seconds: u64) -> u64 {
+    let seconds_per_year = seconds_per_year();
+
+    let calc = seconds / seconds_per_year;
 
     calc
 }
@@ -63,19 +90,21 @@ pub fn seconds_since_unix_epoc() {
 
             let parse = string.parse::<u64>().expect("Not a valid number");
 
-            //let rem = parse % SECONDS_PER_DAY;
+            println!("Seconds since unix epoch: {}", parse);
 
-            //println!("{}", rem);
-
-            let minutes_since = seconds_per_minute(parse);
+            let minutes_since = minutes_since(parse);
 
             println!("{}", minutes_since);
 
-            let hours_since = seconds_per_hour(parse);
+            let hours_since = hours_since(parse);
 
             println!("{}", hours_since);
 
-            let years_since = seconds_per_day(parse) / DAYS_PER_YEAR;
+            let days_since = days_since(parse);
+
+            println!("{}", days_since);
+
+            let years_since = years_since(parse);
 
             println!("{}", years_since);
         }
