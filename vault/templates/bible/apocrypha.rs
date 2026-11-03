@@ -8086,7 +8086,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        // THE BOOK OF THE WISDOM OF SOLOMON
+        // THE BOOK OF WISDOM OF SOLOMON
 
         ("wisdom of solomon", 1, 1) => Some(Verse { 
             content: "", 
