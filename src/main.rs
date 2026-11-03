@@ -1,3 +1,5 @@
+use gpse::programs::date_time::time::seconds_since_unix_epoc;
+
 use gpse::systems::command::core::command_core::cli_commands;
 
 use gpse::core::data_types::numeric::NumericType;
@@ -32,7 +34,7 @@ fn main() {
     // Refactor Test to systems::command::core
 
     print!("GREETINGS, WELCOME BACK! ");
-    println!("[ DATE / TIME ]");
+    println!("[ DATE / {:?} ]", seconds_since_unix_epoc());
     print!("GENERAL PURPOSE SIMULATION ENGINE ");
     println!("[ VERSION: 0.0.1 ]");
     println!("Enter \"command\" to start.");
