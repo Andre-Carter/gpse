@@ -4,6 +4,19 @@ use std::time::SystemTime; // use std::time::Duration
 use crate::science::astrological::celestial::EARTH;
 use crate::science::physical::constants::SPEED_OF_LIGHT_IN_VACUUM;
 
+pub const SECONDS_PER_MINUTE: u64 = 60;
+pub const MINUTES_PER_HOUR: u64 = 60;
+pub const HOURS_PER_DAY: u64 = 24;
+
+pub const SECONDS_PER_DAY: u64 = 86_400;
+
+pub const DAYS_PER_WEEK: u64 = 7;
+pub const DAYS_PER_YEAR: u64 = 365;
+
+pub const DAYS: [&str; 7] = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+pub const MONTHS: [&str; 12] = ["January", "Febuary", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+
 pub fn physical_time(_distance: f64) -> f64 {
     let c: f64 = SPEED_OF_LIGHT_IN_VACUUM.value;
 
@@ -20,21 +33,25 @@ pub fn system_time() -> SystemTime {
     system_time_now
 }
 
-pub const SECONDS: u64 = 60;
-pub const MINUTES: u64 = 60;
-pub const HOURS: u64 = 24;
+pub fn seconds_per_minute(seconds: u64) -> u64 {
+    let calc = seconds / SECONDS_PER_MINUTE;
+    calc
+}
 
-pub const SECONDS_IN_A_DAY: u64 = 86_400;
+pub fn seconds_per_hour(seconds: u64) -> u64 {
+    let seconds_per_hour = SECONDS_PER_MINUTE * MINUTES_PER_HOUR;
 
-pub const DAYS_PER_WEEK: u64 = 7;
-pub const DAYS_PER_YEAR: u64 = 365;
+    let calc = seconds / seconds_per_hour;
+
+    calc
+}
 
 pub fn seconds_per_day(seconds: u64) -> u64 {
-    let seconds_per_day = SECONDS * MINUTES * HOURS;
+    let seconds_per_day = SECONDS_PER_MINUTE * MINUTES_PER_HOUR * HOURS_PER_DAY;
     
-    let time = seconds / seconds_per_day;
+    let calc = seconds / seconds_per_day;
 
-    time
+    calc
 }
 
 pub fn seconds_since_unix_epoc() {
@@ -46,15 +63,23 @@ pub fn seconds_since_unix_epoc() {
 
             let parse = string.parse::<u64>().expect("Not a valid number");
 
-            let time = seconds_per_day(parse) / DAYS_PER_YEAR;
+            //let rem = parse % SECONDS_PER_DAY;
 
-            
+            //println!("{}", rem);
 
-            println!("{}", time);
+            let minutes_since = seconds_per_minute(parse);
+
+            println!("{}", minutes_since);
+
+            let hours_since = seconds_per_hour(parse);
+
+            println!("{}", hours_since);
+
+            let years_since = seconds_per_day(parse) / DAYS_PER_YEAR;
+
+            println!("{}", years_since);
         }
         Err(_) => panic!("SystemTime before UNIX EPOCH!"),
     }
 }
 
-pub const DAYS: [&str; 7] = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-pub const MONTHS: [&str; 12] = ["January", "Febuary", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
