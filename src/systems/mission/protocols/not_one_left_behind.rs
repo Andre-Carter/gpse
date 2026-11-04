@@ -1,4 +1,4 @@
-use crate::systems::personnel::kernel::records::PersonnelList;
+use crate::systems::personnel::kernel::records::{Personnel, PersonnelId, PersonnelList};
 // N.O.L.B PROTOCOL
 
 //
@@ -19,23 +19,13 @@ pub struct AccountabiltyProtocol {
 
 //
 
-pub fn accountability() {
+pub fn sample_expected() -> PersonnelList {
     let mut expected = PersonnelList::new();
+    for id in 1..=3 {
+        expected.add(Personnel::new(PersonnelId::new(id)));
+    }
+    expected
 }
-
-/*
-expected.add(Personnel {
-    id: PersonnelId(1),
-});
-
-expected.add(Personnel {
-    id: PersonnelId(2),
-});
-
-expected.add(Personnel {
-    id: PersonnelId(3),
-});
-*/
 
 
 

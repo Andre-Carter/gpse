@@ -1,11 +1,9 @@
-#[derive(Debug, Clone, Copy, PartialEq, Eq, Hash)]
-pub struct PersonnelId(pub id: u64);
+#[derive(Debug, Default, Clone, Copy, PartialEq, Eq, Hash)]
+pub struct PersonnelId { pub id: u64 }
 
 impl PersonnelId {
-    pub fn new() -> Self {
-        Self {
-            id: u64,
-        }
+    pub fn new(value: u64) -> Self {
+            Self { id: value }
     }
 }
 
@@ -16,82 +14,90 @@ pub struct Personnel {
 }
 
 impl Personnel {
-    pub fn new() -> Self {
-        Self {
-            id: PersonnelId,
-        }
+    pub fn new(id: PersonnelId) -> Self {
+        Self { id }
     }
 }
 
 // a list of personnel
+#[derive(Debug, Default)]
 pub struct PersonnelList {
     personnel: Vec<Personnel>,
 }
 
 impl PersonnelList {
     pub fn new() -> Self {
-        Self {
-            Self::default()
-        }
+        Self::default()
     }
 
-    pub fn add(&mut self, personnel: Personnel) {
-        if !self.personnel.contains(&personnel) {
-            self.personnel.push(personnel);
+    pub fn add(&mut self, personnel: Personnel) -> bool {
+        if self.personnel.contains(&personnel) {
+            return false;
         }
+        self.personnel.push(personnel);
+        true
     }
 
     pub fn contains(&self, id: PersonnelId) -> bool {
         self.personnel.iter().any(|person| person.id == id)
     }
-}
 
-impl Default for PersonnelList {
-    fn default() -> Self {
-        Self::new()
+    pub fn len(&self) -> usize {
+        self.personnel.len()
     }
-}
 
-pub fn personnel_list(personnel: Vec<Personnel>) {
-    
+    pub fn is_empty(&self) -> bool {
+        self.personnel.is_empty()
+    }
 }
 
 // personnel record
 
-#[derive(Debug, Clone, Copy, PartialEq, Eq)]
-pub struct PersonnelName(pub name: String);
+#[derive(Debug, Default, Clone, PartialEq, Eq)]
+pub struct PersonnelName { 
+    pub name: String,
+}
 
 impl PersonnelName {
-    pub fn new() -> Self {
+    pub fn new(name: impl Into<String>) -> Self {
         Self {
-            name: String,
+            name: name.into()
         }
     }
 }
 
+#[derive(Debug, Default)]
 pub struct PersonnelRecord {
     id: PersonnelId,
     name: PersonnelName,
 }
 
 impl PersonnelRecord {
-    pub fn new() -> Self {
-        Self {
-            id: PersonnelId, 
-            name: PersonnelName,
-        }
+    pub fn new(id: PersonnelId, name: PersonnelName) -> Self {
+        Self { id, name }
     }
 }
 
+#[derive(Debug, Default)]
 pub struct PersonnelRecords {
     personnel_records: Vec<PersonnelRecord>,
 }
 
 impl PersonnelRecords {
     pub fn new() -> Self {
-        Self {
-            personnel_records: Vec::new(),
+        Self::default()
+    }
+
+    pub fn add(&mut self, record: PersonnelRecord) -> bool {
+        if self.personnel_records.iter().any(|r| r.id == record.id) {
+            return false;
         }
+        self.personnel_records.push(record);
+        true
+    }
+
+    pub fn get(&self, id: PersonnelId) -> Option<&PersonnelRecord> {
+        self.personnel_records.iter().find(|r| r.id == id)
     }
 }
 
@@ -128,10 +134,26 @@ pub struct PersonnelReport {
     personnel_record: PersonnelRecord,
 }
 
-//
-/*
-// test 
-const person_1: Personnel = 556;
-const person_2: Personnel = 223;
-const mission_1_personnel: PersonnelLog = !vec[person_1, person_2];
-*/
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn list_rejects_duplicates() {
+        let mut list = PersonnelList::new();
+        assert!(list.add(Personnel::new(PersonnelId::new(1))));
+        assert!(!list.add(Personnel::new(PersonnelId::new(1))));
+        assert_eq!(list.len(), 1);
+    }
+
+    #[test]
+    fn records_lookup_by_id() {
+        let mut records = PersonnelRecords::new();
+        records.add(PersonnelRecord::new(
+            PersonnelId::new(556),
+            PersonnelName::new("Doe"),
+        ));
+        assert!(records.get(PersonnelId::new(556)).is_some());
+        assert!(records.get(PersonnelId::new(223)).is_none());
+    }
+}
