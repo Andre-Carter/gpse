@@ -1,9 +1,9 @@
-use crate::core::data_types::conversion::convert_to_u32;
+use crate::foundation::data_types::conversion::convert_to_u32;
 
 
-//use crate::core::data_types::conversion::f32_to_f64;
-//use crate::core::data_types::conversion::i32_to_i64;
-use crate::core::data_types::conversion::u32_to_u64;
+//use crate::foundation::data_types::conversion::f32_to_f64;
+//use crate::foundation::data_types::conversion::i32_to_i64;
+use crate::foundation::data_types::conversion::u32_to_u64;
 
 use std::io::{Write, stdin, stdout};
 

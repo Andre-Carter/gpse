@@ -1,4 +1,4 @@
-use crate::core::input::text::characters;
+use crate::foundation::input::text::characters;
 
 // SYMBOLICS
 

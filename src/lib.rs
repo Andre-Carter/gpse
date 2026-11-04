@@ -1,5 +1,5 @@
 pub mod archive;
-pub mod core;
+pub mod foundation;
 pub mod gui;
 pub mod lang;
 pub mod mathematical;

@@ -1,7 +1,7 @@
-use crate::core::data_types::numeric::Numeric;
+use crate::foundation::data_types::numeric::Numeric;
 
-use crate::core::data_types::numeric::F32_MINIMUM_POSITIVE_NORMAL_VALUE;
-use crate::core::data_types::numeric::F64_MAXIMUM_POSITIVE_NORMAL_VALUE;
+use crate::foundation::data_types::numeric::F32_MINIMUM_POSITIVE_NORMAL_VALUE;
+use crate::foundation::data_types::numeric::F64_MAXIMUM_POSITIVE_NORMAL_VALUE;
 
 use std::io::{Write, stdin, stdout};
 
