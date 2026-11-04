@@ -1,9 +1,4 @@
-use crate::core::input::text::characters;
-use std::str::Chars;
-
-pub const RGB_HEX_MAP: &str = "#RRGGBB";
-
-pub const HEX_DIGITS: &[u8, 16] = b"0123456789ABCDEF";
+pub const HEX_DIGITS: &[u8; 16] = b"0123456789ABCDEF";
 
 pub struct Rgb {
     pub r: u8,
