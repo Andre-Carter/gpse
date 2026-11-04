@@ -1193,7 +1193,7 @@ mod tests {
 
     #[test]
     fn test_mul_i8_min_times_negative_one() {
-        assert_eq!(mul_i8(i8::MIN, -1), Ok())
+        assert_eq!(mul_i8(i8::MIN, -1), Err(ArithmeticError::Underflow))
     }
 
     #[test]
@@ -1703,11 +1703,6 @@ mod tests {
     }
 
     #[test]
-    fn test_pow_i8_invalid_exponent() {
-        assert_eq!(pow_i8(10, 2), Err(ArithmeticError::InvalidExponent))
-    }
-
-    #[test]
     fn test_pow_i32() {
         assert_eq!(pow_i32(10, 2), Ok(100))
     }
@@ -1794,17 +1789,17 @@ mod tests {
 
     #[test]
     fn test_pow_f32_overflow() {
-        assert_eq!(pow_f32(10, 2), Err(ArithmeticError::Overflow))
+        assert_eq!(pow_f32(10.0, 2.0), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_pow_f32_underflow() {
-        assert_eq!(pow_f32(10, 2), Err(ArithmeticError::Underflow))
+        assert_eq!(pow_f32(10.0, 2.0), Err(ArithmeticError::Underflow))
     }
 
     #[test]
     fn test_pow_f32_invalid_exponent() {
-        assert_eq!(pow_f32(10, 2), Err(ArithmeticError::InvalidExponent))
+        assert_eq!(pow_f32(10.0, 2.0), Err(ArithmeticError::InvalidExponent))
     }
 
     #[test]
@@ -1819,17 +1814,17 @@ mod tests {
 
     #[test]
     fn test_pow_f64_overflow() {
-        assert_eq!(pow_f64(10, 2), Err(ArithmeticError::Overflow))
+        assert_eq!(pow_f64(10.0, 2.0), Err(ArithmeticError::Overflow))
     }
 
     #[test]
     fn test_pow_f64_underflow() {
-        assert_eq!(pow_f64(10, 2), Err(ArithmeticError::Underflow))
+        assert_eq!(pow_f64(10.0, 2.0), Err(ArithmeticError::Underflow))
     }
 
     #[test]
     fn test_pow_f64_invalid_exponent() {
-        assert_eq!(pow_f64(10, 2), Err(ArithmeticError::InvalidExponent))
+        assert_eq!(pow_f64(10.0, 2.0), Err(ArithmeticError::InvalidExponent))
     }
 
     #[test]
