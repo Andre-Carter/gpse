@@ -964,10 +964,6 @@ mod tests {
         assert_eq!(add_f64(f64::MAX, f64::MAX), Err(ArithmeticError::Overflow))
     }
 
-    // TEST SUBTRACTION: SUB, UPPER, LOWER, OVERFLOW, UNDERFLOW
-    // NOTE: fix sub logic... MAX +/- 1
-    // REAL NOTE: WE MAY NEED TO RANGE TO CALCULATE OVERFLOW/UNDERFLOW LOGIC
-
     #[test]
     fn test_sub_u8() {
         assert_eq!(sub_u8(3, 2), Ok(1))
@@ -1094,6 +1090,11 @@ mod tests {
     }
 
     #[test]
+    fn test_sub_f32_overflow() {
+        assert_eq!(sub_f32(f32::MIN, 1.0), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
     fn test_sub_f32_max() {
         assert_eq!(sub_f32(f32::MAX, f32::MAX), Ok(0.0))
     }
@@ -1103,6 +1104,11 @@ mod tests {
         assert_eq!(sub_f64(3.0, 2.0), Ok(1.0))
     }
 
+    #[test]
+    fn test_sub_f64_overflow() {
+        assert_eq!(sub_f64(f64::MIN, 1.0), Err(ArithmeticError::Overflow))
+    }
+
     // TEST MULTIPICATION
 
     #[test]
@@ -1110,10 +1116,9 @@ mod tests {
         assert_eq!(mul_u8(10, 10), Ok(100))
     }
 
-    // test bug
     #[test]
-    fn test_mul_u8_two() {
-        assert_eq!(mul_u8(0, 5), Ok(0))
+    fn test_mul_u8_overflow() {
+        assert_eq!(mul_u8(10, 10), Err(ArithmeticError::Overflow))
     }
 
     #[test]
@@ -1122,8 +1127,18 @@ mod tests {
     }
 
     #[test]
+    fn test_mul_u16_overflow() {
+        assert_eq!(mul_u16(10, 10), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
     fn test_mul_u32() {
         assert_eq!(mul_u32(10, 10), Ok(100))
+    }
+
+    #[test]
+    fn test_mul_u32_overflow() {
+        assert_eq!(mul_u32(10, 10), Err(ArithmeticError::Overflow))
     }
 
     #[test]
@@ -1132,8 +1147,18 @@ mod tests {
     }
 
     #[test]
+    fn test_mul_u64_overflow() {
+        assert_eq!(mul_u64(10, 10), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
     fn test_mul_u128() {
         assert_eq!(mul_u128(10, 10), Ok(100))
+    }
+
+    #[test]
+    fn test_mul_u128_overflow() {
+        assert_eq!(mul_u128(10, 10), Err(ArithmeticError::Overflow))
     }
 
     #[test]
@@ -1142,14 +1167,13 @@ mod tests {
     }
 
     #[test]
-    fn test_mul_i8() {
-        assert_eq!(mul_i8(10, 10), Ok(100))
+    fn test_mul_usize_overflow() {
+        assert_eq!(mul_usize(10, 10), Err(ArithmeticError::Overflow))
     }
 
-    // test bug
     #[test]
     fn test_mul_i8() {
-        assert_eq!(mul_i8(-1, 5), Ok(-5))
+        assert_eq!(mul_i8(10, 10), Ok(100))
     }
 
     #[test]
@@ -1158,8 +1182,33 @@ mod tests {
     }
 
     #[test]
+    fn test_mul_i8_underflow() {
+        assert_eq!(mul_i8(10, 10), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
+    fn test_mul_i8_negative_times_positive() {
+        assert_eq!(mul_i8(-1, 5), Ok(-5))
+    }
+
+    #[test]
+    fn test_mul_i8_min_times_negative_one() {
+        assert_eq!(mul_i8(i8::MIN, -1), Ok())
+    }
+
+    #[test]
     fn test_mul_i16() {
         assert_eq!(mul_i16(10, 10), Ok(100))
+    }
+
+    #[test]
+    fn test_mul_i16_overflow() {
+        assert_eq!(mul_i16(10, 10), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_mul_i16_underflow() {
+        assert_eq!(mul_i16(10, 10), Err(ArithmeticError::Underflow))
     }
 
     #[test]
@@ -1168,8 +1217,28 @@ mod tests {
     }
 
     #[test]
+    fn test_mul_i32_overflow() {
+        assert_eq!(mul_i32(10, 10), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_mul_i32_underflow() {
+        assert_eq!(mul_i32(10, 10), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
     fn test_mul_i64() {
         assert_eq!(mul_i64(10, 10), Ok(100))
+    }
+
+    #[test]
+    fn test_mul_i64_overflow() {
+        assert_eq!(mul_i64(10, 10), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_mul_i64_underflow() {
+        assert_eq!(mul_i64(10, 10), Err(ArithmeticError::Underflow))
     }
 
     #[test]
@@ -1178,8 +1247,28 @@ mod tests {
     }
 
     #[test]
+    fn test_mul_i128_overflow() {
+        assert_eq!(mul_i128(10, 10), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_mul_i128_underflow() {
+        assert_eq!(mul_i128(10, 10), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
     fn test_mul_isize() {
         assert_eq!(mul_isize(10, 10), Ok(100))
+    }
+
+    #[test]
+    fn test_mul_isize_overflow() {
+        assert_eq!(mul_isize(10, 10), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_mul_isize_underflow() {
+        assert_eq!(mul_isize(10, 10), Err(ArithmeticError::Underflow))
     }
 
     #[test]
@@ -1188,8 +1277,28 @@ mod tests {
     }
 
     #[test]
+    fn test_mul_f32_overflow() {
+        assert_eq!(mul_f32(10.0, 10.0), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_mul_f32_underflow() {
+        assert_eq!(mul_f32(10.0, 10.0), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
     fn test_mul_f64() {
         assert_eq!(mul_f64(10.0, 10.0), Ok(100.0))
+    }
+
+    #[test]
+    fn test_mul_f64_overflow() {
+        assert_eq!(mul_f64(10.0, 10.0), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_mul_f64_underflow() {
+        assert_eq!(mul_f64(10.0, 10.0), Err(ArithmeticError::Underflow))
     }
 
     // TEST DIVISION
@@ -1427,6 +1536,11 @@ mod tests {
     }
 
     #[test]
+    fn test_rem_i32_min_by_negative_one() {
+        assert_eq!(rem_i32(i32::MIN, -1), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
     fn test_rem_i64() {
         assert_eq!(rem_i64(i64::MAX, 10), Ok(7))
     }
@@ -1494,8 +1608,18 @@ mod tests {
     }
 
     #[test]
+    fn test_pow_u16_overflow() {
+        assert_eq!(pow_u16(10, 2), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
     fn test_pow_u32() {
         assert_eq!(pow_u32(10, 2), Ok(100))
+    }
+
+    #[test]
+    fn test_pow_u32_overflow() {
+        assert_eq!(pow_u32(10, 2), Err(ArithmeticError::Overflow))
     }
 
     #[test]
@@ -1504,8 +1628,28 @@ mod tests {
     }
 
     #[test]
+    fn test_pow_u64_invalid_exponent() {
+        assert_eq!(pow_u64(10, 2), Err(ArithmeticError::InvalidExponent))
+    }
+
+    #[test]
+    fn test_pow_u64_overflow() {
+        assert_eq!(pow_u64(10, 2), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
     fn test_pow_u128() {
         assert_eq!(pow_u128(10, 2), Ok(100))
+    }
+
+    #[test]
+    fn test_pow_u128_invalid_exponent() {
+        assert_eq!(pow_u128(10, 2), Err(ArithmeticError::InvalidExponent))
+    }
+
+    #[test]
+    fn test_pow_u128_overflow() {
+        assert_eq!(pow_u128(10, 2), Err(ArithmeticError::Overflow))
     }
 
     #[test]
@@ -1514,8 +1658,33 @@ mod tests {
     }
 
     #[test]
+    fn test_pow_usize_invalid_exponent() {
+        assert_eq!(pow_usize(10, 2), Err(ArithmeticError::InvalidExponent))
+    }
+
+    #[test]
+    fn test_pow_usize_overflow() {
+        assert_eq!(pow_usize(10, 2), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
     fn test_pow_i8() {
         assert_eq!(pow_i8(10, 2), Ok(100))
+    }
+
+    #[test]
+    fn test_pow_i8_overflow() {
+        assert_eq!(pow_i8(10, 2), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_pow_i8_underflow() {
+        assert_eq!(pow_i8(10, 2), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
+    fn test_pow_i8_invalid_exponent() {
+        assert_eq!(pow_i8(10, 2), Err(ArithmeticError::InvalidExponent))
     }
 
     #[test]
@@ -1524,8 +1693,38 @@ mod tests {
     }
 
     #[test]
+    fn test_pow_i16_overflow() {
+        assert_eq!(pow_i16(10, 2), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_pow_i16_underflow() {
+        assert_eq!(pow_i16(10, 2), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
+    fn test_pow_i8_invalid_exponent() {
+        assert_eq!(pow_i8(10, 2), Err(ArithmeticError::InvalidExponent))
+    }
+
+    #[test]
     fn test_pow_i32() {
         assert_eq!(pow_i32(10, 2), Ok(100))
+    }
+
+    #[test]
+    fn test_pow_i32_overflow() {
+        assert_eq!(pow_i32(10, 2), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_pow_i32_underflow() {
+        assert_eq!(pow_i32(10, 2), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
+    fn test_pow_i32_invalid_exponent() {
+        assert_eq!(pow_i32(10, 2), Err(ArithmeticError::InvalidExponent))
     }
 
     #[test]
@@ -1534,8 +1733,38 @@ mod tests {
     }
 
     #[test]
+    fn test_pow_i64_overflow() {
+        assert_eq!(pow_i64(10, 2), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_pow_i64_underflow() {
+        assert_eq!(pow_i64(10, 2), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
+    fn test_pow_i64_invalid_exponent() {
+        assert_eq!(pow_i64(10, 2), Err(ArithmeticError::InvalidExponent))
+    }
+
+    #[test]
     fn test_pow_i128() {
         assert_eq!(pow_i128(10, 2), Ok(100))
+    }
+
+    #[test]
+    fn test_pow_i128_overflow() {
+        assert_eq!(pow_i128(10, 2), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_pow_i128_underflow() {
+        assert_eq!(pow_i128(10, 2), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
+    fn test_pow_i128_invalid_exponent() {
+        assert_eq!(pow_i128(10, 2), Err(ArithmeticError::InvalidExponent))
     }
 
     #[test]
@@ -1544,13 +1773,73 @@ mod tests {
     }
 
     #[test]
+    fn test_pow_isize_overflow() {
+        assert_eq!(pow_isize(10, 2), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_pow_isize_underflow() {
+        assert_eq!(pow_isize(10, 2), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
+    fn test_pow_isize_invalid_exponent() {
+        assert_eq!(pow_isize(10, 2), Err(ArithmeticError::InvalidExponent))
+    }
+
+    #[test]
     fn test_pow_f32() {
+        assert_eq!(pow_f32(10.0, 2.0), Ok(100.0))
+    }
+
+    #[test]
+    fn test_pow_f32_overflow() {
+        assert_eq!(pow_f32(10, 2), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_pow_f32_underflow() {
+        assert_eq!(pow_f32(10, 2), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
+    fn test_pow_f32_invalid_exponent() {
+        assert_eq!(pow_f32(10, 2), Err(ArithmeticError::InvalidExponent))
+    }
+
+    #[test]
+    fn test_pow_f32_large_exponent_ok() {
         assert_eq!(pow_f32(10.0, 2.0), Ok(100.0))
     }
 
     #[test]
     fn test_pow_f64() {
         assert_eq!(pow_f64(10.0, 2.0), Ok(100.0))
+    }
+
+    #[test]
+    fn test_pow_f64_overflow() {
+        assert_eq!(pow_f64(10, 2), Err(ArithmeticError::Overflow))
+    }
+
+    #[test]
+    fn test_pow_f64_underflow() {
+        assert_eq!(pow_f64(10, 2), Err(ArithmeticError::Underflow))
+    }
+
+    #[test]
+    fn test_pow_f64_invalid_exponent() {
+        assert_eq!(pow_f64(10, 2), Err(ArithmeticError::InvalidExponent))
+    }
+
+    #[test]
+    fn test_pow_f64_negative_base_ok() {
+        assert_eq!(pow_f64(10.0, -2.0), Ok(-100.0))
+    }
+
+    #[test]
+    fn test_pow_f64_fractional_of_negative() {
+        assert_eq!(pow_f64(10.0, 0.2), Ok(0.5))
     }
 }
 

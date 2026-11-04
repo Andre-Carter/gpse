@@ -85,3 +85,12 @@ COMMIT
 INGOT ACQUIRED
 
 cargo test //
+
+// section
+
+1. Put a gate on the repo first
+
+Before fixing anything, make “green” mean something:
+
+cargo fmt --check, cargo clippy -- -D warnings, cargo test
+A GitHub Actions workflow running those on every push. It’s about 15 lines of YAML, and then the “known good baseline” in your workflow doc is enforced by a machine, not by memory.

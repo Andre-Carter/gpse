@@ -46,3 +46,23 @@ On the scope worry: “sounds like a lot” is true, but the layering is what ma
 If I had to pick the first move, I’d fix the trust issues (the pow_* XOR bug, the element and constant data errors), then build the Earth-Moon slice as a tested example. That gives you something to point at when you say “GPSE is a useful library.”
 
 Which feels closer to where you’re headed: starting the workspace now, or finishing the foundation layer first?
+
+// section
+
+3. Fix in order of trust, one commit per item
+
+Arithmetic. Rewrite using checked_* and Result, and keep your ArithmeticError. A macro can generate all 14 types and shrink the file enormously. Then write tests that assert real values and real edge cases (u8::MAX + 1, 0_u8 - 1, i32::MIN / -1), which is exactly your XGPSE/arithmetic.md table. That table is your test spec already.
+Data audits. Add tests that guard the data: atomic numbers 1..=118 are sequential and unique, symbols are unique, masses are positive. That would have caught Dr. Spot-check constants against the NIST file you cited.
+Units. Correct celestial.rs and put _km or _m on every field per your naming standard.
+Compilation coverage. Wire control, mission, personnel, security into systems/mod.rs and fix what breaks, so nothing is silently uncompiled.
+Library hygiene. Move the println! calls out of domain code, share one read_text().
+
+4. Pause on breadth, formally
+
+You mentioned engineering, audio, images and a GUI were added today. I’d record them as “experimental” in the ledger and freeze them. No new modules until the High items are closed. Your own rule 5 (“distinguish implementation from intention”) covers this: planned, experimental, implemented, retired.
+
+5. Pace yourself
+
+One item, one commit, one cargo test. That’s your workflow doc already, and it’s what keeps a big cleanup from becoming a big mess.
+
+Do you want to start with the arithmetic rewrite? I can draft the macro-based version with tests derived from your edge-case table, and you can review it before it replaces anything.
