@@ -1,5 +1,6 @@
 pub mod archive;
 pub mod core;
+pub mod gui;
 pub mod lang;
 pub mod mathematical;
 pub mod programs;
