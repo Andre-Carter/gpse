@@ -1,6 +1,6 @@
 use gpse::programs::date_time::time::seconds_since_unix_epoc;
 
-use gpse::systems::command::core::command_core::cli_commands;
+use gpse::systems::command::kernel::command_core::cli_commands;
 
 use gpse::foundation::data_types::numeric::NumericType;
 
