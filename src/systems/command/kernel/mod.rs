@@ -1,1 +1,1 @@
-pub mod command_core;
+pub mod dispatch;
