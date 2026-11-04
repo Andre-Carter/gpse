@@ -3,3 +3,11 @@ Copy-Item "src\archive\bible\book.rs" "templates\bible\book.rs.template"
 
 To duplicate a whole folder and all its content, use:
 Copy-Item "src\archive\bible" "templates\bible" -Recurse
+
+Another Example:
+Copy-Item -Path "C:\path\to\left\folder\*" -Destination "D:\path\to\right\folder" -Recurve
+
+Working Example
+Copy-Item `
+>>     -Path "vault\templates\bible\bible.rs" `
+>>     -Destination "src\archive\bible\nlt\mod.rs"
