@@ -3,6 +3,8 @@ pub mod normalization;
 pub mod tokenization;
 pub mod validation;
 
+use std::str::Chars;
+
 pub fn capitalize_first_letter(input: &str) -> String {
     let mut chars = input.chars();
 
@@ -12,4 +14,10 @@ pub fn capitalize_first_letter(input: &str) -> String {
         }
         None => String::new(),
     }
+}
+
+pub fn characters(input: &str) -> Chars<'_> {
+    let characters = input.chars();
+
+    characters
 }

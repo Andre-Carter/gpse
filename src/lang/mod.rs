@@ -1,3 +1,4 @@
+use crate::core::input::text::characters;
 
 // SYMBOLICS
 
@@ -26,7 +27,7 @@
 pub fn alphabet() {
     let alphabet = "abcdefghijklmnopqrstuvwxyz".to_string();
 
-    let letters = alphabet.chars();
+    let letters = characters(&alphabet);
 
     println!("{:?}", letters);
 }

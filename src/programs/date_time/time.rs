@@ -112,3 +112,13 @@ pub fn seconds_since_unix_epoc() {
     }
 }
 
+/*
+pub fn tick() {
+    let sys_time = SystemTime::now();
+    let new_sys_time = SystemTime::now();
+    let difference = new_sys_time.duration_since(sys_time)
+        .expect("Clock may have gone backwards");
+    println!("{difference:?}");
+}
+*/
+
