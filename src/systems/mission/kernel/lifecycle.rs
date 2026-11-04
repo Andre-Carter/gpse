@@ -1,4 +1,9 @@
-struct Mission {
+pub struct MissionId {
+    mission_name: String,
+    id: String,
+}
+
+struct Mission<Objective, Order, ProtocolId> {
     id: MissionId,
     objectives: Vec<Objective>,
     orders: Vec<Order>,

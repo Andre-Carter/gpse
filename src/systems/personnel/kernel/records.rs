@@ -1,5 +1,13 @@
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Hash)]
-pub struct PersonnelId(pub u64);
+pub struct PersonnelId(pub id: u64);
+
+impl PersonnelId {
+    pub fn new() -> Self {
+        Self {
+            id: u64,
+        }
+    }
+}
 
 // minimal representation of a person
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
@@ -10,7 +18,7 @@ pub struct Personnel {
 impl Personnel {
     pub fn new() -> Self {
         Self {
-            Personnel::new();
+            id: PersonnelId,
         }
     }
 }
@@ -23,7 +31,7 @@ pub struct PersonnelList {
 impl PersonnelList {
     pub fn new() -> Self {
         Self {
-            personnel: Vec::new();
+            Self::default()
         }
     }
 
@@ -51,7 +59,15 @@ pub fn personnel_list(personnel: Vec<Personnel>) {
 // personnel record
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
-pub struct PersonnelName(pub String);
+pub struct PersonnelName(pub name: String);
+
+impl PersonnelName {
+    pub fn new() -> Self {
+        Self {
+            name: String,
+        }
+    }
+}
 
 pub struct PersonnelRecord {
     id: PersonnelId,
@@ -59,9 +75,10 @@ pub struct PersonnelRecord {
 }
 
 impl PersonnelRecord {
-    pub fn new() Self -> {
+    pub fn new() -> Self {
         Self {
-
+            id: PersonnelId, 
+            name: PersonnelName,
         }
     }
 }
@@ -71,9 +88,9 @@ pub struct PersonnelRecords {
 }
 
 impl PersonnelRecords {
-    pub fn new() Self -> {
+    pub fn new() -> Self {
         Self {
-            personnel_records: Vec::new();
+            personnel_records: Vec::new(),
         }
     }
 }
@@ -111,20 +128,10 @@ pub struct PersonnelReport {
     personnel_record: PersonnelRecord,
 }
 
+//
+/*
 // test 
 const person_1: Personnel = 556;
 const person_2: Personnel = 223;
 const mission_1_personnel: PersonnelLog = !vec[person_1, person_2];
-
-// mock implentation of N.O.L.B
-pub struct Protocol {
-    protocol_id: ProtocolId,
-    protocol_name: ProtocolName,
-    protocol_description: ProtocolDescription,
-}
-pub struct NotOneLeftBehindProtocol {
-
-}
-
-//
-
+*/

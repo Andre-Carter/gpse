@@ -1,1 +1,1 @@
-pub mod communication_core;
+pub mod inbox;

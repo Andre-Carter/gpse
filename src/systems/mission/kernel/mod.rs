@@ -1,1 +1,1 @@
-pub mod mission_core;
+pub mod lifecycle;
