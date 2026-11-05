@@ -1,1 +1,1 @@
-pub mod kjv_1611;
+pub mod corpus;

@@ -145051,7 +145051,7 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
 
         ("1 maccabees", 16, 4) => Some(Verse { 
             content: "", 
-        }),4
+        }),
 
         ("1 maccabees", 16, 5) => Some(Verse { 
             content: "", 

@@ -1,4 +1,4 @@
-use crate::archive::bible::kjv1611::kjv_1611::lookup_kjv1611;
+use crate::archive::bible::kjv1611::corpus::lookup_kjv1611;
 use crate::foundation::input::text::capitalize_first_letter;
 
 use std::io::{Write, stdin, stdout};
