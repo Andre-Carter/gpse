@@ -28888,475 +28888,475 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("1 samuel", 1, 2) => Some(Verse { 
-            content: "", 
+            content: "And he had two wiues, the name of the one was Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children.", 
         }),
 
         ("1 samuel", 1, 3) => Some(Verse { 
-            content: "", 
+            content: "And this man went vp out of his citie yeerely, to worship and to sacrifice vnto the Lord of hostes in Shiloh; and the two sonnes of Eli, Hophni, and Phinehas, the Priests of the Lord, were there.", 
         }),
 
         ("1 samuel", 1, 4) => Some(Verse { 
-            content: "", 
+            content: "And when the time was, that Elkanah offered, he gaue to Peninnah his wife, and to all her sonnes, and her daughters, portions.", 
         }),
 
         ("1 samuel", 1, 5) => Some(Verse { 
-            content: "", 
+            content: "But vnto Hannah he gaue a worthy portion: (for he loued Hannah, but the Lord had shut vp her wombe.", 
         }),
 
         ("1 samuel", 1, 6) => Some(Verse { 
-            content: "", 
+            content: "And her aduersary also prouoked her sore, for to make her fret, because the Lord had shut vp her wombe.)", 
         }),
 
         ("1 samuel", 1, 7) => Some(Verse { 
-            content: "", 
+            content: "And as he did so yeere by yeere, when she went vp to the house of the Lord, so she prouoked her; therefore she wept, and did not eat.", 
         }),
 
         ("1 samuel", 1, 8) => Some(Verse { 
-            content: "", 
+            content: "Then said Elkanah her husband to her, Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieued? Am not I better to thee, then ten sonnes?", 
         }),
 
         ("1 samuel", 1, 9) => Some(Verse { 
-            content: "", 
+            content: "So Hannah rose vp after they had eaten in Shiloh, and after they had drunke; (now Eli the Priest sate vpon a seat by a poste of the Temple of the Lord. )", 
         }),
 
         ("1 samuel", 1, 10) => Some(Verse { 
-            content: "", 
+            content: "And shee was in bitternesse of soule, and prayed vnto the Lord, and wept sore.", 
         }),
 
         ("1 samuel", 1, 11) => Some(Verse { 
-            content: "", 
+            content: "And she vowed a vow, and said, O Lord of hostes, if thou wilt indeed looke on the affliction of thine handmayd, and remember me, and not forget thine handmayd, but wilt giue vnto thine handmayd a man childe, then I will giue him vnto the Lord all the dayes of his life, and there shall no rasor come vpon his head.", 
         }),
 
         ("1 samuel", 1, 12) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe as she continued praying before the Lord, that Eli marked her mouth.", 
         }),
 
         ("1 samuel", 1, 13) => Some(Verse { 
-            content: "", 
+            content: "Now Hannah, shee spake in her heart; onely her lippes mooued, but her voice was not heard: therefore Eli thought she had beene drunken.", 
         }),
 
         ("1 samuel", 1, 14) => Some(Verse { 
-            content: "", 
+            content: "And Eli said vnto her, How long wilt thou be drunken? put away thy wine from thee.", 
         }),
 
         ("1 samuel", 1, 15) => Some(Verse { 
-            content: "", 
+            content: "And Hannah answered, and said, No, my lord, I am a woman of a sorrowfull spirit: I haue drunke neither wine nor strong drinke, but haue powred out my soule before the Lord.", 
         }),
 
         ("1 samuel", 1, 16) => Some(Verse { 
-            content: "", 
+            content: "Count not thine handmaid for a daughter of Belial: for out of the abundance of my complaint and griefe, haue I spoken hitherto.", 
         }),
 
         ("1 samuel", 1, 17) => Some(Verse { 
-            content: "", 
+            content: "Then Eli answered, and said, Goe in peace: and the God of Israel grant thee thy petition, that thou hast asked of him.", 
         }),
 
         ("1 samuel", 1, 18) => Some(Verse { 
-            content: "", 
+            content: "And she said, Let thine handmaid finde grace in thy sight. So the woman went her way, and did eate, and her countenance was no more sad.", 
         }),
 
         ("1 samuel", 1, 19) => Some(Verse { 
-            content: "", 
+            content: "And they rose vp in the morning early, and worshipped before the Lord, and returned, and came to their house to Ramah: and Elkanah knewe Hannah his wife, and the Lord remembred her.", 
         }),
 
         ("1 samuel", 1, 20) => Some(Verse { 
-            content: "", 
+            content: "Wherefore it came to passe when the time was come about, after Hannah had conceiued, that shee bare a sonne, and called his name Samuel, saying; Because I haue asked him of the Lord.", 
         }),
 
         ("1 samuel", 1, 21) => Some(Verse { 
-            content: "", 
+            content: "And the man Elkanah, and all his house, went vp to offer vnto the Lord the yeerely sacrifice, and his vowe.", 
         }),
 
         ("1 samuel", 1, 22) => Some(Verse { 
-            content: "", 
+            content: "But Hannah went not vp; for shee said vnto her husband, I will not goe vp vntill the childe be weaned, and then I will bring him, that he may appeare before the Lord, and there abide for euer.", 
         }),
 
         ("1 samuel", 1, 23) => Some(Verse { 
-            content: "", 
+            content: "And Elkanah her husband said vnto her, Do what seemeth thee good, tary vntill thou haue weaned him, only the Lord establish his word: so the woman abode, and gaue her sonne sucke vntill she weaned him.", 
         }),
 
         ("1 samuel", 1, 24) => Some(Verse { 
-            content: "", 
+            content: "And when shee had weaned him, shee tooke him vp with her, with three bullocks, and one Ephah of floure, and a bottle of wine, and brought him vnto the house of the Lord in Shiloh: and the childe was young.", 
         }),
 
         ("1 samuel", 1, 25) => Some(Verse { 
-            content: "", 
+            content: "And they slew a bullocke, and brought the childe to Eli.", 
         }),
 
         ("1 samuel", 1, 26) => Some(Verse { 
-            content: "", 
+            content: "And she said, Oh my lord, as thy soule liueth, my lord, I am the woman, that stood by thee heere, praying vnto the Lord.", 
         }),
 
         ("1 samuel", 1, 27) => Some(Verse { 
-            content: "", 
+            content: "For this childe I prayed, and the Lord hath giuen me my petition, which I asked of him:", 
         }),
 
         ("1 samuel", 1, 28) => Some(Verse { 
-            content: "", 
+            content: "Therefore also I haue lent him to the Lord as long as hee liueth, he shall be lent to the Lord. And he worshipped the Lord there.", 
         }),
 
         ("1 samuel", 2, 1) => Some(Verse { 
-            content: "", 
+            content: "And Hannah prayed, and said, My heart reioyceth in the Lord, mine horne is exalted in the Lord: my mouth is inlarged ouer mine enemies: because I reioyce in thy saluation.", 
         }),
 
         ("1 samuel", 2, 2) => Some(Verse { 
-            content: "", 
+            content: "There is none holy as the Lord: for there is none beside thee: neither is there any Rocke like our God.", 
         }),
 
         ("1 samuel", 2, 3) => Some(Verse { 
-            content: "", 
+            content: "Talke no more so exceeding proudly, let not arrogancie come out of your mouth: for the Lord is a God of knowledge, and by him actions are weighed.", 
         }),
 
         ("1 samuel", 2, 4) => Some(Verse { 
-            content: "", 
+            content: "The vowes of the mightie men are broken, and they that stumbled are girt with strength.", 
         }),
 
         ("1 samuel", 2, 5) => Some(Verse { 
-            content: "", 
+            content: "They that were full, haue hired out themselues for bread: and they that were hungry, ceased: so that the barren hath borne seuen, and she that hath many children, is waxed feeble.", 
         }),
 
         ("1 samuel", 2, 6) => Some(Verse { 
-            content: "", 
+            content: "The Lord killeth and maketh aliue, he bringeth downe to the graue, and bringeth vp.", 
         }),
 
         ("1 samuel", 2, 7) => Some(Verse { 
-            content: "", 
+            content: "The Lord maketh poore, and maketh rich: he bringeth low, and lifteth vp.", 
         }),
 
         ("1 samuel", 2, 8) => Some(Verse { 
-            content: "", 
+            content: "He raiseth vp the poore out of the dust, and lifteth vp the begger from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are the Lords, and hee hath set the world vpon them.", 
         }),
 
         ("1 samuel", 2, 9) => Some(Verse { 
-            content: "", 
+            content: "He will keepe the feet of his saints, and the wicked shall bee silent in darkenesse; for by strength shall no man preuaile.", 
         }),
 
         ("1 samuel", 2, 10) => Some(Verse { 
-            content: "", 
+            content: "The aduersaries of the Lord shalbe broken to pieces: out of heauen shal he thunder vpon them: the Lord shall iudge the ends of the earth, and he shal giue strength vnto his king, and exalt the horne of his Anointed.", 
         }),
 
         ("1 samuel", 2, 11) => Some(Verse { 
-            content: "", 
+            content: "And Elkanah went to Ramah to his house, and the child did minister vnto the Lord before Eli the Priest.", 
         }),
 
         ("1 samuel", 2, 12) => Some(Verse { 
-            content: "", 
+            content: "Now the sonnes of Eli were sonnes of Belial, they knewe not the Lord.", 
         }),
 
         ("1 samuel", 2, 13) => Some(Verse { 
-            content: "", 
+            content: "And the priests custome with the people was, that when any man offred sacrifice, the priestes seruant came, while the flesh was in seething, with a fleshhooke of three teeth in his hand,", 
         }),
 
         ("1 samuel", 2, 14) => Some(Verse { 
-            content: "", 
+            content: "And he strooke it into the panne, or kettle, or caldron, or pot: all that the flesh-hooke brought vp, the priest tooke for himselfe: so they did in Shiloh vnto all the Israelites that came thither.", 
         }),
 
         ("1 samuel", 2, 15) => Some(Verse { 
-            content: "", 
+            content: "Also before they burnt the fat, the priests seruant came, & said to the man that sacrificed, Giue flesh to roste for the priest, for he wil not haue sodden flesh of thee, but raw.", 
         }),
 
         ("1 samuel", 2, 16) => Some(Verse { 
-            content: "", 
+            content: "And if any man said vnto him, Let them not faile to burne the fat presently, and then take as much as thy soule desireth: then hee would answere him, Nay, but thou shalt giue it mee now: and if not, I will take it by force.", 
         }),
 
         ("1 samuel", 2, 17) => Some(Verse { 
-            content: "", 
+            content: "Wherefore the sinne of the yong men was very great before the Lord: for men abhorred the offering of the Lord.", 
         }),
 
         ("1 samuel", 2, 18) => Some(Verse { 
-            content: "", 
+            content: "But Samuel ministred before the Lord, being a child, girded with a linnen Ephod.", 
         }),
 
         ("1 samuel", 2, 19) => Some(Verse { 
-            content: "", 
+            content: "Moreouer, his mother made him a litle coate, and brought it to him from yeere to yeere, when she came vp with her husband, to offer the yeerely sacrifice.", 
         }),
 
         ("1 samuel", 2, 20) => Some(Verse { 
-            content: "", 
+            content: "And Eli blessed Elkanah, and his wife, and said, The Lord giue thee seed of this woman, for the loane which is lent to the Lord. And they went vnto their owne home.", 
         }),
 
         ("1 samuel", 2, 21) => Some(Verse { 
-            content: "", 
+            content: "And the Lord visited Hannah, so that shee conceiued, and bare three sonnes, and two daughters: and the child Samuel grew before the Lord.", 
         }),
 
         ("1 samuel", 2, 22) => Some(Verse { 
-            content: "", 
+            content: "Now Eli was very olde, and heard all that his sonnes did vnto all Israel, and how they lay with the women that assembled at the doore of the Tabernacle of the Congregation", 
         }),
 
         ("1 samuel", 2, 23) => Some(Verse { 
-            content: "", 
+            content: "And he said vnto them, Why doe ye such things? for I heare of your euil dealings, by all this people.", 
         }),
 
         ("1 samuel", 2, 24) => Some(Verse { 
-            content: "", 
+            content: "Nay my sonnes: for it is no good report that I heare; yee make the Lords people to transgresse.", 
         }),
 
         ("1 samuel", 2, 25) => Some(Verse { 
-            content: "", 
+            content: "If one man sinne against another, the Iudge shall iudge him: but if a man sinne against the Lord, who shall intreat for him? Notwithstanding they hearkened not vnto the voice of their father, because the Lord would slay them.", 
         }),
 
         ("1 samuel", 2, 26) => Some(Verse { 
-            content: "", 
+            content: "(And the child Samuel grew on, and was in fauour, both with the Lord, and also with men.)", 
         }),
 
         ("1 samuel", 2, 27) => Some(Verse { 
-            content: "", 
+            content: "And there came a man of God vnto Eli, and saide vnto him, Thus saith the Lord, Did I plainely appeare vnto the house of thy father, when they were in Egypt in Pharaohs house?", 
         }),
 
         ("1 samuel", 2, 28) => Some(Verse { 
-            content: "", 
+            content: "And did I chuse him out of all the tribes of Israel, to be my Priest, to offer vpon mine altar, to burne incense, to weare an Ephod before me? and did I giue vnto the house of thy father, all the offerings made by fire of the children of Israel?", 
         }),
 
         ("1 samuel", 2, 29) => Some(Verse { 
-            content: "", 
+            content: "Wherefore kicke ye at my sacrifice, and at mine offering, which I haue commaunded in my habitation, and honourest thy sonnes aboue mee, to make your selues fat with the chiefest of all the offrings of Israel my people?", 
         }),
 
         ("1 samuel", 2, 30) => Some(Verse { 
-            content: "", 
+            content: "Wherefore the Lord God of Israel saith, I sayd indeede that thy house, & the house of thy father should walke before me for euer: but now the Lord saith, Be it farre from mee; for them that honour me, I will honour, and they that despise me, shall be lightly esteemed.", 
         }),
 
         ("1 samuel", 2, 31) => Some(Verse { 
-            content: "", 
+            content: "Behold, the dayes come, that I will cut off thine arme, and the arme of thy fathers house, that there shall not be an old man in thine house.", 
         }),
 
         ("1 samuel", 2, 32) => Some(Verse { 
-            content: "", 
+            content: "And thou shalt see an enemie in my habitation, in all the wealth which God shall giue Israel, and there shall not bee an olde man in thine house for euer.", 
         }),
 
         ("1 samuel", 2, 33) => Some(Verse { 
-            content: "", 
+            content: "And the man of thine, whom I shall not cut off from mine Altar, shall be to consume thine eyes, and to grieue thine heart: and all the increase of thine house shall die in the floure of their age.", 
         }),
 
         ("1 samuel", 2, 34) => Some(Verse { 
-            content: "", 
+            content: "And this shall bee a signe vnto thee, that shall come vpon thy two sonnes, on Hophni and Phinehas: in one day they shall die both of them.", 
         }),
 
         ("1 samuel", 2, 35) => Some(Verse { 
-            content: "", 
+            content: "And I will raise me vp a faithfull Priest, that shall doe according to that which is in my heart and in my mind, and I will build him a sure house, and hee shall walke before mine Anointed for euer.", 
         }),
 
         ("1 samuel", 2, 36) => Some(Verse { 
-            content: "", 
+            content: "And it shall come to passe, that euery one that is left in thine house, shal come and crouch to him for a piece of siluer, and a morsel of bread, and shall say, Put me (I pray thee) into one of the Priests offices, that I may eat a piece of bread.", 
         }),
 
         ("1 samuel", 3, 1) => Some(Verse { 
-            content: "", 
+            content: "And the child Samuel ministred vnto the Lord before Eli: and the word of the Lord was precious in those daies; there was no open vision.", 
         }),
 
         ("1 samuel", 3, 2) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe at that time, when Eli was layd downe in his place, and his eyes beganne to waxe dimme, that he could not see;", 
         }),
 
         ("1 samuel", 3, 3) => Some(Verse { 
-            content: "", 
+            content: "And yer the lampe of God went out in the Temple of the Lord, where the Arke of God was, and Samuel was layd downe to sleepe;", 
         }),
 
         ("1 samuel", 3, 4) => Some(Verse { 
-            content: "", 
+            content: "That the Lord called Samuel, and he answered, Here am I.", 
         }),
 
         ("1 samuel", 3, 5) => Some(Verse { 
-            content: "", 
+            content: "And he ranne vnto Eli, and sayd, Here am I, for thou calledst me. And he said, I called not; lie downe againe. And he went and lay downe.", 
         }),
 
         ("1 samuel", 3, 6) => Some(Verse { 
-            content: "", 
+            content: "And the Lord called yet againe, Samuel. And Samuel arose, and went to Eli, and said, Here am I, for thou diddest call me. And he answered, I called not, my sonne; lie downe againe.", 
         }),
 
         ("1 samuel", 3, 7) => Some(Verse { 
-            content: "", 
+            content: "Now Samuel did not yet know the Lord, neither was the word of the Lord yet reuealed vnto him.", 
         }),
 
         ("1 samuel", 3, 8) => Some(Verse { 
-            content: "", 
+            content: "And the Lord called Samuel againe the third time. And hee arose, and went to Eli, and said, Here am I, for thou diddest call me. And Eli perceiued that the Lord had called the childe.", 
         }),
 
         ("1 samuel", 3, 9) => Some(Verse { 
-            content: "", 
+            content: "Therefore Eli said vnto Samuel, Go, lie downe, & it shal be, if he call thee, that thou shalt say, Speake Lord, for thy seruant heareth. So Samuel went, and lay downe in his place.", 
         }),
 
         ("1 samuel", 3, 10) => Some(Verse { 
-            content: "", 
+            content: "And the Lord came, and stood and called as at other times, Samuel, Samuel. Then Samuel answered, Speake, for thy seruant heareth.", 
         }),
 
         ("1 samuel", 3, 11) => Some(Verse { 
-            content: "", 
+            content: "And the Lord sayd to Samuel, Behold, I will doe a thing in Israel, at which, both the eares of euery one that heareth it, shall tingle.", 
         }),
 
         ("1 samuel", 3, 12) => Some(Verse { 
-            content: "", 
+            content: "In that day, I will performe against Eli, all things which I haue spoken concerning his house: when I begin, I will also make an end.", 
         }),
 
         ("1 samuel", 3, 13) => Some(Verse { 
-            content: "", 
+            content: "For I haue tolde him, that I will iudge his house for euer, for the iniquitie which hee knoweth: because his sonnes made themselues vile, and he restrained them not.", 
         }),
 
         ("1 samuel", 3, 14) => Some(Verse { 
-            content: "", 
+            content: "And therefore I haue sworne vnto the house of Eli, that the iniquitie of Elies house shall not be purged with sacrifice, nor offering for euer.", 
         }),
 
         ("1 samuel", 3, 15) => Some(Verse { 
-            content: "", 
+            content: "And Samuel lay vntill the morning, and opened the doores of the house of the Lord: and Samuel feared to shew Eli the vision.", 
         }),
 
         ("1 samuel", 3, 16) => Some(Verse { 
-            content: "", 
+            content: "Then Eli called Samuel, and said, Samuel my sonne. And he answered, Here am I.", 
         }),
 
         ("1 samuel", 3, 17) => Some(Verse { 
-            content: "", 
+            content: "And he said, What is the thing that the Lord hath said vnto thee? I pray thee hide it not from mee: God doe so to thee, and more also, if thou hide any thing from me, of all the things that hee said vnto thee.", 
         }),
 
         ("1 samuel", 3, 18) => Some(Verse { 
-            content: "", 
+            content: "And Samuel tolde him euery whit, and hid nothing from him. And he said, It is the Lord: Let him doe what seemeth him good.", 
         }),
 
         ("1 samuel", 3, 19) => Some(Verse { 
-            content: "", 
+            content: "And Samuel grew, and the Lord was with him, and did let none of his words fall to the ground.", 
         }),
 
         ("1 samuel", 3, 20) => Some(Verse { 
-            content: "", 
+            content: "And all Israel from Dan euen to Beer-sheba, knew that Samuel was established to bee a Prophet of the Lord.", 
         }),
 
         ("1 samuel", 3, 21) => Some(Verse { 
-            content: "", 
+            content: "And the Lord appeared againe in Shiloh: for the Lord reueiled himselfe to Samuel in Shiloh, by the word of the Lord.", 
         }),
 
         ("1 samuel", 4, 1) => Some(Verse { 
-            content: "", 
+            content: "And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battell, and pitched beside Eben-ezer: and the Philistines pitched in Aphek.", 
         }),
 
         ("1 samuel", 4, 2) => Some(Verse { 
-            content: "", 
+            content: "And the Philistines put themselues in aray against Israel: and when they ioyned battell, Israel was smitten before the Philistines: and they slew of the armie in the field, about foure thousand men.", 
         }),
 
         ("1 samuel", 4, 3) => Some(Verse { 
-            content: "", 
+            content: "And when the people were come into the campe, the Elders of Israel said, Wherefore hath the Lord smitten vs to day before the Philistines? Let vs fetch the Arke of the Couenant of the Lord out of Shiloh vnto vs, that when it commeth among vs, it may saue vs out of the hand of our enemies.", 
         }),
 
         ("1 samuel", 4, 4) => Some(Verse { 
-            content: "", 
+            content: "So the people sent to Shiloh, that they might bring from thence the Arke of the Couenant of the Lord of hostes, which dwelleth betweene the Cherubims: and the two sonnes of Eli, Hophni, and Phinehas were there, with the Arke of the Couenant of God.", 
         }),
 
         ("1 samuel", 4, 5) => Some(Verse { 
-            content: "", 
+            content: "And when the Arke of the Couenant of the Lord came into the campe, all Israel shouted with a great shout, so that the earth rang againe.", 
         }),
 
         ("1 samuel", 4, 6) => Some(Verse { 
-            content: "", 
+            content: "And when the Philistines heard the noise of the shout, they said, What meaneth the noise of this great shout in the campe of the Hebrewes? And they vnderstood, that the Arke of the Lord was come into the campe.", 
         }),
 
         ("1 samuel", 4, 7) => Some(Verse { 
-            content: "", 
+            content: "And the Philistines were afraid, for they saide, God is come into the campe. And they said, Woe vnto vs: for there hath not bene such a thing heretofore.", 
         }),
 
         ("1 samuel", 4, 8) => Some(Verse { 
-            content: "", 
+            content: "Woe vnto vs: who shall deliuer vs out of the hand of these mightie Gods? these are the Gods that smote the Egyptians with all the plagues in the wildernesse.", 
         }),
 
         ("1 samuel", 4, 9) => Some(Verse { 
-            content: "", 
+            content: "Bee strong, and quit your selues like men, O ye Philistines, that yee be not seruants vnto the Hebrewes, as they haue bene to you: quit your selues like men, and fight.", 
         }),
 
         ("1 samuel", 4, 10) => Some(Verse { 
-            content: "", 
+            content: "And the Philistines fought, and Israel was smitten, and they fled euery man into his tent: and there was a very great slaughter, for there fell of Israel thirtie thousand footmen.", 
         }),
 
         ("1 samuel", 4, 11) => Some(Verse { 
-            content: "", 
+            content: "And the Arke of God was taken, and the two sonnes of Eli, Hophni, and Phinehas were slaine.", 
         }),
 
         ("1 samuel", 4, 12) => Some(Verse { 
-            content: "", 
+            content: "And there ran a man of Beniamin out of the army, and came to Shiloh the same day with his clothes rent, and with earth vpon his head.", 
         }),
 
         ("1 samuel", 4, 13) => Some(Verse { 
-            content: "", 
+            content: "And when hee came, loe, Eli sate vpon a seat by the way side, watching: for his heart trembled for the Arke of God. And when the man came into the citie, and told it, all the city cried out.", 
         }),
 
         ("1 samuel", 4, 14) => Some(Verse { 
-            content: "", 
+            content: "And when Eli heard the noise of the crying, hee said; What meaneth the noise of this tumult? And the man came in hastily, and told Eli.", 
         }),
 
         ("1 samuel", 4, 15) => Some(Verse { 
-            content: "", 
+            content: "Now Eli was ninetie and eight yeeres old, and his eyes were dimme, that he could not see.", 
         }),
 
         ("1 samuel", 4, 16) => Some(Verse { 
-            content: "", 
+            content: "And the man said vnto Eli, I am he, that came out of the army, and I fled to day out of the army. And he said, What is there done, my sonne?", 
         }),
 
         ("1 samuel", 4, 17) => Some(Verse { 
-            content: "", 
+            content: "And the messenger answered, and said, Israel is fled before the Philistines, and there hath bene also a great slaughter among the people, and thy two sonnes also, Hophni & Phinehas, are dead, and the Arke of God is taken.", 
         }),
 
         ("1 samuel", 4, 18) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe when hee made mention of the Arke of God, that he fell from off the seat backward by the side of the gate, and his necke brake, and hee died: for hee was an old man, and heauie, and hee had iudged Israel fortie yeeres.", 
         }),
 
         ("1 samuel", 4, 19) => Some(Verse { 
-            content: "", 
+            content: "And his daughter in law Phinehas wife was with childe neere to be deliuered: and when shee heard the tidings that the Arke of God was taken, and that her father in law, and her husband were dead, shee bowed her selfe and traueyled; for her paines came vpon her.", 
         }),
 
         ("1 samuel", 4, 20) => Some(Verse { 
-            content: "", 
+            content: "And about the time of her death, the women that stood by her, said vnto her: Feare not, for thou hast borne a sonne. But she answered not, neither did she regard it.", 
         }),
 
         ("1 samuel", 4, 21) => Some(Verse { 
-            content: "", 
+            content: "And she named the childe Ichabod, saying, The glory is departed from Israel, (because the Arke of God was taken, and because of her father in law and her husband.)", 
         }),
 
         ("1 samuel", 4, 22) => Some(Verse { 
-            content: "", 
+            content: "And she said, The glory is departed from Israel: for the Arke of God is taken.", 
         }),
 
         ("1 samuel", 5, 1) => Some(Verse { 
-            content: "", 
+            content: "And the Philistines tooke the Arke of God, and brought it from Ebenezer vnto Ashdod.", 
         }),
 
         ("1 samuel", 5, 2) => Some(Verse { 
-            content: "", 
+            content: "When the Philistines tooke the Arke of God, they brought it into the house of Dagon, and set it by Dagon.", 
         }),
 
         ("1 samuel", 5, 3) => Some(Verse { 
-            content: "", 
+            content: "And when they of Ashdod arose earely on the morrow, behold, Dagon was fallen vpon his face to the earth, before the Arke of the Lord: and they tooke Dagon, and set him in his place againe.", 
         }),
 
         ("1 samuel", 5, 4) => Some(Verse { 
-            content: "", 
+            content: "And when they arose earely on the morrow morning, behold, Dagon was fallen vpon his face to the ground, before the Arke of the Lord: and the head of Dagon, and both the palmes of his hands were cut off vpon the threshold, only the stumpe of Dagon was left to him.", 
         }),
 
         ("1 samuel", 5, 5) => Some(Verse { 
-            content: "", 
+            content: "Therefore neither the priests of Dagon, nor any that come into Dagons house, tread on the threshold of Dagon in Ashdod vnto this day.", 
         }),
 
         ("1 samuel", 5, 6) => Some(Verse { 
-            content: "", 
+            content: "But the hand of the Lord was heauy vpon them of Ashdod, and he destroyed them, and smote them with Emerods, euen Ashdod, and the coastes thereof.", 
         }),
 
         ("1 samuel", 5, 7) => Some(Verse { 
-            content: "", 
+            content: "And when the men of Ashdod saw that it was so, they said, The Arke of the God of Israel shall not abide with vs: for his hand is sore vpon vs, and vpon Dagon our god.", 
         }),
 
         ("1 samuel", 5, 8) => Some(Verse { 
-            content: "", 
+            content: "They sent therefore, and gathered all the lords of the Philistines vnto them, and said, What shall we doe with the Arke of the God of Israel? And they answered, Let the Arke of the God of Israel bee caried about vnto Gath. And they caried the Arke of the God of Israel about thither.", 
         }),
 
         ("1 samuel", 5, 9) => Some(Verse { 
-            content: "", 
+            content: "And it was so, that after they had caried it about, the hand of the Lord was against the citie with a very great destruction: and hee smote the men of the citie both small and great, and they had Emerods in their secret parts.", 
         }),
 
         ("1 samuel", 5, 10) => Some(Verse { 
-            content: "", 
+            content: "Therfore they sent the Arke of God to Ekron: and it came to passe as the Arke of God came to Ekron, that the Ekronites cried out, saying, They haue brought about the Arke of the God of Israel to vs, to slay vs, and our people.", 
         }),
 
         ("1 samuel", 5, 11) => Some(Verse { 
-            content: "", 
+            content: "So they sent and gathered together all the lords of the Philistines, and said, Send away the Arke of the God of Israel, and let it goe againe to his owne place, that it slay vs not, and our people: for there was a deadly destruction throughout all the citie: The hand of God was very heauy there.", 
         }),
 
         ("1 samuel", 5, 12) => Some(Verse { 
-            content: "", 
+            content: "And the men that died not, were smitten with the Emerods: and the cry of the citie went vp to heauen.", 
         }),
 
         ("1 samuel", 6, 1) => Some(Verse { 
