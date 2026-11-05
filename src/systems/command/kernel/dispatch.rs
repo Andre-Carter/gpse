@@ -16,7 +16,7 @@ use crate::systems::command::tools::calculator::cli_calc;
 use crate::systems::command::tools::calculator::cli_sqrt;
 use crate::systems::command::tools::math::math_cli;
 
-use crate::mathematical::logic::test_theory::logic_cli;
+use crate::mathematical::logic::switch::switch_cli;
 
 use std::io::{Write, stdin, stdout};
 
@@ -145,7 +145,7 @@ pub fn cli_commands() {
             }
 
             "switch" => {
-                logic_cli();
+                switch_cli();
             }
 
             "debug" => {

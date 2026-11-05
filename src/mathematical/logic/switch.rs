@@ -1,9 +1,3 @@
-
-
-pub const _CIRCA: f64 = 100.0;
-
-// LOGIC GATE
-
 use std::io::{Write, stdin, stdout};
 
 pub const TRUE: bool = true;
@@ -14,7 +8,7 @@ fn read(cli_input: &mut String) {
     stdin().read_line(cli_input).expect("failed to read");
 }
 
-pub fn logic_cli() {
+pub fn switch_cli() {
     loop {
         let mut cli_input = String::new();
 
@@ -89,4 +83,16 @@ pub fn test_switch() {
 
     println!("{}", Switch::ON.state());
     println!("{}", Switch::OFF.state());
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn switch_toggles() {
+        let state = Switch::ON;
+        assert_eq!(state.switch(), Switch::OFF);
+        assert_eq!(state.switch().switch(), Switch::ON);
+    }
 }
