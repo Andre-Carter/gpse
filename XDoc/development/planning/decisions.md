@@ -95,3 +95,40 @@ Does it coordinate several systems or objects?	Standalone service or domain coor
 Does it read terminal input or print menus?	CLI/presentation module
 Does it define how an individual stat behaves?	Potentially impl Stat or the relevant stat type
 
+// section
+
+## D-XXX: Experiments Module and Dependency Rule
+
+**Status:** Approved
+**Date:** 2026-11-05
+
+### Decision
+`src/experiments/` is the home for new modules before integration.
+
+Dependency rule:
+- Domain libraries (`mathematical`, `science`, `simulation`, `foundation`, `archive`, `programs`) MUST NOT depend on `experiments`.
+- `experiments` MAY depend on any GPSE module.
+- The CLI dispatcher (`systems::command`) MAY expose an experiment, and the command MUST be labeled "experimental" in `help`.
+
+### Graduation
+An experiment graduates when it has tests, an XGPSE note, and one canonical home. Graduation is a move plus an import fix.
+
+### Alternatives considered
+`test`, `sandbox`, `xp`, `eps`, `furnace`. Rejected for naming collisions or lack of clarity.
+
+### Revisit when
+An experiment stays stable without graduating, or a domain library needs something in `experiments`.
+
+// section
+
+note: (D-XXX) is a placeholder for a decision record number. note: worth considering futher implementation of record numbers with this project.
+
+example: 
+
+D-001	Defer the proposed CONTROL system
+D-002	Personnel system and no-man-left-behind protocol (proposed)
+D-003	Mission authorization and personnel protocols (proposed)
+D-004	Retain rpg_engine name
+D-005	Experiments module and dependency rule
+
+// section
