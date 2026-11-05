@@ -1,11 +1,19 @@
 # GPSE Sources
-https://doc.rust-lang.org/rust-by-example/fn/methods.html
+
+RUST
+
+https://doc.rust-lang.org/book/
+https://doc.rust-lang.org/rust-by-example/
+
+BIBLE:
 
 https://www.bible.com/
-
 https://www.kingjamesbibleonline.org/1611-Bible/
 
+SCIENCE:
+
 https://pml.nist.gov/cuu/Constants/Table/allascii.txt
+
 ## Source Identification
 
 Significant sources should receive stable identifiers.

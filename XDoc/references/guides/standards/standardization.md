@@ -24,6 +24,56 @@ GPSE follows the principle:
 Standards should therefore be treated as strong defaults that may be
 revised when concrete requirements demonstrate a better approach.
 
+// STATUS HEADER
+
+# Status Header Standard
+
+Every significant XDoc, XGPSE note, and module-level doc may begin with a
+status header. The header says where the thing is in its life and how far it
+can be trusted. Define terms here only; other documents link to this file.
+
+## Format
+
+**Status:** <lifecycle>
+**Trust:** <level>
+**Last reviewed:** YYYY-MM-DD
+
+## Status (lifecycle)
+
+| Value | Meaning |
+|---|---|
+| Planned | Intended, not yet started. |
+| Experimental | Exists, concept unproven. Lives in `src/experiments/` or is marked as such. |
+| Implemented | Exists, wired in, and used. |
+| Retired | No longer used. Code deleted; one-line record kept (what, why, last commit). |
+
+## Trust
+
+| Value | Meaning |
+|---|---|
+| Compiles only | Builds. No claim about correctness. |
+| Tested | Tests assert real values and edge cases. |
+| Audited | Data or logic checked against a named source; provenance recorded. |
+
+Trust is separate from Status. An Implemented module can be "Compiles only".
+
+## Rules
+
+1. Dates use ISO format (YYYY-MM-DD).
+2. A header is a claim. If Last reviewed is old or the code has changed,
+   treat Trust as one level lower until re-reviewed.
+3. Do not copy definitions into other documents. Link here.
+4. Decision status (Approved / Proposed / Rejected) and research status
+   (Known / Hypothesis / Disproven) are separate vocabularies. Do not mix
+   them into this header. See decisions.md and research.md.
+5. When unsure, choose the more conservative value.
+
+## Example
+
+**Status:** Implemented
+**Trust:** Tested
+**Last reviewed:** 2026-11-05
+
 ---
 
 Ordering Functions by numberic data types

@@ -132,3 +132,9 @@ D-004	Retain rpg_engine name
 D-005	Experiments module and dependency rule
 
 // section
+
+experiments/ isn’t for code that has bugs, it’s for code that’s unproven in concept
+
+Empty scaffolding (algebra, calculus, chess, crypto, and so on): moving an empty folder just relocates it. Either keep it as a planned placeholder or delete it.
+
+thinking: ghost_gpse: for empty structures
