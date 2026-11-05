@@ -29360,127 +29360,127 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("1 samuel", 6, 1) => Some(Verse { 
-            content: "", 
+            content: "And the Arke of the Lord was in the countrey of the Philistines seuen moneths.", 
         }),
 
         ("1 samuel", 6, 2) => Some(Verse { 
-            content: "", 
+            content: "And the Philistines called for the priests and the diuiners, saying, What shall we doe to the Arke of the Lord ? Tell vs wherewith we shall send it to his place?", 
         }),
 
         ("1 samuel", 6, 3) => Some(Verse { 
-            content: "", 
+            content: "And they said, If yee send away the Arke of the God of Israel, send it not empty: but in any wise returne him a trespasse offring: then ye shall be healed, and it shall be knowen to you, why his hand is not remooued from you.", 
         }),
 
         ("1 samuel", 6, 4) => Some(Verse { 
-            content: "", 
+            content: "Then said they, What shall be the trespasse offering, which wee shall returne to him? They answered, Fiue golden Emerods, and fiue golden mice, according to the number of the lordes of the Philistines: for one plague was on you all, and on your lords.", 
         }),
 
         ("1 samuel", 6, 5) => Some(Verse { 
-            content: "", 
+            content: "Wherefore ye shall make images of your Emerodes, and images of your Mice, that marre the land, and ye shall giue glory vnto the God of Israel: peraduenture hee will lighten his hand from off you, and from off your gods, and from off your land.", 
         }),
 
         ("1 samuel", 6, 6) => Some(Verse { 
-            content: "", 
+            content: "Wherefore then doe yee harden your hearts, as the Egyptians and Pharaoh hardened their hearts? when he had wrought wonderfully among them, did they not let the people goe, and they departed?", 
         }),
 
         ("1 samuel", 6, 7) => Some(Verse { 
-            content: "", 
+            content: "Now therefore make a new cart, and take two milch-kine, on which there hath come no yoke, and tie the kine to the cart, and bring the calues home from them.", 
         }),
 
         ("1 samuel", 6, 8) => Some(Verse { 
-            content: "", 
+            content: "And take the Arke of the Lord, and lay it vpon the cart, and put the iewels of golde, which ye returne him for a trespasse offering, in a coffer by the side thereof, and send it away, that it may goe.", 
         }),
 
         ("1 samuel", 6, 9) => Some(Verse { 
-            content: "", 
+            content: "And see, if it goeth vp by the way of his owne coast to Bethshemesh, then he hath done vs this great euill: but if not, then wee shall know that it is not his hand that smote vs; it was a chance that happened to vs.", 
         }),
 
         ("1 samuel", 6, 10) => Some(Verse { 
-            content: "", 
+            content: "And the men did so: and tooke two milch-kine, and tied them to the cart, and shut vp their calues at home.", 
         }),
 
         ("1 samuel", 6, 11) => Some(Verse { 
-            content: "", 
+            content: "And they layde the Arke of the Lord vpon the cart, and the coffer, with the mice of golde, and the images of their Emerods.", 
         }),
 
         ("1 samuel", 6, 12) => Some(Verse { 
-            content: "", 
+            content: "And the kine tooke the straight way to the way of Bethshemesh, and went along the high way, lowing as they went, and turned not aside to the right hand, or to the left: and the lords of the Philistines went after them, vnto the border of Bethshemesh.", 
         }),
 
         ("1 samuel", 6, 13) => Some(Verse { 
-            content: "", 
+            content: "And they of Bethshemesh were reaping their wheat haruest in the valley: and they lifted vp their eyes, and saw the Arke, and reioyced to see it.", 
         }),
 
         ("1 samuel", 6, 14) => Some(Verse { 
-            content: "", 
+            content: "And the cart came into the field of Ioshua a Bethshemite, & stood there, where there was a great stone: and they claue the wood of the cart, and offered the kine, a burnt offering vnto the Lord.", 
         }),
 
         ("1 samuel", 6, 15) => Some(Verse { 
-            content: "", 
+            content: "And the Leuites tooke downe the Arke of the Lord, and the coffer that was with it, wherein the iewels of golde were, and put them on the great stone: And the men of Bethshemesh offered burnt offrings, and sacrificed sacrifices the same day vnto the Lord.", 
         }),
 
         ("1 samuel", 6, 16) => Some(Verse { 
-            content: "", 
+            content: "And when the fiue lordes of the Philistines had seene it, they returned to Ekron the same day.", 
         }),
 
         ("1 samuel", 6, 17) => Some(Verse { 
-            content: "", 
+            content: "And these are the golden Emerods which the Philistines returned for a trespasse offering vnto the Lord; for Ashdod one, for Gaza one, for Askelon one, for Gath one, for Ekron one.", 
         }),
 
         ("1 samuel", 6, 18) => Some(Verse { 
-            content: "", 
+            content: "And the golden Mice according to the number of all the cities of the Philistines, belonging to the fiue lordes, both of fenced cities, and of countrey villages, euen vnto the great stone of Abel, whereon they set downe the Arke of the Lord; which stone remaineth vnto this day, in the field of Ioshua the Bethshemite.", 
         }),
 
         ("1 samuel", 6, 19) => Some(Verse { 
-            content: "", 
+            content: "And he smote the men of Bethshemesh, because they had looked into the Arke of the Lord, euen he smote of the people fiftie thousand, and threescore and tenne men: and the people lamented, because the Lord had smitten many of the people with a great slaughter.", 
         }),
 
         ("1 samuel", 6, 20) => Some(Verse { 
-            content: "", 
+            content: "And the men of Bethshemesh said, Who is able to stand before this holy Lord God? and to whom shal he goe vp from vs?", 
         }),
 
         ("1 samuel", 6, 21) => Some(Verse { 
-            content: "", 
+            content: "And they sent messengers to the inhabitants of Kiriath-iearim, saying, The Philistines haue brought againe the Arke of the Lord; come ye downe, and fetch it vp to you.", 
         }),
 
         ("1 samuel", 7, 1) => Some(Verse { 
-            content: "", 
+            content: "And the men of Kiriath-iearim came, and fetcht vp the Arke of the Lord, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his sonne, to keepe the Arke of the Lord.", 
         }),
 
         ("1 samuel", 7, 2) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe while the Arke abode in Kiriath-iearim, that the time was long: for it was twentie yeeres: and all the house of Israel lamented after the Lord.", 
         }),
 
         ("1 samuel", 7, 3) => Some(Verse { 
-            content: "", 
+            content: "And Samuel spake vnto all the house of Israel, saying, If ye doe returne vnto the Lord with all your hearts, then put away the strange gods, and Ashtaroth from among you, and prepare your hearts vnto the Lord, and serue him onely: & he will deliuer you out of the hand of the Philistines.", 
         }),
 
         ("1 samuel", 7, 4) => Some(Verse { 
-            content: "", 
+            content: "Then the children of Israel did put away Baalim, and Ashtaroth, and serued the Lord onely.", 
         }),
 
         ("1 samuel", 7, 5) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said, Gather all Israel to Mizpeh, and I will pray for you vnto the Lord.", 
         }),
 
         ("1 samuel", 7, 6) => Some(Verse { 
-            content: "", 
+            content: "And they gathered together to Mizpeh, and drew water, and powred it out before the Lord, and fasted on that day, and said there, We haue sinned against the Lord. And Samuel iudged the children of Israel in Mizpeh.", 
         }),
 
         ("1 samuel", 7, 7) => Some(Verse { 
-            content: "", 
+            content: "And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went vp against Israel: and when the children of Israel heard it, they were afraid of the Philistines.", 
         }),
 
         ("1 samuel", 7, 8) => Some(Verse { 
-            content: "", 
+            content: "And the children of Israel said to Samuel, Cease not to crie vnto the Lord our God for vs, that he will saue vs out of the hand of the Philistines.", 
         }),
 
         ("1 samuel", 7, 9) => Some(Verse { 
-            content: "", 
+            content: "And Samuel tooke a sucking lambe, and offered it for a burnt offering wholly vnto the Lord; and Samuel cried vnto the Lord for Israel, and the Lord heard him.", 
         }),
 
         ("1 samuel", 7, 10) => Some(Verse { 
-            content: "", 
+            content: "And as Samuel was offering vp the burnt offering, the Philistines drewe neere to battell against Israel: but the Lord thundred with a great thunder on that day vpon the Philistines, and discomfited them, and they were smitten before Israel.", 
         }),
 
         ("1 samuel", 7, 11) => Some(Verse { 
@@ -142450,10 +142450,6 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("1 maccabees", 4, 61) => Some(Verse { 
-            content: "", 
-        }),
-
-        ("1 maccabees", 5, 1) => Some(Verse { 
             content: "", 
         }),
 

@@ -16,7 +16,7 @@ use crate::systems::command::tools::calculator::cli_calc;
 use crate::systems::command::tools::calculator::cli_sqrt;
 use crate::systems::command::tools::math::math_cli;
 
-use crate::theory::test_theory::logic_cli;
+use crate::mathematical::logic::test_theory::logic_cli;
 
 use std::io::{Write, stdin, stdout};
 

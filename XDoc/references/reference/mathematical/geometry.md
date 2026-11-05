@@ -1,0 +1,15 @@
+circle
+
+square
+
+triangle
+
+AREA
+
+PERIMETER
+
+CIRCUMFRENCE
+
+VOLUME
+
+SURFACE AREA

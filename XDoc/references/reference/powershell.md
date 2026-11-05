@@ -11,3 +11,5 @@ Working Example
 Copy-Item `
 >>     -Path "vault\templates\bible\bible.rs" `
 >>     -Destination "src\archive\bible\nlt\mod.rs"
+
+Copying: your powershell.md example is right. Copy-Item "vault\templates\bible\bible.rs" "src\archive\bible\nlt\mod.rs" works for a single file. If the template has more than one file, use -Recurse on the folder.

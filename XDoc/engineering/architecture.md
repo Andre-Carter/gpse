@@ -462,3 +462,42 @@ A real symbolic record may also need:
 - Sources and references.
 - Rendering variants.
 And critically, we should not assume that every symbol has exactly one meaning.
+
+Production Ready Scalable Maintainable
+
+bin/ (additional binaries e.g. worker, cli, cron jobs)
+config/ (configuration, loading, and management(toml, env, etc.))
+domains/ (core domain models and business entities)
+handlers/ (request handlers e.g. HTTP endpoints)
+services/ (business logic and usecases)
+repository/ (data access layer. DB, cache, external API)
+routes/ (route definitions and api wiring)
+middleware/ (cross-cutting concerns. auth, logging, CORS)
+utils/ (reusable utilites. errors, helpers, etc.)
+migrations/ (database migrations e.g. SQL with sqlx or diesel)
+tests/ (unit and intergration test)
+benches/ (performance benchmarks. Criterion)
+scripts/ (build, setup, and deployment scripts)
+deploy/ (container and orchestration files. Docker, KBs)
+
+Status: Reference only, not adopted. Source: web-service template (handlers/routes/middleware don’t apply). Possibly adopt: tests/, benches/, examples/, src/bin/. Revisit when GPSE has integration tests or benchmarks worth separating.
+
+I’d pick a different name than test. What’s in the folder isn’t tests, and the word is overloaded in Rust.
+
+What theory holds today: test_theory.rs has a Switch type and logic_cli, an interactive logic-gate toy. It’s a sandbox for ideas, not a test suite. Nothing in it uses #[test] or assert! except test_switch(), which is called from nowhere.
+
+Why test is a poor fit
+
+Rust already gives “test” a strong meaning: #[cfg(test)] modules, #[test] functions, and the tests/ directory for integration tests. A module named test next to those would make “where are the tests?” ambiguous.
+There’s also a built-in test crate (libtest, nightly-only). A root mod test usually compiles fine, but it’s the same kind of name overlap as core, which you just removed.
+Your own naming principle is to name things by what they contain. Real tests belong in tests/ and inline #[cfg(test)] modules, so a test module would also be a trap for the wrong code.
+
+Better names, closest to your project’s language
+
+Name	Why
+experiments	Mirrors XDoc/research/experiments/, so code and docs line up. My pick.
+furnace	Your lore (“ingots go in the furnace before they become permanent architecture”). Fun, but less discoverable for outsiders.
+sandbox	Clear and conventional.
+lab	Short.
+
+// section
