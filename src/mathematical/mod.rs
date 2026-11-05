@@ -6,7 +6,6 @@ pub mod combinatorics;
 pub mod constants;
 //pub mod dimensional;
 pub mod discrete;
-pub mod experimental;
 pub mod expressions;
 pub mod geometry;
 pub mod logic;
@@ -15,5 +14,3 @@ pub mod sequences;
 pub mod space;
 pub mod statistics;
 pub mod trigonometry;
-
-pub mod test_mathematical;
