@@ -501,3 +501,96 @@ sandbox	Clear and conventional.
 lab	Short.
 
 // section
+
+1. Manifesto principles
+These define what GPSE believes and stands for.
+
+They govern the identity and philosophy of the project.
+
+Examples:
+- Long-term vision.
+- Organization and accessibility.
+- Preservation of knowledge.
+- Openness and interoperability.
+- Deterministic design as a project philosophy.
+- Accessibility of scientific and technical knowledge.
+2. Development principles
+These define how GPSE is engineered.
+
+They govern technical decisions and implementation.
+
+Examples:
+- Correctness before optimization.
+- Prefer immutable data.
+- Compile-time constants where appropriate.
+- Explicit error handling.
+- Test critical behavior.
+- Avoid unnecessary dependencies.
+- Measure before optimizing.
+
+3. Naming candidates
+
+Manifesto document	    Development document
+
+project_principles.md	engineering_principles.md
+core_beliefs.md	        development_principles.md
+founding_principles.md	engineering_doctrine.md
+project_philosophy.md	technical_principles.md
+
+My preferred pairing:
+Manifesto
+project_principles.md
+
+The philosophy, values, and foundational beliefs of GPSE.
+
+
+Development
+engineering_principles.md
+
+The technical rules and decision-making principles governing GPSE engineering.
+
+
+I particularly like engineering principles over development principles because engineering covers architecture, testing, verification, maintenance, and implementation—not just writing code.
+One deeper distinction
+A manifesto principle might say:
+GPSE prioritizes correctness and reliability.
+
+An engineering principle would define how that belief is enforced:
+Mission-critical operations MUST have explicit correctness requirements and appropriate verification.
+
+One expresses the belief. The other translates it into engineering practice.
+
+My vote: project_principles.md + engineering_principles.md.
+
+Neither rename is finalized yet. What do you think, brother?
+
+// section
+
+The important thing is that we're separating two different questions:
+- Manifesto: What does GPSE believe, value, and aspire to become?
+- Development: How do we actually design, build, test, maintain, and improve GPSE?
+Those are related, but they should not be mixed.
+1. Principles vs. standards
+I would establish this distinction before moving any files.
+Concept	Purpose	Example
+Principle	Guides decisions and judgment	Prefer deterministic behavior.
+Standard	Defines a requirement or convention	Mission-critical calculations MUST have defined units.
+Procedure	Defines how work is performed	Run the test suite before committing.
+Review	Evaluates work against expectations	Inspect correctness, safety, and maintainability.
+Overview	Explains organization and purpose	Describes the development system and its components.
+
+The distinction I particularly want to preserve:
+
+Principles guide. Standards govern. Procedures instruct. Reviews evaluate.
+
+A principle can allow judgment. A standard should have a clearly defined expectation, scope, and means of verification.
+
+// section
+
+Concept	        Purpose	                                
+
+* Principle     Guides decisions and judgment (Ex. Prefer deterministic behavior)
+* Standard	    Defines a requirement or convention (Ex. Mission-critical calculations MUST have defined units)
+* Procedure	    Defines how work is performed (Ex. Run the test suite before committing)
+* Review	    Evaluates work against expectations (Ex. Inspect correctness, safety, and maintainability)
+* Overview	    Explains organization and purpose (Ex. Describes the development system and its components)

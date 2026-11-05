@@ -82,7 +82,7 @@ Names must communicate purpose, behavior, and domain meaning.
 
 ### 2.2. Rust Conventions
 
-Follow standard Rust naming conventions:
+Follow standard Rust naming conventions: (check: XDoc>rust>naming_conventions)
 
 * `snake_case` for functions, methods, variables, and modules.
 * `UpperCamelCase` for types, traits, structs, and enums.

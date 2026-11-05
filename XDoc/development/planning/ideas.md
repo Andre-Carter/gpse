@@ -255,3 +255,29 @@ u32 -> u64
 i32 -> i64
 f32 -> f64
 theorize usize conversion ...
+
+// section
+
+gpse\engineering
+  - schematics
+  - blueprints
+
+// section
+
+gpse\audio
+
+// section
+
+gpse\images
+  1. store images
+  2. convert
+  3. edit
+  4. create
+
+// section
+
+gpse\systems\navigation\maps
+
+build, define, explore, navigate, explain, find with a map system
+
+
