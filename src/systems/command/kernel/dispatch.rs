@@ -4,7 +4,7 @@ use crate::archive::ledger::ledger_cli::open_ledger;
 use crate::mathematical::carter::carter_family::carter_formula_cli;
 use crate::mathematical::carter::carter_family::carter_formula_repeat;
 use crate::mathematical::sequences::sequence::sequence_cli;
-use crate::experiments::test_mathematical::test_mathematical;
+use crate::experiments::mathematical::test_mathematical::test_mathematical;
 
 #[cfg(feature = "marvel-rivals")]
 use crate::programs::library::marvel_rivals_random_hero::marvel_rivals_random_hero;

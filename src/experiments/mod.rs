@@ -1,2 +1,1 @@
-pub mod test_mathematical;
-pub mod x_bash;
+pub mod mathematical;
