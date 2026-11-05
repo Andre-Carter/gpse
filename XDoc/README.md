@@ -143,6 +143,116 @@ XDoc\development\status
 
 A MIRROR OF GPSE (Check: XDoc>XGPSE>README.md)
 
+// 
+
+
+XDoc/
+│
+├── culture/
+│   ├── chronicles.md
+│   ├── diary.md
+│   ├── lore.md
+│   ├── memes.md
+│   └── poems.md
+│
+├── development/
+│   ├── ai/
+│   │   ├── chatgpt/
+│   │   └── claude/
+│   │
+│   ├── bugs/
+│   │   └── bugs_001.md
+│   │
+│   ├── planning/
+│   │   ├── decisions.md
+│   │   ├── ideas.md
+│   │   ├── principles.md
+│   │   ├── roadmap.md
+│   │   ├── to_do.md
+│   │   └── vision.md
+│   │
+│   ├── procedures/
+│   │   ├── debug_procedures.md
+│   │   ├── development_procedures.md
+│   │   ├── test_procedures.md
+│   │   └── workflow_procedures.md
+│   │
+│   └── status/
+│       ├── audit.md
+│       ├── changelog.md
+│       ├── debug.md
+│       ├── issues.md
+│       ├── notes.md
+│       └── project_status.md
+│
+├── engineering/
+│   ├── architecture.md
+│   ├── schematics.md
+│   └── systems.md
+│
+├── references/
+│   ├── guides/
+│   │   ├── utilization.md
+│   │   └── standards/
+│   │       ├── andre_standard.md
+│   │       └── standardization.md
+│   │
+│   ├── reference/
+│   │   ├── mathematical/
+│   │   │   └── geometry.md
+│   │   ├── ascii.md
+│   │   ├── blessed_incantation.md
+│   │   ├── cli.md
+│   │   ├── headers.md
+│   │   ├── powershell.md
+│   │   ├── templates.md
+│   │   └── unicode.md
+│   │
+│   ├── rust/
+│   │   ├── arithmetic/
+│   │   │   └── operations.md
+│   │   ├── arrays/
+│   │   │   ├── basic_array.md
+│   │   │   └── vector.md
+│   │   ├── cargo/
+│   │   │   └── test.md
+│   │   ├── macros/
+│   │   │   └── assert.md
+│   │   ├── methods/
+│   │   │   ├── arrays.md
+│   │   │   ├── enum.md
+│   │   │   ├── mechanisms.md
+│   │   │   └── struct.md
+│   │   ├── naming_conventions/
+│   │   │   └── README.md
+│   │   ├── standard_library/
+│   │   │   └── std.md
+│   │   └── test/
+│   │       └── test.md
+│   │
+│   └── sources/
+│       ├── media.md
+│       ├── repositories.md
+│       └── sources.md
+│
+├── research/
+│   ├── artificial_intelligence/
+│   │   └── README.md
+│   ├── experiments/
+│   │   └── experiments.md
+│   └── nasa/
+│       ├── engineering_standards_guide.md
+│       └── notebook.md
+│
+├── war_room/
+│   └── panel_001.md
+│
+├── x_files/
+│
+└── XGPSE/
+    └── README.md
+
+
 
 
 
