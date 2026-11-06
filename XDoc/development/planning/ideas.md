@@ -23,13 +23,15 @@ gpse\images
 build, define, explore, navigate, explain, find with a map system
 
 * gpse\archive\dictionary
-* gpse\programs\translation
+* translation scripts (possible modules: programs, systems, lang, systems\communication)
 
 * gpse\science\biology
 (rename: science\astrology, chemistry, physics)
 
 * gpse\chemistry\bonds
   - calculate elemental bonds
+
+* gpse\ai
 
 
 * END MODULES *
