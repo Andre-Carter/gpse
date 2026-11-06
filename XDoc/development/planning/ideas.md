@@ -1,51 +1,40 @@
-- time system
-- logs, logs, logs
-- notes, ledger, cli
-- - can put cli::commands name, description into structs
-- gpse mission control... system status... ONLINE... STANDBY
+* MODULES *
+
+gpse\engineering
+  - schematics
+  - blueprints
+
+gpse\audio
+
+  1. store audio files
+  2. convert
+  3. edit
+  4. create
+
+gpse\images
+
+  1. store images
+  2. convert
+  3. edit
+  4. create
+
+* gpse\systems\navigation\maps
+
+build, define, explore, navigate, explain, find with a map system
+
+* gpse\archive\dictionary
+* gpse\programs\translation
+
+* gpse\science\biology
+(rename: science\astrology, chemistry, physics)
+
+* gpse\chemistry\bonds
+  - calculate elemental bonds
+
+
+* END MODULES *
+
 - gpse scientific console... INSTRUMENTS... calc, measure, constants, spectrum, convert, simulate, analyze
-- NAVIGATION SYSTEM... position, distance, bearing, orbit, body, map
-- GSPE TELEMETRY... CPU, MEMORY, SIMULATION, ENTITES, LEDGER... (SIMULATION VARIABLES)
-- GPSE ARCHIVE: ledger, constants, research, entities, missions, datasets
-- GAME/CLI IMAGES: BATTLESHIP, MINESWEEPER, ROUGE/GRID EXPLORER, TERMINAL STAR-MAP, TERMINAL DATABASE
-- Chess
-  ↓
-Board system
-
-Battleship
-  ↓
-Coordinate system
-
-Conway
-  ↓
-Simulation system
-
-Rogue
-  ↓
-Entity + world system
-
-Star Map
-  ↓
-Celestial/spatial system
-
-      ↓↓↓
-
-        GPSE
-
-- > read
-
-READ SYSTEM
-
-  bible
-  manual
-  textbook
-  blueprint
-  schematic
-  research
-  help
-  back
-
-  > read bible
 
 BIBLE
 
@@ -110,36 +99,23 @@ Let's start with a simple model:
 
 COG(x)=x
 	​
-
-
 A cog accepts a value and returns it unchanged. That's a placeholder definition, though—not very exciting yet.
 
 Instead, suppose a cog transforms an input according to a function f:
 
 COG
 f
-	​
-
 (x)=f(x)
-
 And multiple cogs compose into a system:
-
 COG
 3
-	​
-
 (COG
 2
-	​
-
 (COG
 1
-	​
-
 (x)))
 
 In Rust, that could eventually represent a sequence of connected operations.
-
 INPUT
   ↓
 ⚙ COG₁
@@ -154,7 +130,6 @@ That's a useful direction because it connects to your expression parser, mathema
 
 2. Give it a rune
 ⚙ COG
-
 Proposed GPSE symbolic notation
 
 ⟲
@@ -166,63 +141,18 @@ Placeholder glyph — not a finalized GPSE rune.
 We could define a symbolic record like this:
 
 Property
-
-	
-
 Meaning
-
-
-
-
 Name
-
-	
-
 COG
-
-
-
-
 Category
-
-	
-
 Mathematical / symbolic
-
-
-
-
 Operation
-
-	
-
 A defined transformation
-
-
-
-
 Input
-
-	
-
 Value or state
-
-
-
-
 Output
-
-	
-
 Transformed value or state
-
-
-
-
 Composition
-
-	
-
 Can connect to other operations
 
 The glyph is the visible representation. The underlying definition is the machine-readable meaning.
@@ -248,36 +178,6 @@ One cog at a time. One rune at a time. One definition at a time.
 Now, brother, we may have to mine the precious metals ourselves. 😂🔥
 
 - left + right
-- break & seal 
-
-MATHEMATICS> DATA_TYPE> NUMERIC CONVERSION
-u32 -> u64
-i32 -> i64
-f32 -> f64
-theorize usize conversion ...
-
-// section
-
-gpse\engineering
-  - schematics
-  - blueprints
-
-// section
-
-gpse\audio
-
-// section
-
-gpse\images
-  1. store images
-  2. convert
-  3. edit
-  4. create
-
-// section
-
-gpse\systems\navigation\maps
-
-build, define, explore, navigate, explain, find with a map system
+- break & seal
 
 
