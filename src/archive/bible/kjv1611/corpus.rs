@@ -33074,671 +33074,671 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("2 samuel", 11, 1) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe, that after the yeere was expired, at the time when kings goe foorth to battell, that Dauid sent Ioab and his seruants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah: but Dauid taried still at Ierusalem.", 
         }),
 
         ("2 samuel", 11, 2) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe in an euening tide, that Dauid arose from off his bed, and walked vpon the roofe of the kings house: and from the roofe he saw a woman washing her selfe; and the woman was very beautifull to looke vpon.", 
         }),
 
         ("2 samuel", 11, 3) => Some(Verse { 
-            content: "", 
+            content: "And Dauid sent and enquired after the woman: and one said, Is not this Bath-sheba the daughter of Eliam, the wife of Uriah the Hittite?", 
         }),
 
         ("2 samuel", 11, 4) => Some(Verse { 
-            content: "", 
+            content: "And Dauid sent messengers, and tooke her, and shee came in vnto him, and he lay with her, ( for she was purified from her vncleannesse) and shee returned vnto her house.", 
         }),
 
         ("2 samuel", 11, 5) => Some(Verse { 
-            content: "", 
+            content: "And the woman conceiued, and sent and tolde Dauid, and said, I am with childe.", 
         }),
 
         ("2 samuel", 11, 6) => Some(Verse { 
-            content: "", 
+            content: "And Dauid sent to Ioab, saying, Send me Uriah the Hittite. And Ioab sent Uriah to Dauid.", 
         }),
 
         ("2 samuel", 11, 7) => Some(Verse { 
-            content: "", 
+            content: "And when Uriah was come vnto him, Dauid demanded of him how Ioab did, and how the people did, and how the warre prospered.", 
         }),
 
         ("2 samuel", 11, 8) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said to Uriah, Goe downe to thy house, and wash thy feete. And Uriah departed out of the Kings house, and there followed him a messe of meat from the king.", 
         }),
 
         ("2 samuel", 11, 9) => Some(Verse { 
-            content: "", 
+            content: "But Uriah slept at the doore of the kings house, with all the seruants of his lord, and went not downe to his house.", 
         }),
 
         ("2 samuel", 11, 10) => Some(Verse { 
-            content: "", 
+            content: "And when they had tolde Dauid, saying, Uriah went not downe vnto his house, Dauid said vnto Uriah, Camest thou not from thy iourney? why then diddest thou not goe downe vnto thine house?", 
         }),
 
         ("2 samuel", 11, 11) => Some(Verse { 
-            content: "", 
+            content: "And Uriah said vnto Dauid, The Arke, and Israel, and Iudah abide in tents, and my lord Ioab, and the seruants of my lord are encamped in the open fields; shall I then goe into mine house, to eate and to drinke, and to lie with my wife? As thou liuest, and as thy soule liueth, I will not doe this thing.", 
         }),
 
         ("2 samuel", 11, 12) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said to Uriah, Tary here to day also, and to morow I will let thee depart. So Uriah abode in Ierusalem that day, and the morrow.", 
         }),
 
         ("2 samuel", 11, 13) => Some(Verse { 
-            content: "", 
+            content: "And when Dauid had called him, hee did eate and drinke before him, and he made him drunke: and at euen hee went out to lie on his bed with the seruants of his lord, but went not downe to his house.", 
         }),
 
         ("2 samuel", 11, 14) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe in the morning, that Dauid wrote a letter to Ioab, and sent it by the hand of Uriah.", 
         }),
 
         ("2 samuel", 11, 15) => Some(Verse { 
-            content: "", 
+            content: "And he wrote in the letter, saying, Set yee Uriah in the forefront of the hottest battel, and retire ye from him, that he may be smitten, and die.", 
         }),
 
         ("2 samuel", 11, 16) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe when Ioab obserued the citie, that he assigned Uriah vnto a place where hee knewe that valiant men were.", 
         }),
 
         ("2 samuel", 11, 17) => Some(Verse { 
-            content: "", 
+            content: "And the men of the city went out, and fought with Ioab: and there fell some of the people of the seruants of Dauid, and Uriah the Hittite died also.", 
         }),
 
         ("2 samuel", 11, 18) => Some(Verse { 
-            content: "", 
+            content: "Then Ioab sent, and tolde Dauid all the things concerning the warre:", 
         }),
 
         ("2 samuel", 11, 19) => Some(Verse { 
-            content: "", 
+            content: "And charged the messenger, saying, When thou hast made an ende of telling the matters of the warre vnto the King;", 
         }),
 
         ("2 samuel", 11, 20) => Some(Verse { 
-            content: "", 
+            content: "And if so be that the kings wrath arise, and hee say vnto thee, Wherefore approched ye so nigh vnto the city when yee did fight? Knew yee not that they would shoot from the wall?", 
         }),
 
         ("2 samuel", 11, 21) => Some(Verse { 
-            content: "", 
+            content: "Who smote Abimelech the sonne of Ierubesheth? Did not a woman cast a piece of a milstone vpon him from the wall, that he died in Thebez? why went ye nigh the wall? Then say thou, Thy seruant Uriah the Hittite is dead also.", 
         }),
 
         ("2 samuel", 11, 22) => Some(Verse { 
-            content: "", 
+            content: "So the messenger went, and came and shewed Dauid all that Ioab had sent him for.", 
         }),
 
         ("2 samuel", 11, 23) => Some(Verse { 
-            content: "", 
+            content: "And the messenger said vnto Dauid, Surely the men preuailed against vs, and came out vnto vs into the field, and we were vpon them euen vnto the entring of the gate.", 
         }),
 
         ("2 samuel", 11, 24) => Some(Verse { 
-            content: "", 
+            content: "And the shooters shot from off the wall vpon thy seruants, and some of the Kings seruants be dead, and thy seruant Uriah the Hittite is dead also.", 
         }),
 
         ("2 samuel", 11, 25) => Some(Verse { 
-            content: "", 
+            content: "Then Dauid said vnto the messenger, Thus shalt thou say vnto Ioab, Let not this thing displease thee: for the sword deuoureth one as well as another: Make thy battell more strong against the citie, and ouerthrow it; and encourage thou him.", 
         }),
 
         ("2 samuel", 11, 26) => Some(Verse { 
-            content: "", 
+            content: "And when the wife of Uriah heard that Uriah her husband was dead, she mourned for her husband.", 
         }),
 
         ("2 samuel", 11, 27) => Some(Verse { 
-            content: "", 
+            content: "And when the mourning was past, Dauid sent, and fet her to his house, and she became his wife, and bare him a sonne: but the thing that Dauid had done, displeased the Lord.", 
         }),
 
         ("2 samuel", 12, 1) => Some(Verse { 
-            content: "", 
+            content: "And the Lord sent Nathan vnto Dauid: and he came vnto him, and said vnto him, There were two men in one citie; the one rich, and the other poore.", 
         }),
 
         ("2 samuel", 12, 2) => Some(Verse { 
-            content: "", 
+            content: "The rich man had exceeding many flockes and herds.", 
         }),
 
         ("2 samuel", 12, 3) => Some(Verse { 
-            content: "", 
+            content: "But the poore man had nothing saue one litle ewe lambe, which he had bought and nourished vp: and it grew vp together with him, and with his children, it did eate of his owne meate, and dranke of his owne cup, and lay in his bosome, and was vnto him as a daughter.", 
         }),
 
         ("2 samuel", 12, 4) => Some(Verse { 
-            content: "", 
+            content: "And there came a traueller vnto the rich man, and he spared to take of his owne flocke, and of his owne herd, to dresse for the wayfaring man that was come vnto him, but tooke the poore mans lambe, and dressed it for the man that was come to him.", 
         }),
 
         ("2 samuel", 12, 5) => Some(Verse { 
-            content: "", 
+            content: "And Dauids anger was greatly kindled against the man, and he said to Nathan, As the Lord liueth, the man that hath done this thing, shall surely die.", 
         }),
 
         ("2 samuel", 12, 6) => Some(Verse { 
-            content: "", 
+            content: "And he shall restore the Lambe fourefold, because he did this thing, and because he had no pittie.", 
         }),
 
         ("2 samuel", 12, 7) => Some(Verse { 
-            content: "", 
+            content: "And Nathan said to Dauid, Thou art the man: thus saith the Lord God of Israel, I anointed thee king ouer Israel, and I deliuered thee out of the hand of Saul,", 
         }),
 
         ("2 samuel", 12, 8) => Some(Verse { 
-            content: "", 
+            content: "And I gaue thee thy Masters house, and thy Masters wiues into thy bosome, and gaue thee the house of Israel and of Iudah, and if that had bene too litle, I would moreouer haue giuen vnto thee such and such things.", 
         }),
 
         ("2 samuel", 12, 9) => Some(Verse { 
-            content: "", 
+            content: "Wherefore hast thou despised the commandement of the Lord, to doe euill in his sight? thou hast killed Uriah the Hittite with the sword, and hast taken his wife to be thy wife, and hast slaine him with the sword of the children of Ammon.", 
         }),
 
         ("2 samuel", 12, 10) => Some(Verse { 
-            content: "", 
+            content: "Now therefore the sword shall neuer depart from thine house, because thou hast despised me, and hast taken the wife of Uriah the Hittite, to be thy wife.", 
         }),
 
         ("2 samuel", 12, 11) => Some(Verse { 
-            content: "", 
+            content: "Thus saith the Lord, Behold, I will raise vp euill against thee out of thine owne house, and I will take thy wiues before thine eyes, and giue them vnto thy neighbour, and he shall lie with thy wiues in the sight of this Sunne.", 
         }),
 
         ("2 samuel", 12, 12) => Some(Verse { 
-            content: "", 
+            content: "For thou diddest it secretly: but I will do this thing before all Israel, and before the Sunne.", 
         }),
 
         ("2 samuel", 12, 13) => Some(Verse { 
-            content: "", 
+            content: "And Dauid saide vnto Nathan, I haue sinned against the Lord. And Nathan saide vnto Dauid, The Lord also hath put away thy sinne, thou shalt not die.", 
         }),
 
         ("2 samuel", 12, 14) => Some(Verse { 
-            content: "", 
+            content: "Howbeit, because by this deede thou hast giuen great occasion to the enemies of the Lord to blaspheme, the childe also that is borne vnto thee, shall surely die.", 
         }),
 
         ("2 samuel", 12, 15) => Some(Verse { 
-            content: "", 
+            content: "And Nathan departed vnto his house: and the Lord strake the childe that Uriahs wife bare vnto Dauid, and it was very sicke.", 
         }),
 
         ("2 samuel", 12, 16) => Some(Verse { 
-            content: "", 
+            content: "Dauid therfore besought God for the childe, and Dauid fasted, and went in, and lay all night vpon the earth.", 
         }),
 
         ("2 samuel", 12, 17) => Some(Verse { 
-            content: "", 
+            content: "And the Elders of his house arose, and went to him, to raise him vp from the earth: but he would not, neither did he eate bread with them.", 
         }),
 
         ("2 samuel", 12, 18) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe on the seuenth day, that the childe died: and the seruants of Dauid feared to tell him that the child was dead: for they saide, Behold, while the childe was yet aliue, we spake vnto him, and he would not hearken vnto our voice: how will he then vexe himselfe, if we tell him that the childe is dead?", 
         }),
 
         ("2 samuel", 12, 19) => Some(Verse { 
-            content: "", 
+            content: "But when Dauid saw that his seruants whispered, Dauid perceiued that the childe was dead: therefore Dauid said vnto his seruants, Is the child dead? and they said, He is dead.", 
         }),
 
         ("2 samuel", 12, 20) => Some(Verse { 
-            content: "", 
+            content: "Then Dauid arose from the earth and washed, and anointed himselfe, and changed his apparell, and came into the house of the Lord, and worshipped: then hee came to his owne house, and when he required, they set bread before him, and he did eate.", 
         }),
 
         ("2 samuel", 12, 21) => Some(Verse { 
-            content: "", 
+            content: "Then said his seruants vnto him, What thing is this that thou hast done? thou didst fast and weepe for the childe, while it was aliue, but when the childe was dead, thou didst rise and eat bread.", 
         }),
 
         ("2 samuel", 12, 22) => Some(Verse { 
-            content: "", 
+            content: "And he said, While the child was yet aliue, I fasted and wept: for I said, Who can tell, whether God will be gracious to me, that the child may liue?", 
         }),
 
         ("2 samuel", 12, 23) => Some(Verse { 
-            content: "", 
+            content: "But now hee is dead, Wherefore should I fast? Can I bring him backe againe? I shall goe to him, but he shall not returne to me.", 
         }),
 
         ("2 samuel", 12, 24) => Some(Verse { 
-            content: "", 
+            content: "And Dauid comforted Bathsheba his wife, and went in vnto her, and lay with her: and she bare a sonne, and he called his name Solomon, and the Lord loued him.", 
         }),
 
         ("2 samuel", 12, 25) => Some(Verse { 
-            content: "", 
+            content: "And hee sent by the hand of Nathan the Prophet, and hee called his name Iedidiah, because of the Lord.", 
         }),
 
         ("2 samuel", 12, 26) => Some(Verse { 
-            content: "", 
+            content: "And Ioab fought against Rabbah of the children of Ammon, and tooke the royall citie.", 
         }),
 
         ("2 samuel", 12, 27) => Some(Verse { 
-            content: "", 
+            content: "And Ioab sent messengers to Dauid, and said, I haue fought against Rabbah, and haue taken the citie of waters.", 
         }),
 
         ("2 samuel", 12, 28) => Some(Verse { 
-            content: "", 
+            content: "Now therefore, gather the rest of the people together, and encampe against the citie, and take it: lest I take the citie, and it be called after my name.", 
         }),
 
         ("2 samuel", 12, 29) => Some(Verse { 
-            content: "", 
+            content: "And Dauid gathered all the people together, and went to Rabbah, and fought against it, and tooke it.", 
         }),
 
         ("2 samuel", 12, 30) => Some(Verse { 
-            content: "", 
+            content: "And he tooke their kings crowne from off his head (the weight whereof was a talent of gold, with the precious stones) and it was set on Dauids head, and he brought forth the spoile of the citie in great abundance.", 
         }),
 
         ("2 samuel", 12, 31) => Some(Verse { 
-            content: "", 
+            content: "And he brought foorth the people that were therein, and put them vnder sawes, and vnder harrowes of yron, and vnder axes of yron, and made them passe through the bricke-kilne: And thus did he vnto all the cities of the children of Ammon. So Dauid and all the people returned vnto Ierusalem.", 
         }),
 
         ("2 samuel", 13, 1) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe after this, that Absalom the sonne of Dauid had a faire sister, whose name was Tamar: and Amnon the sonne of Dauid loued her.", 
         }),
 
         ("2 samuel", 13, 2) => Some(Verse { 
-            content: "", 
+            content: "And Amnon was so vexed, that he fell sicke for his sister Tamar: for she was a virgine, and Amnon thought it hard for him to doe any thing to her.", 
         }),
 
         ("2 samuel", 13, 3) => Some(Verse { 
-            content: "", 
+            content: "But Amnon had a friend, whose name was Ionadab, the sonne of Shimeah, Dauids brother: and Ionadab was a very subtill man.", 
         }),
 
         ("2 samuel", 13, 4) => Some(Verse { 
-            content: "", 
+            content: "And he saide vnto him, Why art thou, being the Kings sonne, leane from day to day? Wilt thou not tel me? and Amnon said vnto him, I loue Tamar my brother Absaloms sister.", 
         }),
 
         ("2 samuel", 13, 5) => Some(Verse { 
-            content: "", 
+            content: "And Ionadab said vnto him, Lay thee downe on thy bed, and make thy selfe sicke: and when thy father commeth to see thee, say vnto him, I pray thee, let my sister Tamar come, and giue me meat, and dresse the meat in my sight, that I may see it, and eate it at her hand.", 
         }),
 
         ("2 samuel", 13, 6) => Some(Verse { 
-            content: "", 
+            content: "So Amnon lay downe, and made himselfe sicke: and when the king was come to see him, Amnon said vnto the king, I pray thee, let Tamar my sister come, & make me a couple of cakes in my sight, that I may eat at her hand.", 
         }),
 
         ("2 samuel", 13, 7) => Some(Verse { 
-            content: "", 
+            content: "Then Dauid sent home to Tamar, saying, Goe now to thy brother Amnons house, and dresse him meat.", 
         }),
 
         ("2 samuel", 13, 8) => Some(Verse { 
-            content: "", 
+            content: "So Tamar went to her brother Amnons house (and hee was laide downe) and she tooke flowre, and kneaded it, and made cakes in his sight, and did bake the cakes.", 
         }),
 
         ("2 samuel", 13, 9) => Some(Verse { 
-            content: "", 
+            content: "And she tooke a pan, and powred them out before him, but hee refused to eate: and Amnon said, Haue out all men from mee: And they went out euery man from him.", 
         }),
 
         ("2 samuel", 13, 10) => Some(Verse { 
-            content: "", 
+            content: "And Amnon saide vnto Tamar, Bring the meate into the chamber, that I may eate of thine hand. And Tamar tooke the cakes which shee had made, and brought them into the chamber to Amnon her brother.", 
         }),
 
         ("2 samuel", 13, 11) => Some(Verse { 
-            content: "", 
+            content: "And when shee had brought them vnto him to eate, hee tooke hold of her, and said vnto her, Come lye with mee, my sister.", 
         }),
 
         ("2 samuel", 13, 12) => Some(Verse { 
-            content: "", 
+            content: "And she answered him, Nay, my brother, doe not force me: for no such thing ought to bee done in Israel; doe not thou this folly.", 
         }),
 
         ("2 samuel", 13, 13) => Some(Verse { 
-            content: "", 
+            content: "And I, whither shall I cause my shame to goe? and as for thee, thou shalt be as one of the fooles in Israel: now therefore, I pray thee, speake vnto the king, for he will not withhold me from thee.", 
         }),
 
         ("2 samuel", 13, 14) => Some(Verse { 
-            content: "", 
+            content: "Howbeit hee would not hearken vnto her voice, but being stronger then shee, forced her, and lay with her.", 
         }),
 
         ("2 samuel", 13, 15) => Some(Verse { 
-            content: "", 
+            content: "Then Amnon hated her exceedingly, so that the hatred wherwith he hated her, was greater then the loue wherewith hee had loued her: And Amnon said vnto her, Arise, be gone.", 
         }),
 
         ("2 samuel", 13, 16) => Some(Verse { 
-            content: "", 
+            content: "And she said vnto him, There is no cause: this euill in sending me away, is greater then the other that thou diddest vnto me: But he would not hearken vnto her.", 
         }),
 
         ("2 samuel", 13, 17) => Some(Verse { 
-            content: "", 
+            content: "Then hee called his seruant that ministred vnto him, and said, Put now this woman out from mee, and bolt the doore after her.", 
         }),
 
         ("2 samuel", 13, 18) => Some(Verse { 
-            content: "", 
+            content: "And shee had a garment of diuers colours vpon her: for with such robes were the Kings daughters, that were virgins, apparelled. Then his seruant brought her out, and bolted the doore after her.", 
         }),
 
         ("2 samuel", 13, 19) => Some(Verse { 
-            content: "", 
+            content: "And Tamar put ashes on her head, and rent her garment of diuers colours that was on her, and layde her hand on her head, and went on, crying.", 
         }),
 
         ("2 samuel", 13, 20) => Some(Verse { 
-            content: "", 
+            content: "And Absalom her brother sayde vnto her, Hath Amnon thy brother beene with thee? But holde nowe thy peace, my sister: he is thy brother, regard not this thing. So Tamar remained desolate in her brother Absaloms house.", 
         }),
 
         ("2 samuel", 13, 21) => Some(Verse { 
-            content: "", 
+            content: "But when King Dauid heard of all these things, he was very wroth.", 
         }),
 
         ("2 samuel", 13, 22) => Some(Verse { 
-            content: "", 
+            content: "And Absalom spake vnto his brother Amnon neither good nor bad: for Absalom hated Amnon, because he had forced his sister Tamar.", 
         }),
 
         ("2 samuel", 13, 23) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe after two full yeeres, that Absalom had sheepeshearers in Baal-Hazor, which is beside Ephraim: and Absalom inuited all the kings sonnes.", 
         }),
 
         ("2 samuel", 13, 24) => Some(Verse { 
-            content: "", 
+            content: "And Absalom came to the King, and said, Behold now, thy seruant hath sheepe-shearers, Let the King, I beseech thee, and his seruants, goe with thy seruant.", 
         }),
 
         ("2 samuel", 13, 25) => Some(Verse { 
-            content: "", 
+            content: "And the King sayde to Absalom, Nay, my sonne, let vs not all now goe, lest we be chargeable vnto thee. And he pressed him: howbeit he would not goe, but blessed him.", 
         }),
 
         ("2 samuel", 13, 26) => Some(Verse { 
-            content: "", 
+            content: "Then said Absalom, If not, I pray thee, let my brother Amnon goe with vs. And the King said vnto him, Why should he goe with thee?", 
         }),
 
         ("2 samuel", 13, 27) => Some(Verse { 
-            content: "", 
+            content: "But Absalom pressed him, that he let Amnon and all the kings sonnes goe with him.", 
         }),
 
         ("2 samuel", 13, 28) => Some(Verse { 
-            content: "", 
+            content: "Now Absalom had commanded his seruants, saying, Marke yee now when Amnons heart is merrie with wine, and when I say vnto you, Smite Amnon, then kill him, feare not: haue not I commanded you? be couragious, and be valiant.", 
         }),
 
         ("2 samuel", 13, 29) => Some(Verse { 
-            content: "", 
+            content: "And the seruants of Absalom did vnto Amnon as Absalom had commanded: then all the Kings sonnes arose, and euery man gate him vp vpon his mule, and fled.", 
         }),
 
         ("2 samuel", 13, 30) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe while they were in the way, that tidings came to Dauid, saying, Absalom hath slaine all the Kings sonnes, and there is not one of them left.", 
         }),
 
         ("2 samuel", 13, 31) => Some(Verse { 
-            content: "", 
+            content: "Then the king arose, and tare his garments, and lay on the earth: and all his seruants stoode by with their clothes rent.", 
         }),
 
         ("2 samuel", 13, 32) => Some(Verse { 
-            content: "", 
+            content: "And Ionadab the sonne of Shimeah Dauids brother, answered and said, Let not my lord suppose that they haue slaine all the yong men the Kings sonnes; for Amnon onely is dead: for by the appointment of Absalom this hath beene determined, from the day that he forced his sister Tamar.", 
         }),
 
         ("2 samuel", 13, 33) => Some(Verse { 
-            content: "", 
+            content: "Now therefore let not my lord the King take the thing to his heart, to thinke that all the Kings sonnes are dead: for Amnon onely is dead.", 
         }),
 
         ("2 samuel", 13, 34) => Some(Verse { 
-            content: "", 
+            content: "But Absalom fled: and the yong man that kept the watch, lift vp his eyes, and looked, and behold, there came much people by the way of the hill side behind him.", 
         }),
 
         ("2 samuel", 13, 35) => Some(Verse { 
-            content: "", 
+            content: "And Ionadab said vnto the king, Behold, the kings sonnes come: as thy seruant said, so it is.", 
         }),
 
         ("2 samuel", 13, 36) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe assoone as hee had made an ende of speaking, that behold, the kings sonnes came, and lift vp their voice, and wept; and the King also and all his seruants wept very sore.", 
         }),
 
         ("2 samuel", 13, 37) => Some(Verse { 
-            content: "", 
+            content: "But Absalom fled, and went to Talmai the sonne of Ammihud king of Geshur: and Dauid mourned for his sonne euery day.", 
         }),
 
         ("2 samuel", 13, 38) => Some(Verse { 
-            content: "", 
+            content: "So Absalom fled, and went to Geshur, and was there three yeeres.", 
         }),
 
         ("2 samuel", 13, 39) => Some(Verse { 
-            content: "", 
+            content: "And the soule of king Dauid longed to goe foorth vnto Absalom: for he was comforted concerning Amnon, seeing he was dead.", 
         }),
 
         ("2 samuel", 14, 1) => Some(Verse { 
-            content: "", 
+            content: "Now Ioab the sonne of Zeruiah, perceiued that the kings heart was toward Absalom.", 
         }),
 
         ("2 samuel", 14, 2) => Some(Verse { 
-            content: "", 
+            content: "And Ioab sent to Tekoah, and fetcht thence a wise woman, and said vnto her, I pray thee, faine thy selfe to be a mourner, and put on now mourning apparel, and anoint not thy selfe with oile, but be as a woman that had a long time mourned for the dead:", 
         }),
 
         ("2 samuel", 14, 3) => Some(Verse { 
-            content: "", 
+            content: "And come to the king, and speake on this maner vnto him: so Ioab put the words in her mouth.", 
         }),
 
         ("2 samuel", 14, 4) => Some(Verse { 
-            content: "", 
+            content: "And when the woman of Tekoah spake to the king, shee fell on her face to the ground, and did obeysance, and said, Helpe, O king.", 
         }),
 
         ("2 samuel", 14, 5) => Some(Verse { 
-            content: "", 
+            content: "And the king said vnto her, What aileth thee? And she answered, I am indeed a widow woman, and mine husband is dead.", 
         }),
 
         ("2 samuel", 14, 6) => Some(Verse { 
-            content: "", 
+            content: "And thy handmayd had two sonnes, and they two stroue together in the field, and there was none to part them, but the one smote the other, and slew him.", 
         }),
 
         ("2 samuel", 14, 7) => Some(Verse { 
-            content: "", 
+            content: "And behold, the whole family is risen against thine handmayd, and they said, Deliuer him that smote his brother, that we may kill him, for the life of his brother whom he slew, and we will destroy the heire also: and so they shall quench my cole which is left, and shall not leaue to my husband neither name nor remainder vpon the earth.", 
         }),
 
         ("2 samuel", 14, 8) => Some(Verse { 
-            content: "", 
+            content: "And the king saide vnto the woman, Goe to thine house, and I will giue charge concerning thee.", 
         }),
 
         ("2 samuel", 14, 9) => Some(Verse { 
-            content: "", 
+            content: "And the woman of Tekoah said vnto the king, My lord, O king, the iniquitie bee on mee, and on my fathers house: and the king and his throne bee guiltlesse.", 
         }),
 
         ("2 samuel", 14, 10) => Some(Verse { 
-            content: "", 
+            content: "And the king said, Whosoeuer saith ought vnto thee, bring him to mee, and he shall not touch thee any more.", 
         }),
 
         ("2 samuel", 14, 11) => Some(Verse { 
-            content: "", 
+            content: "Then said she, I pray thee, let the king remember the Lord thy God, that thou wouldest not suffer the reuengers of blood to destroy any more, lest they destroy my sonne. And he said, As the Lord liueth, there shall not one haire of thy sonne fall to the earth.", 
         }),
 
         ("2 samuel", 14, 12) => Some(Verse { 
-            content: "", 
+            content: "Then the woman said, Let thine handmayd, I pray thee, speake one word vnto my lord the king. And hee said, Say on.", 
         }),
 
         ("2 samuel", 14, 13) => Some(Verse { 
-            content: "", 
+            content: "And the woman said, Wherefore then hast thou thought such a thing against the people of God? For the king doeth speake this thing as one which is faulty, in that the king doeth not fetch home againe his banished.", 
         }),
 
         ("2 samuel", 14, 14) => Some(Verse { 
-            content: "", 
+            content: "For we must needs die, and are as water spilt on the ground, which cannot bee gathered vp againe: neither doeth God respect any person, yet doeth he deuise meanes, that his banished bee not expelled from him.", 
         }),
 
         ("2 samuel", 14, 15) => Some(Verse { 
-            content: "", 
+            content: "Now therefore that I am come to speake of this thing vnto my lord the king, it is because the people haue made me afraid: and thy handmayd said, I will now speake vnto the king; it may bee that the king will performe the request of his handmayd.", 
         }),
 
         ("2 samuel", 14, 16) => Some(Verse { 
-            content: "", 
+            content: "For the king wil heare, to deliuer his handmayd out of the hand of the man that would destroy mee, and my sonne together out of the inheritance of God:", 
         }),
 
         ("2 samuel", 14, 17) => Some(Verse { 
-            content: "", 
+            content: "Then thine handmaid said, The word of my lord the king shall now be comfortable: for as an Angel of God, so is my lord the king to discerne good and bad: therfore the Lord thy God will be with thee.", 
         }),
 
         ("2 samuel", 14, 18) => Some(Verse { 
-            content: "", 
+            content: "Then the king answered and said vnto the woman, Hide not from me, I pray thee, the thing that I shall aske thee. And the woman said, Let my lord the king now speake.", 
         }),
 
         ("2 samuel", 14, 19) => Some(Verse { 
-            content: "", 
+            content: "And the king said, Is not the hand of Ioab with thee in all this? And the woman answered and said, As thy soule liueth, my lord the king, none can turne to the right hand or to the left from ought that my lord the king hath spoken: for thy seruant Ioab, hee bade me, and he put all these wordes in the mouth of thine handmaid:", 
         }),
 
         ("2 samuel", 14, 20) => Some(Verse { 
-            content: "", 
+            content: "To fetch about this forme of speech hath thy seruant Ioab done this thing: and my lord is wise, according to the wisedome of an Angel of God, to know all things that are in the earth.", 
         }),
 
         ("2 samuel", 14, 21) => Some(Verse { 
-            content: "", 
+            content: "And the king said vnto Ioab, Behold now, I haue done this thing: goe therefore, bring the yong man Absalom againe.", 
         }),
 
         ("2 samuel", 14, 22) => Some(Verse { 
-            content: "", 
+            content: "And Ioab fell to the ground on his face, & bowed himselfe, and thanked the king: and Ioab said, To day thy seruant knoweth that I haue found grace in thy sight, my lord O king, in that the king hath fulfilled the request of his seruant.", 
         }),
 
         ("2 samuel", 14, 23) => Some(Verse { 
-            content: "", 
+            content: "So Ioab arose, and went to Geshur, & brought Absalom to Ierusalem.", 
         }),
 
         ("2 samuel", 14, 24) => Some(Verse { 
-            content: "", 
+            content: "And the king said, Let him turne to his owne house, & let him not see my face. So Absalom returned to his owne house, and sawe not the kings face.", 
         }),
 
         ("2 samuel", 14, 25) => Some(Verse { 
-            content: "", 
+            content: "But in all Israel there was none to be so much praised as Absalom, for his beautie: from the sole of his foot euen to the crowne of his head, there was no blemish in him.", 
         }),
 
         ("2 samuel", 14, 26) => Some(Verse { 
-            content: "", 
+            content: "And when he polled his head, (for it was at euery yeres end that he polled it: because the haire was heauy on him, therefore he polled it) hee weighed the haire of his head at two hundred shekels after the kings weight.", 
         }),
 
         ("2 samuel", 14, 27) => Some(Verse { 
-            content: "", 
+            content: "And vnto Absalom there were borne three sonnes, and one daughter, whose name was Tamar: shee was a woman of a faire countenance.", 
         }),
 
         ("2 samuel", 14, 28) => Some(Verse { 
-            content: "", 
+            content: "So Absalom dwelt two full yeeres in Ierusalem, and saw not the kings face.", 
         }),
 
         ("2 samuel", 14, 29) => Some(Verse { 
-            content: "", 
+            content: "Therefore Absalom sent for Ioab, to haue sent him to the king, but hee would not come to him: and when hee sent againe the second time, hee would not come.", 
         }),
 
         ("2 samuel", 14, 30) => Some(Verse { 
-            content: "", 
+            content: "Therefore hee said vnto his seruants, See, Ioabs field is neere mine, and he hath barley there: goe, and set it on fire: and Absaloms seruants set the field on fire.", 
         }),
 
         ("2 samuel", 14, 31) => Some(Verse { 
-            content: "", 
+            content: "Then Ioab arose, and came to Absalom vnto his house, and said vnto him, Wherefore haue thy seruants set my field on fire?", 
         }),
 
         ("2 samuel", 14, 32) => Some(Verse { 
-            content: "", 
+            content: "And Absalom answered Ioab, Behold, I sent vnto thee, saying, come hither, that I may send thee to the king to say, Wherefore am I come from Geshur? It had bene good for mee to haue bene there still: now therefore let me see the kings face: and if there bee any iniquitie in me, let him kill me.", 
         }),
 
         ("2 samuel", 14, 33) => Some(Verse { 
-            content: "", 
+            content: "So Ioab came to the King, and told him: and when hee had called for Absalom, he came to the king, and bowed himselfe on his face to the ground before the king, and the King kissed Absalom.", 
         }),
 
         ("2 samuel", 15, 1) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe after this, that Absalom prepared him charets and horses, and fiftie men to runne before him.", 
         }),
 
         ("2 samuel", 15, 2) => Some(Verse { 
-            content: "", 
+            content: "And Absalom rose vp earely, and stood beside the way of the gate: and it was so, that when any man that had a controuersie, came to the king for iudgment, then Absalom called vnto him, and said, Of what citie art thou? And he said, Thy seruant is of one of the tribes of Israel.", 
         }),
 
         ("2 samuel", 15, 3) => Some(Verse { 
-            content: "", 
+            content: "And Absalom said vnto him, See, thy matters are good & right, but there is no man deputed of the king to heare thee.", 
         }),
 
         ("2 samuel", 15, 4) => Some(Verse { 
-            content: "", 
+            content: "Absalom said moreouer, Oh that I were made Iudge in the land, that euery man which hath any suit or cause, might come vnto me, and I would do him iustice.", 
         }),
 
         ("2 samuel", 15, 5) => Some(Verse { 
-            content: "", 
+            content: "And it was so, that when any man came nigh to him, to doe him obeisance, he put foorth his hand, and tooke him, and kissed him.", 
         }),
 
         ("2 samuel", 15, 6) => Some(Verse { 
-            content: "", 
+            content: "And on this maner did Absalom to all Israel, that came to the King for iudgement: so Absalom stole the hearts of the men of Israel.", 
         }),
 
         ("2 samuel", 15, 7) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe after fourtie yeeres, that Absalom said vnto the king, I pray thee, let mee goe and pay my vow which I haue vowed vnto the Lord in Hebron.", 
         }),
 
         ("2 samuel", 15, 8) => Some(Verse { 
-            content: "", 
+            content: "For thy seruant vowed a vowe while I abode at Geshur in Syria, saying, If the Lord shall bring mee againe in deed to Ierusalem, then I will serue the Lord.", 
         }),
 
         ("2 samuel", 15, 9) => Some(Verse { 
-            content: "", 
+            content: "And the king said vnto him, Goe in peace. So he arose, and went to Hebron.", 
         }),
 
         ("2 samuel", 15, 10) => Some(Verse { 
-            content: "", 
+            content: "But Absalom sent spies thorowout all the tribes of Israel, saying, As soone as yee heare the sound of the trumpet, then yee shall say, Absalom reigneth in Hebron.", 
         }),
 
         ("2 samuel", 15, 11) => Some(Verse { 
-            content: "", 
+            content: "And with Absalom went two hundred men out of Ierusalem, that were called, and they went in their simplicitie, and they knew not any thing.", 
         }),
 
         ("2 samuel", 15, 12) => Some(Verse { 
-            content: "", 
+            content: "And Absalom sent for Ahithophel the Gilonite, Dauids counseller, from his citie, euen from Giloh, while he offered sacrifices: and the conspiracie was strong, for the people encreased continually with Absalom.", 
         }),
 
         ("2 samuel", 15, 13) => Some(Verse { 
-            content: "", 
+            content: "And there came a messenger to Dauid, saying, The hearts of the men of Israel are after Absalom.", 
         }),
 
         ("2 samuel", 15, 14) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said vnto all his seruants that were with him at Ierusalem, Arise, and let vs flee; for wee shall not else escape from Absalom: make speede to depart, lest hee ouertake vs suddenly, and bring euill vpon vs, and smite the city with the edge of the sword.", 
         }),
 
         ("2 samuel", 15, 15) => Some(Verse { 
-            content: "", 
+            content: "And the kings seruants said vnto the king, Behold, thy seruants are readie to doe whatsoeuer my lord the king shall appoint.", 
         }),
 
         ("2 samuel", 15, 16) => Some(Verse { 
-            content: "", 
+            content: "And the king went foorth, and all his houshold after him: and the King left tenne women, which were concubines, to keepe the house.", 
         }),
 
         ("2 samuel", 15, 17) => Some(Verse { 
-            content: "", 
+            content: "And the king went forth, and all the people after him, and taried in a place that was farre off.", 
         }),
 
         ("2 samuel", 15, 18) => Some(Verse { 
-            content: "", 
+            content: "And all his seruants passed on beside him: and all the Cherethites, and all the Pelethites, and all the Gittites, sixe hundred men, which came after him from Gath, passed on before the king.", 
         }),
 
         ("2 samuel", 15, 19) => Some(Verse { 
-            content: "", 
+            content: "Then said the king to Ittai the Gittite, Wherefore goest thou also with vs? Returne to thy place, and abide with the King: for thou art a stranger, and also an exile.", 
         }),
 
         ("2 samuel", 15, 20) => Some(Verse { 
-            content: "", 
+            content: "Whereas thou camest but yesterday, should I this day make thee goe vp and downe with vs? Seeing I goe whither I may, returne thou, and take backe thy brethren: mercie and trueth be with thee.", 
         }),
 
         ("2 samuel", 15, 21) => Some(Verse { 
-            content: "", 
+            content: "And Ittai answered the King, and said, As the Lord liueth, and as my lord the king liueth, surely in what place my lord the king shall be, whether in death or life, euen there also will thy seruant be.", 
         }),
 
         ("2 samuel", 15, 22) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said to Ittai, Goe, and passe ouer. And Ittai the Gittite passed ouer, and all his men, and all the little ones that were with him.", 
         }),
 
         ("2 samuel", 15, 23) => Some(Verse { 
-            content: "", 
+            content: "And all the countrey wept with a loude voice, and all the people passed ouer: the King also himselfe passed ouer the brooke Kidron, and all the people passed ouer, toward the way of the wildernesse.", 
         }),
 
         ("2 samuel", 15, 24) => Some(Verse { 
-            content: "", 
+            content: "And loe, Zadok also, and all the Leuites were with him, bearing the Arke of the Couenant of God, and they set downe the Arke of God; and Abiathar went vp, vntill all the people had done passing out of the citie.", 
         }),
 
         ("2 samuel", 15, 25) => Some(Verse { 
-            content: "", 
+            content: "And the King said vnto Zadok, Cary backe the Arke of God into the citie: if I shall finde fauour in the eyes of the Lord, he wil bring me againe, and shew me both it, and his habitation.", 
         }),
 
         ("2 samuel", 15, 26) => Some(Verse { 
-            content: "", 
+            content: "But if he thus say, I haue no delight in thee: beholde, here am I, let him doe to me, as seemeth good vnto him.", 
         }),
 
         ("2 samuel", 15, 27) => Some(Verse { 
-            content: "", 
+            content: "The king said also vnto Zadok the Priest, Art not thou a Seer? Returne into the citie in peace, and your two sonnes with you, Ahimaaz thy sonne, and Ionathan the sonne of Abiathar.", 
         }),
 
         ("2 samuel", 15, 28) => Some(Verse { 
-            content: "", 
+            content: "See, I will tarie in the plaine of the wildernesse, vntill there come word from you to certifie me.", 
         }),
 
         ("2 samuel", 15, 29) => Some(Verse { 
-            content: "", 
+            content: "Zadok therefore and Abiathar caried the Arke of God againe to Ierusalem; and they taried there.", 
         }),
 
         ("2 samuel", 15, 30) => Some(Verse { 
-            content: "", 
+            content: "And Dauid went vp by the ascent of mount Oliuet, and wept as he went vp, and had his head couered, and he went barefoote, and all the people that was with him, couered euery man his head, and they went vp, weeping as they went vp.", 
         }),
 
         ("2 samuel", 15, 31) => Some(Verse { 
-            content: "", 
+            content: "And one tolde Dauid, saying, Ahithophel is among the conspirators with Absalom. And Dauid sayde, O Lord, I pray thee turne the counsell of Ahithophel into foolishnesse.", 
         }),
 
         ("2 samuel", 15, 32) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe, that when Dauid was come to the top of the mount, where he worshipped God, behold, Hushai the Archite came to meet him, with his coat rent, and earth vpon his head:", 
         }),
 
         ("2 samuel", 15, 33) => Some(Verse { 
-            content: "", 
+            content: "Unto whom Dauid said, If thou passest on with me, then thou shalt be a burden vnto me.", 
         }),
 
         ("2 samuel", 15, 34) => Some(Verse { 
-            content: "", 
+            content: "But if thou returne to the citie, and say vnto Absalom, I wil be thy seruant, O king: as I haue bene thy fathers seruant hitherto, so will I now also be thy seruant: then mayest thou for mee defeat the counsell of Ahithophel.", 
         }),
 
         ("2 samuel", 15, 35) => Some(Verse { 
-            content: "", 
+            content: "And hast thou not there with thee Zadok, and Abiathar the Priests? therefore it shall be, that what thing soeuer thou shalt heare out of the kings house, thou shalt tell it to Zadok and Abiathar the Priests.", 
         }),
 
         ("2 samuel", 15, 36) => Some(Verse { 
-            content: "", 
+            content: "Behold, they haue there with them their two sonnes, Ahimaaz Zadoks sonne, and Ionathan Abiathars sonne: and by them ye shall send vnto me euery thing that ye can heare.", 
         }),
 
         ("2 samuel", 15, 37) => Some(Verse { 
-            content: "", 
+            content: "So Hushai Dauids friend came into the citie, and Absalom came into Ierusalem.", 
         }),
 
         ("2 samuel", 16, 1) => Some(Verse { 
