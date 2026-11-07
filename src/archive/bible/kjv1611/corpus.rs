@@ -29484,335 +29484,335 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("1 samuel", 7, 11) => Some(Verse { 
-            content: "", 
+            content: "And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, vntill they came vnder Bethcar.", 
         }),
 
         ("1 samuel", 7, 12) => Some(Verse { 
-            content: "", 
+            content: "Then Samuel tooke a stone, and set it betweene Mizpeh and Shen, and called the name of it Eben-Ezer, saying, Hitherto hath the Lord helped vs.", 
         }),
 
         ("1 samuel", 7, 13) => Some(Verse { 
-            content: "", 
+            content: "So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the Lord was against the Philistines, all the dayes of Samuel.", 
         }),
 
         ("1 samuel", 7, 14) => Some(Verse { 
-            content: "", 
+            content: "And the cities which the Philistines had taken from Israel, were restored to Israel, from Ekron euen vnto Gath, and the coasts thereof did Israel deliuer out of the hands of the Philistines: and there was peace betweene Israel and the Amorites.", 
         }),
 
         ("1 samuel", 7, 15) => Some(Verse { 
-            content: "", 
+            content: "And Samuel iudged Israel all the dayes of his life.", 
         }),
 
         ("1 samuel", 7, 16) => Some(Verse { 
-            content: "", 
+            content: "And he went from yeere to yeere in circuit to Bethel, and Gilgal, and Mizpeh, and iudged Israel in all those places.", 
         }),
 
         ("1 samuel", 7, 17) => Some(Verse { 
-            content: "", 
+            content: "And his returne was to Ramah: for there was his house: and there hee iudged Israel, and there hee built an altar vnto the Lord.", 
         }),
 
         ("1 samuel", 8, 1) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe, when Samuel was old, that he made his sonnes Iudges ouer Israel.", 
         }),
 
         ("1 samuel", 8, 2) => Some(Verse { 
-            content: "", 
+            content: "Now the name of his first borne was Ioel, and the name of his second, Abiah: they were Iudges in Beer-sheba.", 
         }),
 
         ("1 samuel", 8, 3) => Some(Verse { 
-            content: "", 
+            content: "And his sonnes walked not in his wayes, but turned aside after lucre, and tooke bribes, & peruerted iudgement.", 
         }),
 
         ("1 samuel", 8, 4) => Some(Verse { 
-            content: "", 
+            content: "Then all the Elders of Israel gathered themselues together, and came to Samuel vnto Ramah,", 
         }),
 
         ("1 samuel", 8, 5) => Some(Verse { 
-            content: "", 
+            content: "And said vnto him, Behold, thou art olde, and thy sonnes walke not in thy wayes: now make vs a King to iudge vs, like all the nations.", 
         }),
 
         ("1 samuel", 8, 6) => Some(Verse { 
-            content: "", 
+            content: "But the thing displeased Samuel, when they said, Giue vs a King to iudge vs: and Samuel prayed vnto the Lord.", 
         }),
 
         ("1 samuel", 8, 7) => Some(Verse { 
-            content: "", 
+            content: "And the Lord said vnto Samuel, Hearken vnto the voyce of the people in all that they say vnto thee: for they haue not reiected thee, but they haue reiected mee, that I should not reigne ouer them.", 
         }),
 
         ("1 samuel", 8, 8) => Some(Verse { 
-            content: "", 
+            content: "According to all the works which they haue done since the day that I brought them vp out of Egypt euen vnto this day, wherewith they haue forsaken me, and serued other gods: so doe they also vnto thee.", 
         }),
 
         ("1 samuel", 8, 9) => Some(Verse { 
-            content: "", 
+            content: "Nowe therefore hearken vnto their voyce: howbeit, yet protest solemnly vnto them, and shew them the maner of the King that shall reigne ouer them.", 
         }),
 
         ("1 samuel", 8, 10) => Some(Verse { 
-            content: "", 
+            content: "And Samuel told all the words of the Lord vnto the people, that asked of him a King.", 
         }),
 
         ("1 samuel", 8, 11) => Some(Verse { 
-            content: "", 
+            content: "And hee sayd, This will be the maner of the king that shall reigne ouer you: Hee will take your sonnes, and appoint them for himselfe for his charets, and to bee his horsemen, and some shall runne before his charets.", 
         }),
 
         ("1 samuel", 8, 12) => Some(Verse { 
-            content: "", 
+            content: "And hee will appoint him Captaines ouer thousands, and captaines ouer fifties, and will set them to eare his ground, and to reape his haruest, and to make his instruments of warre, and instruments of his charets.", 
         }),
 
         ("1 samuel", 8, 13) => Some(Verse { 
-            content: "", 
+            content: "And he will take your daughters to be confectionaries, and to be cookes, and to be bakers.", 
         }),
 
         ("1 samuel", 8, 14) => Some(Verse { 
-            content: "", 
+            content: "And he will take your fields, and your vineyards, and your oliue-yards, euen the best of them, and giue them to his seruants.", 
         }),
 
         ("1 samuel", 8, 15) => Some(Verse { 
-            content: "", 
+            content: "And he will take the tenth of your seed, and of your vineyards, and giue to his officers, and to his seruants.", 
         }),
 
         ("1 samuel", 8, 16) => Some(Verse { 
-            content: "", 
+            content: "And hee will take your men seruants, and your mayd seruants, and your goodliest young men, and your asses, and put them to his worke.", 
         }),
 
         ("1 samuel", 8, 17) => Some(Verse { 
-            content: "", 
+            content: "Hee will take the tenth of your sheepe, and ye shall be his seruants.", 
         }),
 
         ("1 samuel", 8, 18) => Some(Verse { 
-            content: "", 
+            content: "And ye shall cry out in that day, because of your king which ye shall haue chosen you; and the Lord will not heare you in that day.", 
         }),
 
         ("1 samuel", 8, 19) => Some(Verse { 
-            content: "", 
+            content: "Neuerthelesse, the people refused to obey the voyce of Samuel; and they said, Nay, but we will haue a King ouer vs:", 
         }),
 
         ("1 samuel", 8, 20) => Some(Verse { 
-            content: "", 
+            content: "That we also may be like all the nations, and that our King may iudge vs, and goe out before vs, and fight our battels.", 
         }),
 
         ("1 samuel", 8, 21) => Some(Verse { 
-            content: "", 
+            content: "And Samuel heard all the words of the people, and he rehearsed them in the eares of the Lord.", 
         }),
 
         ("1 samuel", 8, 22) => Some(Verse { 
-            content: "", 
+            content: "And the Lord said to Samuel, Hearken vnto their voyce, and make them a King. And Samuel said vnto the men of Israel, Goe yee euery man vnto his citie.", 
         }),
 
         ("1 samuel", 9, 1) => Some(Verse { 
-            content: "", 
+            content: "Now there was a man of Beniamin, whose name was Kish, the sonne of Abiel, the sonne of Zeror, the sonne of Bechorath, the sonne of Aphiah, a Beniamite, a mighty man of power.", 
         }),
 
         ("1 samuel", 9, 2) => Some(Verse { 
-            content: "", 
+            content: "And he had a sonne, whose name was Saul, a choice young man, and a goodly: and there was not among the children of Israel a goodlier person then hee: from his shoulders and vpward, hee was higher then any of the people.", 
         }),
 
         ("1 samuel", 9, 3) => Some(Verse { 
-            content: "", 
+            content: "And the asses of Kish, Sauls father, were lost; and Kish said to Saul his sonne, Take nowe one of the seruants with thee, and arise, goe seeke the asses.", 
         }),
 
         ("1 samuel", 9, 4) => Some(Verse { 
-            content: "", 
+            content: "And he passed thorow mount Ephraim, and passed thorow the land of Shalisha, but they found them not: then they passed thorow the land of Shalim, and there they were not: and hee passed thorow the land of the Beniamites, but they found them not.", 
         }),
 
         ("1 samuel", 9, 5) => Some(Verse { 
-            content: "", 
+            content: "And when they were come to the land of Zuph, Saul said to his seruant that was with him, Come, and let vs returne, lest my father leaue caring for the asses, and take thought for vs.", 
         }),
 
         ("1 samuel", 9, 6) => Some(Verse { 
-            content: "", 
+            content: "And hee said vnto him, Behold now, there is in this citie a man of God, and he is an honourable man; all that he saith, commeth surely to passe: Now let vs goe thither; peraduenture he can shew vs our way that we should goe.", 
         }),
 
         ("1 samuel", 9, 7) => Some(Verse { 
-            content: "", 
+            content: "Then said Saul to his seruaunt, But behold, if we goe, what shall wee bring the man? for the bread is spent in our vessels, and there is not a present to bring to the man of God: What haue wee?", 
         }),
 
         ("1 samuel", 9, 8) => Some(Verse { 
-            content: "", 
+            content: "And the seruant answered Saul againe, and said, Behold, I haue here at hand the fourth part of a shekel of siluer; that wil I giue to the man of God, to tell vs our way.", 
         }),
 
         ("1 samuel", 9, 9) => Some(Verse { 
-            content: "", 
+            content: "(Beforetime in Israel, when a man went to enquire of God, thus he spake; Come, and let vs go to the Seer: for he that is now called a Prophet, was beforetime called a Seer.)", 
         }),
 
         ("1 samuel", 9, 10) => Some(Verse { 
-            content: "", 
+            content: "Then said Saul to his seruant, Wel said, come, let vs go: so they went vnto the city where the man of God was.", 
         }),
 
         ("1 samuel", 9, 11) => Some(Verse { 
-            content: "", 
+            content: "And as they went vp the hill to the city, they found yong maydens going out to draw water, and said vnto them, Is the Seer here?", 
         }),
 
         ("1 samuel", 9, 12) => Some(Verse { 
-            content: "", 
+            content: "And they answered them, and said, He is: behold, he is before you, make haste now: for he came to day to the citie; for there is a sacrifice of the people to day in the hie place.", 
         }),
 
         ("1 samuel", 9, 13) => Some(Verse { 
-            content: "", 
+            content: "Assoone as ye be come into the citie, ye shall straightway finde him, before he goe vp to the high place to eate: for the people will not eate vntill hee come, because he doth blesse the sacrifice, and afterwards they eat that be bidden: Now therefore get you vp, for about this time ye shall finde him.", 
         }),
 
         ("1 samuel", 9, 14) => Some(Verse { 
-            content: "", 
+            content: "And they went vp into the citie: and when they were come into the citie, behold, Samuel came out against them, for to goe vp to the hie place.", 
         }),
 
         ("1 samuel", 9, 15) => Some(Verse { 
-            content: "", 
+            content: "Now the Lord had told Samuel in his eare a day before Saul came, saying,", 
         }),
 
         ("1 samuel", 9, 16) => Some(Verse { 
-            content: "", 
+            content: "To morrow about this time I will send thee a man out of the land of Beniamin, and thou shalt anoynt him to be Captaine ouer my people Israel, that he may saue my people out of the hand of the Philistines: for I haue looked vpon my people, because their cry is come vnto me.", 
         }),
 
         ("1 samuel", 9, 17) => Some(Verse { 
-            content: "", 
+            content: "And when Samuel saw Saul, the Lord said vnto him, Behold the man whom I spake to thee of: this same shall reigne ouer my people.", 
         }),
 
         ("1 samuel", 9, 18) => Some(Verse { 
-            content: "", 
+            content: "Then Saul drew neere to Samuel in the gate, and said, Tell me, I pray thee, where the Seers house is.", 
         }),
 
         ("1 samuel", 9, 19) => Some(Verse { 
-            content: "", 
+            content: "And Samuel answered Saul, and said, I am the Seer: Goe vp before me vnto the high place, for ye shall eate with me to day, and to morrow I will let thee goe, and will tell thee all that is in thine heart.", 
         }),
 
         ("1 samuel", 9, 20) => Some(Verse { 
-            content: "", 
+            content: "And as for thine asses that were lost three dayes agoe, set not thy minde on them, for they are found: And on whom is all the desire of Israel? is it not on thee, & on all thy fathers house?", 
         }),
 
         ("1 samuel", 9, 21) => Some(Verse { 
-            content: "", 
+            content: "And Saul answered, and said, Am not I a Beniamite, of the smallest of the tribes of Israel? and my family the least of all the families of the tribe of Beniamin? Wherefore then speakest thou so to me?", 
         }),
 
         ("1 samuel", 9, 22) => Some(Verse { 
-            content: "", 
+            content: "And Samuel tooke Saul, and his seruant, and brought them into the parlour, & made them sit in the chiefest place among them that were bidden, which were about thirtie persons.", 
         }),
 
         ("1 samuel", 9, 23) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said vnto the cooke, Bring the portion which I gaue thee, of which I said vnto thee, Set it by thee.", 
         }),
 
         ("1 samuel", 9, 24) => Some(Verse { 
-            content: "", 
+            content: "And the cooke took vp the shoulder, and that which was vpon it, and set it before Saul, and Samuel said, Behold, that which is left, set it before thee, and eate: for vnto this time hath it bene kept for thee, since I said I haue inuited the people: So Saul did eat with Samuel that day.", 
         }),
 
         ("1 samuel", 9, 25) => Some(Verse { 
-            content: "", 
+            content: "And when they were come downe from the high place into the citie, Samuel communed with Saul vpon the top of the house.", 
         }),
 
         ("1 samuel", 9, 26) => Some(Verse { 
-            content: "", 
+            content: "And they arose early: and it came to passe about the spring of the day, that Samuel called Saul to the top of the house, saying, Up, that I may send thee away: And Saul arose, and they went out both of them, hee and Samuel, abroad.", 
         }),
 
         ("1 samuel", 9, 27) => Some(Verse { 
-            content: "", 
+            content: "And as they were going downe to the end of the city, Samuel said to Saul, Bid the seruant passe on before vs, (and he passed on) but stand thou still a while, that I may shew thee the word of God.", 
         }),
 
         ("1 samuel", 10, 1) => Some(Verse { 
-            content: "", 
+            content: "Then Samuel tooke a viall of oile, and powred it vpon his head, & kissed him, and said, Is it not because the Lord hath anoynted thee to be captain ouer his inheritance?", 
         }),
 
         ("1 samuel", 10, 2) => Some(Verse { 
-            content: "", 
+            content: "When thou art departed from me to day, then thou shalt find two men by Rachels sepulchre in the border of Beniamin, at Zelzah: and they will say vnto thee, The asses which thou wentest to seeke, are found: and loe, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I doe for my sonne?", 
         }),
 
         ("1 samuel", 10, 3) => Some(Verse { 
-            content: "", 
+            content: "Then shalt thou goe on forward from thence, and thou shalt come to the plaine of Tabor, and there shall meete thee three men, going vp to God to Bethel, one carying three kids, and another carying three loaues of bread, and another carying a bottle of wine.", 
         }),
 
         ("1 samuel", 10, 4) => Some(Verse { 
-            content: "", 
+            content: "And they will salute thee, and giue thee two loaues of bread, which thou shalt receiue of their hands.", 
         }),
 
         ("1 samuel", 10, 5) => Some(Verse { 
-            content: "", 
+            content: "After that thou shalt come to the hill of God, where is the garison of the Philistines: and it shall come to passe when thou art come thither to the citie, that thou shalt meet a company of prophets comming downe from the high place, with a psalterie, and a tabret, and a pipe, and a harpe before them, and they shall prophecie.", 
         }),
 
         ("1 samuel", 10, 6) => Some(Verse { 
-            content: "", 
+            content: "And the Spirit of the Lord will come vpon thee, and thou shalt prophecie with them, and shalt be turned into another man.", 
         }),
 
         ("1 samuel", 10, 7) => Some(Verse { 
-            content: "", 
+            content: "And let it be when these signes are come vnto thee, that thou doe as occasion serue thee, for God is with thee.", 
         }),
 
         ("1 samuel", 10, 8) => Some(Verse { 
-            content: "", 
+            content: "And thou shalt goe downe before me to Gilgal, and behold, I will come downe vnto thee, to offer burnt offerings, and to sacrifice sacrifices of peace offerings: seuen dayes shalt thou tarie, till I come to thee, and shew thee what thou shalt doe.", 
         }),
 
         ("1 samuel", 10, 9) => Some(Verse { 
-            content: "", 
+            content: "And it was so that when he had turned his backe to go from Samuel, God gaue him another heart: and all those signes came to passe that day.", 
         }),
 
         ("1 samuel", 10, 10) => Some(Verse { 
-            content: "", 
+            content: "And when they came thither to the hill, behold, a company of the prophets met him, and the spirit of God came vpon him, and hee prophesied among them.", 
         }),
 
         ("1 samuel", 10, 11) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe when all that knew him beforetime, saw, that behold, hee prophesied among the prophets, then the people said one to another, What is this that is come vnto the sonne of Kish? Is Saul also among the prophets?", 
         }),
 
         ("1 samuel", 10, 12) => Some(Verse { 
-            content: "", 
+            content: "And one of the same place answered, and sayd, But who is their father? Therefore it became a prouerbe, Is Saul also among the Prophets?", 
         }),
 
         ("1 samuel", 10, 13) => Some(Verse { 
-            content: "", 
+            content: "And when he had made an end of prophesying, he came to the high place.", 
         }),
 
         ("1 samuel", 10, 14) => Some(Verse { 
-            content: "", 
+            content: "And Sauls vncle saide vnto him, and to his seruant, Whither went ye? And he said, To seeke the asses: and when we saw that they were no where, we came to Samuel.", 
         }),
 
         ("1 samuel", 10, 15) => Some(Verse { 
-            content: "", 
+            content: "And Sauls vncle said, Tell me, I pray thee, what Samuel said vnto you.", 
         }),
 
         ("1 samuel", 10, 16) => Some(Verse { 
-            content: "", 
+            content: "And Saul sayd vnto his vncle; He told vs plainely that the asses were found. But of the matter of the kingdome, whereof Samuel spake, he told him not.", 
         }),
 
         ("1 samuel", 10, 17) => Some(Verse { 
-            content: "", 
+            content: "And Samuel called the people together vnto the Lord to Mizpeh;", 
         }),
 
         ("1 samuel", 10, 18) => Some(Verse { 
-            content: "", 
+            content: "And said vnto the children of Israel, Thus saith the Lord God of Israel, I brought vp Israel out of Egypt, and deliuered you out of the hand of the Egyptians, and out of the hand of all kingdomes, and of them that oppressed you.", 
         }),
 
         ("1 samuel", 10, 19) => Some(Verse { 
-            content: "", 
+            content: "And ye haue this day reiected your God, who himselfe saued you out of all your aduersities & your tribulations: and ye haue said vnto him, Nay, but set a king ouer vs. Now therefore present your selues before the Lord by your tribes, and by your thousands.", 
         }),
 
         ("1 samuel", 10, 20) => Some(Verse { 
-            content: "", 
+            content: "And when Samuel had caused all the tribes of Israel to come neere, the tribe of Beniamin was taken.", 
         }),
 
         ("1 samuel", 10, 21) => Some(Verse { 
-            content: "", 
+            content: "When he had caused the tribe of Beniamin to come neere by their families, the familie of Matri was taken, and Saul the sonne of Kish was taken: and when they sought him, he could not be found.", 
         }),
 
         ("1 samuel", 10, 22) => Some(Verse { 
-            content: "", 
+            content: "Therefore they enquired of the Lord further, if the man should yet come thither: and the Lord answered, Behold, hee hath hid himselfe among the stuffe.", 
         }),
 
         ("1 samuel", 10, 23) => Some(Verse { 
-            content: "", 
+            content: "And they ranne, and fetched him thence, and when he stood among the people, he was higher then any of the people, from the shoulders & vpward.", 
         }),
 
         ("1 samuel", 10, 24) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said to all the people, See ye him whome the Lord hath chosen, that there is none like him among all the people? And all the people shouted, and saide, God saue the King.", 
         }),
 
         ("1 samuel", 10, 25) => Some(Verse { 
-            content: "", 
+            content: "Then Samuel tolde the people the maner of the kingdome, and wrote it in a booke, and layd it vp before the Lord, and Samuel sent all the people away, euery man to his house.", 
         }),
 
         ("1 samuel", 10, 26) => Some(Verse { 
-            content: "", 
+            content: "And Saul also went home to Gibeah, and there went with him a band of men, whose hearts God had touched.", 
         }),
 
         ("1 samuel", 10, 27) => Some(Verse { 
-            content: "", 
+            content: "But the children of Belial sayd, Howe shall this man saue vs? and they despised him, and brought him no presents: but he held his peace.", 
         }),
 
         ("1 samuel", 11, 1) => Some(Verse { 

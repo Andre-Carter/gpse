@@ -1,6 +1,6 @@
 Manifesto: What does GPSE believe, value, and aspire to become?
 
-project name canidates: dragon, prizm, agape, rasputin, dogfin, 
+project name canidates: dragon, orca, prizm, agape, rasputin, dogfin, 
 
 - fruits of the spirit
 - abbeviation combination

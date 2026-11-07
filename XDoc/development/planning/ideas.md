@@ -33,6 +33,12 @@ build, define, explore, navigate, explain, find with a map system
 
 * gpse\ai
 
+* gpse\mathematical\geometry
+  - torus
+  - unique shape: two perpendicular circles with a two perpen circles top and bottom. 4 circles. Cylindrical, top/bottom, left/right holes, loop
+  - knots: knot mathematics
+
+* gpse\\automatic folder organization tracker and formatter (heiarchies, contents, content)
 
 * END MODULES *
 
