@@ -31656,419 +31656,419 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("1 samuel", 26, 1) => Some(Verse { 
-            content: "", 
+            content: "And the Ziphites came vnto Saul to Gibeah, saying, Doeth not Dauid hide himselfe in the hill of Hachilah, which is before Ieshimon?", 
         }),
 
         ("1 samuel", 26, 2) => Some(Verse { 
-            content: "", 
+            content: "Then Saul arose, and went downe to the wildernesse of Ziph, hauing three thousand chosen men of Israel with him, to seeke Dauid in the wildernesse of Ziph.", 
         }),
 
         ("1 samuel", 26, 3) => Some(Verse { 
-            content: "", 
+            content: "And Saul pitched in the hill of Hachilah, which is before Ieshimon by the way: but Dauid abode in the wildernesse, and he saw that Saul came after him into the wildernesse.", 
         }),
 
         ("1 samuel", 26, 4) => Some(Verse { 
-            content: "", 
+            content: "Dauid therefore sent out spies, and vnderstood that Saul was come in very deed.", 
         }),
 
         ("1 samuel", 26, 5) => Some(Verse { 
-            content: "", 
+            content: "And Dauid arose, and came to the place where Saul had pitched: and Dauid beheld the place where Saul lay, and Abner the sonne of Ner the captaine of his hoste: and Saul lay in the trench, and the people pitched round about him.", 
         }),
 
         ("1 samuel", 26, 6) => Some(Verse { 
-            content: "", 
+            content: "Then answered Dauid, and sayd to Ahimelech the Hittite, and to Abishai the sonne of Zeruiah brother to Ioab, saying, Who will goe downe with me to Saul to the campe? And Abishai sayd, I will goe downe with thee.", 
         }),
 
         ("1 samuel", 26, 7) => Some(Verse { 
-            content: "", 
+            content: "So Dauid and Abishai came to the people by night, and behold, Saul lay sleeping within the trench, and his speare stucke in the ground at his bolster: but Abner and the people lay round about him.", 
         }),
 
         ("1 samuel", 26, 8) => Some(Verse { 
-            content: "", 
+            content: "Then said Abishai to Dauid, God hath deliuered thine enemie into thine hand this day: now therefore let mee smite him, I pray thee, with the speare, euen to the earth at once, and I will not smite him the second time.", 
         }),
 
         ("1 samuel", 26, 9) => Some(Verse { 
-            content: "", 
+            content: "And Dauid sayd to Abishai, Destroy him not: for who can stretch forth his hand against the Lords Anointed, and be guiltlesse?", 
         }),
 
         ("1 samuel", 26, 10) => Some(Verse { 
-            content: "", 
+            content: "Dauid said furthermore, As the Lord liueth, the Lord shal smite him, or his day shall come to die, or hee shall descend into battell, and perish.", 
         }),
 
         ("1 samuel", 26, 11) => Some(Verse { 
-            content: "", 
+            content: "The Lord forbid that I should stretch foorth mine hand against the Lords Anointed: but I pray thee, take thou now the speare that is at his bolster, and the cruse of water, and let vs goe.", 
         }),
 
         ("1 samuel", 26, 12) => Some(Verse { 
-            content: "", 
+            content: "So Dauid tooke the speare and the cruse of water from Sauls bolster, and they gate them away, and no man saw it, nor knew it, neither awaked: for they were all asleepe, because a deepe sleepe from the Lord was fallen vpon them.", 
         }),
 
         ("1 samuel", 26, 13) => Some(Verse { 
-            content: "", 
+            content: "Then Dauid went ouer to the other side, and stood on the toppe of an hill afarre off (a great space being betweene them:)", 
         }),
 
         ("1 samuel", 26, 14) => Some(Verse { 
-            content: "", 
+            content: "And Dauid cryed to the people, and to Abner the sonne of Ner, saying, Answerest thou not, Abner? Then Abner answered, and sayd, Who art thou that cryest to the King?", 
         }),
 
         ("1 samuel", 26, 15) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said to Abner, Art not thou a valiant man? and who is like to thee in Israel? Wherefore then hast thou not kept thy lord the king? for there came one of the people in, to destroy the king thy lord.", 
         }),
 
         ("1 samuel", 26, 16) => Some(Verse { 
-            content: "", 
+            content: "This thing is not good that thou hast done: as the Lord liueth, ye are worthy to die, because yee haue not kept your master the Lords Anointed: and now see where the Kings speare is, and the cruse of water that was at his bolster.", 
         }),
 
         ("1 samuel", 26, 17) => Some(Verse { 
-            content: "", 
+            content: "And Saul knew Dauids voyce, and said, Is this thy voice, my sonne Dauid? And Dauid saide, It is my voice, my lord, O king.", 
         }),
 
         ("1 samuel", 26, 18) => Some(Verse { 
-            content: "", 
+            content: "And he said, Wherefore doeth my lord thus pursue after his seruant? for what haue I done? or what euill is in mine hand?", 
         }),
 
         ("1 samuel", 26, 19) => Some(Verse { 
-            content: "", 
+            content: "Now therefore, I pray thee, let my lord the king heare the words of his seruant: If the Lord haue stirred thee vp against mee, let him accept an offering: but if they be the children of men, cursed be they before the Lord: for they haue driuen me out this day from abiding in the inheritance of the Lord, saying, Goe serue other gods.", 
         }),
 
         ("1 samuel", 26, 20) => Some(Verse { 
-            content: "", 
+            content: "Now therefore, let not my blood fall to the earth before the face of the Lord: for the king of Israel is come out to seeke a flea, as when one doeth hunt a partridge in the mountaines.", 
         }),
 
         ("1 samuel", 26, 21) => Some(Verse { 
-            content: "", 
+            content: "Then said Saul, I haue sinned: Returne, my sonne Dauid, for I will no more doe thee harme, because my soule was precious in thine eyes this day: behold, I haue played the foole, and haue erred exceedingly.", 
         }),
 
         ("1 samuel", 26, 22) => Some(Verse { 
-            content: "", 
+            content: "And Dauid answered, and sayd, Behold the kings speare, and let one of the yong men come ouer and fetch it.", 
         }),
 
         ("1 samuel", 26, 23) => Some(Verse { 
-            content: "", 
+            content: "The Lord render to euery man his righteousnesse, and his faithfulnesse: for the Lord deliuered thee into my hand to day, but I would not stretch foorth mine hand against the Lords Anointed.", 
         }),
 
         ("1 samuel", 26, 24) => Some(Verse { 
-            content: "", 
+            content: "And behold, as thy life was much set by this day in mine eyes: so let my life bee much set by in the eyes of the Lord, and let him deliuer me out of all tribulation.", 
         }),
 
         ("1 samuel", 26, 25) => Some(Verse { 
-            content: "", 
+            content: "Then Saul said to Dauid, Blessed be thou, my sonne Dauid: thou shalt both doe great things, and also shalt still preuaile. So Dauid went on his way, and Saul returned to his place.", 
         }),
 
         ("1 samuel", 27, 1) => Some(Verse { 
-            content: "", 
+            content: "And Dauid sayd in his heart, I shall now perish one day by the hand of Saul: there is nothing better for me, then that I should speedily escape into the land of the Philistines; and Saul shal despaire of me, to seeke me any more in any coast of Israel: so shall I escape out of his hand.", 
         }),
 
         ("1 samuel", 27, 2) => Some(Verse { 
-            content: "", 
+            content: "And Dauid arose, and hee passed ouer with the sixe hundred men that were with him, vnto Achish the sonne of Maoch king of Gath.", 
         }),
 
         ("1 samuel", 27, 3) => Some(Verse { 
-            content: "", 
+            content: "And Dauid dwelt with Achish at Gath, he, and his men, euery man with his houshold, euen Dauid with his two wiues, Ahinoam the Iezreelitesse, and Abigail the Carmelitesse Nabals wife.", 
         }),
 
         ("1 samuel", 27, 4) => Some(Verse { 
-            content: "", 
+            content: "And it was told Saul, that Dauid was fled to Gath, and he sought no more againe for him.", 
         }),
 
         ("1 samuel", 27, 5) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said vnto Achish, If I haue now found grace in thine eyes, let them giue mee a place in some towne in the countrey, that I may dwel there: for why should thy seruant dwell in the royall citie with thee?", 
         }),
 
         ("1 samuel", 27, 6) => Some(Verse { 
-            content: "", 
+            content: "Then Achish gaue him Ziklag that day: wherfore Ziklag pertaineth vnto the kings of Iudah vnto this day.", 
         }),
 
         ("1 samuel", 27, 7) => Some(Verse { 
-            content: "", 
+            content: "And the time that Dauid dwelt in the countrey of the Philistines, was a full yeere, and foure moneths.", 
         }),
 
         ("1 samuel", 27, 8) => Some(Verse { 
-            content: "", 
+            content: "And Dauid and his men went vp and inuaded the Geshurites, and the Gezrites, and the Amalekites: for those nations were of old the inhabitants of the land, as thou goest to Shur, euen vnto the land of Egypt.", 
         }),
 
         ("1 samuel", 27, 9) => Some(Verse { 
-            content: "", 
+            content: "And Dauid smote the land, and left neither man nor woman aliue, and tooke away the sheepe, and the oxen, and the asses, and the camels, and the apparell, and returned, and came to Achish.", 
         }),
 
         ("1 samuel", 27, 10) => Some(Verse { 
-            content: "", 
+            content: "And Achish said, Whither haue ye made a rode to day? And Dauid said, Against the South of Iudah, and against the South of the Ierahmeelites, and against the South of the Kenites.", 
         }),
 
         ("1 samuel", 27, 11) => Some(Verse { 
-            content: "", 
+            content: "And Dauid saued neither man nor woman aliue, to bring tidings to Gath, saying, Lest they should tell on vs, saying, So did Dauid, and so will be his maner, all the while he dwelleth in the countrey of the Philistines.", 
         }),
 
         ("1 samuel", 27, 12) => Some(Verse { 
-            content: "", 
+            content: "And Achish beleeued Dauid, saying, Hee hath made his people Israel vtterly to abhorre him, therefore hee shall be my seruant for euer.", 
         }),
 
         ("1 samuel", 28, 1) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe in those dayes, that the Philistines gathered their armies together for warfare, to fight with Israel: And Achish said vnto Dauid, Knowe thou assuredly, that thou shalt goe out with me to battell, thou, and thy men.", 
         }),
 
         ("1 samuel", 28, 2) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said to Achish, Surely thou shalt know what thy seruant can doe. And Achish said to Dauid, Therfore will I make thee keeper of mine head for euer.", 
         }),
 
         ("1 samuel", 28, 3) => Some(Verse { 
-            content: "", 
+            content: "Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, euen in his owne citie: and Saul had put away those that had familiar spirits, and the wyzards, out of the land.", 
         }),
 
         ("1 samuel", 28, 4) => Some(Verse { 
-            content: "", 
+            content: "And the Philistines gathered themselues together, and came and pitched in Shunem: and Saul gathered all Israel together, and they pitched in Gilboa.", 
         }),
 
         ("1 samuel", 28, 5) => Some(Verse { 
-            content: "", 
+            content: "And when Saul saw the hoste of the Philistines, he was afraid, and his heart greatly trembled.", 
         }),
 
         ("1 samuel", 28, 6) => Some(Verse { 
-            content: "", 
+            content: "And when Saul enquired of the Lord, the Lord answered him not, neither by dreames, nor by Urim, nor by Prophets.", 
         }),
 
         ("1 samuel", 28, 7) => Some(Verse { 
-            content: "", 
+            content: "Then said Saul vnto his seruants, Seeke me a woman that hath a familiar spirit, that I may goe to her, and enquire of her. And his seruant said to him, Beholde, there is a woman that hath a familiar spirit at Endor.", 
         }),
 
         ("1 samuel", 28, 8) => Some(Verse { 
-            content: "", 
+            content: "And Saul disguised himselfe, and put on other raiment, and hee went, and two men with him, and they came to the woman by night, and he said, I pray thee diuine vnto me by the familiar spirit, and bring me him vp whom I shall name vnto thee.", 
         }),
 
         ("1 samuel", 28, 9) => Some(Verse { 
-            content: "", 
+            content: "And the woman saide vnto him, Beholde, thou knowest what Saul hath done, how hee hath cut off those that haue familiar spirits, and the wyzards out of the land: wherefore then layest thou a snare for my life, to cause me to die?", 
         }),
 
         ("1 samuel", 28, 10) => Some(Verse { 
-            content: "", 
+            content: "And Saul sware to her by the Lord, saying, As the Lord liueth, there shall no punishment happen to thee for this thing.", 
         }),
 
         ("1 samuel", 28, 11) => Some(Verse { 
-            content: "", 
+            content: "Then said the woman, Whome shall I bring vp vnto thee? and he said, Bring me vp Samuel.", 
         }),
 
         ("1 samuel", 28, 12) => Some(Verse { 
-            content: "", 
+            content: "And when the woman saw Samuel, she cried with a lowd voyce; and the woman spake to Saul, saying, Why hast thou deceiued me? for thou art Saul.", 
         }),
 
         ("1 samuel", 28, 13) => Some(Verse { 
-            content: "", 
+            content: "And the king sayd vnto her, Be not afraid: for what sawest thou? And the woman said vnto Saul, I saw gods ascending out of the earth.", 
         }),
 
         ("1 samuel", 28, 14) => Some(Verse { 
-            content: "", 
+            content: "And he said vnto her, What forme is he of? And she said, An old man commeth vp, and he is couered with a mantle. And Saul perceiued that it was Samuel, and hee stouped with his face to the ground, and bowed himselfe.", 
         }),
 
         ("1 samuel", 28, 15) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said to Saul, Why hast thou disquieted me, to bring me vp? And Saul answered, I am sore distressed; for the Philistins make war against me, and God is departed from me, and answereth me no more, neither by Prophets, nor by dreames: therefore I haue called thee, that thou mayst make knowen vnto me, what I shall doe.", 
         }),
 
         ("1 samuel", 28, 16) => Some(Verse { 
-            content: "", 
+            content: "Then said Samuel, Wherefore then doest thou aske of mee, seeing the Lord is departed from thee, and is become thine enemy?", 
         }),
 
         ("1 samuel", 28, 17) => Some(Verse { 
-            content: "", 
+            content: "And the Lord hath done to him, as hee spake by mee: for the Lord hath rent the kingdome out of thine hand, and giuen it to thy neighbour, euen to Dauid:", 
         }),
 
         ("1 samuel", 28, 18) => Some(Verse { 
-            content: "", 
+            content: "Because thou obeiedst not the voice of the Lord, nor executedst his fierce wrath vpon Amalek, therefore hath the Lord done this thing vnto thee this day.", 
         }),
 
         ("1 samuel", 28, 19) => Some(Verse { 
-            content: "", 
+            content: "Moreouer, the Lord will also deliuer Israel with thee, into the hand of the Philistines: and to morrow shalt thou and thy sonnes bee with mee: the Lord also shall deliuer the hoste of Israel into the hand of the Philistines.", 
         }),
 
         ("1 samuel", 28, 20) => Some(Verse { 
-            content: "", 
+            content: "Then Saul fell straightway all along on the earth, and was sore afraid, because of the words of Samuel, & there was no strength in him: for he had eaten no bread all the day, nor al the night.", 
         }),
 
         ("1 samuel", 28, 21) => Some(Verse { 
-            content: "", 
+            content: "And the woman came vnto Saul, and saw that he was sore troubled, and sayd vnto him, Behold, thine handmayd hath obeyed thy voice, and I haue put my life in my hand, and haue hearkened vnto thy words which thou spakest vnto me:", 
         }),
 
         ("1 samuel", 28, 22) => Some(Verse { 
-            content: "", 
+            content: "Now therefore, I pray thee, hearken thou also vnto the voyce of thine handmaid, & let me set a morsel of bread before thee; & eat, that thou mayest haue strength, when thou goest on thy way.", 
         }),
 
         ("1 samuel", 28, 23) => Some(Verse { 
-            content: "", 
+            content: "But hee refused, and said, I will not eate. But his seruants together with the woman compelled him, and he hearkened vnto their voyce: so he arose from the earth, & sate vpon the bed.", 
         }),
 
         ("1 samuel", 28, 24) => Some(Verse { 
-            content: "", 
+            content: "And the woman had a fat calfe in the house, and she hasted, and killed it, and tooke flower and kneaded it, and did bake vnleauened bread thereof.", 
         }),
 
         ("1 samuel", 28, 25) => Some(Verse { 
-            content: "", 
+            content: "And she brought it before Saul, and before his seruants, and they did eate: then they arose vp, and went away that night.", 
         }),
 
         ("1 samuel", 29, 1) => Some(Verse { 
-            content: "", 
+            content: "Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountaine which is in Iezreel.", 
         }),
 
         ("1 samuel", 29, 2) => Some(Verse { 
-            content: "", 
+            content: "And the lords of the Philistines passed on by hundreds, and by thousands: but Dauid and his men passed on in the rere-ward with Achish.", 
         }),
 
         ("1 samuel", 29, 3) => Some(Verse { 
-            content: "", 
+            content: "Then said the princes of the Philistines, What doe these Hebrewes here? And Achish said vnto the princes of the Philistines, Is not this Dauid the seruant of Saul the king of Israel, which hath bene with me these dayes, or these yeeres, and I haue found no fault in him since he fell vnto me, vnto this day?", 
         }),
 
         ("1 samuel", 29, 4) => Some(Verse { 
-            content: "", 
+            content: "And the princes of the Philistines were wroth with him, and the princes of the Philistines said vnto him, Make this fellow returne, that he may goe againe to his place which thou hast appointed him, and let him not go downe with vs to battel, lest in the battell he be an aduersary to vs: for wherewith should hee reconcile himselfe vnto his master? should it not be with the heads of these men?", 
         }),
 
         ("1 samuel", 29, 5) => Some(Verse { 
-            content: "", 
+            content: "Is not this Dauid, of whom they sang one to another in daunces, saying, Saul slew his thousands, and Dauid his ten thousands?", 
         }),
 
         ("1 samuel", 29, 6) => Some(Verse { 
-            content: "", 
+            content: "Then Achish called Dauid, and said vnto him, Surely, as the Lord liueth, thou hast bene vpright, and thy going out and thy comming in with me in the hoste is good in my sight: for I haue not found euil in thee, since the day of thy comming vnto me vnto this day: neuertheles, the lords fauour thee not.", 
         }),
 
         ("1 samuel", 29, 7) => Some(Verse { 
-            content: "", 
+            content: "Wherefore now returne and goe in peace, that thou displease not the lords of the Philistines.", 
         }),
 
         ("1 samuel", 29, 8) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said vnto Achish, But what haue I done? and what hast thou found in thy seruant so long as I haue bene with thee vnto this day, that I may not goe fight against the enemies of my lord the king?", 
         }),
 
         ("1 samuel", 29, 9) => Some(Verse { 
-            content: "", 
+            content: "And Achish answered, and said to Dauid, I know that thou art good in my sight, as an Angel of God: notwithstanding the Princes of the Philistines haue said, Hee shall not goe vp with vs to the battell.", 
         }),
 
         ("1 samuel", 29, 10) => Some(Verse { 
-            content: "", 
+            content: "Wherfore now rise vp early in the morning, with thy masters seruants that are come with thee: and assoone as yee be vp early in the morning, and haue light, depart.", 
         }),
 
         ("1 samuel", 29, 11) => Some(Verse { 
-            content: "", 
+            content: "So Dauid and his men rose vp early to depart in the morning, to returne into the land of the Philistines; and the Philistines went vp to Iezreel.", 
         }),
 
         ("1 samuel", 30, 1) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe when Dauid and his men were come to Ziklag on the third day, that the Amalekites had inuaded the South and Ziklag, and smitten Ziklag, and burnt it with fire:", 
         }),
 
         ("1 samuel", 30, 2) => Some(Verse { 
-            content: "", 
+            content: "And had taken the women captiues, that were therein; they slewe not any either great or smal, but caried them away, and went on their way.", 
         }),
 
         ("1 samuel", 30, 3) => Some(Verse { 
-            content: "", 
+            content: "So Dauid and his men came to the citie, and beholde, it was burnt with fire, and their wiues, and their sonnes, and their daughters were taken captiues.", 
         }),
 
         ("1 samuel", 30, 4) => Some(Verse { 
-            content: "", 
+            content: "Then Dauid and the people that were with him, lift vp their voice, and wept, vntill they had no more power to weepe.", 
         }),
 
         ("1 samuel", 30, 5) => Some(Verse { 
-            content: "", 
+            content: "And Dauids two wiues were taken captiues, Ahinoam the Iezreelitesse, and Abigail the wife of Nabal the Carmelite.", 
         }),
 
         ("1 samuel", 30, 6) => Some(Verse { 
-            content: "", 
+            content: "And Dauid was greatly distressed: for the people spake of stoning him, because the soule of all the people was grieued, euery man for his sonnes, and for his daughters: but Dauid encouraged himselfe in the Lord his God.", 
         }),
 
         ("1 samuel", 30, 7) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said to Abiathar the Priest Ahimelechs sonne, I pray thee, bring mee hither the Ephod: and Abiathar brought thither the Ephod to Dauid.", 
         }),
 
         ("1 samuel", 30, 8) => Some(Verse { 
-            content: "", 
+            content: "And Dauid enquired at the Lord, saying; Shall I pursue after this troupe? shall I ouertake them? And he answered him, Pursue, for thou shalt surely ouertake them, and without faile recouer all.", 
         }),
 
         ("1 samuel", 30, 9) => Some(Verse { 
-            content: "", 
+            content: "So Dauid went, hee, and the sixe hundred men that were with him, and came to the brooke Besor, where those that were left behinde, stayed.", 
         }),
 
         ("1 samuel", 30, 10) => Some(Verse { 
-            content: "", 
+            content: "But Dauid pursued, he and foure hundred men: (for two hundred abode behinde, which were so faint that they could not goe ouer the brooke Besor.)", 
         }),
 
         ("1 samuel", 30, 11) => Some(Verse { 
-            content: "", 
+            content: "And they found an Egyptian in the field, and brought him to Dauid, and gaue him bread, and he did eate, and they made him drinke water.", 
         }),
 
         ("1 samuel", 30, 12) => Some(Verse { 
-            content: "", 
+            content: "And they gaue him a piece of a cake of figges, and two clusters of raisins: and when hee had eaten, his spirit came againe to him: for hee had eaten no bread, nor drunke any water, three dayes and three nights.", 
         }),
 
         ("1 samuel", 30, 13) => Some(Verse { 
-            content: "", 
+            content: "And Dauid sayde vnto him, To whome belongest thou? and whence art thou? And he said, I am a yong man of Egypt, seruant to an Amalekite, and my master left me, because three dayes agone I fell sicke.", 
         }),
 
         ("1 samuel", 30, 14) => Some(Verse { 
-            content: "", 
+            content: "Wee made an inuasion vpon the South of the Cherethites, and vpon the coast which belongeth to Iudah, and vpon the South of Caleb, and wee burnt Ziklag with fire.", 
         }),
 
         ("1 samuel", 30, 15) => Some(Verse { 
-            content: "", 
+            content: "And Dauid sayde to him, Canst thou bring me downe to this company? And he said, Sweare vnto me by God, that thou wilt neither kill me, nor deliuer mee into the handes of my master, and I will bring thee downe to this company.", 
         }),
 
         ("1 samuel", 30, 16) => Some(Verse { 
-            content: "", 
+            content: "And when he had brought him downe, behold, they were spread abroad vpon all the earth, eating and drinking, and dauncing, because of all the great spoile that they had taken out of the land of the Philistines, and out of the land of Iudah.", 
         }),
 
         ("1 samuel", 30, 17) => Some(Verse { 
-            content: "", 
+            content: "And Dauid smote them from the twilight, euen vnto the euening of the next day: and there escaped not a man of them, saue foure hundred yong men which rode vpon camels, and fled.", 
         }),
 
         ("1 samuel", 30, 18) => Some(Verse { 
-            content: "", 
+            content: "And Dauid recouered all that the Amalekites had caried away: and Dauid rescued his two wiues.", 
         }),
 
         ("1 samuel", 30, 19) => Some(Verse { 
-            content: "", 
+            content: "And there was nothing lacking to them, neither small nor great, neither sonnes nor daughters, neither spoile, nor any thing that they had taken to them: Dauid recouered all.", 
         }),
 
         ("1 samuel", 30, 20) => Some(Verse { 
-            content: "", 
+            content: "And Dauid tooke all the flockes, and the herds, which they draue before those other cattell, and said, This is Dauids spoile.", 
         }),
 
         ("1 samuel", 30, 21) => Some(Verse { 
-            content: "", 
+            content: "And Dauid came to the two hundred men which were so faint that they could not follow Dauid, whome they had made also to abide at the brook Besor: and they went forth to meet Dauid, and to meete the people, that were with him; and when Dauid came neere to the people, he saluted them.", 
         }),
 
         ("1 samuel", 30, 22) => Some(Verse { 
-            content: "", 
+            content: "Then answered all the wicked men, and men of Belial, of those that went with Dauid, and said, Because they went not with vs, we wil not giue them ought of the spoile, that wee haue recouered, saue to euery man his wife and his children, that they may leade them away, and depart.", 
         }),
 
         ("1 samuel", 30, 23) => Some(Verse { 
-            content: "", 
+            content: "Then said Dauid, Ye shall not do so, my brethren, with that which the Lord hath giuen vs, who hath preserued vs, and deliuered the companie that came against vs, into our hand.", 
         }),
 
         ("1 samuel", 30, 24) => Some(Verse { 
-            content: "", 
+            content: "For who will hearken vnto you in this matter? But as his part is that goeth downe to the battell, so shall his part bee that tarieth by the stuffe: they shall part alike.", 
         }),
 
         ("1 samuel", 30, 25) => Some(Verse { 
-            content: "", 
+            content: "And it was so from that day forward, that he made it a statute, and an ordinance for Israel, vnto this day.", 
         }),
 
         ("1 samuel", 30, 26) => Some(Verse { 
-            content: "", 
+            content: "And when Dauid came to Ziklag, hee sent of the spoile vnto the Elders of Iudah, euen to his friends, (saying, Behold a Present for you, of the spoile of the enemies of the Lord )", 
         }),
 
         ("1 samuel", 30, 27) => Some(Verse { 
-            content: "", 
+            content: "To them which were in Bethel, and to them which were in South Ramoth, and to them which were in Iattir,", 
         }),
 
         ("1 samuel", 30, 28) => Some(Verse { 
-            content: "", 
+            content: "And to them which were in Aroer, and to them which were in Siphmoth, and to them which were in Eshtemoa,", 
         }),
 
         ("1 samuel", 30, 29) => Some(Verse { 
-            content: "", 
+            content: "And to them which were in Rachal, and them which were in the cities of the Ierahmeelites, and to them which were in the cities of the Kenites,", 
         }),
 
         ("1 samuel", 30, 30) => Some(Verse { 
-            content: "", 
+            content: "And to them which were in Hormah, and to them which were in Chorashan, and to them which were in Athach,", 
         }),
 
         ("1 samuel", 30, 31) => Some(Verse { 
-            content: "", 
+            content: "And to them which were in Hebron, and to all the places where Dauid himselfe and his men were wont to haunt.", 
         }),
 
         ("1 samuel", 31, 1) => Some(Verse { 
