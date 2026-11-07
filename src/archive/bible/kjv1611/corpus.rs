@@ -32072,51 +32072,51 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("1 samuel", 31, 1) => Some(Verse { 
-            content: "", 
+            content: "Nowe the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell downe slaine in mount Gilboa.", 
         }),
 
         ("1 samuel", 31, 2) => Some(Verse { 
-            content: "", 
+            content: "And the Philistines followed hard vpon Saul, and vpon his sonnes, and the Philistines slewe Ionathan, and Abinadab, and Malchishua, Sauls sonnes.", 
         }),
 
         ("1 samuel", 31, 3) => Some(Verse { 
-            content: "", 
+            content: "And the battell went sore against Saul, and the archers hit him, and he was sore wounded of the archers.", 
         }),
 
         ("1 samuel", 31, 4) => Some(Verse { 
-            content: "", 
+            content: "Then said Saul vnto his armour bearer, Draw thy sword, and thrust me through therewith, lest these vncircumcised come and thrust me through, and abuse mee. But his armour bearer would not, for he was sore afraid: therfore Saul tooke a sword, & fell vpon it.", 
         }),
 
         ("1 samuel", 31, 5) => Some(Verse { 
-            content: "", 
+            content: "And when his armour bearer saw that Saul was dead, he fell likewise vpon his sword, and died with him.", 
         }),
 
         ("1 samuel", 31, 6) => Some(Verse { 
-            content: "", 
+            content: "So Saul died, and his three sons, and his armour bearer, and all his men that same day together.", 
         }),
 
         ("1 samuel", 31, 7) => Some(Verse { 
-            content: "", 
+            content: "And when the men of Israel that were on the other side of the valley, and they that were on the other side Iordane, saw that the men of Israel fled, and that Saul and his sonnes were dead, they forsooke the cities and fled, and the Philistines came and dwelt in them.", 
         }),
 
         ("1 samuel", 31, 8) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe on the morrow when the Philistines came to strip the slaine, that they found Saul, and his three sons fallen in mount Gilboa.", 
         }),
 
         ("1 samuel", 31, 9) => Some(Verse { 
-            content: "", 
+            content: "And they cut off his head, and stripped off his armour, and sent into the land of the Philistines round about to publish it in the house of their idoles, and among the people.", 
         }),
 
         ("1 samuel", 31, 10) => Some(Verse { 
-            content: "", 
+            content: "And they put his armour in the house of Ashtaroth: and they fastened his body to the wall of Bethshan.", 
         }),
 
         ("1 samuel", 31, 11) => Some(Verse { 
-            content: "", 
+            content: "And when the inhabitants of Iabesh Gilead heard of that which the Philistines had done to Saul:", 
         }),
 
         ("1 samuel", 31, 12) => Some(Verse { 
-            content: "", 
+            content: "All the valiant men arose, and went all night, and tooke the body of Saul, and the bodies of his sonnes from the wall of Bethshan, and came to Iabesh, and burnt them there.", 
         }),
 
         ("1 samuel", 31, 13) => Some(Verse { 
