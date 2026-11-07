@@ -29816,603 +29816,603 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("1 samuel", 11, 1) => Some(Verse { 
-            content: "", 
+            content: "Then Nahash the Ammonite came vp, and encamped against Iabesh Gilead: and all the men of Iabesh sayde vnto Nahash, Make a couenant with vs, and we will serue thee.", 
         }),
 
         ("1 samuel", 11, 2) => Some(Verse { 
-            content: "", 
+            content: "And Nahash the Ammonite answered them, On this condition will I make a couenant with you, that I may thrust out all your right eyes, and lay it for a reproch vpon all Israel.", 
         }),
 
         ("1 samuel", 11, 3) => Some(Verse { 
-            content: "", 
+            content: "And the Elders of Iabesh sayd vnto him, Giue vs seuen daies respite, that we may send messengers vnto all the coasts of Israel: and then, if there be no man to saue vs, we will come out to thee.", 
         }),
 
         ("1 samuel", 11, 4) => Some(Verse { 
-            content: "", 
+            content: "Then came the messengers to Gibeah of Saul, and told the tidings in the eares of the people: and all the people lift vp their voyces, and wept.", 
         }),
 
         ("1 samuel", 11, 5) => Some(Verse { 
-            content: "", 
+            content: "And behold, Saul came after the herd out of the field, and Saul sayd, What aileth the people that they weep? and they told him the tidings of the men of Iabesh.", 
         }),
 
         ("1 samuel", 11, 6) => Some(Verse { 
-            content: "", 
+            content: "And the Spirit of God came vpon Saul, when he heard those tydings, and his anger was kindled greatly.", 
         }),
 
         ("1 samuel", 11, 7) => Some(Verse { 
-            content: "", 
+            content: "And he tooke a yoke of oxen, and hewed them in pieces, and sent them throughout all the coasts of Israel by the hands of messengers, saying, Whosoeuer commeth not foorth after Saul and after Samuel, so shall it bee done vnto his oxen: and the feare of the Lord fell on the people, and they came out with one consent.", 
         }),
 
         ("1 samuel", 11, 8) => Some(Verse { 
-            content: "", 
+            content: "And when he numbred them in Bezek, the children of Israel were three hundred thousand, and the men of Iudah thirty thousand.", 
         }),
 
         ("1 samuel", 11, 9) => Some(Verse { 
-            content: "", 
+            content: "And they said vnto the messengers that came, Thus shall yee say vnto the men of Iabesh Gilead, To morrow by that time the sunne be hote, ye shal haue helpe. And the messengers came, and shewed it to the men of Iabesh, and they were glad.", 
         }),
 
         ("1 samuel", 11, 10) => Some(Verse { 
-            content: "", 
+            content: "Therfore the men of Iabesh said, To morrow wee will come out vnto you, and ye shall doe with vs all that seemeth good vnto you.", 
         }),
 
         ("1 samuel", 11, 11) => Some(Verse { 
-            content: "", 
+            content: "And it was so on the morrow, that Saul put the people in three cōpanies, and they came into the midst of the host in the morning watch, and slewe the Ammonites, vntill the heat of the day: and it came to passe, that they which remained were scattered, so that two of them were not left together.", 
         }),
 
         ("1 samuel", 11, 12) => Some(Verse { 
-            content: "", 
+            content: "And the people said vnto Samuel, Who is he that said, Shall Saul reigne ouer vs? bring the men, that we may put them to death.", 
         }),
 
         ("1 samuel", 11, 13) => Some(Verse { 
-            content: "", 
+            content: "And Saul said, There shall not a man be put to death this day: for to day the Lord hath wrought saluation in Israel.", 
         }),
 
         ("1 samuel", 11, 14) => Some(Verse { 
-            content: "", 
+            content: "Then said Samuel to the people, Come, and let vs goe to Gilgal, and renew the kingdome there.", 
         }),
 
         ("1 samuel", 11, 15) => Some(Verse { 
-            content: "", 
+            content: "And all the people went to Gilgal, and there they made Saul King before the Lord in Gilgal: and there they sacrificed sacrifices of peace offerings before the Lord: and there Saul and all the men of Israel reioyced greatly.", 
         }),
 
         ("1 samuel", 12, 1) => Some(Verse { 
-            content: "", 
+            content: "And Samuel saide vnto all Israel, Beholde, I haue hearkned vnto your voice in all that ye said vnto mee, and haue made a King ouer you.", 
         }),
 
         ("1 samuel", 12, 2) => Some(Verse { 
-            content: "", 
+            content: "And now behold, the King walketh before you: and I am olde, and gray headed, and behold, my sonnes are with you: and I haue walked before you from my childhood vnto this day.", 
         }),
 
         ("1 samuel", 12, 3) => Some(Verse { 
-            content: "", 
+            content: "Behold, here I am, witnesse against me before the Lord, and before his Anoynted: Whose oxe haue I taken? or whose asse haue I taken? or whom haue I defrauded? whom haue I oppressed? or of whose hand haue I receiued any bribe to blinde mine eyes therewith? and I will restore it you.", 
         }),
 
         ("1 samuel", 12, 4) => Some(Verse { 
-            content: "", 
+            content: "And they said, Thou hast not defrauded vs, nor oppressed vs, neither hast thou taken ought of any mans hand.", 
         }),
 
         ("1 samuel", 12, 5) => Some(Verse { 
-            content: "", 
+            content: "And hee said vnto them, The Lord is witnesse against you, and his Anointed is witnesse this day, that ye haue not found ought in my hand: And they answered, He is witnesse.", 
         }),
 
         ("1 samuel", 12, 6) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said vnto the people, It is the Lord that aduanced Moses and Aaron, and that brought your fathers vp out of the land of Egypt.", 
         }),
 
         ("1 samuel", 12, 7) => Some(Verse { 
-            content: "", 
+            content: "Now therefore stand still, that I may reason with you before the Lord, of all the righteous acts of the Lord, which he did to you and your fathers.", 
         }),
 
         ("1 samuel", 12, 8) => Some(Verse { 
-            content: "", 
+            content: "When Iacob was come into Egypt, and your fathers cried vnto the Lord, then the Lord sent Moses and Aaron, which brought foorth your fathers out of Egypt, and made them dwell in this place.", 
         }),
 
         ("1 samuel", 12, 9) => Some(Verse { 
-            content: "", 
+            content: "And when they forgat the Lord their God, he sold them into the hand of Sisera captaine of the hoste of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them.", 
         }),
 
         ("1 samuel", 12, 10) => Some(Verse { 
-            content: "", 
+            content: "And they cried vnto the Lord, and said, Wee haue sinned, because we haue forsaken the Lord, and haue serued Baalim and Ashtaroth: but now deliuer vs out of the hand of our enemies, and we will serue thee.", 
         }),
 
         ("1 samuel", 12, 11) => Some(Verse { 
-            content: "", 
+            content: "And the Lord sent Ierubbaal, and Bedan, and Iephthah, and Samuel, and deliuered you out of the hand of your enemies on euery side, and yee dwelled safe.", 
         }),
 
         ("1 samuel", 12, 12) => Some(Verse { 
-            content: "", 
+            content: "And when ye saw that Nahash the king of the children of Ammon came against you, ye said vnto me, Nay, but a King shall reigne ouer vs, when the Lord your God was your King.", 
         }),
 
         ("1 samuel", 12, 13) => Some(Verse { 
-            content: "", 
+            content: "Now therefore, behold the King whom yee haue chosen, and whom yee haue desired: and behold, the Lord hath set a King ouer you.", 
         }),
 
         ("1 samuel", 12, 14) => Some(Verse { 
-            content: "", 
+            content: "If ye will feare the Lord, and serue him, and obey his voice, and not rebell against the Commandement of the Lord, then shall both ye and also the King that reigneth ouer you, continue following the Lord your God.", 
         }),
 
         ("1 samuel", 12, 15) => Some(Verse { 
-            content: "", 
+            content: "But if ye wil not obey the voice of the Lord, but rebel against the Commandement of the Lord, then shall the hand of the Lord be against you, as it was against your fathers.", 
         }),
 
         ("1 samuel", 12, 16) => Some(Verse { 
-            content: "", 
+            content: "Now therefore stand and see this great thing which the Lord will doe before your eyes.", 
         }),
 
         ("1 samuel", 12, 17) => Some(Verse { 
-            content: "", 
+            content: "Is it not wheat haruest to day? I will call vnto the Lord, and hee shall send thunder and raine, that ye may perceiue and see that your wickednesse is great, which ye haue done in the sight of the Lord, in asking you a King.", 
         }),
 
         ("1 samuel", 12, 18) => Some(Verse { 
-            content: "", 
+            content: "So Samuel called vnto the Lord, and the Lord sent thunder and raine that day: and all the people greatly feared the Lord and Samuel.", 
         }),
 
         ("1 samuel", 12, 19) => Some(Verse { 
-            content: "", 
+            content: "And all the people said vnto Samuel, Pray for thy seruants vnto the Lord thy God, that we die not: for we haue added vnto all our sinnes, this euil, to aske vs a King.", 
         }),
 
         ("1 samuel", 12, 20) => Some(Verse { 
-            content: "", 
+            content: "And Samuel saide vnto the people, Feare not: (ye haue done al this wickednesse, yet turne not aside from following the Lord, but serue the Lord with all your heart:", 
         }),
 
         ("1 samuel", 12, 21) => Some(Verse { 
-            content: "", 
+            content: "And turne ye not aside, for then should ye goe after vaine things, which cannot profit, nor deliuer, for they are vaine.)", 
         }),
 
         ("1 samuel", 12, 22) => Some(Verse { 
-            content: "", 
+            content: "For the Lord wil not forsake his people, for his great Names sake: because it hath pleased the Lord to make you his people.", 
         }),
 
         ("1 samuel", 12, 23) => Some(Verse { 
-            content: "", 
+            content: "Moreouer, as for me, God forbid that I should sin against the Lord, in ceasing to pray for you: but I will teach you the good and the right way.", 
         }),
 
         ("1 samuel", 12, 24) => Some(Verse { 
-            content: "", 
+            content: "Onely feare the Lord, and serue him in trueth with all your heart: for consider how great things he hath done for you.", 
         }),
 
         ("1 samuel", 12, 25) => Some(Verse { 
-            content: "", 
+            content: "But if yee shall still doe wickedly, yee shall be consumed, both yee and your King.", 
         }),
 
         ("1 samuel", 13, 1) => Some(Verse { 
-            content: "", 
+            content: "Saul reigned one yeere, and when he had reigned two yeeres ouer Israel,", 
         }),
 
         ("1 samuel", 13, 2) => Some(Verse { 
-            content: "", 
+            content: "Saul chose him three thousand men of Israel: whereof two thousand were with Saul in Michmash, and in mount Bethel, and a thousand were with Ionathan in Gibeah of Beniamin: and the rest of the people he sent euery man to his tent.", 
         }),
 
         ("1 samuel", 13, 3) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan smote the garison of the Philistines that was in Geba, and the Philistines heard of it: and Saul blew the trumpet thorowout all the land, saying, Let the Hebrewes heare.", 
         }),
 
         ("1 samuel", 13, 4) => Some(Verse { 
-            content: "", 
+            content: "And all Israel heard say, that Saul had smitten a garison of the Philistines, and that Israel also was had in abomination with the Philistines: and the people were called together after Saul to Gilgal.", 
         }),
 
         ("1 samuel", 13, 5) => Some(Verse { 
-            content: "", 
+            content: "And the Philistines gathered themselues together, to fight with Israel, thirtie thousand charets, and sixe thousand horsemen, and people as the sand which is on the sea shore in multitude, and they came vp, and pitched in Michmash, Eastward from Bethauen.", 
         }),
 
         ("1 samuel", 13, 6) => Some(Verse { 
-            content: "", 
+            content: "When the men of Israel saw that they were in a strait: (for the people were distressed:) then the people did hide themselues in caues, and in thickets, and in rocks, and in high places, and in pits.", 
         }),
 
         ("1 samuel", 13, 7) => Some(Verse { 
-            content: "", 
+            content: "And some of the Hebrewes went ouer Iordane, to the land of Gad and Gilead; as for Saul, he was yet in Gilgal, and all the people followed him trembling.", 
         }),
 
         ("1 samuel", 13, 8) => Some(Verse { 
-            content: "", 
+            content: "And he taried seuen dayes, according to the set time that Samuel had appointed: but Samuel came not to Gilgal, and the people were scattered from him.", 
         }),
 
         ("1 samuel", 13, 9) => Some(Verse { 
-            content: "", 
+            content: "And Saul said, Bring hither a burnt offring to me, and peace offrings. And he offered the burnt offering.", 
         }),
 
         ("1 samuel", 13, 10) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe that assoone as he had made an end of offering the burnt offering, behold, Samuel came, and Saul went out to meete him, that he might salute him.", 
         }),
 
         ("1 samuel", 13, 11) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said, What hast thou done? And Saul said, Because I sawe that the people were scattered from me, and that thou camest not within the dayes appointed, and that the Philistines gathered themselues together to Michmash:", 
         }),
 
         ("1 samuel", 13, 12) => Some(Verse { 
-            content: "", 
+            content: "Therfore said I, The Philistines will come downe now vpon me to Gilgal, and I haue not made supplication vnto the Lord: I forced my selfe therefore, and offered a burnt offering.", 
         }),
 
         ("1 samuel", 13, 13) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandement of the Lord thy God, which hee commanded thee: for now would the Lord haue established thy kingdome vpon Israel for euer.", 
         }),
 
         ("1 samuel", 13, 14) => Some(Verse { 
-            content: "", 
+            content: "But now thy kingdome shall not continue: the Lord hath sought him a man after his owne heart, and the Lord hath commanded him to bee captaine ouer his people, because thou hast not kept that which the Lord commanded thee.", 
         }),
 
         ("1 samuel", 13, 15) => Some(Verse { 
-            content: "", 
+            content: "And Samuel arose, and gate him vp from Gilgal, vnto Gibeah of Beniamin, and Saul numbred the people that were present with him, about sixe hundred men.", 
         }),
 
         ("1 samuel", 13, 16) => Some(Verse { 
-            content: "", 
+            content: "And Saul and Ionathan his sonne, and the people that were present with them, abode in Gibeah of Beniamin: but the Philistines encamped in Michmash.", 
         }),
 
         ("1 samuel", 13, 17) => Some(Verse { 
-            content: "", 
+            content: "And the spoilers came out of the campe of the Philistines, in three companies: one company turned vnto the way that leadeth to Ophrah, vnto the land of Shual.", 
         }),
 
         ("1 samuel", 13, 18) => Some(Verse { 
-            content: "", 
+            content: "And another company turned the way to Bethoron: and another companie turned to the way of the border, that looketh to the valley of Zeboim toward the wildernesse.", 
         }),
 
         ("1 samuel", 13, 19) => Some(Verse { 
-            content: "", 
+            content: "Now there was no smith found thorowout all the land of Israel: for the Philistines said, Lest the Hebrewes make them swords or speares.", 
         }),
 
         ("1 samuel", 13, 20) => Some(Verse { 
-            content: "", 
+            content: "But all the Israelites went downe to the Philistines, to sharpen euery man his share and his coulter, and his axe, and his mattocke.", 
         }),
 
         ("1 samuel", 13, 21) => Some(Verse { 
-            content: "", 
+            content: "Yet they had a file for the mattocks, and for the coulters, and for the forkes, and for the axes, and to sharpen the goads.", 
         }),
 
         ("1 samuel", 13, 22) => Some(Verse { 
-            content: "", 
+            content: "So it came to passe in the day of battell, that there was neither sword nor speare found in the hand of any of the people that were with Saul and Ionathan: but with Saul & with Ionathan his sonne was there found.", 
         }),
 
         ("1 samuel", 13, 23) => Some(Verse { 
-            content: "", 
+            content: "And the garison of the Philistines went out to the passage of Michmash.", 
         }),
 
         ("1 samuel", 14, 1) => Some(Verse { 
-            content: "", 
+            content: "Now it came to passe vpon a day, that Ionathan the sonne of Saul said vnto the yong man that bare his armour, Come, and let vs goe ouer to the Philistines garison, that is on the other side: but hee told not his father.", 
         }),
 
         ("1 samuel", 14, 2) => Some(Verse { 
-            content: "", 
+            content: "And Saul taried in the vttermost part of Gibeah, vnder a Pomegranate tree, which is in Migron: and the people that were with him, were about sixe hundred men:", 
         }),
 
         ("1 samuel", 14, 3) => Some(Verse { 
-            content: "", 
+            content: "And Ahiah the sonne of Ahitub, Ichabods brother, the sonne of Phinehas, the sonne of Eli, the Lords Priest in Shiloh, wearing an Ephod: and the people knew not that Ionathan was gone.", 
         }),
 
         ("1 samuel", 14, 4) => Some(Verse { 
-            content: "", 
+            content: "And betweene the passages, by which Ionathan sought to go ouer vnto the Philistines garison, there was a sharpe rocke on the one side, and a sharp rocke on the other side: and the name of the one was Bozez, and the name of the other Seneh.", 
         }),
 
         ("1 samuel", 14, 5) => Some(Verse { 
-            content: "", 
+            content: "The forefront of the one was situate Northward ouer against Michmash, and the other Southward ouer against Gibeah.", 
         }),
 
         ("1 samuel", 14, 6) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan said to the young man that bare his armour, Come, and let vs goe ouer vnto the garison of these vncircumcised; it may be that the Lord will worke for vs: for there is no restraint to the Lord, to saue by many, or by few.", 
         }),
 
         ("1 samuel", 14, 7) => Some(Verse { 
-            content: "", 
+            content: "And his armour bearer sayd vnto him, Doe all that is in thine heart: turne thee, behold, I am with thee, according to thy heart.", 
         }),
 
         ("1 samuel", 14, 8) => Some(Verse { 
-            content: "", 
+            content: "Then said Ionathan, Behold, we will passe ouer vnto these men, and we will discouer our selues vnto them.", 
         }),
 
         ("1 samuel", 14, 9) => Some(Verse { 
-            content: "", 
+            content: "If they say thus vnto vs, Tary vntill we come to you: then wee will stand still in our place, and will not goe vp vnto them.", 
         }),
 
         ("1 samuel", 14, 10) => Some(Verse { 
-            content: "", 
+            content: "But if they say thus, Come vp vnto vs: then we will goe vp; for the Lord hath deliuered them into our hand: and this shall be a signe vnto vs.", 
         }),
 
         ("1 samuel", 14, 11) => Some(Verse { 
-            content: "", 
+            content: "And both of them discouered themselues vnto the garison of the Philistines: and the Philistines sayd, Behold, the Hebrewes come foorth out of the holes, where they had hid themselues.", 
         }),
 
         ("1 samuel", 14, 12) => Some(Verse { 
-            content: "", 
+            content: "And the men of the garison answered Ionathan and his armour bearer, and said, Come vp to vs, and wee will shew you a thing. And Ionathan said vnto his armour bearer, Come vp after me; for the Lord hath deliuered them into the hand of Israel.", 
         }),
 
         ("1 samuel", 14, 13) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan climed vp vpon his hands, and vpon his feete, and his armour bearer after him: and they fell before Ionathan; and his armour bearer slew after him.", 
         }),
 
         ("1 samuel", 14, 14) => Some(Verse { 
-            content: "", 
+            content: "And that first slaughter which Ionathan and his armour-bearer made, was about twentie men, within as it were an halfe acre of land, which a yoke of oxen might plow.", 
         }),
 
         ("1 samuel", 14, 15) => Some(Verse { 
-            content: "", 
+            content: "And there was trembling in the hoste, in the field, and among all the people: the garison and the spoilers, they also trembled, and the earth quaked: so it was a very great trembling.", 
         }),
 
         ("1 samuel", 14, 16) => Some(Verse { 
-            content: "", 
+            content: "And the watchmen of Saul in Gibeah of Beniamin looked: and behold, the multitude melted away, and they went on beating downe one another.", 
         }),
 
         ("1 samuel", 14, 17) => Some(Verse { 
-            content: "", 
+            content: "Then said Saul vnto the people that were with him, Number now, and see who is gone from vs. And when they had numbred, behold, Ionathan and his armour bearer were not there.", 
         }),
 
         ("1 samuel", 14, 18) => Some(Verse { 
-            content: "", 
+            content: "And Saul said vnto Ahiah, Bring hither the Arke of God: (for the Arke of God was at that time with the children of Israel.)", 
         }),
 
         ("1 samuel", 14, 19) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe while Saul talked vnto the Priest, that the noise that was in the hoste of the Philistines went on, and increased: And Saul said vnto the Priest, Withdraw thine hand.", 
         }),
 
         ("1 samuel", 14, 20) => Some(Verse { 
-            content: "", 
+            content: "And Saul and all the people that were with him assembled themselues, and they came to the battel, and behold, euery mans sword was against his fellow, and there was a very great discomfiture.", 
         }),
 
         ("1 samuel", 14, 21) => Some(Verse { 
-            content: "", 
+            content: "Moreouer, the Hebrewes that were with the Philistines before that time, which went vp with them into the campe from the countrey round about; euen they also turned to be with the Israelites, that were with Saul and Ionathan.", 
         }),
 
         ("1 samuel", 14, 22) => Some(Verse { 
-            content: "", 
+            content: "Likewise all the men of Israel, which had hid themselues in mount Ephraim, when they heard that the Philistines fled, euen they also followed hard after them in the battell.", 
         }),
 
         ("1 samuel", 14, 23) => Some(Verse { 
-            content: "", 
+            content: "So the Lord saued Israel that day: and the battell passed ouer vnto Beth-auen.", 
         }),
 
         ("1 samuel", 14, 24) => Some(Verse { 
-            content: "", 
+            content: "And the men of Israel were distressed that day; for Saul had adiured the people, saying, Cursed bee the man that eateth any foode vntill euening, that I may be auenged on mine enemies: so none of the people tasted any food.", 
         }),
 
         ("1 samuel", 14, 25) => Some(Verse { 
-            content: "", 
+            content: "And all they of the land came to a wood, and there was honie vpon the ground.", 
         }),
 
         ("1 samuel", 14, 26) => Some(Verse { 
-            content: "", 
+            content: "And when the people were come into the wood, behold, the honie dropped, but no man put his hand to his mouth: for the people feared the oath.", 
         }),
 
         ("1 samuel", 14, 27) => Some(Verse { 
-            content: "", 
+            content: "But Ionathan heard not when his father charged the people with the oath; wherefore he put foorth the ende of the rodde that was in his hand, and dipt it in an hony combe, and put his hand to his mouth, and his eyes were enlightened.", 
         }),
 
         ("1 samuel", 14, 28) => Some(Verse { 
-            content: "", 
+            content: "Then answered one of the people, and said, Thy father straitly charged the people with an oath, saying, Cursed be the man that eateth any food this day. And the people were faint.", 
         }),
 
         ("1 samuel", 14, 29) => Some(Verse { 
-            content: "", 
+            content: "Then said Ionathan, My father hath troubled the land: see, I pray you, how mine eyes haue beene enlightened, because I tasted a little of this honie:", 
         }),
 
         ("1 samuel", 14, 30) => Some(Verse { 
-            content: "", 
+            content: "How much more, if haply the people had eaten freely to day of the spoile of their enemies which they found? for had there not beene now a much greater slaughter among the Philistines?", 
         }),
 
         ("1 samuel", 14, 31) => Some(Verse { 
-            content: "", 
+            content: "And they smote the Philistines that day from Michmash to Aiialon: and the people were very faint.", 
         }),
 
         ("1 samuel", 14, 32) => Some(Verse { 
-            content: "", 
+            content: "And the people flewe vpon the spoile, and tooke sheepe, and oxen, and calues, and slew them on the ground, and the people did eate them with the blood.", 
         }),
 
         ("1 samuel", 14, 33) => Some(Verse { 
-            content: "", 
+            content: "Then they tolde Saul, saying, Behold, the people sinne against the Lord, in that they eate with the blood. And he said, Yee haue transgressed: roule a great stone vnto mee this day.", 
         }),
 
         ("1 samuel", 14, 34) => Some(Verse { 
-            content: "", 
+            content: "And Saul said, Disperse your selues among the people, and say vnto them, Bring me hither euery man his oxe, and euery man his sheepe, and slay them here, and eat, and sinne not against the Lord in eating with the blood. And all the people brought euery man his oxe with him that night, and slew them there.", 
         }),
 
         ("1 samuel", 14, 35) => Some(Verse { 
-            content: "", 
+            content: "And Saul built an altar vnto the Lord: the same was the first altar that he built vnto the Lord.", 
         }),
 
         ("1 samuel", 14, 36) => Some(Verse { 
-            content: "", 
+            content: "And Saul saide, Let vs goe downe after the Philistines by night, and spoile them vntil the morning light, and let vs not leaue a man of them. And they said, Do whatsoeuer seemeth good vnto thee. Then said the priest, Let vs draw neere hither vnto God.", 
         }),
 
         ("1 samuel", 14, 37) => Some(Verse { 
-            content: "", 
+            content: "And Saul asked counsell of God, Shall I goe downe after the Philistines? Wilt thou deliuer them into the hand of Israel? But he answered him not that day.", 
         }),
 
         ("1 samuel", 14, 38) => Some(Verse { 
-            content: "", 
+            content: "And Saul said, Draw yee neere hither all the chiefe of the people: and know and see, wherein this sinne hath beene this day.", 
         }),
 
         ("1 samuel", 14, 39) => Some(Verse { 
-            content: "", 
+            content: "For as the Lord liueth, which saueth Israel, though it bee in Ionathan my sonne, he shall surely die: But there was not a man among all the people that answered him.", 
         }),
 
         ("1 samuel", 14, 40) => Some(Verse { 
-            content: "", 
+            content: "Then said he vnto all Israel, Be ye on one side, and I, and Ionathan my sonne will be on the other side. And the people said vnto Saul, Doe what seemeth good vnto thee.", 
         }),
 
         ("1 samuel", 14, 41) => Some(Verse { 
-            content: "", 
+            content: "Therefore Saul saide vnto the Lord God of Israel, Giue a perfect lot. And Saul and Ionathan were taken: but the people escaped.", 
         }),
 
         ("1 samuel", 14, 42) => Some(Verse { 
-            content: "", 
+            content: "And Saul said, Cast lots betweene me and Ionathan my sonne. And Ionathan was taken.", 
         }),
 
         ("1 samuel", 14, 43) => Some(Verse { 
-            content: "", 
+            content: "Then Saul said to Ionathan, Tell me what thou hast done. And Ionathan tolde him, and said, I did but taste a litle hony with the end of the rodde that was in mine hand, and loe, I must die.", 
         }),
 
         ("1 samuel", 14, 44) => Some(Verse { 
-            content: "", 
+            content: "And Saul answered, God do so, and more also: for thou shalt surely die, Ionathan.", 
         }),
 
         ("1 samuel", 14, 45) => Some(Verse { 
-            content: "", 
+            content: "And the people said vnto Saul, Shall Ionathan die, who hath wrought this great saluation in Israel? God forbid: as the Lord liueth, there shal not one haire of his head fall to the ground: for hee hath wrought with God this day. So the people rescued Ionathan, that hee died not.", 
         }),
 
         ("1 samuel", 14, 46) => Some(Verse { 
-            content: "", 
+            content: "Then Saul went vp from following the Philistines: and the Philistines went to their owne place.", 
         }),
 
         ("1 samuel", 14, 47) => Some(Verse { 
-            content: "", 
+            content: "So Saul tooke the kingdom ouer Israel, and fought against all his enemies on euery side, against Moab, and against the children of Ammon, and against Edom, and against the kings of Zobah, and against the Philistines: and whithersoeuer hee turned himselfe, he vexed them.", 
         }),
 
         ("1 samuel", 14, 48) => Some(Verse { 
-            content: "", 
+            content: "And he gathered an hoste, and smote the Amalekites, and deliuered Israel out of the handes of them that spoiled them.", 
         }),
 
         ("1 samuel", 14, 49) => Some(Verse { 
-            content: "", 
+            content: "Now the sonnes of Saul, were Ionathan, and Ishui, and Melchishua: and the names of his two daughters were these: the name of the first borne Merab, and the name of the yonger Michal:", 
         }),
 
         ("1 samuel", 14, 50) => Some(Verse { 
-            content: "", 
+            content: "And the name of Sauls wife was Ahinoam, the daughter of Ahimaaz, and the name of the captaine of his host was Abner, the sonne of Ner, Sauls vncle.", 
         }),
 
         ("1 samuel", 14, 51) => Some(Verse { 
-            content: "", 
+            content: "And Kish was the father of Saul, and Ner the father of Abner was the sonne of Abiel.", 
         }),
 
         ("1 samuel", 14, 52) => Some(Verse { 
-            content: "", 
+            content: "And there was sore warre against the Philistines, all the dayes of Saul: and when Saul saw any strong man, or any valiant man, he tooke him vnto him.", 
         }),
 
         ("1 samuel", 15, 1) => Some(Verse { 
-            content: "", 
+            content: "Samuel also saide vnto Saul, The Lord sent me to annoint thee to bee king ouer his people, ouer Israel: nowe therefore hearken thou vnto the voyce of the words of the Lord.", 
         }),
 
         ("1 samuel", 15, 2) => Some(Verse { 
-            content: "", 
+            content: "Thus saith the Lord of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way when he came vp from Egypt.", 
         }),
 
         ("1 samuel", 15, 3) => Some(Verse { 
-            content: "", 
+            content: "Now goe, and smite Amalek, and vtterly destroy all that they haue, and spare them not; but slay both man and woman, infant and suckling, oxe and sheepe, camell and asse.", 
         }),
 
         ("1 samuel", 15, 4) => Some(Verse { 
-            content: "", 
+            content: "And Saul gathered the people together, and numbred them in Telaim, two hundred thousand footmen, and ten thousand men of Iudah.", 
         }),
 
         ("1 samuel", 15, 5) => Some(Verse { 
-            content: "", 
+            content: "And Saul came to a citie of Amalek, and laid waite in the valley.", 
         }),
 
         ("1 samuel", 15, 6) => Some(Verse { 
-            content: "", 
+            content: "And Saul saide vnto the Kenites, Goe, depart, get you downe from among the Amalekites, lest I destroy you with them: for yee shewed kindnesse to all the children of Israel when they came vp out of Egypt. So the Kenites departed from among the Amalekites.", 
         }),
 
         ("1 samuel", 15, 7) => Some(Verse { 
-            content: "", 
+            content: "And Saul smote the Amalekites from Hauilah, vntill thou commest to Shur, that is ouer against Egypt.", 
         }),
 
         ("1 samuel", 15, 8) => Some(Verse { 
-            content: "", 
+            content: "And hee tooke Agag the king of the Amalekites aliue, and vtterly destroyed all the people with the edge of the sword.", 
         }),
 
         ("1 samuel", 15, 9) => Some(Verse { 
-            content: "", 
+            content: "But Saul and the people spared Agag, and the best of the sheepe, and of the oxen, and of the fatlings, and the lambes, and all that was good, and would not vtterly destroy them: but euery thing that was vile, and refuse, that they destroyed vtterly.", 
         }),
 
         ("1 samuel", 15, 10) => Some(Verse { 
-            content: "", 
+            content: "Then came the word of the Lord vnto Samuel, saying;", 
         }),
 
         ("1 samuel", 15, 11) => Some(Verse { 
-            content: "", 
+            content: "It repenteth me that I haue set vp Saul to be king: for hee is turned backe from following me, and hath not performed my commandements. And it grieued Samuel; and he cried vnto the Lord all night.", 
         }),
 
         ("1 samuel", 15, 12) => Some(Verse { 
-            content: "", 
+            content: "And when Samuel rose early to meet Saul in the morning, it was tolde Samuel, saying, Saul came to Carmel, and behold, he set him vp a place, and is gone about, and passed on, and gone downe to Gilgal.", 
         }),
 
         ("1 samuel", 15, 13) => Some(Verse { 
-            content: "", 
+            content: "And Samuel came to Saul, and Saul said vnto him, Blessed be thou of the Lord: I haue performed the commandement of the Lord.", 
         }),
 
         ("1 samuel", 15, 14) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said, What meaneth then this bleating of the sheepe in mine eares, and the lowing of the oxen which I heare?", 
         }),
 
         ("1 samuel", 15, 15) => Some(Verse { 
-            content: "", 
+            content: "And Saul sayde, They haue brought them from the Amalekites: for the people spared the best of the sheepe, and of the oxen, to sacrifice vnto the Lord thy God, and the rest we haue vtterly destroyed.", 
         }),
 
         ("1 samuel", 15, 16) => Some(Verse { 
-            content: "", 
+            content: "Then Samuel sayd vnto Saul, Stay, and I will tell thee what the Lord hath said to mee this night. And he said vnto him, Say on.", 
         }),
 
         ("1 samuel", 15, 17) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said, When thou wast litle in thine owne sight, wast thou not made the Head of the tribes of Israel, and the Lord anointed thee King ouer Israel?", 
         }),
 
         ("1 samuel", 15, 18) => Some(Verse { 
-            content: "", 
+            content: "And the Lord sent thee on a iourney, and said, Goe, and vtterly destroy the sinners the Amalekites, and fight against them, vntill they be consumed.", 
         }),
 
         ("1 samuel", 15, 19) => Some(Verse { 
-            content: "", 
+            content: "Wherefore then didst thou not obey the voice of the Lord, but didst flie vpon the spoile, and didst euill in the sight of the Lord ?", 
         }),
 
         ("1 samuel", 15, 20) => Some(Verse { 
-            content: "", 
+            content: "And Saul said vnto Samuel; Yea, I haue obeyed the voice of the Lord, and haue gone the way which the Lord sent me, and haue brought Agag the king of Amalek, and haue vtterly destroyed the Amalekites.", 
         }),
 
         ("1 samuel", 15, 21) => Some(Verse { 
-            content: "", 
+            content: "But the people tooke of the spoile, sheepe and oxen, the chiefe of the things which should haue bene vtterly destroyed, to sacrifice vnto the Lord thy God in Gilgal.", 
         }),
 
         ("1 samuel", 15, 22) => Some(Verse { 
-            content: "", 
+            content: "And Samuel saide, Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord ? Behold, to obey, is better then sacrifice: and to hearken, then the fat of rammes.", 
         }),
 
         ("1 samuel", 15, 23) => Some(Verse { 
-            content: "", 
+            content: "For rebellion is as the sin of witchcraft, and stubburnnesse is as iniquitie and idolatrie: because thou hast reiected the word of the Lord, he hath also reiected thee from being king.", 
         }),
 
         ("1 samuel", 15, 24) => Some(Verse { 
-            content: "", 
+            content: "And Saul said vnto Samuel, I haue sinned: for I haue transgressed the Commandement of the Lord, and thy wordes; because I feared the people, and obeyed their voice.", 
         }),
 
         ("1 samuel", 15, 25) => Some(Verse { 
-            content: "", 
+            content: "Now therefore, I pray thee, pardon my sinne, and turne againe with me, that I may worship the Lord.", 
         }),
 
         ("1 samuel", 15, 26) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said vnto Saul, I will not returne with thee: for thou hast reiected the word of the Lord, and the Lord hath reiected thee from being king ouer Israel.", 
         }),
 
         ("1 samuel", 15, 27) => Some(Verse { 
-            content: "", 
+            content: "And as Samuel turned about to goe away, he laid hold vpon the skirt of his mantle, and it rent.", 
         }),
 
         ("1 samuel", 15, 28) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said vnto him, The Lord hath rent the kingdome of Israel from thee this day, and hath giuen it to a neighbour of thine, that is better then thou.", 
         }),
 
         ("1 samuel", 15, 29) => Some(Verse { 
-            content: "", 
+            content: "And also the strength of Israel will not lie, nor repent: for he is not a man that he should repent.", 
         }),
 
         ("1 samuel", 15, 30) => Some(Verse { 
-            content: "", 
+            content: "Then he said, I haue sinned; yet honour me now, I pray thee, before the Elders of my people, and before Israel, and turne againe with me, that I may worship the Lord thy God.", 
         }),
 
         ("1 samuel", 15, 31) => Some(Verse { 
-            content: "", 
+            content: "So Samuel turned againe after Saul, and Saul worshipped the Lord.", 
         }),
 
         ("1 samuel", 15, 32) => Some(Verse { 
-            content: "", 
+            content: "Then said Samuel, Bring you hither to me Agag the king of the Amalekites: and Agag came vnto him delicately. And Agag said, Surely the bitternesse of death is past.", 
         }),
 
         ("1 samuel", 15, 33) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said, As thy sword hath made women childlesse, so shall thy mother bee childlesse among women. And Samuel hewed Agag in pieces before the Lord in Gilgal.", 
         }),
 
         ("1 samuel", 15, 34) => Some(Verse { 
-            content: "", 
+            content: "Then Samuel went to Ramah, and Saul went vp to his house to Gibeah of Saul.", 
         }),
 
         ("1 samuel", 15, 35) => Some(Verse { 
-            content: "", 
+            content: "And Samuel came no more to see Saul vntill the day of his death: neuerthelesse, Samuel mourned for Saul: and the Lord repented that he had made Saul king ouer Israel.", 
         }),
 
         ("1 samuel", 16, 1) => Some(Verse { 
