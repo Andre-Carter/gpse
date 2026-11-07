@@ -33833,10 +33833,6 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
-        ("2 samuel", 16, 24) => Some(Verse { 
-            content: "", 
-        }),
-
         ("2 samuel", 17, 1) => Some(Verse { 
             content: "", 
         }),
