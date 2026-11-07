@@ -30416,711 +30416,711 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("1 samuel", 16, 1) => Some(Verse { 
-            content: "", 
+            content: "And the Lord said vnto Samuel, How long wilt thou mourne for Saul, seeing I haue reiected him from reigning ouer Israel? Fill thine horne with oile, and goe, I will send thee to Iesse the Bethlehemite: for I haue prouided mee a King among his sonnes.", 
         }),
 
         ("1 samuel", 16, 2) => Some(Verse { 
-            content: "", 
+            content: "And Samuel said, How can I goe? if Saul heare it, he will kill mee. And the Lord said, Take an heifer with thee, and say, I am come to sacrifice to the Lord.", 
         }),
 
         ("1 samuel", 16, 3) => Some(Verse { 
-            content: "", 
+            content: "And call Iesse to the sacrifice, and I will shew thee what thou shalt doe: and thou shalt anoynt vnto mee him whom I name vnto thee.", 
         }),
 
         ("1 samuel", 16, 4) => Some(Verse { 
-            content: "", 
+            content: "And Samuel did that which the Lord spake, and came to Bethlehem: and the elders of the towne trembled at his comming, and said, Commest thou peaceably?", 
         }),
 
         ("1 samuel", 16, 5) => Some(Verse { 
-            content: "", 
+            content: "And hee said, Peaceably: I am come to sacrifice vnto the Lord: sanctifie your selues, and come with me to the sacrifice: and he sanctified Iesse, and his sonnes, and called them to the sacrifice.", 
         }),
 
         ("1 samuel", 16, 6) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe when they were come, that he looked on Eliab, and said, Surely the Lords anointed is before him.", 
         }),
 
         ("1 samuel", 16, 7) => Some(Verse { 
-            content: "", 
+            content: "But the Lord said vnto Samuel, Looke not on his countenance, or on the height of his stature, because I haue refused him: for the Lord seeth not, as man seeth; For man looketh on the outward appearance, but the Lord looketh on the heart.", 
         }),
 
         ("1 samuel", 16, 8) => Some(Verse { 
-            content: "", 
+            content: "Then Iesse called Abinadab, and made him passe before Samuel: and he said, Neither hath the Lord chosen this.", 
         }),
 
         ("1 samuel", 16, 9) => Some(Verse { 
-            content: "", 
+            content: "Then Iesse made Shammah to passe by: and he said, Neither hath the Lord chosen this.", 
         }),
 
         ("1 samuel", 16, 10) => Some(Verse { 
-            content: "", 
+            content: "Againe Iesse made seuen of his sonnes to passe before Samuel; and Samuel said vnto Iesse, The Lord hath not chosen these.", 
         }),
 
         ("1 samuel", 16, 11) => Some(Verse { 
-            content: "", 
+            content: "And Samuel saide vnto Iesse, Are here all thy children? And he said, There remaineth yet the yongest, and behold, he keepeth the sheepe. And Samuel said vnto Iesse, Send, and fetch him: for we will not sit downe, till hee come hither.", 
         }),
 
         ("1 samuel", 16, 12) => Some(Verse { 
-            content: "", 
+            content: "And he sent, and brought him in: now he was ruddy, and withal of a beautifull countenance, and goodly to looke to: And the Lord said, Arise, anoint him: for this is he.", 
         }),
 
         ("1 samuel", 16, 13) => Some(Verse { 
-            content: "", 
+            content: "Then Samuel tooke the horne of oile, and annointed him in the midst of his brethren: and the Spirit of the Lord came vpon Dauid, from that day forward: So Samuel rose vp and went to Ramah.", 
         }),
 
         ("1 samuel", 16, 14) => Some(Verse { 
-            content: "", 
+            content: "But the spirit of the Lord departed from Saul, and an euil spirit from the Lord troubled him.", 
         }),
 
         ("1 samuel", 16, 15) => Some(Verse { 
-            content: "", 
+            content: "And Sauls seruants said vnto him, Behold now, an euill spirit from God troubleth thee.", 
         }),
 
         ("1 samuel", 16, 16) => Some(Verse { 
-            content: "", 
+            content: "Let our lord now command thy seruants which are before thee, to seeke out a man, who is a cunning player on an harpe: and it shall come to passe when the euill spirit from God is vpon thee, that hee shall play with his hand, and thou shalt be well.", 
         }),
 
         ("1 samuel", 16, 17) => Some(Verse { 
-            content: "", 
+            content: "And Saul said vnto his seruants, Prouide mee now a man, that can play well, and bring him to me.", 
         }),
 
         ("1 samuel", 16, 18) => Some(Verse { 
-            content: "", 
+            content: "Then answered one of the seruants, and said, Behold, I haue seene a sonne of Iesse the Bethlehemite, that is cunning in playing, and a mighty valiant man, and a man of warre, and prudent in matters, and a comely person, and the Lord is with him.", 
         }),
 
         ("1 samuel", 16, 19) => Some(Verse { 
-            content: "", 
+            content: "Wherefore Saul sent messengers vnto Iesse, and said, Send me Dauid thy sonne, which is with the sheepe.", 
         }),
 
         ("1 samuel", 16, 20) => Some(Verse { 
-            content: "", 
+            content: "And Iesse tooke an asse laden with bread, and a bottle of wine, and a kid, and sent them by Dauid his sonne vnto Saul.", 
         }),
 
         ("1 samuel", 16, 21) => Some(Verse { 
-            content: "", 
+            content: "And Dauid came to Saul, and stood before him: and hee loued him greatly, and hee became his armour bearer.", 
         }),
 
         ("1 samuel", 16, 22) => Some(Verse { 
-            content: "", 
+            content: "And Saul sent to Iesse, saying, Let Dauid, I pray thee, stand before me: for hee hath found fauour in my sight.", 
         }),
 
         ("1 samuel", 16, 23) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe, when the euill spirit from God was vpon Saul, that Dauid tooke an harpe, and played with his hand: So Saul was refreshed, and was well, and the euill spirit departed from him.", 
         }),
 
         ("1 samuel", 17, 1) => Some(Verse { 
-            content: "", 
+            content: "Now the Philistines gathered together their armies to battell, and were gathered together at Shochoh, which belongeth to Iudah, and pitched betweene Shochoh and Azekah, in Ephes-Dammim.", 
         }),
 
         ("1 samuel", 17, 2) => Some(Verse { 
-            content: "", 
+            content: "And Saul and the men of Israel were gathered together, and pitched by the valley of Elah, and set the battell in aray against the Philistines.", 
         }),
 
         ("1 samuel", 17, 3) => Some(Verse { 
-            content: "", 
+            content: "And the Philistines stood on a mountaine on the one side, and Israel stood on a mountaine on the other side: and there was a valley betweene them.", 
         }),
 
         ("1 samuel", 17, 4) => Some(Verse { 
-            content: "", 
+            content: "And there went out a champion out of the campe of the Philistines, named Goliath of Gath: whose height was sixe cubites and a span.", 
         }),
 
         ("1 samuel", 17, 5) => Some(Verse { 
-            content: "", 
+            content: "And he had an helmet of brasse vpon his head, and he was armed with a coate of male: and the weight of the coat was fiue thousand shekels of brasse.", 
         }),
 
         ("1 samuel", 17, 6) => Some(Verse { 
-            content: "", 
+            content: "And he had greaues of brasse vpon his legs, and a target of brasse betweene his shoulders.", 
         }),
 
         ("1 samuel", 17, 7) => Some(Verse { 
-            content: "", 
+            content: "And the staffe of his speare was like a weauers beame, and his speares head weighed sixe hundred shekels of yron: and one bearing a shield, went before him.", 
         }),
 
         ("1 samuel", 17, 8) => Some(Verse { 
-            content: "", 
+            content: "And hee stood and cried vnto the armies of Israel, and said vnto them, Why are yee come out to set your battell in aray? am not I a Philistine, and you seruants to Saul? chuse you a man for you, and let him come downe to me.", 
         }),
 
         ("1 samuel", 17, 9) => Some(Verse { 
-            content: "", 
+            content: "If he be able to fight with mee, and to kill me, then will we be your seruants: but if I preuaile against him, and kill him, then shall yee be our seruants, and serue vs.", 
         }),
 
         ("1 samuel", 17, 10) => Some(Verse { 
-            content: "", 
+            content: "And the Philistine said, I defie the armies of Israel this day; giue me a man, that we may fight together.", 
         }),
 
         ("1 samuel", 17, 11) => Some(Verse { 
-            content: "", 
+            content: "When Saul and all Israel heard those words of the Philistine, they were dismayed, and greatly afraid.", 
         }),
 
         ("1 samuel", 17, 12) => Some(Verse { 
-            content: "", 
+            content: "Now Dauid was the sonne of that Ephrathite of Bethlehem Iudah, whose name was Iesse, and hee had eight sonnes: and the man went among men for an old man in the dayes of Saul.", 
         }),
 
         ("1 samuel", 17, 13) => Some(Verse { 
-            content: "", 
+            content: "And the three eldest sonnes of Iesse went, and followed Saul to the battell: and the names of his three sonnes that went to the battell, were, Eliab the first borne, and next vnto him, Abinadab, and the third, Shammah.", 
         }),
 
         ("1 samuel", 17, 14) => Some(Verse { 
-            content: "", 
+            content: "And Dauid was the yongest: and the three eldest followed Saul.", 
         }),
 
         ("1 samuel", 17, 15) => Some(Verse { 
-            content: "", 
+            content: "But Dauid went, and returned from Saul, to feed his fathers sheepe at Bethlehem.", 
         }),
 
         ("1 samuel", 17, 16) => Some(Verse { 
-            content: "", 
+            content: "And the Philistine drewe neere, morning and euening, and presented himselfe forty dayes.", 
         }),
 
         ("1 samuel", 17, 17) => Some(Verse { 
-            content: "", 
+            content: "And Iesse said vnto Dauid his sonne, Take now for thy brethren an ephah of this parched corne, and these ten loaues, and run to the campe to thy brethren.", 
         }),
 
         ("1 samuel", 17, 18) => Some(Verse { 
-            content: "", 
+            content: "And carie these ten cheeses vnto the Captaine of their thousand, and looke how thy brethren fare, and take their pledge.", 
         }),
 
         ("1 samuel", 17, 19) => Some(Verse { 
-            content: "", 
+            content: "Now Saul, and they, and all the men of Israel were in the valley of Elah, fighting with the Philistines.", 
         }),
 
         ("1 samuel", 17, 20) => Some(Verse { 
-            content: "", 
+            content: "And Dauid rose vp earely in the morning, and left the sheepe with a keeper, and tooke, and went, as Iesse had commanded him; and he came to the trench, as the host was going forth to the fight, and shouted for the battell.", 
         }),
 
         ("1 samuel", 17, 21) => Some(Verse { 
-            content: "", 
+            content: "For Israel and the Philistines had put the battel in aray, army against armie.", 
         }),
 
         ("1 samuel", 17, 22) => Some(Verse { 
-            content: "", 
+            content: "And Dauid left his cariage in the hand of the keeper of the cariage, and ranne into the armie, and came and saluted his brethren.", 
         }),
 
         ("1 samuel", 17, 23) => Some(Verse { 
-            content: "", 
+            content: "And as he talked with them, behold, there came vp the champion (the Philistine of Gath, Goliath by name) out of the armies of the Philistines, and spake according to the same words: and Dauid heard them.", 
         }),
 
         ("1 samuel", 17, 24) => Some(Verse { 
-            content: "", 
+            content: "And all the men of Israel, when they saw the man, fled from him, and were sore afraid.", 
         }),
 
         ("1 samuel", 17, 25) => Some(Verse { 
-            content: "", 
+            content: "And the men of Israel said, Haue yee seene this man that is come vp? Surely to defie Israel is he come vp: and it shall be that the man who killeth him, the king wil enrich him with great riches, and will giue him his daughter, and make his fathers house free in Israel.", 
         }),
 
         ("1 samuel", 17, 26) => Some(Verse { 
-            content: "", 
+            content: "And Dauid spake to the men that stood by him, saying; What shall bee done to the man that killeth this Philistine; and taketh away the reproch from Israel? for who is this vncircumcised Philistine, that he should defie the armies of the liuing God?", 
         }),
 
         ("1 samuel", 17, 27) => Some(Verse { 
-            content: "", 
+            content: "And the people answered him after this maner, saying, So shall it be done to the man that killeth him.", 
         }),
 
         ("1 samuel", 17, 28) => Some(Verse { 
-            content: "", 
+            content: "And Eliab his eldest brother heard when he spake vnto the men, and Eliabs anger was kindled against Dauid, and he said, Why camest thou down hither? and with whom hast thou left those few sheepe in the wildernesse? I know thy pride, and the naughtinesse of thine heart; for thou art come downe, that thou mightest see the battell.", 
         }),
 
         ("1 samuel", 17, 29) => Some(Verse { 
-            content: "", 
+            content: "And Dauid saide, What haue I now done? Is there not a cause?", 
         }),
 
         ("1 samuel", 17, 30) => Some(Verse { 
-            content: "", 
+            content: "And hee turned from him towards another, and spake after the same maner: and the people answered him againe after the former maner.", 
         }),
 
         ("1 samuel", 17, 31) => Some(Verse { 
-            content: "", 
+            content: "And when the words were heard which Dauid spake, they rehearsed them before Saul: and he sent for him.", 
         }),
 
         ("1 samuel", 17, 32) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said to Saul, Let no mans heart faile, because of him: thy seruant will goe and fight with this Philistine.", 
         }),
 
         ("1 samuel", 17, 33) => Some(Verse { 
-            content: "", 
+            content: "And Saul said to Dauid, Thou art not able to goe against this Philistine, to fight with him: for thou art but a youth, and he a man of warre from his youth.", 
         }),
 
         ("1 samuel", 17, 34) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said vnto Saul, Thy seruant kept his fathers sheepe, and there came a Lyon, and a Beare, and tooke a lambe out of the flocke:", 
         }),
 
         ("1 samuel", 17, 35) => Some(Verse { 
-            content: "", 
+            content: "And I went out after him, and smote him, and deliuered it out of his mouth: and when he arose against me, I caught him by his beard, and smote him, and slew him.", 
         }),
 
         ("1 samuel", 17, 36) => Some(Verse { 
-            content: "", 
+            content: "Thy seruant slew both the Lyon and the Beare: and this vncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the liuing God.", 
         }),
 
         ("1 samuel", 17, 37) => Some(Verse { 
-            content: "", 
+            content: "Dauid saide moreouer, The Lord that deliuered me out of the paw of the Lyon, and out of the pawe of the Beare, he will deliuer me out of the hand of this Philistine. And Saul said vnto Dauid, Goe, and the Lord be with thee.", 
         }),
 
         ("1 samuel", 17, 38) => Some(Verse { 
-            content: "", 
+            content: "And Saul armed Dauid with his armour, and hee put an helmet of brasse vpon his head, also he armed him with a coat of male.", 
         }),
 
         ("1 samuel", 17, 39) => Some(Verse { 
-            content: "", 
+            content: "And Dauid girded his sword vpon his armour, and he assayed to goe, for he had not proued it: and Dauid said vnto Saul, I cannot goe with these: for I haue not proued them. And Dauid put them off him.", 
         }),
 
         ("1 samuel", 17, 40) => Some(Verse { 
-            content: "", 
+            content: "And hee tooke his staffe in his hand, and chose him fiue smoothe stones out of the brooke, and put them in a shepheards bag which he had, euen in a scrip, and his sling was in his hande, and he drew neere to the Philistine.", 
         }),
 
         ("1 samuel", 17, 41) => Some(Verse { 
-            content: "", 
+            content: "And the Philistine came on and drew neere vnto Dauid, and the man that bare the shield, went before him.", 
         }),
 
         ("1 samuel", 17, 42) => Some(Verse { 
-            content: "", 
+            content: "And when the Philistine looked about, and saw Dauid, hee disdained him: for he was but a youth, and ruddy, and of a faire countenance.", 
         }),
 
         ("1 samuel", 17, 43) => Some(Verse { 
-            content: "", 
+            content: "And the Philistine said vnto Dauid, Am I a dog, that thou commest to me with staues? and the Philistine cursed Dauid by his gods.", 
         }),
 
         ("1 samuel", 17, 44) => Some(Verse { 
-            content: "", 
+            content: "And the Philistine said to Dauid, Come to me, and I will giue thy flesh vnto the foules of the aire, and to the beasts of the field.", 
         }),
 
         ("1 samuel", 17, 45) => Some(Verse { 
-            content: "", 
+            content: "Then said Dauid to the Philistine, Thou commest to mee with a sword, and with a speare, and with a shield: but I come to thee in the Name of the Lord of hostes, the God of the armies of Israel, whom thou hast defied.", 
         }),
 
         ("1 samuel", 17, 46) => Some(Verse { 
-            content: "", 
+            content: "This day wil the Lord deliuer thee into mine hand, and I will smite thee, and take thine head from thee, and I wil giue the carkeises of the host of the Philistines this day vnto the foules of the aire, and to the wild beasts of the earth, that all the earth may know that there is a God in Israel.", 
         }),
 
         ("1 samuel", 17, 47) => Some(Verse { 
-            content: "", 
+            content: "And all this assembly shal know that the Lord saueth not with sword & speare (for the battell is the Lords ) and he will giue you into our hands.", 
         }),
 
         ("1 samuel", 17, 48) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe when the Philistine arose, and came, and drewe nigh to meet Dauid, that Dauid hasted, and ran toward the armie to meete the Philistine.", 
         }),
 
         ("1 samuel", 17, 49) => Some(Verse { 
-            content: "", 
+            content: "And Dauid put his hande in his bag, and tooke thence a stone, and slang it, & smote the Philistine in his forehead, that the stone sunke into his forehead, and he fell vpon his face to the earth.", 
         }),
 
         ("1 samuel", 17, 50) => Some(Verse { 
-            content: "", 
+            content: "So Dauid preuailed ouer the Philistine with a sling and with a stone, and smote the Philistine, and slew him, but there was no sword in the hande of Dauid.", 
         }),
 
         ("1 samuel", 17, 51) => Some(Verse { 
-            content: "", 
+            content: "Therefore Dauid ran and stood vpon the Philistine, and tooke his sword, and drewe it out of the sheath thereof, and slew him, and cut off his head therewith. And when the Philistines sawe their champion was dead, they fled.", 
         }),
 
         ("1 samuel", 17, 52) => Some(Verse { 
-            content: "", 
+            content: "And the men of Israel, and of Iudah arose, and shouted, and pursued the Philistines, vntill thou come to the valley, and to the gates of Ekron: and the wounded of the Philistines fell downe by the way to Shaaraim, euen vnto Gath, and vnto Ekron.", 
         }),
 
         ("1 samuel", 17, 53) => Some(Verse { 
-            content: "", 
+            content: "And the children of Israel returned from chasing after the Philistines, and they spoiled their tents.", 
         }),
 
         ("1 samuel", 17, 54) => Some(Verse { 
-            content: "", 
+            content: "And Dauid tooke the head of the Philistine, and brought it to Ierusalem, but he put his armour in his tent.", 
         }),
 
         ("1 samuel", 17, 55) => Some(Verse { 
-            content: "", 
+            content: "And when Saul sawe Dauid goe forth against the Philistine, he sayd vnto Abner the captaine of the hoste, Abner, whose sonne is this youth? And Abner said, As thy soule liueth, O king, I cannot tell.", 
         }),
 
         ("1 samuel", 17, 56) => Some(Verse { 
-            content: "", 
+            content: "And the king said, Enquire thou whose sonne the stripling is.", 
         }),
 
         ("1 samuel", 17, 57) => Some(Verse { 
-            content: "", 
+            content: "And as Dauid returned from the slaughter of the Philistine, Abner tooke him, & brought him before Saul, with the head of the Philistine in his hand.", 
         }),
 
         ("1 samuel", 17, 58) => Some(Verse { 
-            content: "", 
+            content: "And Saul saide to him, Whose sonne art thou, thou yong man? And Dauid answered, I am the sonne of thy seruant Iesse, the Bethlehemite.", 
         }),
 
         ("1 samuel", 18, 1) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe when hee made an ende of speaking vnto Saul, that the soule of Ionathan was knit with the soule of Dauid, and Ionathan loued him as his owne soule.", 
         }),
 
         ("1 samuel", 18, 2) => Some(Verse { 
-            content: "", 
+            content: "And Saul tooke him that day, and would let him go no more home to his fathers house.", 
         }),
 
         ("1 samuel", 18, 3) => Some(Verse { 
-            content: "", 
+            content: "Then Ionathan and Dauid made a couenant, because he loued him as his owne soule.", 
         }),
 
         ("1 samuel", 18, 4) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan stript himselfe of the robe that was vpon him, and gaue it to Dauid, and his garments, euen to his sword, and to his bow, and to his girdle.", 
         }),
 
         ("1 samuel", 18, 5) => Some(Verse { 
-            content: "", 
+            content: "And Dauid went out, whither soeuer Saul sent him, and behaued himselfe wisely: and Saul set him ouer the men of warre, and he was accepted in the sight of all the people, and also in the sight of Sauls seruants.", 
         }),
 
         ("1 samuel", 18, 6) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe as they came when Dauid was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meete king Saul, with tabrets, with ioy, and with instruments of musicke.", 
         }),
 
         ("1 samuel", 18, 7) => Some(Verse { 
-            content: "", 
+            content: "And the women answered one another as they played, and said, Saul hath slaine his thousands, and Dauid his ten thousands.", 
         }),
 
         ("1 samuel", 18, 8) => Some(Verse { 
-            content: "", 
+            content: "And Saul was very wroth, and the saying displeased him, and he sayd, They haue ascribed vnto Dauid tenne thousands, and to me they haue ascribed but thousands: and what can he haue more, but the kingdome?", 
         }),
 
         ("1 samuel", 18, 9) => Some(Verse { 
-            content: "", 
+            content: "And Saul eyed Dauid from that day, and forward.", 
         }),
 
         ("1 samuel", 18, 10) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe on the morrow, that the euill spirit from God came vpon Saul, and he prophecied in the midst of the house: and Dauid played with his hand, as at other times: and there was a iauelin in Sauls hand.", 
         }),
 
         ("1 samuel", 18, 11) => Some(Verse { 
-            content: "", 
+            content: "And Saul cast the iauelin; for hee said, I will smite Dauid euen to the wall with it: and Dauid auoided out of his presence twice.", 
         }),
 
         ("1 samuel", 18, 12) => Some(Verse { 
-            content: "", 
+            content: "And Saul was afraid of Dauid, because the Lord was with him, and was departed from Saul.", 
         }),
 
         ("1 samuel", 18, 13) => Some(Verse { 
-            content: "", 
+            content: "Therefore Saul remooued him from him, and made him his captaine ouer a thousand, and hee went out and came in before the people.", 
         }),
 
         ("1 samuel", 18, 14) => Some(Verse { 
-            content: "", 
+            content: "And Dauid behaued himselfe wisely in all his wayes; & the Lord was with him.", 
         }),
 
         ("1 samuel", 18, 15) => Some(Verse { 
-            content: "", 
+            content: "Wherefore when Saul saw that hee behaued himselfe very wisely, hee was afraid of him.", 
         }),
 
         ("1 samuel", 18, 16) => Some(Verse { 
-            content: "", 
+            content: "But all Israel and Iudah loued Dauid, because hee went out and came in before them.", 
         }),
 
         ("1 samuel", 18, 17) => Some(Verse { 
-            content: "", 
+            content: "And Saul said to Dauid, Behold, my elder daughter Merab, her will I giue thee to wife: onely be thou valiant for me, and fight the Lords battels: for Saul said, Let not mine hand be vpon him, but let the hand of the Philistines be vpon him.", 
         }),
 
         ("1 samuel", 18, 18) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said vnto Saul, Who am I? and what is my life, or my fathers family in Israel, that I should be sonne in law to the king?", 
         }),
 
         ("1 samuel", 18, 19) => Some(Verse { 
-            content: "", 
+            content: "But it came to passe at the time when Merab Sauls daughter should haue beene giuen to Dauid, that shee was giuen vnto Adriel the Meholathite to wife.", 
         }),
 
         ("1 samuel", 18, 20) => Some(Verse { 
-            content: "", 
+            content: "And Michal Sauls daughter loued Dauid: and they tolde Saul, and the thing pleased him.", 
         }),
 
         ("1 samuel", 18, 21) => Some(Verse { 
-            content: "", 
+            content: "And Saul said, I will giue him her, that she may be a snare to him, and that the hand of the Philistines may be against him. Wherefore Saul said to Dauid, Thou shalt this day be my sonne in law, in the one of the twaine.", 
         }),
 
         ("1 samuel", 18, 22) => Some(Verse { 
-            content: "", 
+            content: "And Saul commanded his seruants, saying, Commune with Dauid secretly, and say, Behold, the king hath delight in thee, and all his seruants loue thee: now therefore be the kings sonne in law.", 
         }),
 
         ("1 samuel", 18, 23) => Some(Verse { 
-            content: "", 
+            content: "And Sauls seruants spake those wordes in the eares of Dauid: And Dauid said, Seemeth it to you a light thing to be a kings sonne in law, seeing that I am a poore man, and lightly esteemed?", 
         }),
 
         ("1 samuel", 18, 24) => Some(Verse { 
-            content: "", 
+            content: "And the seruants of Saul tolde him, saying; On this manner spake Dauid.", 
         }),
 
         ("1 samuel", 18, 25) => Some(Verse { 
-            content: "", 
+            content: "And Saul said, Thus shall yee say to Dauid, The King desireth not any dowrie, but an hundred foreskinnes of the Philistines, to be auenged of the kings enemies. But Saul thought to make Dauid fal by the hand of the Philistines.", 
         }),
 
         ("1 samuel", 18, 26) => Some(Verse { 
-            content: "", 
+            content: "And when his seruants told Dauid these wordes, it pleased Dauid well to be the kings sonne in lawe: and the dayes were not expired.", 
         }),
 
         ("1 samuel", 18, 27) => Some(Verse { 
-            content: "", 
+            content: "Wherefore Dauid arose, hee and his men, and slew of the Philistines two hundred men, and Dauid brought their foreskinnes, and they gaue them in full tale to the king, that hee might be the kings sonne in law: and Saul gaue him Michal his daughter to wife.", 
         }),
 
         ("1 samuel", 18, 28) => Some(Verse { 
-            content: "", 
+            content: "And Saul saw and knew that the Lord was with Dauid, and that Michal Sauls daughter loued him.", 
         }),
 
         ("1 samuel", 18, 29) => Some(Verse { 
-            content: "", 
+            content: "And Saul was yet the more afraid of Dauid; and Saul became Dauids enemie continually.", 
         }),
 
         ("1 samuel", 18, 30) => Some(Verse { 
-            content: "", 
+            content: "Then the Princes of the Philistines went foorth: and it came to passe after they went foorth, that Dauid behaued himselfe more wisely then all the seruants of Saul, so that his name was much set by.", 
         }),
 
         ("1 samuel", 19, 1) => Some(Verse { 
-            content: "", 
+            content: "And Saul spake to Ionathan his sonne, and to all his seruants, that they should kill Dauid.", 
         }),
 
         ("1 samuel", 19, 2) => Some(Verse { 
-            content: "", 
+            content: "But Ionathan Sauls sonne delighted much in Dauid, and Ionathan told Dauid, saying, Saul my father seeketh to kill thee: Now therefore, I pray thee, take heed to thy selfe vntill the morning, and abide in a secret place, and hide thy selfe:", 
         }),
 
         ("1 samuel", 19, 3) => Some(Verse { 
-            content: "", 
+            content: "And I will goe out and stand beside my father in the field where thou art, and I will commune with my father of thee, and what I see, that I will tell thee.", 
         }),
 
         ("1 samuel", 19, 4) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan spake good of Dauid vnto Saul his father, and said vnto him, Let not the King sinne against his seruant, against Dauid: because hee hath not sinned against thee, and because his workes haue bene to thee ward very good.", 
         }),
 
         ("1 samuel", 19, 5) => Some(Verse { 
-            content: "", 
+            content: "For he did put his life in his hand, and slew the Philistine, & the Lord wrought a great saluation for all Israel: thou sawest it, and didst reioyce: Wherefore then wilt thou sinne against innocent blood, to slay Dauid without a cause?", 
         }),
 
         ("1 samuel", 19, 6) => Some(Verse { 
-            content: "", 
+            content: "And Saul hearkened vnto the voyce of Ionathan; and Saul sware, As the Lord liueth, he shall not be slaine.", 
         }),
 
         ("1 samuel", 19, 7) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan called Dauid, and Ionathan shewed him all those things: and Ionathan brought Dauid to Saul, and he was in his presence, as in times past.", 
         }),
 
         ("1 samuel", 19, 8) => Some(Verse { 
-            content: "", 
+            content: "And there was warre againe, and Dauid went out, and fought with the Philistines, and slew them with a great slaughter, & they fled from him.", 
         }),
 
         ("1 samuel", 19, 9) => Some(Verse { 
-            content: "", 
+            content: "And the euill spirit from the Lord was vpon Saul, as he sate in his house with his iauelin in his hand: and Dauid played with his hand.", 
         }),
 
         ("1 samuel", 19, 10) => Some(Verse { 
-            content: "", 
+            content: "And Saul sought to smite Dauid euen to the wall with the iauelin: but hee slipt away out of Sauls presence, and he smote the iauelin into the wall: and Dauid fled, and escaped that night.", 
         }),
 
         ("1 samuel", 19, 11) => Some(Verse { 
-            content: "", 
+            content: "Saul also sent messengers vnto Dauids house, to watch him, and to slay him in the morning: and Michal Dauids wife tolde him, saying, If thou saue not thy life to night, to morrow thou shalt be slaine.", 
         }),
 
         ("1 samuel", 19, 12) => Some(Verse { 
-            content: "", 
+            content: "So Michal let Dauid downe thorow a window: and hee went and fled, and escaped.", 
         }),
 
         ("1 samuel", 19, 13) => Some(Verse { 
-            content: "", 
+            content: "And Michal tooke an image, and laid it in the bedde, and put a pillow of goats haire for his bolster, and couered it with a cloth.", 
         }),
 
         ("1 samuel", 19, 14) => Some(Verse { 
-            content: "", 
+            content: "And when Saul sent messengers to take Dauid, she said, He is sicke.", 
         }),
 
         ("1 samuel", 19, 15) => Some(Verse { 
-            content: "", 
+            content: "And Saul sent the messengers againe to see Dauid, saying, Bring him vp to me in the bedde, that I may slay him.", 
         }),
 
         ("1 samuel", 19, 16) => Some(Verse { 
-            content: "", 
+            content: "And when the messengers were come in, behold, there was an image in the bed, with a pillow of goates haire for his bolster.", 
         }),
 
         ("1 samuel", 19, 17) => Some(Verse { 
-            content: "", 
+            content: "And Saul said vnto Michal, Why hast thou deceiued me so, and sent away mine enemie, that he is escaped? And Michal answered Saul, Hee said vnto me, Let mee goe; Why should I kill thee?", 
         }),
 
         ("1 samuel", 19, 18) => Some(Verse { 
-            content: "", 
+            content: "So Dauid fledde, and escaped, and came to Samuel to Ramah, and told him all that Saul had done to him: and hee and Samuel went, and dwelt in Naioth.", 
         }),
 
         ("1 samuel", 19, 19) => Some(Verse { 
-            content: "", 
+            content: "And it was told Saul, saying, Behold, Dauid is at Naioth in Ramah.", 
         }),
 
         ("1 samuel", 19, 20) => Some(Verse { 
-            content: "", 
+            content: "And Saul sent messengers to take Dauid: and when they sawe the company of the Prophets prophecying, and Samuel standing as appointed ouer them, the Spirit of God was vpon the messengers of Saul, and they also prophecied.", 
         }),
 
         ("1 samuel", 19, 21) => Some(Verse { 
-            content: "", 
+            content: "And when it was tolde Saul, he sent other messengers, and they prophecied likewise: and Saul sent messengers againe the third time, and they prophecied also.", 
         }),
 
         ("1 samuel", 19, 22) => Some(Verse { 
-            content: "", 
+            content: "Then went hee also to Ramah, and came to a great well that is in Sechu: and he asked, and said, Where are Samuel and Dauid? And one said, Behold, they be at Naioth in Ramah.", 
         }),
 
         ("1 samuel", 19, 23) => Some(Verse { 
-            content: "", 
+            content: "And hee went thither to Naioth in Ramah: and the Spirit of God was vpon him also, and he went on and prophecied vntill hee came to Naioth in Ramah:", 
         }),
 
         ("1 samuel", 19, 24) => Some(Verse { 
-            content: "", 
+            content: "And he stript off his clothes also, and prophecied before Samuel in like manner, and lay downe naked all that day, and all that night: wherefore they say, Is Saul also among the Prophets?", 
         }),
 
         ("1 samuel", 20, 1) => Some(Verse { 
-            content: "", 
+            content: "And Dauid fled from Naioth in Ramah, and came and said before Ionathan, What haue I done? what is mine iniquity? and what is my sinne before thy father, that he seeketh my life?", 
         }),
 
         ("1 samuel", 20, 2) => Some(Verse { 
-            content: "", 
+            content: "And he said vnto him, God forbid, thou shalt not die; beholde, my father will doe nothing, either great or small, but that he will shew it me: and why should my father hide this thing from me? it is not so.", 
         }),
 
         ("1 samuel", 20, 3) => Some(Verse { 
-            content: "", 
+            content: "And Dauid sware moreouer, and said, Thy father certeinly knoweth that I haue found grace in thine eyes, and he sayth, Let not Ionathan know this, lest he be grieued: but truely, as the Lord liueth, and as thy soule liueth, there is but a step betweene me & death.", 
         }),
 
         ("1 samuel", 20, 4) => Some(Verse { 
-            content: "", 
+            content: "Then said Ionathan vnto Dauid, Whatsoeuer thy soule desireth, I will euen doe it for thee.", 
         }),
 
         ("1 samuel", 20, 5) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said vnto Ionathan, Behold, to morrow is the new moone, and I should not faile to sit with the king at meate: but let me goe, that I may hide my selfe in the fields vnto the third day at euen.", 
         }),
 
         ("1 samuel", 20, 6) => Some(Verse { 
-            content: "", 
+            content: "If thy father at all misse me, then say, Dauid earnestly asked leaue of me that he might runne to Bethlehem his citie: for there is a yeerely sacrifice there for all the family.", 
         }),
 
         ("1 samuel", 20, 7) => Some(Verse { 
-            content: "", 
+            content: "If he say thus, It is well, thy seruant shall haue peace: but if he be very wroth, then be sure that euill is determined by him.", 
         }),
 
         ("1 samuel", 20, 8) => Some(Verse { 
-            content: "", 
+            content: "Therefore thou shalt deale kindly with thy seruant, for thou hast brought thy seruant into a couenant of the Lord with thee: notwithstanding, if there be in me iniquitie, slay me thy selfe: for why shouldest thou bring me to thy father?", 
         }),
 
         ("1 samuel", 20, 9) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan said, Farre be it from thee: for if I knew certainely that euill were determined by my father to come vpon thee, then would not I tell it thee?", 
         }),
 
         ("1 samuel", 20, 10) => Some(Verse { 
-            content: "", 
+            content: "Then said Dauid to Ionathan, Who shall tell me? or what if thy father answere thee roughly?", 
         }),
 
         ("1 samuel", 20, 11) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan said vnto Dauid, Come, and let vs goe out into the field. And they went out both of them into the field.", 
         }),
 
         ("1 samuel", 20, 12) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan said vnto Dauid, O Lord God of Israel, when I haue sounded my father, about to morrow any time, or the third day, and behold, if there be good toward Dauid, and I then send not vnto thee, and shew it thee;", 
         }),
 
         ("1 samuel", 20, 13) => Some(Verse { 
-            content: "", 
+            content: "The Lord doe so and much more to Ionathan: but if it please my father to doe thee euill, then I wil shew it thee, and send thee away, that thou mayest goe in peace, and the Lord be with thee, as hee hath beene with my father.", 
         }),
 
         ("1 samuel", 20, 14) => Some(Verse { 
-            content: "", 
+            content: "And thou shalt not onely while yet I liue, shew me the kindnesse of the Lord, that I die not:", 
         }),
 
         ("1 samuel", 20, 15) => Some(Verse { 
-            content: "", 
+            content: "But also thou shalt not cut off thy kindnesse from my house for euer: no not when the Lord hath cut off the enemies of Dauid, euery one from the face of the earth.", 
         }),
 
         ("1 samuel", 20, 16) => Some(Verse { 
-            content: "", 
+            content: "So Ionathan made a couenant with the house of Dauid, saying, Let the Lord euen require it at the hande of Dauids enemies.", 
         }),
 
         ("1 samuel", 20, 17) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan caused Dauid to sweare againe, because he loued him: for he loued him as he loued his owne soule.", 
         }),
 
         ("1 samuel", 20, 18) => Some(Verse { 
-            content: "", 
+            content: "Then Ionathan said to Dauid, To morrow is the newe moone: and thou shalt be missed, because thy seat wil be emptie.", 
         }),
 
         ("1 samuel", 20, 19) => Some(Verse { 
-            content: "", 
+            content: "And when thou hast stayed three dayes, then thou shalt goe downe quickly, and come to the place where thou diddest hide thy selfe, when the businesse was in hand, and shalt remaine by the stone Ezel.", 
         }),
 
         ("1 samuel", 20, 20) => Some(Verse { 
-            content: "", 
+            content: "And I will shoot three arrowes on the side thereof, as though I shot at a marke.", 
         }),
 
         ("1 samuel", 20, 21) => Some(Verse { 
-            content: "", 
+            content: "And behold, I will send a ladde, saying, Goe, find out the arrowes. If I expresly say vnto the lad, Behold, the arrowes are on this side of thee, take them: then come thou, for there is peace to thee, and no hurt, as the Lord liueth.", 
         }),
 
         ("1 samuel", 20, 22) => Some(Verse { 
-            content: "", 
+            content: "But if I say thus vnto the yong man, Behold, the arrowes are beyond thee: goe thy way, for the Lord hath sent thee away.", 
         }),
 
         ("1 samuel", 20, 23) => Some(Verse { 
-            content: "", 
+            content: "And as touching the matter which thou and I haue spoken of, behold, the Lord be betweene thee and mee for euer.", 
         }),
 
         ("1 samuel", 20, 24) => Some(Verse { 
-            content: "", 
+            content: "So Dauid hid himselfe in the field: and when the newe moone was come, the king sate him downe to eate meate.", 
         }),
 
         ("1 samuel", 20, 25) => Some(Verse { 
-            content: "", 
+            content: "And the king sate vpon his seate, as at other times, euen vpon a seate by the wall: and Ionathan arose, and Abner sate by Sauls side, and Dauids place was emptie.", 
         }),
 
         ("1 samuel", 20, 26) => Some(Verse { 
-            content: "", 
+            content: "Neuerthelesse, Saul spake not any thing that day: for hee thought, Some thing hath befallen him, hee is not cleane; surely he is not cleane.", 
         }),
 
         ("1 samuel", 20, 27) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe on the morrow which was the second day of the moneth, that Dauids place was emptie: and Saul said vnto Ionathan his sonne, Wherefore commeth not the sonne of Iesse to meat, neither yesterday nor to day?", 
         }),
 
         ("1 samuel", 20, 28) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan answered Saul, Dauid earnestly asked leaue of me, to goe to Bethlehem.", 
         }),
 
         ("1 samuel", 20, 29) => Some(Verse { 
-            content: "", 
+            content: "And he said, Let me goe, I pray thee, for our familie hath a sacrifice in the citie, and my brother, hee hath commanded mee to be there: and now if I haue found fauour in thine eyes, let me get away, I pray thee, and see my brethren: Therefore he commeth not vnto the kings table.", 
         }),
 
         ("1 samuel", 20, 30) => Some(Verse { 
-            content: "", 
+            content: "Then Sauls anger was kindled against Ionathan, and hee said vnto him, Thou sonne of the peruerse rebellious woman, doe not I know that thou hast chosen the sonne of Iesse to thine owne confusion, and vnto the confusion of thy mothers nakednesse?", 
         }),
 
         ("1 samuel", 20, 31) => Some(Verse { 
-            content: "", 
+            content: "For as long as the sonne of Iesse liueth vpon the ground, thou shalt not be stablished, nor thy kingdome: wherefore now send and fetch him vnto mee, for he shall surely die.", 
         }),
 
         ("1 samuel", 20, 32) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan answered Saul his father, and said vnto him, Wherefore shall hee be slaine? what hath hee done?", 
         }),
 
         ("1 samuel", 20, 33) => Some(Verse { 
-            content: "", 
+            content: "And Saul cast a iauelin at him to smite him, whereby Ionathan knewe that it was determined of his father to slay Dauid.", 
         }),
 
         ("1 samuel", 20, 34) => Some(Verse { 
-            content: "", 
+            content: "So Ionathan arose from the table in fierce anger, and did eate no meat the second day of the moneth: for hee was grieued for Dauid, because his father had done him shame.", 
         }),
 
         ("1 samuel", 20, 35) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe in the morning, that Ionathan went out into the field, at the time appointed with Dauid, and a little ladde with him.", 
         }),
 
         ("1 samuel", 20, 36) => Some(Verse { 
-            content: "", 
+            content: "And he said vnto his lad, Runne, finde out now the arrowes which I shoote. And as the ladde ranne, he shot an arrow beyond him.", 
         }),
 
         ("1 samuel", 20, 37) => Some(Verse { 
-            content: "", 
+            content: "And when the ladde was come to the place of the arrow, which Ionathan had shot, Ionathan cryed after the ladde, and said, Is not the arrow beyond thee?", 
         }),
 
         ("1 samuel", 20, 38) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan cryed after the ladde, Make speed, haste, stay not. And Ionathans ladde gathered vp the arrowes, and came to his master.", 
         }),
 
         ("1 samuel", 20, 39) => Some(Verse { 
-            content: "", 
+            content: "But the lad knew not any thing: onely Ionathan and Dauid knew the matter.", 
         }),
 
         ("1 samuel", 20, 40) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan gaue his artillery vnto his ladde, and said vnto him, Goe, cary them to the citie.", 
         }),
 
         ("1 samuel", 20, 41) => Some(Verse { 
-            content: "", 
+            content: "And assoone as the ladde was gone, Dauid arose out of a place toward the South, and fell on his face to the ground, and bowed himselfe three times: and they kissed one another, and wept one with another, vntill Dauid exceeded.", 
         }),
 
         ("1 samuel", 20, 42) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan said to Dauid, Goe in peace, forasmuch as wee haue sworne both of vs in the Name of the Lord, saying; The Lord be betweene me and thee, and betweene my seede and thy seede for euer. And hee arose, and departed: and Ionathan went into the citie.", 
         }),
 
         ("1 samuel", 21, 1) => Some(Verse { 
