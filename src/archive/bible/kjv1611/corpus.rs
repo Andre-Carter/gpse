@@ -34358,551 +34358,551 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("2 samuel", 21, 1) => Some(Verse { 
-            content: "", 
+            content: "Then there was a famine in the dayes of Dauid three yeeres, yeere after yeere, and Dauid enquired of the Lord. And the Lord answered, It is for Saul, and for his bloodie house, because he slew the Gibeonites.", 
         }),
 
         ("2 samuel", 21, 2) => Some(Verse { 
-            content: "", 
+            content: "And the king called the Gibeonites, and said vnto them, (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites, and the children of Israel had sworne vnto them: and Saul sought to slay them, in his zeale to the children of Israel and Iudah)", 
         }),
 
         ("2 samuel", 21, 3) => Some(Verse { 
-            content: "", 
+            content: "Wherefore Dauid said vnto the Gibeonites, What shall I doe for you? and wherwith shall I make the atonement, that ye may blesse the inheritance of the Lord ?", 
         }),
 
         ("2 samuel", 21, 4) => Some(Verse { 
-            content: "", 
+            content: "And the Gibeonites saide vnto him, We will haue no siluer nor golde of Saul, nor of his house, neither for vs shalt thou kill any man in Israel. And he said, What you shall say, that will I doe for you.", 
         }),
 
         ("2 samuel", 21, 5) => Some(Verse { 
-            content: "", 
+            content: "And they answered the king, The man that consumed vs, and that deuised against vs, that we should be destroied from remaining in any of the coasts of Israel,", 
         }),
 
         ("2 samuel", 21, 6) => Some(Verse { 
-            content: "", 
+            content: "Let seuen men of his sonnes bee deliuered vnto vs, and wee will hang them vp vnto the Lord in Gibeah of Saul, whome the Lord did chuse. And the king said, I will giue them.", 
         }),
 
         ("2 samuel", 21, 7) => Some(Verse { 
-            content: "", 
+            content: "But the king spared Mephibosheth the sonne of Ionathan the sonne of Saul, because of the Lords othe that was between them, betweene Dauid, and Ionathan the sonne of Saul.", 
         }),
 
         ("2 samuel", 21, 8) => Some(Verse { 
-            content: "", 
+            content: "But the king tooke the two sons of Rizpah the daughter of Aiah, whom she bare vnto Saul, Armoni and Mephibosheth, and the fiue sonnes of Michal the daughter of Saul, whome she brought vp for Adriel the sonne of Barzillai the Meholathite.", 
         }),
 
         ("2 samuel", 21, 9) => Some(Verse { 
-            content: "", 
+            content: "And hee deliuered them into the hands of the Gibeonites, and they hanged them in the hill before the Lord: and they fell all seuen together, and were put to death in the dayes of haruest, in the first dayes, in the beginning of barley haruest.", 
         }),
 
         ("2 samuel", 21, 10) => Some(Verse { 
-            content: "", 
+            content: "And Rizpah the daughter of Aiah tooke sackecloth, and spread it for her vpon the rocke, from the beginning of haruest, vntill water dropped vpon them out of heauen, and suffered neither the birds of the aire to rest on them by day, nor the beastes of the fielde by night.", 
         }),
 
         ("2 samuel", 21, 11) => Some(Verse { 
-            content: "", 
+            content: "And it was tolde Dauid what Rizpah the daughter of Aiah the concubine of Saul had done.", 
         }),
 
         ("2 samuel", 21, 12) => Some(Verse { 
-            content: "", 
+            content: "And Dauid went and tooke the bones of Saul, and the bones of Ionathan his sonne from the men of Iabesh Gilead, which had stollen them from the street of Bethshan where the Philistines had hanged them, when the Philistines had slaine Saul in Gilboa.", 
         }),
 
         ("2 samuel", 21, 13) => Some(Verse { 
-            content: "", 
+            content: "And hee brought vp from thence the bones of Saul, and the bones of Ionathan his sonne, and they gathered the bones of them that were hanged.", 
         }),
 
         ("2 samuel", 21, 14) => Some(Verse { 
-            content: "", 
+            content: "And the bones of Saul and Ionathan his sonne buried they in the countrey of Beniamin in Zelah, in the sepulchre of Kish his father: and they perfourmed all that the king commanded: and after that, God was entreated for the land.", 
         }),
 
         ("2 samuel", 21, 15) => Some(Verse { 
-            content: "", 
+            content: "Moreouer, the Philistines had yet warre againe with Israel, and Dauid went down, and his seruants with him, and fought against the Philistines, and Dauid waxed faint.", 
         }),
 
         ("2 samuel", 21, 16) => Some(Verse { 
-            content: "", 
+            content: "And Ishbi-benob which was of the sonnes of the gyant, (the weight of whose speare weighed three hundred shekels of brasse in weight) he being girded with a new sword, thought to haue slaine Dauid.", 
         }),
 
         ("2 samuel", 21, 17) => Some(Verse { 
-            content: "", 
+            content: "But Abishai the sonne of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of Dauid sware vnto him, saying, Thou shalt goe no more out with vs to battell, that thou quench not the light of Israel.", 
         }),
 
         ("2 samuel", 21, 18) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe after this, that there was againe a battell with the Philistines at Gob: then Sibbechai the Hushathite slew Saph, which was of the sonnes of the Gyant.", 
         }),
 
         ("2 samuel", 21, 19) => Some(Verse { 
-            content: "", 
+            content: "And there was againe a battell in Gob, with the Philistines, where Elhanan the sonne of Iaare-Oregim a Bethlehemite, slewe the brother of Goliath the Gittite, the staffe of whose speare was like a weauers beame.", 
         }),
 
         ("2 samuel", 21, 20) => Some(Verse { 
-            content: "", 
+            content: "And there was yet a battell in Gath, where was a man of great stature, that had on euery hand sixe fingers, and on euery foote sixe toes, foure and twenty in number, and he also was borne to the Gyant.", 
         }),
 
         ("2 samuel", 21, 21) => Some(Verse { 
-            content: "", 
+            content: "And when he defied Israel, Ionathan the sonne of Shimea the brother of Dauid, slew him.", 
         }),
 
         ("2 samuel", 21, 22) => Some(Verse { 
-            content: "", 
+            content: "These foure were borne to the Gyant in Gath, and fell by the hand of Dauid, and by the hand of his seruants.", 
         }),
 
         ("2 samuel", 22, 1) => Some(Verse { 
-            content: "", 
+            content: "And Dauid spake vnto the Lord the wordes of this song, in the day that the Lord had deliuered him out of the hand of all his enemies, and out of the hand of Saul.", 
         }),
 
         ("2 samuel", 22, 2) => Some(Verse { 
-            content: "", 
+            content: "And he said, The Lord is my rocke and my fortresse, and my deliuerer:", 
         }),
 
         ("2 samuel", 22, 3) => Some(Verse { 
-            content: "", 
+            content: "The God of my rocke, in him will I trust: hee is my shield, and the horne of my saluation, my high tower, and my refuge, my Sauiour; thou sauest me from violence.", 
         }),
 
         ("2 samuel", 22, 4) => Some(Verse { 
-            content: "", 
+            content: "I will call on the Lord, who is worthy to be praised: so shall I be saued from mine enemies.", 
         }),
 
         ("2 samuel", 22, 5) => Some(Verse { 
-            content: "", 
+            content: "When the waues of death compassed me: the floods of vngodly men made me afraid.", 
         }),
 
         ("2 samuel", 22, 6) => Some(Verse { 
-            content: "", 
+            content: "The sorowes of Hell compassed me about: the snares of death preuented me.", 
         }),
 
         ("2 samuel", 22, 7) => Some(Verse { 
-            content: "", 
+            content: "In my distresse I called vpon the Lord, and cryed to my God, and hee did heare my voice out of his Temple, and my crie did enter into his eares.", 
         }),
 
         ("2 samuel", 22, 8) => Some(Verse { 
-            content: "", 
+            content: "Then the earth shooke and trembled: the foundations of heauen mooued and shooke, because hee was wroth.", 
         }),
 
         ("2 samuel", 22, 9) => Some(Verse { 
-            content: "", 
+            content: "There went vp a smoake out of his nostrils, and fire out of his mouth deuoured: coales were kindled by it.", 
         }),
 
         ("2 samuel", 22, 10) => Some(Verse { 
-            content: "", 
+            content: "Hee bowed the heauens also and came downe: and darkenesse was vnder his feete.", 
         }),
 
         ("2 samuel", 22, 11) => Some(Verse { 
-            content: "", 
+            content: "And he rode vpon a Cherub, and did flie: and hee was seene vpon the wings of the winde.", 
         }),
 
         ("2 samuel", 22, 12) => Some(Verse { 
-            content: "", 
+            content: "And hee made darkenesse pauilions round about him, darke waters, and thicke clouds of the skies.", 
         }),
 
         ("2 samuel", 22, 13) => Some(Verse { 
-            content: "", 
+            content: "Through the brightnesse before him, were coales of fire kindled.", 
         }),
 
         ("2 samuel", 22, 14) => Some(Verse { 
-            content: "", 
+            content: "The Lord thundred from heauen: and the most high vttered his voice.", 
         }),
 
         ("2 samuel", 22, 15) => Some(Verse { 
-            content: "", 
+            content: "And he sent out arrowes, and scattered them; lightning, and discomfited them.", 
         }),
 
         ("2 samuel", 22, 16) => Some(Verse { 
-            content: "", 
+            content: "And the channels of the Sea appeared, the foundations of the world were discouered, at the rebuking of the Lord, at the blast of the breath of his nostrils.", 
         }),
 
         ("2 samuel", 22, 17) => Some(Verse { 
-            content: "", 
+            content: "He sent from aboue, he tooke me: he drew me out of many waters.", 
         }),
 
         ("2 samuel", 22, 18) => Some(Verse { 
-            content: "", 
+            content: "He deliuered me from my strong enemy, and from them that hated mee: for they were too strong for me.", 
         }),
 
         ("2 samuel", 22, 19) => Some(Verse { 
-            content: "", 
+            content: "They preuented me in the day of my calamitie: but the Lord was my stay.", 
         }),
 
         ("2 samuel", 22, 20) => Some(Verse { 
-            content: "", 
+            content: "Hee brought me forth also into a large place: he deliuered me, because hee delighted in me.", 
         }),
 
         ("2 samuel", 22, 21) => Some(Verse { 
-            content: "", 
+            content: "The Lord rewarded mee according to my righteousnesse: according to the cleannesse of my hands, hath hee recompensed me.", 
         }),
 
         ("2 samuel", 22, 22) => Some(Verse { 
-            content: "", 
+            content: "For I haue kept the wayes of the Lord, and haue not wickedly departed from my God.", 
         }),
 
         ("2 samuel", 22, 23) => Some(Verse { 
-            content: "", 
+            content: "For all his iudgements were before me: and as for his Statutes, I did not depart from them.", 
         }),
 
         ("2 samuel", 22, 24) => Some(Verse { 
-            content: "", 
+            content: "I was also vpright before him: and haue kept my selfe from mine iniquitie.", 
         }),
 
         ("2 samuel", 22, 25) => Some(Verse { 
-            content: "", 
+            content: "Therefore the Lord hath recompensed me, according to my righteousnesse: according to my cleannesse in his eye sight.", 
         }),
 
         ("2 samuel", 22, 26) => Some(Verse { 
-            content: "", 
+            content: "With the merciful thou wilt shew thy selfe mercifull, and with the vpright man thou wilt shew thy selfe vpright.", 
         }),
 
         ("2 samuel", 22, 27) => Some(Verse { 
-            content: "", 
+            content: "With the pure thou wilt shew thy selfe pure: and with the froward, thou wilt shew thy selfe vnsauoury.", 
         }),
 
         ("2 samuel", 22, 28) => Some(Verse { 
-            content: "", 
+            content: "And the afflicted people thou wilt saue: but thine eyes are vpon the hautie, that thou mayest bring them downe.", 
         }),
 
         ("2 samuel", 22, 29) => Some(Verse { 
-            content: "", 
+            content: "For thou art my lampe, O Lord: and the Lord wil lighten my darkenesse.", 
         }),
 
         ("2 samuel", 22, 30) => Some(Verse { 
-            content: "", 
+            content: "For by thee I haue run through a troupe: by my God haue I leaped ouer a wall.", 
         }),
 
         ("2 samuel", 22, 31) => Some(Verse { 
-            content: "", 
+            content: "As for God, his way is perfect, the word of the Lord is tried: he is a buckler to all them that trust in him.", 
         }),
 
         ("2 samuel", 22, 32) => Some(Verse { 
-            content: "", 
+            content: "For who is God, saue the Lord ? and who is a rocke, saue our God?", 
         }),
 
         ("2 samuel", 22, 33) => Some(Verse { 
-            content: "", 
+            content: "God is my strength and power: and he maketh my way perfect.", 
         }),
 
         ("2 samuel", 22, 34) => Some(Verse { 
-            content: "", 
+            content: "Hee maketh my feet like hindes feet: and setteth mee vpon my high places.", 
         }),
 
         ("2 samuel", 22, 35) => Some(Verse { 
-            content: "", 
+            content: "He teacheth my hands to warre: so that a bow of steele is broken by mine armes.", 
         }),
 
         ("2 samuel", 22, 36) => Some(Verse { 
-            content: "", 
+            content: "Thou hast also giuen mee the shield of thy saluation: and thy gentlenesse hath made me great.", 
         }),
 
         ("2 samuel", 22, 37) => Some(Verse { 
-            content: "", 
+            content: "Thou hast enlarged my steps vnder me: so that my feet did not slip.", 
         }),
 
         ("2 samuel", 22, 38) => Some(Verse { 
-            content: "", 
+            content: "I haue pursued mine enemies, and destroyed them: and turned not againe vntill I had consumed them.", 
         }),
 
         ("2 samuel", 22, 39) => Some(Verse { 
-            content: "", 
+            content: "And I haue consumed them and wounded them, that they could not arise: yea, they are fallen vnder my feet.", 
         }),
 
         ("2 samuel", 22, 40) => Some(Verse { 
-            content: "", 
+            content: "For thou hast girded mee with strength to battel: them that rose vp against me, hast thou subdued vnder me.", 
         }),
 
         ("2 samuel", 22, 41) => Some(Verse { 
-            content: "", 
+            content: "Thou hast also giuen mee the necks of mine enemies, that I might destroy them that hate me.", 
         }),
 
         ("2 samuel", 22, 42) => Some(Verse { 
-            content: "", 
+            content: "They looked, but there was none to saue: euen vnto the Lord, but he answered them not.", 
         }),
 
         ("2 samuel", 22, 43) => Some(Verse { 
-            content: "", 
+            content: "Then did I beat them as small as the dust of the earth: I did stampe them as the myre of the street, and did spread them abroad.", 
         }),
 
         ("2 samuel", 22, 44) => Some(Verse { 
-            content: "", 
+            content: "Thou also hast deliuered mee from the striuings of my people, thou hast kept mee to be head of the heathen: a people which I knew not, shall serue me.", 
         }),
 
         ("2 samuel", 22, 45) => Some(Verse { 
-            content: "", 
+            content: "Strangers shall submit themselues vnto me: as soone as they heare, they shall be obedient vnto me.", 
         }),
 
         ("2 samuel", 22, 46) => Some(Verse { 
-            content: "", 
+            content: "Strangers shall fade away: and they shall bee afraid out of their close places.", 
         }),
 
         ("2 samuel", 22, 47) => Some(Verse { 
-            content: "", 
+            content: "The Lord liueth, and blessed be my rocke: and exalted be the God of the rocke of my saluation.", 
         }),
 
         ("2 samuel", 22, 48) => Some(Verse { 
-            content: "", 
+            content: "It is God that auengeth mee, and that bringeth downe the people vnder me:", 
         }),
 
         ("2 samuel", 22, 49) => Some(Verse { 
-            content: "", 
+            content: "And that bringeth me forth from mine enemies: thou also hast lifted mee vp on high aboue them that rose vp against me: thou hast deliuered me from the violent man.", 
         }),
 
         ("2 samuel", 22, 50) => Some(Verse { 
-            content: "", 
+            content: "Therefore I will giue thankes vnto thee, O Lord, among the heathen: and I will sing praises vnto thy Name.", 
         }),
 
         ("2 samuel", 22, 51) => Some(Verse { 
-            content: "", 
+            content: "He is the towre of saluation for his king: and sheweth mercy to his Anointed, vnto Dauid, and to his seede for euermore.", 
         }),
 
         ("2 samuel", 23, 1) => Some(Verse { 
-            content: "", 
+            content: "Nowe these bee the last words of Dauid: Dauid the sonne of Iesse saide, and the man who was raised vp on high, the Anointed of the God of Iacob, and the sweet Psalmist of Israel, said,", 
         }),
 
         ("2 samuel", 23, 2) => Some(Verse { 
-            content: "", 
+            content: "The spirit of the Lord spake by me, and his word was in my tongue.", 
         }),
 
         ("2 samuel", 23, 3) => Some(Verse { 
-            content: "", 
+            content: "The God of Israel said, the Rocke of Israel spake to me: he that ruleth ouer men must be iust, ruling in the feare of God:", 
         }),
 
         ("2 samuel", 23, 4) => Some(Verse { 
-            content: "", 
+            content: "And he shall be as the light of the morning, when the Sunne riseth, euen a morning, without cloudes; as the tender grasse springing out of the earth by cleare shining after raine:", 
         }),
 
         ("2 samuel", 23, 5) => Some(Verse { 
-            content: "", 
+            content: "Although my house be not so with God: yet he hath made with mee an euerlasting couenant, ordred in al things and sure: for this is all my saluation, and all my desire, although he make it not to grow.", 
         }),
 
         ("2 samuel", 23, 6) => Some(Verse { 
-            content: "", 
+            content: "But the sonnes of Belial shall bee all of them as thornes thrust away, because they cannot be taken with hands,", 
         }),
 
         ("2 samuel", 23, 7) => Some(Verse { 
-            content: "", 
+            content: "But the man that shal touch them, must be fenced with yron, and the staffe of a speare, and they shall bee vtterly burnt with fire in the same place.", 
         }),
 
         ("2 samuel", 23, 8) => Some(Verse { 
-            content: "", 
+            content: "These be the names of the mightie men whome Dauid had: The Tachmonite that sate in the seat, chiefe among the captaines, (the same was Adino the Eznite:) hee lift vp his speare against eight hundred, whom he slew at one time.", 
         }),
 
         ("2 samuel", 23, 9) => Some(Verse { 
-            content: "", 
+            content: "And after him was Eleazar the sonne of Dodo the Ahohite, one of the three mightie men with Dauid, when they defied the Philistines that were there gathered together to battell, and the men of Israel were gone away.", 
         }),
 
         ("2 samuel", 23, 10) => Some(Verse { 
-            content: "", 
+            content: "He arose, and smote the Philistines vntill his hand was wearie, and his hand claue vnto the sword: and the Lord wrought a great victorie that day, and the people returned after him onely to spoile.", 
         }),
 
         ("2 samuel", 23, 11) => Some(Verse { 
-            content: "", 
+            content: "And after him was Shammah the sonne of Agee the Hararite: and the Philistines were gathered together into a troupe, where was a piece of ground full of lentiles: and the people fled from the Philistines.", 
         }),
 
         ("2 samuel", 23, 12) => Some(Verse { 
-            content: "", 
+            content: "But hee stood in the midst of the ground, and defended it, and slewe the Philistines: and the Lord wrought a great victorie.", 
         }),
 
         ("2 samuel", 23, 13) => Some(Verse { 
-            content: "", 
+            content: "And three of the thirtie chiefe went downe and came to Dauid in the haruest time, vnto the caue of Adullam: and the troupe of the Philistines pitched in the valley of Rephaim.", 
         }),
 
         ("2 samuel", 23, 14) => Some(Verse { 
-            content: "", 
+            content: "And Dauid was then in an holde, and the garison of the Philistines was then in Bethlehem.", 
         }),
 
         ("2 samuel", 23, 15) => Some(Verse { 
-            content: "", 
+            content: "And Dauid longed, and said, Oh that one would giue mee drinke of the water of the well of Bethlehem which is by the gate.", 
         }),
 
         ("2 samuel", 23, 16) => Some(Verse { 
-            content: "", 
+            content: "And the three mightie men brake through the host of the Philistines, and drew water out of the Well of Bethlehem, that was by the gate, and tooke it, and brought it to Dauid: neuerthelesse he would not drinke thereof, but powred it out vnto the Lord.", 
         }),
 
         ("2 samuel", 23, 17) => Some(Verse { 
-            content: "", 
+            content: "And he said, Be it farre from me, O Lord, that I should doe this: is not this the blood of the men that went in ieopardie of their liues? therefore he would not drinke it. These things did these three mightie men.", 
         }),
 
         ("2 samuel", 23, 18) => Some(Verse { 
-            content: "", 
+            content: "And Abishai the brother of Ioab, the sonne of Zeruiah, was chiefe among three, and he lift vp his speare against three hundred, and slew them, and had the name among three.", 
         }),
 
         ("2 samuel", 23, 19) => Some(Verse { 
-            content: "", 
+            content: "Was hee not most honourable of three? therefore he was their captaine: howbeit, hee attained not vnto the first three.", 
         }),
 
         ("2 samuel", 23, 20) => Some(Verse { 
-            content: "", 
+            content: "And Benaiah the sonne of Iehoiada the sonne of a valiant man, of Kabzeel, who had done many actes, he slew two lion-like men of Moab: hee went downe also, and slewe a Lyon in the middest of a pit in time of snow.", 
         }),
 
         ("2 samuel", 23, 21) => Some(Verse { 
-            content: "", 
+            content: "And he slew an Egyptian a goodly man: and the Egyptian had a speare in his hand; but he went downe to him with a staffe, and plucked the speare out of the Egyptians hand, and slewe him with his owne speare.", 
         }),
 
         ("2 samuel", 23, 22) => Some(Verse { 
-            content: "", 
+            content: "These things did Benaiah the sonne of Iehoiada, and had the name among three mightie men.", 
         }),
 
         ("2 samuel", 23, 23) => Some(Verse { 
-            content: "", 
+            content: "Hee was more honourable then the thirtie, but hee attained not to the first three: and Dauid set him ouer his guard.", 
         }),
 
         ("2 samuel", 23, 24) => Some(Verse { 
-            content: "", 
+            content: "Asahel the brother of Ioab was one of the thirtie: Elhanan the sonne of Dodo of Bethlehem,", 
         }),
 
         ("2 samuel", 23, 25) => Some(Verse { 
-            content: "", 
+            content: "Shammah the Harodite, Elika the Harodite,", 
         }),
 
         ("2 samuel", 23, 26) => Some(Verse { 
-            content: "", 
+            content: "Helez the Paltite, Ira the sonne of Ikkesh the Tekoite,", 
         }),
 
         ("2 samuel", 23, 27) => Some(Verse { 
-            content: "", 
+            content: "Abiezer the Anethothite, Mebunnai the Hushathite,", 
         }),
 
         ("2 samuel", 23, 28) => Some(Verse { 
-            content: "", 
+            content: "Zalmon the Ahohite, Maharai the Netophathite,", 
         }),
 
         ("2 samuel", 23, 29) => Some(Verse { 
-            content: "", 
+            content: "Heleb the sonne of Baanah, a Netophathite, Ittai the sonne of Ribai out of Gibeah of the children of Beniamin.", 
         }),
 
         ("2 samuel", 23, 30) => Some(Verse { 
-            content: "", 
+            content: "Benaiah the Pirathonite, Hiddai of the brookes of Gaash,", 
         }),
 
         ("2 samuel", 23, 31) => Some(Verse { 
-            content: "", 
+            content: "Abialbon the Arbathite, Azmaueth the Barhumite,", 
         }),
 
         ("2 samuel", 23, 32) => Some(Verse { 
-            content: "", 
+            content: "Elihaba the Shaalbonite: of the sonnes of Iashen, Ionathan,", 
         }),
 
         ("2 samuel", 23, 33) => Some(Verse { 
-            content: "", 
+            content: "Shammah the Hararite, Ahiam the sonne of Sharar the Hararite,", 
         }),
 
         ("2 samuel", 23, 34) => Some(Verse { 
-            content: "", 
+            content: "Eliphelet the sonne of Ahasbai, the sonne of the Maachathite, Eliam the sonne of Ahithophel the Gilonite,", 
         }),
 
         ("2 samuel", 23, 35) => Some(Verse { 
-            content: "", 
+            content: "Hezrai the Carmelite, Paarai the Arbite,", 
         }),
 
         ("2 samuel", 23, 36) => Some(Verse { 
-            content: "", 
+            content: "Igal the sonne of Nathan of Zobah, Bani the Gadite,", 
         }),
 
         ("2 samuel", 23, 37) => Some(Verse { 
-            content: "", 
+            content: "Zelek the Ammonite, Naharai the Berothite, armour-bearer to Ioab the sonne of Zeruiah,", 
         }),
 
         ("2 samuel", 23, 38) => Some(Verse { 
-            content: "", 
+            content: "Ira an Ithrite, Gareb an Ithrite,", 
         }),
 
         ("2 samuel", 23, 39) => Some(Verse { 
-            content: "", 
+            content: "Uriah the Hittite: thirtie and seuen in all.", 
         }),
 
         ("2 samuel", 24, 1) => Some(Verse { 
-            content: "", 
+            content: "And againe the anger of the Lord was kindled against Israel, and hee mooued Dauid against them, to say, Goe, number Israel and Iudah.", 
         }),
 
         ("2 samuel", 24, 2) => Some(Verse { 
-            content: "", 
+            content: "For the king said to Ioab the captaine of the hoste, which was with him, Goe now through all the tribes of Israel, from Dan euen to Beer-sheba, and number ye the people, that I may know the number of the people.", 
         }),
 
         ("2 samuel", 24, 3) => Some(Verse { 
-            content: "", 
+            content: "And Ioab sayde vnto the King, Now the Lord thy God adde vnto the people (how many soeuer they be) an hundred folde, and that the eyes of my lorde the king may see it: but why doeth my lord the king delight in this thing?", 
         }),
 
         ("2 samuel", 24, 4) => Some(Verse { 
-            content: "", 
+            content: "Notwithstanding, the kings word preuailed against Ioab, and against the captaines of the hoste: and Ioab and the captaines of the host went out from the presence of the king, to number the people of Israel.", 
         }),
 
         ("2 samuel", 24, 5) => Some(Verse { 
-            content: "", 
+            content: "And they passed ouer Iordane, and pitched in Aroer, on the right side of the citie that lieth in the midst of the riuer of Gad, and toward Iazer.", 
         }),
 
         ("2 samuel", 24, 6) => Some(Verse { 
-            content: "", 
+            content: "Then they came to Gilead, and to the land of Tahtim-Hodshi; and they came to Dan-Iaan, and about to Zidon,", 
         }),
 
         ("2 samuel", 24, 7) => Some(Verse { 
-            content: "", 
+            content: "And came to the strong holde of Tyre, and to all the cities of the Hiuites, and of the Canaanites: and they went out to the South of Iudah, euen to Beer-sheba.", 
         }),
 
         ("2 samuel", 24, 8) => Some(Verse { 
-            content: "", 
+            content: "So when they had gone through all the land, they came to Ierusalem at the ende of nine moneths, and twentie dayes.", 
         }),
 
         ("2 samuel", 24, 9) => Some(Verse { 
-            content: "", 
+            content: "And Ioab gaue vp the summe of the number of the people vnto the king, and there were in Israel eight hundred thousand valiant men that drewe the sword: and the men of Iudah were fiue hundred thousand men.", 
         }),
 
         ("2 samuel", 24, 10) => Some(Verse { 
-            content: "", 
+            content: "And Dauids heart smote him, after that hee had numbred the people: and Dauid sayde vnto the Lord, I haue sinned greatly in that I haue done: and nowe I beseech thee, O Lord, take away the iniquitie of thy seruant, for I haue done very foolishly.", 
         }),
 
         ("2 samuel", 24, 11) => Some(Verse { 
-            content: "", 
+            content: "For when Dauid was vp in the morning, the word of the Lord came vnto the Prophet Gad Dauids Seer, saying,", 
         }),
 
         ("2 samuel", 24, 12) => Some(Verse { 
-            content: "", 
+            content: "Goe and say vnto Dauid, Thus saith the Lord, I offer thee three things; chuse thee one of them, that I may doe it vnto thee.", 
         }),
 
         ("2 samuel", 24, 13) => Some(Verse { 
-            content: "", 
+            content: "So Gad came to Dauid, and told him, and said vnto him, Shall seuen yeeres of famine come vnto thee in thy land? or wilt thou flee three moneths before thine enemies, while they pursue thee? or that there be three dayes pestilence in thy land? Now aduise, and see what answere I shall returne to him that sent me.", 
         }),
 
         ("2 samuel", 24, 14) => Some(Verse { 
-            content: "", 
+            content: "And Dauid saide vnto Gad, I am in a great strait: let vs fall now into the hand of the Lord (for his mercies are great,) and let me not fall into the hand of man.", 
         }),
 
         ("2 samuel", 24, 15) => Some(Verse { 
-            content: "", 
+            content: "So the Lord sent a pestilence vpon Israel, from the morning, euen to the time appointed: and there died of the people from Dan euen to Beersheba, seuentie thousand men.", 
         }),
 
         ("2 samuel", 24, 16) => Some(Verse { 
-            content: "", 
+            content: "And when the Angel stretched out his hand vpon Ierusalem to destroy it, the Lord repented him of the euill, and said to the Angel that destroyed the people, It is ynough: stay now thine hand. And the Angel of the Lord was by the threshing place of Araunah the Iebusite.", 
         }),
 
         ("2 samuel", 24, 17) => Some(Verse { 
-            content: "", 
+            content: "And Dauid spake vnto the Lord when he saw the Angel that smote the people, and said, Loe, I haue sinned, and I haue done wickedly: but these sheepe, what haue they done? Let thine hand, I pray thee, be against mee, and against my fathers house.", 
         }),
 
         ("2 samuel", 24, 18) => Some(Verse { 
-            content: "", 
+            content: "And Gad came that day to Dauid, and said vnto him, Goe vp, reare an Altar vnto the Lord, in the threshing floore of Araunah the Iebusite.", 
         }),
 
         ("2 samuel", 24, 19) => Some(Verse { 
-            content: "", 
+            content: "And Dauid, according to the saying of Gad, went vp, as the Lord commanded.", 
         }),
 
         ("2 samuel", 24, 20) => Some(Verse { 
-            content: "", 
+            content: "And Araunah looked, and saw the King and his seruants comming on toward him: and Araunah went out, and bowed himselfe before the King on his face vpon the ground.", 
         }),
 
         ("2 samuel", 24, 21) => Some(Verse { 
-            content: "", 
+            content: "And Araunah said, Wherefore is my lord the King come to his seruant? and Dauid saide, To buy the threshing floore of thee, to build an Altar vnto the Lord, that the plague may be stayed from the people.", 
         }),
 
         ("2 samuel", 24, 22) => Some(Verse { 
-            content: "", 
+            content: "And Araunah said vnto Dauid, Let my lord the King take and offer vp what seemeth good vnto him: Beholde, here be oxen for burnt sacrifice, and threshing instruments, and other instruments of the oxen for wood.", 
         }),
 
         ("2 samuel", 24, 23) => Some(Verse { 
-            content: "", 
+            content: "All these things did Araunah, as a king, giue vnto the King: and Araunah saide vnto the King, The Lord thy God accept thee.", 
         }),
 
         ("2 samuel", 24, 24) => Some(Verse { 
-            content: "", 
+            content: "And the King said vnto Araunah, Nay, but I will surely buy it of thee at a price: neither will I offer burnt offerings vnto the Lord my God, of that which doeth cost mee nothing. So Dauid bought the threshing floore, and the oxen, for fiftie shekels of siluer.", 
         }),
 
         ("2 samuel", 24, 25) => Some(Verse { 
-            content: "", 
+            content: "Aud Dauid built there an Altar vnto the Lord, and offered burnt offerings, and peace offerings: so the Lord was intreated for the land, and the plague was stayed from Israel.", 
         }),
 
         // THE BOOK OF 1 KINGS
