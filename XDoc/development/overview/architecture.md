@@ -594,3 +594,14 @@ Concept	        Purpose
 * Procedure	    Defines how work is performed (Ex. Run the test suite before committing)
 * Review	    Evaluates work against expectations (Ex. Inspect correctness, safety, and maintainability)
 * Overview	    Explains organization and purpose (Ex. Describes the development system and its components)
+
+// section
+
+* gpse\vault\compiler_test
+* gpse\vault\experiments
+* gpse\vault\prototypes
+* gpse\vault\retired
+
+* gpse\vault\templates\textbook
+
+// section

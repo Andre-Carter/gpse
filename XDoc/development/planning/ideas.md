@@ -40,6 +40,14 @@ build, define, explore, navigate, explain, find with a map system
 
 * gpse\\automatic folder organization tracker and formatter (heiarchies, contents, content)
 
+* gpse\archive\legal
+* gpse\docs
+* gpse\legal
+
+* gpse\archive\taxonomy (the science of classification)
+  - nomenclature, binomial nomenclature
+  - fauna/floura
+
 * END MODULES *
 
 - gpse scientific console... INSTRUMENTS... calc, measure, constants, spectrum, convert, simulate, analyze
@@ -187,5 +195,12 @@ Now, brother, we may have to mine the precious metals ourselves. 😂🔥
 
 - left + right
 - break & seal
+
+// section
+
+- independant systems 
+- modules with no dependancies
+
+// section
 
 

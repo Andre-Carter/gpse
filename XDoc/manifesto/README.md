@@ -13,4 +13,4 @@ The identity and foundational philosophy of GPSE.
 - principles.md
 - motto.md
 - objectives.md
-- strategy.mdw
+- strategy.md
