@@ -31275,6 +31275,98 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
             content: "", 
         }),
 
+        ("1 samuel", 23, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 23) => Some(Verse { 
+            content: "", 
+        }),
+
         ("1 samuel", 23, 24) => Some(Verse { 
             content: "", 
         }),

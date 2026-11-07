@@ -31124,154 +31124,246 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("1 samuel", 21, 1) => Some(Verse { 
-            content: "", 
+            content: "Then came Dauid to Nob, to Ahimelech the Priest, and Ahimelech was afraide at the meeting of Dauid, and said vnto him, Why art thou alone, and no man with thee?", 
         }),
 
         ("1 samuel", 21, 2) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said vnto Ahimelech the Priest, The king hath commanded me a businesse, and hath said vnto me, Let no man know any thing of the businesse whereabout I send thee, and what I haue commanded thee: and I haue appointed my seruants to such and such a place.", 
         }),
 
         ("1 samuel", 21, 3) => Some(Verse { 
-            content: "", 
+            content: "Now therefore what is vnder thine hand? giue me fiue loaues of bread in mine hand, or what there is present.", 
         }),
 
         ("1 samuel", 21, 4) => Some(Verse { 
-            content: "", 
+            content: "And the Priest answered Dauid, and said, There is no common bread vnder mine hand, but there is hallowed bread: if the young men haue kept themselues at least from women.", 
         }),
 
         ("1 samuel", 21, 5) => Some(Verse { 
-            content: "", 
+            content: "And Dauid answered the Priest, and said vnto him, Of a trueth women haue beene kept from vs about these three dayes, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessell.", 
         }),
 
         ("1 samuel", 21, 6) => Some(Verse { 
-            content: "", 
+            content: "So the Priest gaue him hallowed bread; for there was no bread there, but the Shewbread that was taken from before the Lord, to put hote bread in the day when it was taken away.", 
         }),
 
         ("1 samuel", 21, 7) => Some(Verse { 
-            content: "", 
+            content: "Now a certaine man of the seruants of Saul was there that day, detained before the Lord, and his name was Doeg an Edomite, the chiefest of the heardmen that belonged to Saul.", 
         }),
 
         ("1 samuel", 21, 8) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said vnto Ahimelech, And is there not here vnder thine hand speare or sword? for I haue neither brought my sword nor my weapons with mee, because the kings businesse required haste.", 
         }),
 
         ("1 samuel", 21, 9) => Some(Verse { 
-            content: "", 
+            content: "And the Priest said, The sword of Goliath the Philistine, whome thou slewest in the valley of Elah, behold, it is heere wrapt in a cloth behinde the Ephod: if thou wilt take that, take it; for there is no other saue that, here. And Dauid saide, There is none like that, giue it me.", 
         }),
 
         ("1 samuel", 21, 10) => Some(Verse { 
-            content: "", 
+            content: "And Dauid arose, and fled that day, for feare of Saul, and went to Achish, the king of Gath.", 
         }),
 
         ("1 samuel", 21, 11) => Some(Verse { 
-            content: "", 
+            content: "And the seruants of Achish sayd vnto him, Is not this Dauid the king of the land? Did they not sing one to another of him in daunces, saying, Saul hath slaine his thousands, and Dauid his ten thousands?", 
         }),
 
         ("1 samuel", 21, 12) => Some(Verse { 
-            content: "", 
+            content: "And Dauid layd vp these wordes in his heart, and was sore afraid of Achish the king of Gath.", 
         }),
 
         ("1 samuel", 21, 13) => Some(Verse { 
-            content: "", 
+            content: "And he changed his behauiour before them, and fained himselfe mad in their hands, and scrabled on the doores of the gate, and let his spittle fall downe vpon his beard.", 
         }),
 
         ("1 samuel", 21, 14) => Some(Verse { 
-            content: "", 
+            content: "Then saide Achish vnto his seruants, Loe, you see the man is mad: wherefore then haue yee brought him to mee?", 
         }),
 
         ("1 samuel", 21, 15) => Some(Verse { 
-            content: "", 
+            content: "Haue I need of mad-men, that ye haue brought this fellow to play the mad-man in my presence? Shall this fellow come into my house?", 
         }),
 
         ("1 samuel", 22, 1) => Some(Verse { 
-            content: "", 
+            content: "Dauid therefore departed thence, and escaped to the caue Adullam: and when his brethren, and all his fathers house heard it, they went downe thither to him.", 
         }),
 
         ("1 samuel", 22, 2) => Some(Verse { 
-            content: "", 
+            content: "And euery one that was in distresse, and euery one that was in debt, and euery one that was discontented, gathered themselues vnto him, and he became a captaine ouer them: and there were with him about foure hundred men.", 
         }),
 
         ("1 samuel", 22, 3) => Some(Verse { 
-            content: "", 
+            content: "And Dauid went thence to Mizpeh of Moab; and he said vnto the king of Moab, Let my father, and my mother, I pray thee, come foorth, and be with you, till I know what God will doe for me.", 
         }),
 
         ("1 samuel", 22, 4) => Some(Verse { 
-            content: "", 
+            content: "And he brought them before the king of Moab: and they dwelt with him all the while that Dauid was in the hold.", 
         }),
 
         ("1 samuel", 22, 5) => Some(Verse { 
-            content: "", 
+            content: "And the Prophet Gad said vnto Dauid, Abide not in the hold; depart, and get thee into the land of Iudah. Then Dauid departed, and came into the forrest of Hareth.", 
         }),
 
         ("1 samuel", 22, 6) => Some(Verse { 
-            content: "", 
+            content: "When Saul heard that Dauid was discouered, and the men that were with him: (now Saul abode in Gibeah vnder a tree in Ramah, hauing his speare in his hand, and all his seruants were standing about him.)", 
         }),
 
         ("1 samuel", 22, 7) => Some(Verse { 
-            content: "", 
+            content: "Then Saul saide vnto his seruants that stood about him, Heare now, ye Beniamites: Will the sonne of Iesse giue euery one of you fields, and Uineyards, and make you all captaines of thousands, and captaines of hundreds:", 
         }),
 
         ("1 samuel", 22, 8) => Some(Verse { 
-            content: "", 
+            content: "That all of you haue conspired against me, and there is none that sheweth mee, that my sonne hath made a league with the sonne of Iesse, and there is none of you that is sory for me, or sheweth vnto me that my sonne hath stirred vp my seruant against me, to lye in wait, as at this day?", 
         }),
 
         ("1 samuel", 22, 9) => Some(Verse { 
-            content: "", 
+            content: "Then answered Doeg the Edomite, (which was set ouer the seruants of Saul) and saide, I saw the sonne of Iesse comming to Nob, to Ahimelech the sonne of Ahitub.", 
         }),
 
         ("1 samuel", 22, 10) => Some(Verse { 
-            content: "", 
+            content: "And hee enquired of the Lord for him, and gaue him victuals, and gaue him the sword of Goliath the Philistine.", 
         }),
 
         ("1 samuel", 22, 11) => Some(Verse { 
-            content: "", 
+            content: "Then the king sent to call Ahimelech the Priest, the sonne of Ahitub, and all his fathers house, the Priests that were in Nob: and they came all of them to the king.", 
         }),
 
         ("1 samuel", 22, 12) => Some(Verse { 
-            content: "", 
+            content: "And Saul said, Heare now thou sonne of Ahitub: and hee answered, Here I am, my lord.", 
         }),
 
         ("1 samuel", 22, 13) => Some(Verse { 
-            content: "", 
+            content: "And Saul saide vnto him, Why haue ye conspired against me, thou and the sonne of Iesse, in that thou hast giuen him bread, and a sword, and hast enquired of God for him, that he should rise against mee, to lye in waite, as at this day?", 
         }),
 
         ("1 samuel", 22, 14) => Some(Verse { 
-            content: "", 
+            content: "Then Ahimelech answered the king, and said, And who is so faithfull among all thy seruants, as Dauid, which is the kings sonne in law, and goeth at thy bidding, and is honourable in thine house?", 
         }),
 
         ("1 samuel", 22, 15) => Some(Verse { 
-            content: "", 
+            content: "Did I then beginne to enquire of God for him? be it farre from mee: let not the king impute any thing vnto his seruant, nor to all the house of my father: for thy seruant knew nothing of all this, lesse or more.", 
         }),
 
         ("1 samuel", 22, 16) => Some(Verse { 
-            content: "", 
+            content: "And the king saide, Thou shalt surely die, Ahimelech, thou, and all thy fathers house.", 
         }),
 
         ("1 samuel", 22, 17) => Some(Verse { 
-            content: "", 
+            content: "And the king said vnto the footmen that stood about him, Turne and slay the Priests of the Lord, because their hand also is with Dauid, and because they knew when he fled, and did not shew it to mee. But the seruants of the king would not put foorth their hand to fall vpon the Priestes of the Lord.", 
         }),
 
         ("1 samuel", 22, 18) => Some(Verse { 
-            content: "", 
+            content: "And the king said to Doeg, Turne thou and fall vpon the Priests. And Doeg the Edomite turned, and hee fell vpon the Priests, and slew on that day foure score and fiue persons that did weare a linnen Ephod.", 
         }),
 
         ("1 samuel", 22, 19) => Some(Verse { 
-            content: "", 
+            content: "And Nob the citie of the Priests smote he with the edge of the sword, both men and women, children and sucklings, and oxen and asses, and sheepe, with the edge of the sword.", 
         }),
 
         ("1 samuel", 22, 20) => Some(Verse { 
-            content: "", 
+            content: "And one of the sonnes of Ahimelech, the sonne of Ahitub, named Abiathar, escaped and fled after Dauid:", 
         }),
 
         ("1 samuel", 22, 21) => Some(Verse { 
-            content: "", 
+            content: "And Abiathar shewed Dauid that Saul had slaine the Lords Priests.", 
         }),
 
         ("1 samuel", 22, 22) => Some(Verse { 
-            content: "", 
+            content: "And Dauid said vnto Abiathar, I knew it that day, when Doeg the Edomite was there, that he would surely tell Saul: I haue occasioned the death of all the persons of thy fathers house.", 
         }),
 
         ("1 samuel", 22, 23) => Some(Verse { 
+            content: "Abide thou with me, feare not: for he that seeketh my life, seeketh thy life: but with me thou shalt bee in safegard.", 
+        }),
+
+        ("1 samuel", 23, 1) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 2) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 3) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 4) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 5) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 6) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 7) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 8) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 9) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 10) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 11) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 12) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 13) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 14) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 15) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 16) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 17) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 18) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 19) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 20) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 21) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 22) => Some(Verse { 
+            content: "", 
+        }),
+
+        ("1 samuel", 23, 23) => Some(Verse { 
             content: "", 
         }),
 

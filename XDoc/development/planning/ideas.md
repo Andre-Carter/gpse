@@ -44,7 +44,7 @@ build, define, explore, navigate, explain, find with a map system
 
 - gpse scientific console... INSTRUMENTS... calc, measure, constants, spectrum, convert, simulate, analyze
 
-BIBLE
+BIBLE (kjv, nkjv, nlt, amplified)
 
   book
   chapter
