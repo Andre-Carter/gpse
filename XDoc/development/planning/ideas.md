@@ -50,6 +50,8 @@ build, define, explore, navigate, explain, find with a map system
 
 * gpse\logs 
 
+* gpse\science\meterology
+
 * END MODULES *
 
 - gpse scientific console... INSTRUMENTS... calc, measure, constants, spectrum, convert, simulate, analyze

@@ -175,10 +175,10 @@ Define the boundaries between CONTROL, MISSIONS, personnel, and protocol executi
 
 The key distinction is: CONTROL decides whether a mission may proceed; MISSIONS defines what proceeding entails. The protocol specifies obligations that must be honored during that mission.
 
-2. What each core would own
+2. What each kernal would own
 
 System
-- Potential responsibility of its core
+- Potential responsibility of its kernal
 
 command
 - Dispatch commands and coordinate command handlers
@@ -206,7 +206,7 @@ telemetry
 
 command> formatting
 or 
-command> core> formatting
+command> kernal> formatting
 and 
 example.
 command> library> programs> rpg_engine> formmating
@@ -326,8 +326,11 @@ Architecture must be evaluated before creating the corresponding source modules.
 
 // section
 
+src\foundation
+foundation\format (format, display, spacing, indentation)
+
 src/
-└── core/
+└── foundation/
     └── parsing/
         ├── mod.rs
         │
@@ -352,9 +355,9 @@ src/
             ├── mod.rs
             └── parsing_error.rs
 
-the intent: gpse> core> parsing; is the home for general purpose reusable parsing infrastructure that other GPSE systems are built with. Pro-error handling. From this we can extend our command parser and expression (math) parser.
+the intent: gpse> foundation\text> parsing; is the home for general purpose reusable parsing infrastructure that other GPSE systems are built with. Pro-error handling. From this we can extend our command parser and expression (math) parser.
 
-core/
+foundation/
 └── input/
     ├── normalization/
     └── parsing/
@@ -362,7 +365,7 @@ core/
 // the refined system here >
 
 src/
-└── core/
+└── foundation/
     └── input/
         ├── mod.rs
         │
@@ -373,7 +376,7 @@ src/
             ├── parsing/
             └── validation/
 
-core/
+foundation/
 └── input/
     ├── text/
     ├── binary/
@@ -383,15 +386,15 @@ core/
 
 The separation of responsibilities
 Layer	Responsibility
-core::input	General input infrastructure
-core::input::text	Text input processing
+foundation::input	General input infrastructure
+foundation::input::text	Text input processing
 normalization	Standardizes representations
 tokenization	Identifies individual tokens
 parsing	Interprets structure and meaning
 validation	Checks structural correctness
 systems::command	Coordinates command requests and dispatch
 
-One important architectural rule: core::input should not depend on systems::command. The dependency should flow in the opposite direction.
+One important architectural rule: foundation::input should not depend on systems::command. The dependency should flow in the opposite direction.
 
 // section
 
@@ -410,7 +413,7 @@ let command = read_text();
 
 And import it:
 
-use crate::core::input::text::read_text;
+use crate::foundation::input::text::read_text;
 
 2. Why this is useful
 
@@ -606,3 +609,7 @@ Concept	        Purpose
 
 // section
 
+* gpse\systems\command
+- Terminal: prompts, read loops, menus, colors, dispatch
+
+* gpse\foundation\format

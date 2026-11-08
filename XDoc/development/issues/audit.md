@@ -66,3 +66,55 @@ cargo fmt, check, test and clippy pass, and you commit once.
 Where it starts
 
 Phase 1 depends on cargo test being green for arithmetic, so that’s the first thing to run when you’re back. After that, Phase 0 is documentation only, which suits a low-energy session.
+
+// section
+
+Two parsers don’t belong in foundation. The math tokenizer in tools/math.rs belongs in mathematical::expressions, as your roadmap says. A Bible Reference parser belongs in archive::bible, returning a Result, which also fixes the panics on bad input in kjv_1611_cli. Foundation gets generic helpers only once two callers need the same one.
+
+Phases (one commit each, with tests and a CLI check):
+
+Decision record: the definition above, plus the rule that foundation never imports systems. Only the reading functions touch stdin, and everything else is &str in, Result out.
+Acquisition: read_text() -> Result<String, InputError> with Eof and Io variants, built on a testable read_text_from(impl BufRead). Replace the ~12 copies of read() one file at a time, starting with dispatch.rs. This also fixes the Ctrl+Z infinite loop.
+Normalization: normalize_command (trim, lowercase). Commands get normalized and data is preserved, per your “Normalize commands. Preserve data.” rule.
+Numerical: parse_number::<T> with Empty, Invalid and OutOfRange errors. It replaces the calculator copies and the sequence_cli unwraps, and it fixes the pressing-Enter error in issues.md.
+References: the Bible reference parser, in archive::bible.
+Validation: fold it into parse errors until a case needs it separately.
+3. Unicode
+
+You’re right that GPSE has a use case. There are three today, not only future ones:
+
+“Don’t break words.” len() counts bytes, so slicing user text by byte index will eventually panic or cut a character.
+Symbols. constants.rs has a TODO for symbol and alias metadata (ℏ, α, ε₀), and the glyph system’s Symbol record needs code points.
+Alignment. {:<20} pads by character count, not display width, so wide characters misalign columns.
+
+Home: split mechanism from data.
+
+Piece	Home
+Policy	A decision record, plus an XGPSE note. references/reference/unicode.md stays a lookup cheat-sheet (the Alt+X tip).
+Mechanism code	foundation::input::text::unicode, created when the first function is needed. Normalization is literally Unicode normalization, so it belongs next to text processing.
+Symbol catalog (code point, name, category, aliases, source)	mathematical::symbolic::glyphs, which your roadmap already names. Start it in experiments/, since runes.rs naming (TWO_PI = 2.0 + PI) isn’t settled. It’s canonical data like elements.rs, so it follows the same provenance rules.
+
+Policy to record:
+
+GPSE text is UTF-8 String and &str.
+Never byte-index user-supplied text. Use chars() or char_indices().
+Don’t assume case conversion is one-to-one (ß uppercases to SS).
+Normalization, grapheme clusters and display width are deferred. Rust’s std has none of them, and the usual crates (unicode-normalization, unicode-segmentation) conflict with “own the core”. Add one only when a failing test shows the need.
+
+A first characterization test, matching your “Characterize → Test” process, makes the policy concrete:
+
+rust
+#[test]
+fn unicode_lengths_differ() {
+    assert_eq!("π".len(), 2);                   // bytes
+    assert_eq!("π".chars().count(), 1);         // scalar values
+    assert_eq!("e\u{301}".chars().count(), 2);  // looks like one character, is two
+}
+
+Also check capitalize_first_letter against "é" and "ß". I haven’t seen its implementation, so I can’t say whether it handles them.
+
+One practical note for Windows: Windows Terminal prints UTF-8 fine, but the legacy console may need chcp 65001 for π to display correctly.
+
+Next
+
+Two decision records: D-006 for the input definition and dependency rule, and D-007 for the Unicode policy. Then Phase 1. Do you want me to draft the two records?
