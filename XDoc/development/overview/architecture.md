@@ -613,3 +613,7 @@ Concept	        Purpose
 - Terminal: prompts, read loops, menus, colors, dispatch
 
 * gpse\foundation\format
+
+// section
+
+* gpse::foundation::text::unicode
