@@ -17,3 +17,8 @@ Copying: your powershell.md example is right. Copy-Item "vault\templates\bible\b
 // Directory Tree
 
 tree /F src, or tree /F XDoc
+
+File types: 
+scripts     - .ps1
+modules     - .psm1
+data files  - .psd1
