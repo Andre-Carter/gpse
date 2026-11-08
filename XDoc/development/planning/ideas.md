@@ -48,6 +48,8 @@ build, define, explore, navigate, explain, find with a map system
   - nomenclature, binomial nomenclature
   - fauna/floura
 
+* gpse\logs 
+
 * END MODULES *
 
 - gpse scientific console... INSTRUMENTS... calc, measure, constants, spectrum, convert, simulate, analyze
