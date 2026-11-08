@@ -1,5 +1,5 @@
 pub mod archive;
-pub mod experiments;
+pub mod experimental;
 pub mod foundation;
 pub mod mathematical;
 pub mod programs;

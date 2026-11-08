@@ -617,3 +617,70 @@ Concept	        Purpose
 // section
 
 * gpse::foundation::text::unicode
+
+// section date_time, date/time, date time, calendar, temporal
+
+physical::dimensions::time.rs
+
+temporal -> physics 
+not physics -> temporal
+
+warning: mathematical::dimensional may contain time
+
+note: system_time, mathmatical time calculations, units and math time dimensions, physical time dimensions, physical time calculations, and sim time
+
+notice: future development of simulation::time, ticks, temporal
+
+log: 
+Gregorian calendar: general civil calendar.
+Julian calendar: historical calendar.
+Lunar calendar: astronomical/cultural calendar system.
+Astrological calendar: domain-specific interpretation and organization of dates and celestial events.
+
+temporal/
+├── calendar/
+├── date/
+├── time/
+├── duration/
+├── instant/
+├── clock/
+└── timezone/
+
+important: avoid accidentally making Gregorian assumptions universal
+
+7. My proposed architectural principles
+Before implementation, I'd like us to establish these:
+1. Calendar independence: Temporal calculations should not be restricted to one calendar system.
+2. Unit clarity: Durations and physical time measurements must have explicit units.
+3. Representation independence: A date, instant, duration, and time-of-day should not be confused.
+4. Determinism: Calendar calculations and temporal conversions should produce predictable results under defined rules.
+5. Domain independence: Physics, astrology, simulation, and programs should be able to consume temporal functionality without owning its core implementation.
+
+Do you envision GPSE's temporal system as a general-purpose date/time library, or as a comprehensive temporal engine?
+
+The latter could eventually handle calendar systems, astronomical time, time scales, synchronization, historical dates, simulation clocks, and temporal calculations.
+
+I strongly suspect the second direction is worth investigating. It would justify a dedicated temporal/ domain rather than foundation/utilities/date_time/.
+
+And I would preserve the existing programs/date_time implementation until we've inspected its contents. No migration before we understand what we've already built.
+
+* Brother, I think we're approaching one of GPSE's most important architectural boundaries. Your note identifies the right concern: time is used throughout GPSE, but that does not mean every system should implement time independently, nor does it mean every concept involving time belongs in one central module.
+
+I want to preserve your central intention:
+Build a temporal foundation that other domains can depend on without taking ownership of their domain-specific calculations, data, or behavior.
+
+That is the direction I'd investigate.
+
+There is one particularly important distinction I want to make throughout this review:
+
+A shared temporal foundation is not the same thing as a universal time calculator.
+
+GPSE should provide shared representations, well-defined conversions, calendar rules, and temporal primitives. Mathematics, physics, science, and simulation should retain their own domain-specific responsibilities.
+
+* temporal owns general temporal representations and operations.
+
+physical owns physical definitions, measurements, dimensional analysis, and physical equations.
+
+mathematical owns mathematical operations and abstractions.
+
+simulation owns simulation-specific progression and scheduling.

@@ -118,3 +118,18 @@ One practical note for Windows: Windows Terminal prints UTF-8 fine, but the lega
 Next
 
 Two decision records: D-006 for the input definition and dependency rule, and D-007 for the Unicode policy. Then Phase 1. Do you want me to draft the two records?
+
+// section
+
+Before relocating or rewriting anything:
+- [ ] Determine the intended purpose of Switch.
+- [ ] Determine whether it is a general-purpose utility.
+- [ ] Separate CLI interaction from switch logic.
+- [ ] Decide whether the state field should be private.
+- [ ] Review new().
+- [ ] Define toggle semantics.
+- [ ] Review testing responsibilities.
+- [ ] Determine its dependencies.
+
+// section
+
