@@ -1,16 +1,10 @@
-pub mod algebra;
 pub mod arithmetic;
-pub mod calculus;
 pub mod carter;
-pub mod combinatorics;
 pub mod constants;
 //pub mod dimensional;
-pub mod discrete;
 pub mod expressions;
 pub mod geometry;
 pub mod logic;
-pub mod probability;
 pub mod sequences;
 pub mod space;
-pub mod statistics;
-pub mod trigonometry;
+pub mod symbolic;
