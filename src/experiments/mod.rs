@@ -3,9 +3,9 @@
 
 // Rule: domain libraries never import from 
 // this module. See XDoc decisions.md (D-XXX).
+
 pub mod archive;
 pub mod audio;
-pub mod engineering;
 pub mod foundation;
 pub mod graphics;
 pub mod interfaces;

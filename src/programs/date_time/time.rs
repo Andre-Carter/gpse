@@ -1,8 +1,10 @@
-use std::time::SystemTime; // use std::time::Duration
+use std::time::SystemTime; 
+//use std::time::Duration
+//use std::time::{ SystemTime, Duration };
 //use std::thread::sleep;
 
-use crate::science::astrological::celestial::EARTH;
-use crate::science::physical::constants::SPEED_OF_LIGHT_IN_VACUUM;
+//use crate::science::astrological::celestial::EARTH;
+//use crate::science::physical::constants::SPEED_OF_LIGHT_IN_VACUUM;
 
 pub const SECONDS_PER_MINUTE: u64 = 60;
 pub const MINUTES_PER_HOUR: u64 = 60;
@@ -18,6 +20,8 @@ pub const MONTHS: [&str; 12] = ["January", "Febuary", "March", "April", "May", "
 
 // do something with this
 
+/*
+
 pub fn physical_time(_distance: f64) -> f64 {
     let c: f64 = SPEED_OF_LIGHT_IN_VACUUM.value;
 
@@ -27,6 +31,8 @@ pub fn physical_time(_distance: f64) -> f64 {
 
     time
 }
+
+*/
 
 // work in progress: time
 
