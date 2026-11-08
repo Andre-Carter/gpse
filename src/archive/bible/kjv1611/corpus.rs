@@ -34908,83 +34908,83 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         // THE BOOK OF 1 KINGS
 
         ("1 kings", 1, 1) => Some(Verse { 
-            content: "", 
+            content: "Now King Dauid was olde, and striken in yeeres, and they couered him with clothes, but hee gate no heate.", 
         }),
         
         ("1 kings", 1, 2) => Some(Verse { 
-            content: "", 
+            content: "Wherefore his seruants said vnto him, Let there be sought for my lord the king a yong virgin, and let her stand before the King, and let her cherish him, and let her lie in thy bosome, that my lord the King may get heate.", 
         }),
 
         ("1 kings", 1, 3) => Some(Verse { 
-            content: "", 
+            content: "So they sought for a faire damosel throughout all the coasts of Israel, and found Abishag a Shunammite, and brought her to the King.", 
         }),
 
         ("1 kings", 1, 4) => Some(Verse { 
-            content: "", 
+            content: "And the damosell was very faire, and cherished the king, and ministred to him: but the king knew her not.", 
         }),
 
         ("1 kings", 1, 5) => Some(Verse { 
-            content: "", 
+            content: "Then Adoniiah the sonne of Haggith exalted himselfe, saying, I wil be king: And he prepared him charets and horesemen, and fiftie men to runne before him.", 
         }),
 
         ("1 kings", 1, 6) => Some(Verse { 
-            content: "", 
+            content: "And his father had not displeased him at any time, in saying, Why hast thou done so? And hee also was a very goodly man, and his mother bare him after Absalom.", 
         }),
         
         ("1 kings", 1, 7) => Some(Verse { 
-            content: "", 
+            content: "And hee conferred with Ioab the sonne of Zeruiah, and with Abiathar the Priest: and they following Adoniiah, helped him.", 
         }),
 
         ("1 kings", 1, 8) => Some(Verse { 
-            content: "", 
+            content: "But Zadok the Priest, and Benaiah the sonne of Iehoiada, and Nathan the Prophet, and Shimei, and Rei, and the mightie men which belonged to Dauid, were not with Adoniiah.", 
         }),
 
         ("1 kings", 1, 9) => Some(Verse { 
-            content: "", 
+            content: "And Adoniiah slew sheepe, and oxen, and fat cattell, by the stone of Zoheleth, which is by En-Rogel, and called all his brethren the kings sonnes, and all the men of Iudah the kings seruants.", 
         }),
 
         ("1 kings", 1, 10) => Some(Verse { 
-            content: "", 
+            content: "But Nathan the Prophet, and Benaiah, and the mightie men, and Solomon his brother he called not.", 
         }),
 
         ("1 kings", 1, 11) => Some(Verse { 
-            content: "", 
+            content: "Wherefore Nathan spake vnto Bath-sheba the mother of Solomon, saying, Hast thou not heard that Adoniiah the son of Haggith doth reigne, and Dauid our lord knoweth it not?", 
         }),
         
         ("1 kings", 1, 12) => Some(Verse { 
-            content: "", 
+            content: "Now therefore come, let mee, I pray thee, giue thee counsell, that thou mayest saue thine owne life, and the life of thy sonne Solomon.", 
         }),
 
         ("1 kings", 1, 13) => Some(Verse { 
-            content: "", 
+            content: "Goe, and get thee in vnto King Dauid, and say vnto him, Diddest not thou, my lord, O king, sweare vnto thine handmaid, saying, Assuredly Solomon thy sonne shall reigne after mee, and he shall sit vpon my throne? why then doth Adoniiah reigne?", 
         }),
 
         ("1 kings", 1, 14) => Some(Verse { 
-            content: "", 
+            content: "Beholde, while thou yet talkest there with the king, I also will come in after thee, and confirme thy words.", 
         }),
 
         ("1 kings", 1, 15) => Some(Verse { 
-            content: "", 
+            content: "And Bath-sheba went in vnto the King into the chamber: and the king was very olde, and Abishag the Shunammite ministred vnto the king.", 
         }),
 
         ("1 kings", 1, 16) => Some(Verse { 
-            content: "", 
+            content: "And Bathsheba bowed, and did obeysance vnto the king: and the king said, What wouldest thou?", 
         }),
         
         ("1 kings", 1, 17) => Some(Verse { 
-            content: "", 
+            content: "And she said vnto him, My lord, thou swarest by the Lord thy God vnto thine handmaid, saying, Assuredly Solomon thy sonne shall reigne after me, and he shall sit vpon my throne:", 
         }),
 
         ("1 kings", 1, 18) => Some(Verse { 
-            content: "", 
+            content: "And now behold, Adoniiah reigneth; and now my lord the king, thou knowest it not.", 
         }),
 
         ("1 kings", 1, 19) => Some(Verse { 
-            content: "", 
+            content: "And he hath slaine oxen, and fat cattell, and sheepe in abundance, and hath called all the sonnes of the king, and Abiathar the Priest, and Ioab the captaine of the hoste: but Solomon thy seruant hath he not called.", 
         }),
 
         ("1 kings", 1, 20) => Some(Verse { 
-            content: "", 
+            content: "And thou, my lord O king, the eyes of all Israel are vpon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him.", 
         }),
 
         ("1 kings", 1, 21) => Some(Verse { 

@@ -1,37 +1,9 @@
 * MODULES *
 
-gpse\engineering
-  - schematics
-  - blueprints
-
-gpse\audio
-
-  1. store audio files
-  2. convert
-  3. edit
-  4. create
-
-gpse\images
-
-  1. store images
-  2. convert
-  3. edit
-  4. create
-
-* gpse\systems\navigation\maps
-
-build, define, explore, navigate, explain, find with a map system
-
-* gpse\archive\dictionary
 * translation scripts (possible modules: programs, systems, lang, systems\communication)
 
-* gpse\science\biology
 (rename: science\astrology, chemistry, physics)
 
-* gpse\chemistry\bonds
-  - calculate elemental bonds
-
-* gpse\ai
 
 * gpse\mathematical\geometry
   - torus
@@ -49,8 +21,6 @@ build, define, explore, navigate, explain, find with a map system
   - fauna/floura
 
 * gpse\logs 
-
-* gpse\science\meterology
 
 * END MODULES *
 
@@ -205,6 +175,11 @@ Now, brother, we may have to mine the precious metals ourselves. 😂🔥
 - independant systems 
 - modules with no dependancies
 
-// section
+// section geometry function inputs general data values numeric data-type wrapper
 
+// a numeric data-type identifer/handler
 
+// what if we can pass a generic or rather 
+// pass a numeric data-type wrapper into functions
+// (data_value)
+// ex. length: data_value, width: data_value
