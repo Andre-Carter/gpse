@@ -1,5 +1,8 @@
 * MODULES *
 
+#[path = "1611.rs"]
+pub mod kjv1611;
+
 * translation scripts (possible modules: programs, systems, lang, systems\communication)
 
 (rename: science\astrology, chemistry, physics)

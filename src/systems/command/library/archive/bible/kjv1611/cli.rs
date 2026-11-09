@@ -12,7 +12,7 @@ fn read(input: &mut String) {
 
 pub fn kjv_1611_interface() {
     loop {
-        print!("GPSE> COMMAND> READ> 1611KJV> ");
+        print!("GPSE> COMMAND> READ> 1611 KJV> ");
 
         let mut command = String::new();
 
