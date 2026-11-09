@@ -1,6 +1,4 @@
 //use crate::mathematical::arithmetic::arithmetic::checked_add;
-use crate::mathematical::carter::carter_family::carter_formula_cli;
-use crate::mathematical::carter::carter_family::carter_formula_repeat;
 use crate::mathematical::sequences::sequence::sequence_cli;
 use crate::experimental::mathematical::test_mathematical::test_mathematical;
 
@@ -105,14 +103,6 @@ pub fn cli_commands() {
 
             "sqrt" => {
                 cli_sqrt();
-            }
-
-            "carter" => {
-                carter_formula_cli();
-            }
-
-            "carter repeat" => {
-                carter_formula_repeat();
             }
 
             "math" => {

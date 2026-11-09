@@ -1,5 +1,6 @@
 pub mod algebra;
 pub mod calculus;
+pub mod carter;
 pub mod combinatorics;
 pub mod discrete;
 pub mod logic;

@@ -1,10 +1,11 @@
-use crate::experimental::ledger::ledger_cli::open_ledger;
-
-use crate::experimental::programs::checklist::checklist_cli;
+use crate::foundation::terminate;
 
 use crate::experimental::foundation::gagets::switch::switch_cli;
+use crate::experimental::ledger::ledger_cli::open_ledger;
+use crate::experimental::programs::checklist::checklist_cli;
+use crate::experimental::mathematical::carter::carter_family::carter_formula_cli;
+use crate::experimental::mathematical::carter::carter_family::carter_formula_repeat;
 
-use crate::foundation::terminate;
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -38,27 +39,13 @@ pub fn cli_commands() {
                 println!();
             }
 
-            "nested" => loop {
-                print!("GPSE> COMMAND> READ> ");
-                let mut command = String::new();
-                read(&mut command);
-                let command = command.trim().to_lowercase();
-                match command.as_str() {
-                    "help" => {
-                        
-                    }
-                    "exit" => {
-                        println!("exiting...");
-                        break;
-                    }
-                    "terminate" => {
-                        terminate();
-                    }
-                    _ => {
-                        println!("unknown command")
-                    }
-                }
-            },
+            "carter" => {
+                carter_formula_cli();
+            }
+
+            "carter repeat" => {
+                carter_formula_repeat();
+            }
 
             "checklist" => {
                 checklist_cli();
