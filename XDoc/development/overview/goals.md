@@ -8,7 +8,11 @@
 
 5. gpse::programs, tools, and records
 
-6. 
+6. simlation
+
+7. sandbox game
+
+side quest: build time temporal. 
 
 (side-note: move this to to_do_list -> )
 refactor constants

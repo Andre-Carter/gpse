@@ -165,3 +165,135 @@ Names ending in "/T" use at least three spellings in identifiers: `_PER_TESLA`, 
 
 The audit is deterministic. The comparison treats `allascii.txt` as the authority and uses exact decimal parsing. The fixed form of this check should become a Rust test (every constant's value, uncertainty and unit equals the NIST table) so the library keeps proving itself.
 
+// audit log
+- added the two missing constants of electron-muon mass ratio and muon mass energy equivalent in MeV
+- now identical to NIST 355 listings
+- fixed comments numbering //1-355
+- fixed faraday constant value decimal place was off my a factor of 1000
+- fixed hertz-kilogram relationship e51 to correct e-51
+- fixed all fields of atomic unit of magnetizability 
+- fixed conductance quantum values
+- note: exact should be represented as None, notice there is None meaning exact and None meaning None??
+- spelling ration -> ratio, trition -> triton, klitizing -> klitzing
+- note: Two model findings that matter for the refactor:
+63% of the units in si_base_units are not SI base units (J, eV, MeV, u, E_h and so on), so the field name is wrong.
+62 exact constants are stored at only 9–12 digits, though f64 could hold about 16. conclusion (rename si_base_units to units)
+- Four earlier suspicions turned out to be fixed in your current file: the COMPTON_WAVELENGTH_OVER_2_PI name, the duplicate //6, //63 and //123 numbers, the //204 note, and a few other mislabels. The 4 wrong labels in section 6.3 of the report are what remains. (response: yes, brother, i went ahead and fixed those myself)
+- ?? found unknow constant of compton wavelength over 2 pi and missing field of conventional value of ampere-90. (//#index is good)
+- warning: i touched one of the //... comments representing value irrational number, yes? (decision: determine worth of this comments, note: not identical, needs audit, or removal, preferably accurate representation)
+
+Q&A 
+1. Names: keep your expanded spellings (magnetic moment) for the 59 entries where NIST abbreviates (mag. mom.), or restore NIST’s verbatim text? I’d keep yours.
+
+A: keep non-abbriviated, note: if we build a possible parsing program for testing or what not, can parse to fix. end note.
+
+2. Missing entries: add the two in the migration, or migrate 353 first and add them in a second commit? I’d do the second, so the migration stays a pure copy.
+
+A: No, we will run another audit with the new updated constants, then we can focus on refactors at %100 accurracy rating.
+
+3. Fix policy: the migration copies everything exactly, defects included, so a diff can prove nothing was lost. Fixes then land one class per commit (values, uncertainties, units, labels), each tested against NIST. Does that work for you?
+
+A: From last question, we'll run a second audit. Open to futher discussion. 
+
+4. Units: keep them as free-text strings for the migration and decide the typed form once Dimensions is settled?
+
+A: yes, keep as strings till Dimensions is settled. Later development.
+
+futher audits:
+
+- fixed atomic mass constant energy equivalent in MeV name field missing in Mev
+- fixed atomic unit of length value: one digit off 
+- audit: mag. mom. (mom. could be moment, make sure its not momentum), check mom. should be momnent or momentum
+- decisions/audit '-' 
+- fixed deuteron relative atomic mass value
+- fixed electron magnetic moment to bohr magneton ratio value
+- fixed electron mass energy equivalent in mev value
+- fixed electron relative atomic mass
+
+- helion proton mass ratio value fixed
+- kilogram-atom mass unit relationship value fixed
+- kilogram-hartree relationship value fixed
+- lattice parameter of silicon value fixed
+- lattice spacing of ideal si 220 value fixed
+- molybdenum x unit value fixed
+- muon electron mass ratio value fixed
+- natural unit of energy in MeV value fixed
+- neutron tau mass ratio value fixed
+- shielded helion mag. mom. value fixed
+- shielded helio magnetic moment to nuclear magneton ratio value fixed
+- shielded proton magnetic moment to nuclear magneton ratio value fixed
+- triton electron mass ratio value fixed
+
+// note: all value fields should be corrected now
+
+check: Classes: digit slip 18, exponent or scale error 3 (Faraday constant x1000, hertz-kilogram relationship sign, natural unit of mass e-13 vs e-31), wrong source 1, invented digits 1 (LATTICE_SPACING_OF_IDEAL_SI_220 has extra trailing digits that NIST does not give). (note: double check this note)
+
+uncertainty errors fixed:
+- atomic unit of permittivity
+- deuteron mass energy equivalent
+- hartree kelvin rel
+- hartree kilogram rel
+- helio mass energy equiv sign added
+- helion relative atomic mass digit added
+- helion shielding shift missing exponent
+- kelvin hartree relationship exponent added
+- muon compton wavelength exponent added
+- muon mass missing digit
+- proton mass energy equiv exponent added
+
+unit errors fixed: 
+- atomic unit of magnetizability already noted above ^
+- helion electron mass ratio kg -> none. fixed
+- neutron proton mass difference none -> kg
+- newtonian constant of gravitation over h bar c fixed missing sign of to the power of negative 2
+
+names and identifiers: 
+
+6.1 Policy decision: NIST abbreviations (59 entries)
+
+NIST writes mag. mom., gyromag. and mag. flux. constants.rs expands them to magnetic moment, etc. This is consistent and arguably better, but it means the name field is not a verbatim copy of the source. Decision needed (see section 8).
+
+6.2 Typos in name (21)
+
+raduis, electic, circluation, relatinship, electricy, convention value (x3, should be conventional), Thomas (should be Thomson), atomic unit electrical field gradient, mag. mom to (missing period), helion to mass energy equivalent (stray to), natural unit momentum (missing of), shielding difference to d and p (NIST: of d and p), and the shortened Sackur-Tetrode (...) and Wien wavelength displacement law (NIST adds constant).
+
+status: all typos listed audited
+
+Three of these change meaning and deserve attention (numbers are constants.rs //N positions):
+
+#13 name omits in MeV (ATOMIC_MASS_CONSTANT_ENERGY_EQUIVALENT_IN_MEV), which also creates the one duplicate name.
+#54 name drops inverse (Boltzmann constant in meter per kelvin).
+#199 states 273.13 K; NIST says 273.15 K. The wrong temperature is also in the identifier (..._273_13_K_...).
+
+- atomic mass constant energy equivalent in MeV was audited above
+- add the missing inverse in the name field for boltzman constant in inverse meter per kelvin
+- it was actually #200 with the wrong digit of 273
+
+audit: how to represent . in identifier like in molar volume of idea gas
+
+#
+
+6.3 Wrong labels on correct data (4)
+
+The values and units are right (they match NIST at that position). The identifier and name describe a different constant.
+
+rs #	Identifier now	Data is actually	Suggested identifier
+11	ANOMALOUS_MAGNETIC_MOMENT_OF_THE_MUON	atomic mass constant (1.66053906892e-27 kg)	ATOMIC_MASS_CONSTANT
+55	BOLTZMANN_CONSTANT_IN_KELVIN_PER_TESLA	characteristic impedance of vacuum (376.73 ohm)	CHARACTERISTIC_IMPEDANCE_OF_VACUUM
+58	COMPTON_WAVELENGTH_OVER_2_PI	conductance quantum (7.748e-5 S)	CONDUCTANCE_QUANTUM
+59	CONDUCTANCE_QUANTUM	conventional value of ampere-90 (1.00000008887 A)	CONVENTIONAL_VALUE_OF_AMPERE_90
+6.4 Wrong identifiers on entries whose name is correct (4)
+rs #	Identifier now	Name (matches NIST)	Suggested identifier
+7	ALPHA_PARTICLE_NEUTRON_MASS_RATIO	alpha particle-proton mass ratio	ALPHA_PARTICLE_PROTON_MASS_RATIO
+8	ALPHA_PARTICLE_PROTON_MASS_RATIO	alpha particle relative atomic mass	ALPHA_PARTICLE_RELATIVE_ATOMIC_MASS
+289	REDUCED_ELECTRON_COMPTON_WAVELENGTH	reduced muon Compton wavelength	REDUCED_MUON_COMPTON_WAVELENGTH
+199	MOLAR_VOLUME_IDEAL_GAS_273_13_K_101_325_KPA	(see 6.2, 273.15 K)	..._273_15_K_...
+
+(wrong labels on correct data. status: audited)
+
+6.5 Typos in identifiers (8)
+
+SECOND_RADATION_CONSTANT, TAU_ELECTRON_MASS_RATION, SHIELDED_PROTON_MAGNETIC_MOMENT_TO_BOHR_MAGNETON_RATION, TRITION_MASS_ENERGY_EQUIVALENT_IN_MEV, VON_KLITIZING_CONSTANT, VACUUM_ELECTRICITY_PERMITTIVITY (NIST: electric), TRITON_MAGNETIC_MOMENT_TO_BOHR_RATIO (missing MAGNETON), TRITON_MOMENT_TO_NUCLEAR_MAGNETON_RATIO (missing MAGNETIC).
+
+status: audited, note: most were fixed in spelling audit above
+

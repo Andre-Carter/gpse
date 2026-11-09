@@ -76,14 +76,14 @@ pub static ALPHA_PARTICLE_MOLAR_MASS: Constant = Constant {
     uncertainty: Some(0.000_000_001_2e-3),
 };
 //7
-pub static ALPHA_PARTICLE_NEUTRON_MASS_RATIO: Constant = Constant {
+pub static ALPHA_PARTICLE_PROTON_MASS_RATIO: Constant = Constant {
     name: "alpha particle-proton mass ratio",
     value: 3.972_599_690_252,
     si_base_units: None,
     uncertainty: Some(0.000_000_000_07),
 };
 //8
-pub static ALPHA_PARTICLE_PROTON_MASS_RATIO: Constant = Constant {
+pub static ALPHA_PARTICLE_RELATIVE ATOMIC MASS: Constant = Constant {
     name: "alpha particle relative atomic mass",
     value: 4.001_506_179_129,
     si_base_units: None,
@@ -91,7 +91,7 @@ pub static ALPHA_PARTICLE_PROTON_MASS_RATIO: Constant = Constant {
 };
 //9
 pub static ALPHA_PARTICLE_RMS_CHARGE_RADIUS: Constant = Constant {
-    name: "alpha particle rms charge raduis",
+    name: "alpha particle rms charge radius",
     value: 1.678_5e-15,
     si_base_units: Some("m"),
     uncertainty: Some(0.002_1e-15),
@@ -104,8 +104,8 @@ pub static ANGSTROM_STAR: Constant = Constant {
     uncertainty: Some(0.000_000_9e-10),
 };
 //11
-pub static ANOMALOUS_MAGNETIC_MOMENT_OF_THE_MUON: Constant = Constant {
-    name: "anomalous magnetic moment of the muon",
+pub static ATOMIC_MASS_CONSTANT: Constant = Constant {
+    name: "atomic mass constant",
     value: 1.660_539_068_92e-27,
     si_base_units: Some("kg"),
     uncertainty: Some(0.000_000_000_52e-27),
@@ -119,7 +119,7 @@ pub static ATOMIC_MASS_CONSTANT_ENERGY_EQUIVALENT: Constant = Constant {
 };
 //13
 pub static ATOMIC_MASS_CONSTANT_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
-    name: "atomic mass constant energy equivalent",
+    name: "atomic mass constant energy equivalent in MeV",
     value: 931.494_103_72,
     si_base_units: Some("MeV"),
     uncertainty: Some(0.000_000_29),
@@ -217,7 +217,7 @@ pub static ATOMIC_UNIT_OF_CURRENT: Constant = Constant {
 };
 //27
 pub static ATOMIC_UNIT_OF_ELECTRIC_DIPOLE_MOMENT: Constant = Constant {
-    name: "atomic unit of electic dipole mom.", //mom. is short for moment : to be decided if should use moment or follow nist mom.
+    name: "atomic unit of electric dipole moment",
     value: 8.478_353_619_8e-30,
     si_base_units: Some("C m"),
     uncertainty: Some(0.000_000_001_3e-30),
@@ -231,7 +231,7 @@ pub static ATOMIC_UNIT_OF_ELECTRIC_FIELD: Constant = Constant {
 };
 //29
 pub static ATOMIC_UNIT_OF_ELECTRIC_FIELD_GRADIENT: Constant = Constant {
-    name: "atomic unit electrical field gradient",
+    name: "atomic unit of electric field gradient",
     value: 9.717_362_442_4e21,
     si_base_units: Some("V m^-2"),
     uncertainty: Some(0.000_000_003e21),
@@ -274,13 +274,13 @@ pub static ATOMIC_UNIT_OF_FORCE: Constant = Constant {
 //35
 pub static ATOMIC_UNIT_OF_LENGTH: Constant = Constant {
     name: "atomic unit of length",
-    value: 5.291_722_105_44e-11,
+    value: 5.291_772_105_44e-11,
     si_base_units: Some("m"),
     uncertainty: Some(0.000_000_000_82e-11),
 };
 //36
 pub static ATOMIC_UNIT_OF_MAGNETIC_DIPOLE_MOMENT: Constant = Constant {
-    name: "atomic unit of mag. dipole mom.",
+    name: "atomic unit of magnetic dipole moment",
     value: 1.854_802_013_15e-23,
     si_base_units: Some("J T^-1"),
     uncertainty: Some(0.000_000_000_58e-23),
@@ -295,9 +295,9 @@ pub static ATOMIC_UNIT_OF_MAGNETIC_FLUX_DENSITY: Constant = Constant {
 //38
 pub static ATOMIC_UNIT_OF_MAGNETIZABILITY: Constant = Constant {
     name: "atomic unit of magnetizability",
-    value: 2.350_517_570_77_e5,
-    si_base_units: Some("T"),
-    uncertainty: Some(0.000_000_000_73e5),
+    value: 7.891_036_579_4e-29,
+    si_base_units: Some("J T^-2"),
+    uncertainty: Some(0.000_000_004_9e-29),
 };
 //39
 pub static ATOMIC_UNIT_OF_MASS: Constant = Constant {
@@ -317,8 +317,8 @@ pub static ATOMIC_UNIT_OF_MOMENTUM: Constant = Constant {
 pub static ATOMIC_UNIT_OF_PERMITTIVITY: Constant = Constant {
     name: "atomic unit of permittivity",
     value: 1.112_650_056_20e-10,
-    si_base_units: Some("F m^-1"),
-    uncertainty: Some(0.000_000_000_17),
+    si_base_units: Some("F m^-1"), 
+    uncertainty: Some(0.000_000_000_17e-10),
 };
 //42
 pub static ATOMIC_UNIT_OF_TIME: Constant = Constant {
@@ -406,14 +406,14 @@ pub static BOLTZMANN_CONSTANT_IN_HZ_PER_K: Constant = Constant {
 };
 //54
 pub static BOLTZMANN_CONSTANT_IN_INVERSE_METER_PER_K: Constant = Constant {
-    name: "Boltzmann constant in meter per kelvin",
+    name: "Boltzmann constant in inverse meter per kelvin",
     value: 69.503_480_04, //...
     si_base_units: Some("m^-1 K^-1"),
     uncertainty: None,
 };
 //55
-pub static BOLTZMANN_CONSTANT_IN_KELVIN_PER_TESLA: Constant = Constant {
-    name: "boltzmann constant in K/T",
+pub static CHARACTERISTIC_IMPEDANCE_OF_VACUUM: Constant = Constant {
+    name: "characteristic impedance of vacuum",
     value: 376.730_313_412,
     si_base_units: Some("ohm"),
     uncertainty: Some(0.000_000_059),
@@ -433,19 +433,19 @@ pub static COMPTON_WAVELENGTH: Constant = Constant {
     uncertainty: Some(0.000_000_000_76e-12),
 };
 //58
-pub static COMPTON_WAVELENGTH_OVER_2_PI: Constant = Constant {
-    name: "compton wavelength over 2 pi",
+pub static CONDUCTANCE_QUANTUM: Constant = Constant {
+    name: "conductance quantum",
     value: 7.748_091_729e-5, //...
     si_base_units: Some("S"),
     uncertainty: None,
 };
 //59
-pub static CONDUCTANCE_QUANTUM: Constant = Constant {
-    name: "conductance quantum",
-    value: 1.000_000_088_87, //...
+pub static CONVENTIONAL_VALUE_OF_AMPERE_90: Constant = Constant {
+    name: "conventional value of ampere-90",
+    value: 1.000_000_088_87, 
     si_base_units: Some("A"),
     uncertainty: None,
-};
+}
 //60
 pub static CONVENTIONAL_VALUE_OF_COULOMB_90: Constant = Constant {
     name: "conventional value of coulomb-90",
@@ -455,7 +455,7 @@ pub static CONVENTIONAL_VALUE_OF_COULOMB_90: Constant = Constant {
 };
 //61
 pub static CONVENTIONAL_VALUE_OF_FARAD_90: Constant = Constant {
-    name: "convention value of farad-90",
+    name: "conventional value of farad-90",
     value: 0.999_999_982_20, //...
     si_base_units: Some("F"),
     uncertainty: None,
@@ -490,14 +490,14 @@ pub static CONVENTIONAL_VALUE_OF_VOLT_90: Constant = Constant {
 };
 //66
 pub static CONVENTIONAL_VALUE_OF_VON_KLITZING_CONSTANT: Constant = Constant {
-    name: "convention value of von Klitzing constant",
+    name: "conventional value of von Klitzing constant",
     value: 25_812.807,
     si_base_units: Some("ohm"),
     uncertainty: None,
 };
 //67
 pub static CONVENTIONAL_VALUE_OF_WATT_90: Constant = Constant {
-    name: "convention value of watt-90",
+    name: "conventional value of watt-90",
     value: 1.000_000_195_53, //...
     si_base_units: Some("W"),
     uncertainty: None,
@@ -563,7 +563,7 @@ pub static DEUTERON_MASS_ENERGY_EQUIVALENT: Constant = Constant {
     name: "deuteron mass energy equivalent",
     value: 3.005_063_234_91e-10,
     si_base_units: Some("J"),
-    uncertainty: Some(0.000_000_000_94),
+    uncertainty: Some(0.000_000_000_94e-10),
 };
 //77
 pub static DEUTERON_MASS_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
@@ -607,10 +607,10 @@ pub static DEUTERON_PROTON_MASS_RATIO: Constant = Constant {
     si_base_units: None,
     uncertainty: Some(0.000_000_000_008_4),
 };
-//83
+//83     
 pub static DEUTERON_RELATIVE_ATOMIC_MASS: Constant = Constant {
     name: "deuteron relative atomic mass",
-    value: 2.015_533_212_544,
+    value: 2.013_553_212_544,
     si_base_units: None,
     uncertainty: Some(0.000_000_000_015),
 };
@@ -684,10 +684,10 @@ pub static ELECTRON_MAGNETIC_MOMENT_ANOMALY: Constant = Constant {
     si_base_units: None,
     uncertainty: Some(0.000_000_000_18e-3),
 };
-//94
+//94     
 pub static ELECTRON_MAGNETIC_MOMENT_TO_BOHR_MAGNETON_RATIO: Constant = Constant {
     name: "electron magnetic moment to Bohr magneton ratio",
-    value: -1.001_159_662_180_46,
+    value: -1.001_159_652_180_46,
     si_base_units: None,
     uncertainty: Some(0.000_000_000_000_18),
 };
@@ -715,14 +715,14 @@ pub static ELECTRON_MASS_ENERGY_EQUIVALENT: Constant = Constant {
 //98
 pub static ELECTRON_MASS_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
     name: "electron mass energy equivalent in MeV",
-    value: 0.510_988_950_69,
+    value: 0.510_998_950_69,
     si_base_units: Some("MeV"),
     uncertainty: Some(0.000_000_000_16),
 };
 //99
 pub static ELECTRON_MASS_IN_U: Constant = Constant {
     name: "electron mass in u",
-    value: 5.484_799_090_441e-4,
+    value: 5.485_799_090_441e-4,
     si_base_units: Some("u"),
     uncertainty: Some(0.000_000_000_097e-4),
 };
@@ -778,7 +778,7 @@ pub static ELECTRON_PROTON_MASS_RATIO: Constant = Constant {
 //107
 pub static ELECTRON_RELATIVE_ATOMIC_MASS: Constant = Constant {
     name: "electron relative atomic mass",
-    value: 5.486_799_090_411e-4,
+    value: 5.485_799_090_411e-4,
     si_base_units: None,
     uncertainty: Some(0.000_000_000_097e-4),
 };
@@ -890,7 +890,7 @@ pub static ELEMENTARY_CHARGE_OVER_H_BAR: Constant = Constant {
 //123
 pub static FARADAY_CONSTANT: Constant = Constant {
     name: "Faraday constant",
-    value: 96.485_332_12, //...
+    value: 96_485.332_12,
     si_base_units: Some("C mol^-1"),
     uncertainty: None,
 };
@@ -976,20 +976,20 @@ pub static HARTREE_KELVIN_RELATIONSHIP: Constant = Constant {
     name: "hartree-kelvin relationship",
     value: 3.157_750_248_039_8e5,
     si_base_units: Some("K"),
-    uncertainty: Some(0.000_000_000_003_4),
+    uncertainty: Some(0.000_000_000_003_4e5),
 };
 //136
 pub static HARTREE_KILOGRAM_RELATIONSHIP: Constant = Constant {
     name: "hartree-kilogram relationship",
     value: 4.850_870_209_541_9e-35,
     si_base_units: Some("kg"),
-    uncertainty: Some(0.000_000_000_005_3),
+    uncertainty: Some(0.000_000_000_005_3e-35),
 };
 //137
 pub static HELION_ELECTRON_MASS_RATIO: Constant = Constant {
     name: "helion-electron mass ratio",
     value: 5_495.885_279_84,
-    si_base_units: Some("kg"),
+    si_base_units: None,
     uncertainty: Some(0.000_000_16),
 };
 //138
@@ -1029,10 +1029,10 @@ pub static HELION_MASS: Constant = Constant {
 };
 //143
 pub static HELION_MASS_ENERGY_EQUIVALENT: Constant = Constant {
-    name: "helion to mass energy equivalent",
+    name: "helion mass energy equivalent",
     value: 4.499_539_418_5e-10,
     si_base_units: Some("J"),
-    uncertainty: Some(0.000_000_001_4e10),
+    uncertainty: Some(0.000_000_001_4e-10),
 };
 //144
 pub static HELION_MASS_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
@@ -1058,7 +1058,7 @@ pub static HELION_MOLAR_MASS: Constant = Constant {
 //147
 pub static HELION_PROTON_MASS_RATIO: Constant = Constant {
     name: "helion-proton mass ratio",
-    value: 2.993_152_617_552,
+    value: 2.993_152_671_552,
     si_base_units: None,
     uncertainty: Some(0.000_000_000_07),
 };
@@ -1067,14 +1067,14 @@ pub static HELION_RELATIVE_ATOMIC_MASS: Constant = Constant {
     name: "helion relative atomic mass",
     value: 3.014_932_246_932,
     si_base_units: None,
-    uncertainty: Some(0.000_000_000_74),
+    uncertainty: Some(0.000_000_000_074),
 };
 //149
 pub static HELION_SHIELDING_SHIFT: Constant = Constant {
     name: "helion shielding shift",
     value: 5.996_702_9e-5,
     si_base_units: None,
-    uncertainty: Some(0.000_002_3),
+    uncertainty: Some(0.000_002_3e-5),
 };
 //150
 pub static HERTZ_ATOMIC_MASS_UNIT_RELATIONSHIP: Constant = Constant {
@@ -1121,7 +1121,7 @@ pub static HERTZ_KELVIN_RELATIONSHIP: Constant = Constant {
 //156
 pub static HERTZ_KILOGRAM_RELATIONSHIP: Constant = Constant {
     name: "hertz-kilogram relationship",
-    value: 7.372_497_323e51,
+    value: 7.372_497_323e-51,
     si_base_units: Some("kg"),
     uncertainty: None,
 };
@@ -1176,7 +1176,7 @@ pub static INVERSE_METER_JOULE_RELATIONSHIP: Constant = Constant {
 };
 //164
 pub static INVERSE_METER_KELVIN_RELATIONSHIP: Constant = Constant {
-    name: "inverse meter-kelvin relatinship",
+    name: "inverse meter-kelvin relationship",
     value: 1.438_776_877e-2, //...
     si_base_units: Some("K"),
     uncertainty: None,
@@ -1270,7 +1270,7 @@ pub static KELVIN_HARTREE_RELATIONSHIP: Constant = Constant {
     name: "kelvin-hartree relationship",
     value: 3.166_811_563_456_4e-6,
     si_base_units: Some("E_h"),
-    uncertainty: Some(0.000_000_000_003_5),
+    uncertainty: Some(0.000_000_000_003_5e-6),
 };
 //178
 pub static KELVIN_HERTZ_RELATIONSHIP: Constant = Constant {
@@ -1303,7 +1303,7 @@ pub static KELVIN_KILOGRAM_RELATIONSHIP: Constant = Constant {
 //182
 pub static KILOGRAM_ATOMIC_MASS_UNIT_RELATIONSHIP: Constant = Constant {
     name: "kilogram-atomic mass unit relationship",
-    value: 6.002_140_757_7e26,
+    value: 6.022_140_753_7e26,
     si_base_units: Some("u"),
     uncertainty: Some(0.000_000_001_9e26),
 };
@@ -1315,9 +1315,10 @@ pub static KILOGRAM_ELECTRON_VOLT_RELATIONSHIP: Constant = Constant {
     uncertainty: None,
 };
 //184
+2.061 485 788 7415 e34   0.000 000 000 0022 e34   E_h
 pub static KILOGRAM_HARTREE_RELATIONSHIP: Constant = Constant {
     name: "kilogram-hartree relationship",
-    value: 2.061_458_788_741_5e34,
+    value: 2.061_485_788_741_5e34,
     si_base_units: Some("E_h"),
     uncertainty: Some(0.000_000_000_002_2e34),
 };
@@ -1352,14 +1353,14 @@ pub static KILOGRAM_KELVIN_RELATIONSHIP: Constant = Constant {
 //189
 pub static LATTICE_PARAMETER_OF_SILICON: Constant = Constant {
     name: "lattice parameter of silicon",
-    value: 6.431_020_511e-10,
+    value: 5.431_020_511e-10,
     si_base_units: Some("m"),
     uncertainty: Some(0.000_000_089e-10),
 };
 //190
 pub static LATTICE_SPACING_OF_IDEAL_SI_220: Constant = Constant {
     name: "lattice spacing of ideal Si (220)",
-    value: 1.920_155_716_716e-10,
+    value: 1.920_155_716e-10,
     si_base_units: Some("m"),
     uncertainty: Some(0.000_000_032e-10),
 };
@@ -1427,8 +1428,8 @@ pub static MOLAR_VOLUME_IDEAL_GAS_273_15_K_100_KPA: Constant = Constant {
     uncertainty: None,
 };
 //200
-pub static MOLAR_VOLUME_IDEAL_GAS_273_13_K_101_325_KPA: Constant = Constant {
-    name: "molar volume of ideal gas (273.13 K, 101.325 kPa)",
+pub static MOLAR_VOLUME_IDEAL_GAS_273_15_K_101_325_KPA: Constant = Constant { // note: how to represent . in identifier
+    name: "molar volume of ideal gas (273.15 K, 101.325 kPa)",
     value: 22.413_969_54e-3,
     si_base_units: Some("m^3 mol^-1"),
     uncertainty: None,
@@ -1443,7 +1444,7 @@ pub static MOLAR_VOLUME_OF_SILICON: Constant = Constant {
 //202
 pub static MOLYBDENUM_X_UNIT: Constant = Constant {
     name: "Molybdenum x unit",
-    value: 1.002_009_52e-13,
+    value: 1.002_099_52e-13,
     si_base_units: Some("m"),
     uncertainty: Some(0.000_000_53e-13),
 };
@@ -1452,12 +1453,12 @@ pub static MUON_COMPTON_WAVELENGTH: Constant = Constant {
     name: "muon Compton wavelength",
     value: 1.173_444_110e-14,
     si_base_units: Some("m"),
-    uncertainty: Some(0.000_000_026),
+    uncertainty: Some(0.000_000_026e-14),
 };
-//204
+//204 
 pub static MUON_ELECTRON_MASS_RATIO: Constant = Constant {
     name: "muon-electron mass ratio",
-    value: 206.768_287_7,
+    value: 206.768_282_7,
     si_base_units: None,
     uncertainty: Some(0.000_004_6),
 };
@@ -1501,7 +1502,7 @@ pub static MUON_MASS: Constant = Constant {
     name: "muon mass",
     value: 1.883_531_627e-28,
     si_base_units: Some("kg"),
-    uncertainty: Some(0.000_000_42e-28),
+    uncertainty: Some(0.000_000_042e-28),
 };
 //211
 pub static MUON_MASS_ENERGY_EQUIVALENT: Constant = Constant {
@@ -1580,10 +1581,10 @@ pub static NATURAL_UNIT_OF_ENERGY: Constant = Constant {
     si_base_units: Some("J"),
     uncertainty: Some(0.000_000_002_6e-14),
 };
-//222
+//222 
 pub static NATURAL_UNIT_OF_ENERGY_IN_MEV: Constant = Constant {
     name: "natural unit of energy in MeV",
-    value: 0.510_988_950_69,
+    value: 0.510_998_950_69,
     si_base_units: Some("MeV"),
     uncertainty: Some(0.000_000_000_16),
 };
@@ -1597,7 +1598,7 @@ pub static NATURAL_UNIT_OF_LENGTH: Constant = Constant {
 //224
 pub static NATURAL_UNIT_OF_MASS: Constant = Constant {
     name: "natural unit of mass",
-    value: 9.109_383_713_9e-13,
+    value: 9.109_383_713_9e-31,
     si_base_units: Some("kg"),
     uncertainty: Some(0.000_000_002_8e-31),
 };
@@ -1610,7 +1611,7 @@ pub static NATURAL_UNIT_OF_MOMENTUM: Constant = Constant {
 };
 //226
 pub static NATURAL_UNIT_OF_MOMENTUM_IN_MEV_C: Constant = Constant {
-    name: "natural unit momentum in MeV/c",
+    name: "natural unit of momentum in MeV/c",
     value: 0.510_998_950_69,
     si_base_units: Some("MeV/c"),
     uncertainty: Some(0.000_000_000_16),
@@ -1745,7 +1746,7 @@ pub static NEUTRON_PROTON_MAGNETIC_MOMENT_RATIO: Constant = Constant {
 pub static NEUTRON_PROTON_MASS_DIFFERENCE: Constant = Constant {
     name: "neutron-proton mass difference",
     value: 2.305_574_61e-30,
-    si_base_units: None,
+    si_base_units: Some("kg"),
     uncertainty: Some(0.000_000_67e-30),
 };
 //246
@@ -1786,7 +1787,7 @@ pub static NEUTRON_RELATIVE_ATOMIC_MASS: Constant = Constant {
 //251
 pub static NEUTRON_TAU_MASS_RATIO: Constant = Constant {
     name: "neutron-tau mass ratio",
-    value: 0.528_799,
+    value: 0.528_779,
     si_base_units: None,
     uncertainty: Some(0.000_036),
 };
@@ -1808,7 +1809,7 @@ pub static NEWTONIAN_CONSTANT_OF_GRAVITATION: Constant = Constant {
 pub static NEWTONIAN_CONSTANT_OF_GRAVITATION_OVER_H_BAR_C: Constant = Constant {
     name: "Newtonian constant of gravitation over h-bar c",
     value: 6.708_83e-39,
-    si_base_units: Some("(GeV/c^2)^2"),
+    si_base_units: Some("(GeV/c^2)^-2"),
     uncertainty: Some(0.000_15e-39),
 };
 //255
@@ -1977,7 +1978,7 @@ pub static PROTON_MASS_ENERGY_EQUIVALENT: Constant = Constant {
     name: "proton mass energy equivalent",
     value: 1.503_277_618_02e-10,
     si_base_units: Some("J"),
-    uncertainty: Some(0.000_000_000_47),
+    uncertainty: Some(0.000_000_000_47e-10),
 };
 //279
 pub static PROTON_MASS_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
@@ -2051,7 +2052,7 @@ pub static QUANTUM_OF_CIRCULATION: Constant = Constant {
 };
 //289
 pub static QUANTUM_OF_CIRCULATION_TIMES_2: Constant = Constant {
-    name: "quantum of circluation times 2",
+    name: "quantum of circulation times 2",
     value: 7.273_895_093_4e-4,
     si_base_units: Some("m^2 s^-1"),
     uncertainty: Some(0.000_000_002_3e-4),
@@ -2142,20 +2143,20 @@ pub static RYDBERG_CONSTANT_TIMES_HC_IN_J: Constant = Constant {
 };
 //302
 pub static SACKUR_TETRODE_1K_100KPA: Constant = Constant {
-    name: "Sackur-Tetrode (1 K, 100kPa)",
+    name: "Sackur-Tetrode constant (1 K, 100kPa)",
     value: -1.151_707_534_96,
     si_base_units: None,
     uncertainty: Some(0.000_000_000_47),
 };
 //303
 pub static SACKUR_TETRODE_1K_101P325KPA: Constant = Constant {
-    name: "Sackur-Tetrode (1 K, 101.325 kPa)",
+    name: "Sackur-Tetrode constant (1 K, 101.325 kPa)",
     value: -1.164_870_521_49,
     si_base_units: None,
     uncertainty: Some(0.000_000_000_47),
 };
 //304
-pub static SECOND_RADATION_CONSTANT: Constant = Constant {
+pub static SECOND_RADIATION_CONSTANT: Constant = Constant {
     name: "second radiation constant",
     value: 1.438_776_877e-2, //...
     si_base_units: Some("m K"),
@@ -2178,13 +2179,13 @@ pub static SHIELDED_HELION_GYROMAGNETIC_RATIO_IN_MHZ_T: Constant = Constant {
 //307
 pub static SHIELDED_HELION_MAGNETIC_MOMENT: Constant = Constant {
     name: "shielded helion magnetic moment",
-    value: -1.074_533_110_35e-26,
+    value: -1.074_553_110_35e-26,
     si_base_units: Some("J T^-1"),
     uncertainty: Some(0.000_000_000_93e-26),
 };
 //308
 pub static SHIELDED_HELION_MAGNETIC_MOMENT_TO_BOHR_MAGNETON_RATIO: Constant = Constant {
-    name: "shielded helion mag. mom to Bohr magneton ratio",
+    name: "shielded helion magnetic moment to Bohr magneton ratio",
     value: -1.158_671_494_57e-3,
     si_base_units: None,
     uncertainty: Some(0.000_000_000_94e-3),
@@ -2192,7 +2193,7 @@ pub static SHIELDED_HELION_MAGNETIC_MOMENT_TO_BOHR_MAGNETON_RATIO: Constant = Co
 //309
 pub static SHIELDED_HELION_MAGNETIC_MOMENT_TO_NUCLEAR_MAGNETON_RATIO: Constant = Constant {
     name: "shielded helion magnetic moment to nuclear magneton ratio",
-    value: -2.117_497_762_4,
+    value: -2.127_497_762_4,
     si_base_units: None,
     uncertainty: Some(0.000_000_001_7),
 };
@@ -2232,22 +2233,22 @@ pub static SHIELDED_PROTON_MAGNETIC_MOMENT: Constant = Constant {
     uncertainty: Some(0.000_000_005_8e-26),
 };
 //315
-pub static SHIELDED_PROTON_MAGNETIC_MOMENT_TO_BOHR_MAGNETON_RATION: Constant = Constant {
+pub static SHIELDED_PROTON_MAGNETIC_MOMENT_TO_BOHR_MAGNETON_RATIO: Constant = Constant {
     name: "shielded proton magnetic moment to Bohr magneton ratio",
     value: 1.520_993_155_1e-3,
     si_base_units: None,
     uncertainty: Some(0.000_000_006_2e-3),
 };
-//316
+//316  
 pub static SHIELDED_PROTON_MAGNETIC_MOMENT_TO_NUCLEAR_MAGNETON_RATIO: Constant = Constant {
-    name: "shielded proton mag. mom. to nuclear magneton ratio",
-    value: 2.792_755_648,
+    name: "shielded proton magnetic moment to nuclear magneton ratio",
+    value: 2.792_775_648,
     si_base_units: None,
     uncertainty: Some(0.000_000_011),
 };
 //317
 pub static SHIELDING_DIFFERENCE_TO_D_AND_P_IN_HD: Constant = Constant {
-    name: "shielding difference to d and p in HD",
+    name: "shielding difference of d and p in HD",
     value: 1.987_70e-8,
     si_base_units: None,
     uncertainty: Some(0.000_1e-8),
@@ -2302,7 +2303,7 @@ pub static TAU_COMPTON_WAVELENGTH: Constant = Constant {
     uncertainty: Some(0.000_47e-16),
 };
 //325
-pub static TAU_ELECTRON_MASS_RATION: Constant = Constant {
+pub static TAU_ELECTRON_MASS_RATIO: Constant = Constant {
     name: "tau-electron mass ratio",
     value: 3_477.23,
     si_base_units: None,
@@ -2365,16 +2366,16 @@ pub static TAU_PROTON_MASS_RATIO: Constant = Constant {
     uncertainty: Some(0.000_13),
 };
 //334
-pub static THOMAS_CROSS_SECTION: Constant = Constant {
-    name: "Thomas cross section",
+pub static THOMSON_CROSS_SECTION: Constant = Constant {
+    name: "Thomson cross section",
     value: 6.652_458_705_1e-29,
     si_base_units: Some("m^2"),
     uncertainty: Some(0.000_000_006_2e-29),
 };
-//335
+//335   
 pub static TRITON_ELECTRON_MASS_RATIO: Constant = Constant {
     name: "triton-electron mass ratio",
-    value: 5_469.921_535_51,
+    value: 5_496.921_535_51,
     si_base_units: None,
     uncertainty: Some(0.000_000_21),
 };
@@ -2393,15 +2394,15 @@ pub static TRITON_MAGNETIC_MOMENT: Constant = Constant {
     uncertainty: Some(0.000_000_003e-26),
 };
 //338
-pub static TRITON_MAGNETIC_MOMENT_TO_BOHR_RATIO: Constant = Constant {
+pub static TRITON_MAGNETIC_MOMENT_TO_BOHR_MAGNETON_RATIO: Constant = Constant {
     name: "triton magnetic moment to Bohr magneton ratio",
     value: 1.622_393_664_8e-3,
     si_base_units: None,
     uncertainty: Some(0.000_000_003_2e-3),
 };
 //339
-pub static TRITON_MOMENT_TO_NUCLEAR_MAGNETON_RATIO: Constant = Constant {
-    name: "triton mag. mom. to nuclear magneton ratio",
+pub static TRITON_MAGNETIC_MOMENT_TO_NUCLEAR_MAGNETON_RATIO: Constant = Constant {
+    name: "triton magnetic moment to nuclear magneton ratio",
     value: 2.978_962_465,
     si_base_units: None,
     uncertainty: Some(0.000_000_005_9),
@@ -2421,7 +2422,7 @@ pub static TRITON_MASS_ENERGY_EQUIVALENT: Constant = Constant {
     uncertainty: Some(0.000_000_001_4e-10),
 };
 //342
-pub static TRITION_MASS_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
+pub static TRITON_MASS_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
     name: "triton mass energy equivalent in MeV",
     value: 2_808.921_136_68,
     si_base_units: Some("MeV"),
@@ -2470,8 +2471,8 @@ pub static UNIFIED_ATOMIC_MASS_UNIT: Constant = Constant {
     uncertainty: Some(0.000_000_000_52e-27),
 };
 //349
-pub static VACUUM_ELECTRICITY_PERMITTIVITY: Constant = Constant {
-    name: "vacuum electricy permittivity",
+pub static VACUUM_ELECTRIC_PERMITTIVITY: Constant = Constant {
+    name: "vacuum electric permittivity",
     value: 8.854_187_818_8e-12,
     si_base_units: Some("F m^-1"),
     uncertainty: Some(0.000_000_001_4e-12),
@@ -2484,7 +2485,7 @@ pub static VACUUM_MAGNETIC_PERMEABILITY: Constant = Constant {
     uncertainty: Some(0.000_000_000_2e-6),
 };
 //351
-pub static VON_KLITIZING_CONSTANT: Constant = Constant {
+pub static VON_KLITZING_CONSTANT: Constant = Constant {
     name: "von Klitzing constant",
     value: 25_812.807_45,
     si_base_units: Some("ohm"),
@@ -2505,8 +2506,8 @@ pub static WIEN_FREQUENCY_DISPLACEMENT_LAW_CONSTANT: Constant = Constant {
     uncertainty: None,
 };
 //354
-pub static WIEN_WAVELENGTH_DISPLACEMENT_LAW: Constant = Constant {
-    name: "Wien wavelength displacement law",
+pub static WIEN_WAVELENGTH_DISPLACEMENT_LAW_CONSTANT: Constant = Constant {
+    name: "Wien wavelength displacement law constant",
     value: 2.897_771_955e-3,
     si_base_units: Some("m K"),
     uncertainty: None,
