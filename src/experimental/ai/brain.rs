@@ -18,6 +18,7 @@ impl Cell {
 }
 
 pub struct SuperCell {
+    id: f64,
     memory: DataType,
     connections: u64,
 }
