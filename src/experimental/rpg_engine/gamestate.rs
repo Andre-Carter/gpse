@@ -1,4 +1,4 @@
-use crate::programs::rpg_engine::player::player::Player;
+use crate::experimental::rpg_engine::player::player::Player;
 
 pub struct GameState {
     pub player: Player,

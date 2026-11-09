@@ -13,6 +13,7 @@ pub mod lang;
 pub mod ledger;
 pub mod mathematical;
 pub mod programs;
+pub mod rpg_engine;
 pub mod rust_rust;
 pub mod science;
 pub mod simulation;

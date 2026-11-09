@@ -1,10 +1,10 @@
-use crate::programs::rpg_engine::gamestate::GameState;
-use crate::programs::rpg_engine::player::effects::{Effect, Effects};
-use crate::programs::rpg_engine::player::equipment::Equipment;
-use crate::programs::rpg_engine::player::inventory::{Inventory, Item};
-use crate::programs::rpg_engine::player::skills::{Skill, Skills};
-use crate::programs::rpg_engine::player::stats::PlayerStats;
-use crate::programs::rpg_engine::player::titles::{Title, Titles};
+use crate::experimental::rpg_engine::gamestate::GameState;
+use crate::experimental::rpg_engine::player::effects::{Effect, Effects};
+use crate::experimental::rpg_engine::player::equipment::Equipment;
+use crate::experimental::rpg_engine::player::inventory::{Inventory, Item};
+use crate::experimental::rpg_engine::player::skills::{Skill, Skills};
+use crate::experimental::rpg_engine::player::stats::PlayerStats;
+use crate::experimental::rpg_engine::player::titles::{Title, Titles};
 
 use std::fmt;
 

@@ -6,6 +6,8 @@ use crate::experimental::programs::checklist::checklist_cli;
 use crate::experimental::mathematical::carter::carter_family::carter_formula_cli;
 use crate::experimental::mathematical::carter::carter_family::carter_formula_repeat;
 
+use crate::experimental::systems::command::library::rpg_engine::rpg_engine_cli::rpg_engine_cli;
+
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -57,6 +59,10 @@ pub fn cli_commands() {
 
             "switch" => {
                 switch_cli();
+            }
+
+            "rpg" => {
+                rpg_engine_cli();
             }
 
             "exit" => {
