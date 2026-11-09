@@ -9,7 +9,7 @@ use crate::experimental::mathematical::test_mathematical::test_mathematical;
 #[cfg(feature = "marvel-rivals")]
 use crate::programs::library::marvel_rivals_random_hero::marvel_rivals_random_hero;
 
-use crate::systems::command::library::archive::bible::kjv1611::kjv_1611_cli::kjv_1611_cli_funk;
+use crate::systems::command::library::archive::bible::kjv1611::cli::kjv_1611_interface;
 use crate::systems::command::library::core::data_types::data_types_cli::data_types_cli;
 use crate::systems::command::library::programs::rpg_engine::rpg_engine_cli::rpg_engine_cli;
 use crate::systems::command::tools::calculator::cli_calc;
@@ -82,8 +82,8 @@ pub fn cli_commands() {
                         println!("{:<20} (open kjv 1611)", "kjv1611");
                     }
 
-                    "kjv1611" => {
-                        kjv_1611_cli_funk();
+                    "1611 kjv" => {
+                        kjv_1611_interface();
                     }
 
                     "exit" => {
