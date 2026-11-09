@@ -21,6 +21,15 @@
   - fauna/floura
 
 * gpse\logs 
+* gpse\docs
+
+// project name: rust rust
+// description: rust compiled rust reference handbook
+* archive::rust_rust (vote)
+* gpse\docs\rust
+  lookup_rust(division, )
+
+
 
 * END MODULES *
 

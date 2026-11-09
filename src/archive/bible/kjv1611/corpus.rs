@@ -34988,319 +34988,319 @@ pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("1 kings", 1, 21) => Some(Verse { 
-            content: "", 
+            content: "Otherwise it shall come to passe, when my lord the king shal sleepe with his fathers, that I and my sonne Solomon shall be counted offenders.", 
         }),
         
         ("1 kings", 1, 22) => Some(Verse { 
-            content: "", 
+            content: "And loe, while shee yet talked with the king, Nathan the Prophet also came in.", 
         }),
 
         ("1 kings", 1, 23) => Some(Verse { 
-            content: "", 
+            content: "And they tolde the king, saying, Beholde Nathan the Prophet. And when hee was come in before the king, he bowed himselfe before the king with his face to the ground.", 
         }),
 
         ("1 kings", 1, 24) => Some(Verse { 
-            content: "", 
+            content: "And Nathan said, My lord O king, hast thou said, Adoniiah shall reigne after mee, and hee shall sit vpon my throne?", 
         }),
 
         ("1 kings", 1, 25) => Some(Verse { 
-            content: "", 
+            content: "For hee is gone downe this day, and hath slaine oxen, and fat cattel, and sheepe in abundance, and hath called all the kings sonnes, and the captaines of the host, and Abiathar the Priest: and behold, they eate and drinke before him, and say, God saue king Adoniiah.", 
         }),
 
         ("1 kings", 1, 26) => Some(Verse { 
-            content: "", 
+            content: "But me, euen me thy seruant, and Zadok the Priest, and Benaiah the sonne of Iehoiada, and thy seruant Solomon hath he not called.", 
         }),
         
         ("1 kings", 1, 27) => Some(Verse { 
-            content: "", 
+            content: "Is this thing done by my lord the king, and thou hast not shewed it vnto thy seruant, who should sit on the throne of my lord the king, after him?", 
         }),
 
         ("1 kings", 1, 28) => Some(Verse { 
-            content: "", 
+            content: "Then king Dauid answered, and said, Call me Bathsheba. And she came into the kings presence, and stood before the king.", 
         }),
 
         ("1 kings", 1, 29) => Some(Verse { 
-            content: "", 
+            content: "And the king sware, and said, As the Lord liueth, that hath redeemed my soule out of all distresse,", 
         }),
 
         ("1 kings", 1, 30) => Some(Verse { 
-            content: "", 
+            content: "Euen as I sware vnto thee by the Lord God of Israel, saying, Assuredly Solomon thy sonne shall reigne after me, and he shal sit vpon my throne in my stead; euen so wil I certainly doe this day.", 
         }),
 
         ("1 kings", 1, 31) => Some(Verse { 
-            content: "", 
+            content: "Then Bathsheba bowed with her face to the earth, and did reuerence to the king, and said, Let my lord king Dauid liue for euer.", 
         }),
         
         ("1 kings", 1, 32) => Some(Verse { 
-            content: "", 
+            content: "And king Dauid said, Call me Zadok the Priest, and Nathan the Prophet, and Benaiah the sonne of Iehoiada. And they came before the king.", 
         }),
 
         ("1 kings", 1, 33) => Some(Verse { 
-            content: "", 
+            content: "The king also saide vnto them, Take with you the seruants of your lord, and cause Solomon my sonne to ride vpon mine owne mule, and bring him downe to Gihon.", 
         }),
 
         ("1 kings", 1, 34) => Some(Verse { 
-            content: "", 
+            content: "And let Zadok the Priest, and Nathan the Prophet, anoint him there King ouer Israel: and blow ye with the trumpet, and say, God saue King Solomon.", 
         }),
 
         ("1 kings", 1, 35) => Some(Verse { 
-            content: "", 
+            content: "Then ye shall come vp after him, that hee may come and sit vpon my throne; for he shall be king in my stead: and I haue appointed him to be ruler ouer Israel, and ouer Iudah.", 
         }),
 
         ("1 kings", 1, 36) => Some(Verse { 
-            content: "", 
+            content: "And Benaiah the sonne of Iehoiada answered the King, and said, Amen: The Lord God of my lord the king say so too.", 
         }),
         
         ("1 kings", 1, 37) => Some(Verse { 
-            content: "", 
+            content: "As the Lord hath bene with my lord the King, euen so be he with Solomon, and make his throne greater then the throne of my lord King Dauid.", 
         }),
 
         ("1 kings", 1, 38) => Some(Verse { 
-            content: "", 
+            content: "So Zadok the Priest, and Nathan the Prophet, and Benaiah the sonne of Iehoiada, and the Cherethites, and the Pelethites went downe, and caused Solomon to ride vpon King Dauids mule, and brought him to Gihon.", 
         }),
 
         ("1 kings", 1, 39) => Some(Verse { 
-            content: "", 
+            content: "And Zadok the Priest tooke an horne of oile out of the Tabernacle, and anointed Solomon: and they blew the trumpet, and all the people said, God saue King Solomon.", 
         }),
 
         ("1 kings", 1, 40) => Some(Verse { 
-            content: "", 
+            content: "And all the people came vp after him, and the people piped with pipes, and reioyced with great ioy, so that the earth rent with the sound of them.", 
         }),
 
         ("1 kings", 1, 41) => Some(Verse { 
-            content: "", 
+            content: "And Adoniiah and all the ghests that were with him, heard it as they had made an end of eating: and when Ioab heard the sound of the trumpet, hee said, Wherefore is this noise of the citie, being in an vproare?", 
         }),
         
         ("1 kings", 1, 42) => Some(Verse { 
-            content: "", 
+            content: "And while hee yet spake, behold, Ionathan the sonne of Abiathar the Priest came, and Adoniiah sayde vnto him, Come in, for thou art a valiant man, and bringest good tidings.", 
         }),
 
         ("1 kings", 1, 43) => Some(Verse { 
-            content: "", 
+            content: "And Ionathan answered, and said to Adoniiah, Uerily our lorde king Dauid hath made Solomon king.", 
         }),
 
         ("1 kings", 1, 44) => Some(Verse { 
-            content: "", 
+            content: "And the king hath sent with him Zadok the Priest, and Nathan the Prophet, and Benaiah the sonne of Iehoiada, and the Cherethites, and the Pelethites, and they haue caused him to ride vpon the kings mule.", 
         }),
 
         ("1 kings", 1, 45) => Some(Verse { 
-            content: "", 
+            content: "And Zadok the Priest, and Nathan the Prophet haue anointed him king in Gihon: and they are come vp from thence reioycing, so that the citie rang againe: this is the noyse that yee haue heard.", 
         }),
 
         ("1 kings", 1, 46) => Some(Verse { 
-            content: "", 
+            content: "And also Solomon sitteth on the throne of the kingdome.", 
         }),
         
         ("1 kings", 1, 47) => Some(Verse { 
-            content: "", 
+            content: "And moreouer, the kings seruants came to blesse our lorde king Dauid, saying, God make the name of Solomon better then thy name, and make his throne greater then thy throne. And the king bowed himselfe vpon the bed.", 
         }),
 
         ("1 kings", 1, 48) => Some(Verse { 
-            content: "", 
+            content: "And also thus sayde the King, Blessed be the Lord God of Israel, which hath giuen one to sit on my throne this day, mine eyes euen seeing it.", 
         }),
 
         ("1 kings", 1, 49) => Some(Verse { 
-            content: "", 
+            content: "And all the guests that were with Adoniiah, were afraid, and rose vp, and went euery man his way.", 
         }),
 
         ("1 kings", 1, 50) => Some(Verse { 
-            content: "", 
+            content: "And Adoniiah feared because of Solomon, and arose, and went, and caught hold on the hornes of the Altar.", 
         }),
 
         ("1 kings", 1, 51) => Some(Verse { 
-            content: "", 
+            content: "And it was tolde Solomon, saying, Behold, Adoniiah feareth King Solomon: for loe, he hath caught hold on the hornes of the Altar, saying, Let King Solomon sweare vnto mee to day, that hee will not slay his seruant with the sword.", 
         }),
         
         ("1 kings", 1, 52) => Some(Verse { 
-            content: "", 
+            content: "And Solomon sayd, If hee will shewe himselfe a worthy man, there shall not an haire of him fall to the earth: but if wickednesse shall be found in him, he shall die.", 
         }),
 
         ("1 kings", 1, 53) => Some(Verse { 
-            content: "", 
+            content: "So king Solomon sent, and they brought him downe from the Altar, and hee came and bowed himselfe to king Solomou: and Solomon sayde vnto him, Goe to thine house.", 
         }),
 
         ("1 kings", 2, 1) => Some(Verse { 
-            content: "", 
+            content: "Now the dayes of Dauid drew nigh, that he should die, and he charged Solomon his sonne, saying;", 
         }),
 
         ("1 kings", 2, 2) => Some(Verse { 
-            content: "", 
+            content: "I goe the way of all the earth: be thou strong therefore, and shew thy selfe a man.", 
         }),
 
         ("1 kings", 2, 3) => Some(Verse { 
-            content: "", 
+            content: "And keepe the charge of the Lord thy God, to walke in his wayes, to keepe his Statutes, and his Commandements, & his Iudgements, and his Testimonies, as it is written in the Law of Moses, that thou mayest prosper in all that thou doest, and whithersoeuer thou turnest thy selfe:", 
         }),
 
         ("1 kings", 2, 4) => Some(Verse { 
-            content: "", 
+            content: "That the Lord may continue his word which hee spake concerning me, saying, If thy children take heede to their way, to walke before mee in trueth, with all their heart, and with all their soule, there shall not faile thee (sayd hee) a man on the throne of Israel.", 
         }),
 
         ("1 kings", 2, 5) => Some(Verse { 
-            content: "", 
+            content: "Moreouer thou knowest also what Ioab the sonne of Zeruiah did to mee, and what he did to the two captaines of the hostes of Israel, vnto Abner the sonne of Ner, and vnto Amasa the sonne of Iether, whom hee slewe, and shed the blood of warre in peace, and put the blood of warre vpon his girdle that was about his loynes, and in his shooes that were on his feet.", 
         }),
 
         ("1 kings", 2, 6) => Some(Verse { 
-            content: "", 
+            content: "Doe therefore according to thy wisedome, and let not his hoare head goe downe to the graue in peace.", 
         }),
 
         ("1 kings", 2, 7) => Some(Verse { 
-            content: "", 
+            content: "But shewe kindnesse vnto the sonnes of Barzillai the Gileadite, and let them be of those that eate at thy table: for so they came to me when I fled because of Absalom thy brother.", 
         }),
 
         ("1 kings", 2, 8) => Some(Verse { 
-            content: "", 
+            content: "And behold, thou hast with thee Shimei the sonne of Gera, a Beniamite of Bahurim, which cursed mee with a grieuous curse, in the day when I went to Mahanaim: but hee came downe to meete me at Iordane, and I sware to him by the Lord, saying, I will not put thee to death with the sword.", 
         }),
 
         ("1 kings", 2, 9) => Some(Verse { 
-            content: "", 
+            content: "Nowe therefore holde him not guiltlesse: for thou art a wise man, and knowest what thou oughtest to doe vnto him, but his hoare head bring thou downe to the graue with blood.", 
         }),
 
         ("1 kings", 2, 10) => Some(Verse { 
-            content: "", 
+            content: "So Dauid slept with his fathers, and was buried in the citie of Dauid.", 
         }),
 
         ("1 kings", 2, 11) => Some(Verse { 
-            content: "", 
+            content: "And the dayes that Dauid raigned ouer Israel, were fourty yeeres: seuen yeeres raigned hee in Hebron, and thirty and three yeeres raigned hee in Ierusalem.", 
         }),
 
         ("1 kings", 2, 12) => Some(Verse { 
-            content: "", 
+            content: "Then sate Solomon vpon the throne of Dauid his father, and his kingdome was established greatly.", 
         }),
 
         ("1 kings", 2, 13) => Some(Verse { 
-            content: "", 
+            content: "And Adoniiah the sonne of Haggith came to Bathsheba the mother of Solomon, and she said, Commest thou peaceably? And he said, Peaceably.", 
         }),
 
         ("1 kings", 2, 14) => Some(Verse { 
-            content: "", 
+            content: "He said moreouer, I haue somewhat to say vnto thee. And she saide, Say on.", 
         }),
 
         ("1 kings", 2, 15) => Some(Verse { 
-            content: "", 
+            content: "And he said, Thou knowest that the kingdome was mine, and that all Israel set their faces on me, that I should raigne: howbeit the kingdome is turned about, and is become my brothers: for it was his from the Lord.", 
         }),
 
         ("1 kings", 2, 16) => Some(Verse { 
-            content: "", 
+            content: "And now I aske one petition of thee, deny me not. And she saide vnto him, Say on.", 
         }),
 
         ("1 kings", 2, 17) => Some(Verse { 
-            content: "", 
+            content: "And hee saide, Speake, I pray thee, vnto Solomon the king (for hee will not say thee nay) that he giue me Abishag the Shunammite to wife.", 
         }),
 
         ("1 kings", 2, 18) => Some(Verse { 
-            content: "", 
+            content: "And Bathsheba said, Wel, I will speake for thee vnto the king.", 
         }),
 
         ("1 kings", 2, 19) => Some(Verse { 
-            content: "", 
+            content: "Bathsheba therefore went vnto king Solomon, to speake vnto him for Adoniiah: and the king rose vp to meete her, and bowed himselfe vnto her, and sate downe on his throne, and caused a seate to bee set for the Kings mother, and she sate on his right hand.", 
         }),
 
         ("1 kings", 2, 20) => Some(Verse { 
-            content: "", 
+            content: "Then she said, I desire one small petition of thee, I pray thee say me not nay: and the King said vnto her, Aske on, my mother, for I will not say thee nay.", 
         }),
 
         ("1 kings", 2, 21) => Some(Verse { 
-            content: "", 
+            content: "And she saide, Let Abishag the Shunammite be giuen to Adoniiah thy brother to wife.", 
         }),
 
         ("1 kings", 2, 22) => Some(Verse { 
-            content: "", 
+            content: "And king Solomon answered, and said vnto his mother, And why doest thou aske Abishag the Shunammite for Adoniiah? Aske for him the kingdome also (for he is mine elder brother) euen for him, and for Abiathar the Priest, & for Ioab the sonne of Zeruiah.", 
         }),
 
         ("1 kings", 2, 23) => Some(Verse { 
-            content: "", 
+            content: "Then king Solomon sware by the Lord, saying, God doe so to me, and more also, if Adoniiah haue not spoken this word against his owne life.", 
         }),
 
         ("1 kings", 2, 24) => Some(Verse { 
-            content: "", 
+            content: "Now therefore as the Lord liueth, which hath established mee, and set mee on the throne of Dauid my father, and who hath made me an house as he promised, Adoniiah shall be put to death this day.", 
         }),
 
         ("1 kings", 2, 25) => Some(Verse { 
-            content: "", 
+            content: "And king Solomon sent by the hand of Benaiah the sonne of Iehoiada, and he fell vpon him that he died.", 
         }),
 
         ("1 kings", 2, 26) => Some(Verse { 
-            content: "", 
+            content: "And vnto Abiathar the Priest saide the King, Get thee to Anathoth, vnto thine own fields, for thou art worthy of death: but I will not at this time put thee to death, because thou barest the arke of the Lord God before Dauid my father, and because thou hast bene afflicted in all wherein my father was afflicted.", 
         }),
 
         ("1 kings", 2, 27) => Some(Verse { 
-            content: "", 
+            content: "So Solomon thrust out Abiathar from beeing Priest vnto the Lord: that hee might fulfill the word of the Lord, which hee spake concerning the house of Eli in Shiloh.", 
         }),
 
         ("1 kings", 2, 28) => Some(Verse { 
-            content: "", 
+            content: "Then tidings came to Ioab (for Ioab had turned after Adoniiah, though hee turned not after Absalom) and Ioab fled vnto the Tabernacle of the Lord, and caught hold on the hornes of the Altar.", 
         }),
 
         ("1 kings", 2, 29) => Some(Verse { 
-            content: "", 
+            content: "And it was told king Solomon that Ioab was fled vnto the Tabernacle of the Lord, and behold, hee is by the Altar: Then Solomon sent Benaiah the sonne of Iehoiada, saying, Goe fall vpon him.", 
         }),
 
         ("1 kings", 2, 30) => Some(Verse { 
-            content: "", 
+            content: "And Benaiah came to the Tabernacle of the Lord, and said vnto him, Thus saith the king, Come foorth. And he said, Nay, but I will die heere. And Benaiah brought the king word againe, saying, Thus said Ioab, and thus he answered me.", 
         }),
 
         ("1 kings", 2, 31) => Some(Verse { 
-            content: "", 
+            content: "And the king saide vnto him, Doe as he hath said, and fall vpon him, and bury him, that thou mayest take away the innocent blood which Ioab shed, from mee, and from the house of my father.", 
         }),
 
         ("1 kings", 2, 32) => Some(Verse { 
-            content: "", 
+            content: "And the Lord shall returne his blood vpon his owne head, who fell vpon two men, more righteous and better then hee, and slew them with the sword, my father Dauid not knowing thereof, to wit, Abner the sonne of Ner, captaine of the hoste of Israel, and Amasa the sonne of Iether, captaine of the hoste of Iudah.", 
         }),
 
         ("1 kings", 2, 33) => Some(Verse { 
-            content: "", 
+            content: "Their blood shall therefore returne vpon the head of Ioab, and vpon the head of his seed for euer: but vpon Dauid, and vpon his seede, and vpon his house, and vpon his throne, shall there bee peace for euer from the Lord.", 
         }),
 
         ("1 kings", 2, 34) => Some(Verse { 
-            content: "", 
+            content: "So Benaiah the sonne of Iehoiada went vp, and fell vpon him, and slewe him, and hee was buried in his owne house in the wildernesse.", 
         }),
 
         ("1 kings", 2, 35) => Some(Verse { 
-            content: "", 
+            content: "And the king put Benaiah the sonne of Iehoiada in his roome ouer the hoste, and Zadok the Priest did the king put in the roume of Abiathar.", 
         }),
 
         ("1 kings", 2, 36) => Some(Verse { 
-            content: "", 
+            content: "And the king sent, and called for Shimei, and said vnto him, Build thee an house in Ierusalem, and dwell there, and goe not forth thence any whither.", 
         }),
 
         ("1 kings", 2, 37) => Some(Verse { 
-            content: "", 
+            content: "For it shall be, that on the day thou goest out, & passest ouer the brooke Kidron, thou shalt know for certaine, that thou shalt surely die: thy blood shal be vpon thine owne head.", 
         }),
 
         ("1 kings", 2, 38) => Some(Verse { 
-            content: "", 
+            content: "And Shimei said vnto the King, The saying is good: as my lord the king hath said, so will thy seruant doe. And Shimei dwelt in Ierusalem many dayes.", 
         }),
 
         ("1 kings", 2, 39) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe at the end of three yeeres, that two of the seruants of Shimei ranne away vnto Achish sonne of Maachah king of Gath: and they told Shimei, saying, Beholde, thy seruants be in Gath.", 
         }),
 
         ("1 kings", 2, 40) => Some(Verse { 
-            content: "", 
+            content: "And Shimei arose, and sadled his asse, and went to Gath to Achish, to seeke his seruants: and Shimei went and brought his seruants from Gath.", 
         }),
 
         ("1 kings", 2, 41) => Some(Verse { 
-            content: "", 
+            content: "And it was told Solomon, that Shimei had gone from Ierusalem to Gath, and was come againe.", 
         }),
 
         ("1 kings", 2, 42) => Some(Verse { 
-            content: "", 
+            content: "And the king sent and called for Shimei, and said vnto him, Did I not make thee to sweare by the Lord, and protested vnto thee, saying, Know for a certaine, that on the day thou goest out, and walkest abroad any whither, that thou shalt surely die? And thou saidest vnto me, The word that I haue heard, is good.", 
         }),
 
         ("1 kings", 2, 43) => Some(Verse { 
-            content: "", 
+            content: "Why then hast thou not kept the Oath of the Lord, and the commandement that I haue charged thee with?", 
         }),
 
         ("1 kings", 2, 44) => Some(Verse { 
-            content: "", 
+            content: "The king said moreuer to Shimei, Thou knowest all the wickednesse which thine heart is priuie to, that thou diddest to Dauid my father: therefore the Lord shall returne thy wickednesse vpon thine owne head.", 
         }),
 
         ("1 kings", 2, 45) => Some(Verse { 
-            content: "", 
+            content: "And king Solomon shall be blessed, and the throne of Dauid shall bee established before the Lord for euer.", 
         }),
 
         ("1 kings", 2, 46) => Some(Verse { 
-            content: "", 
+            content: "So the king commaunded Benaiah the sonne of Iehoiada, which went out, and fell vpon him, that he died, and the kingdome was established in the hand of Solomon.", 
         }),
 
         ("1 kings", 3, 1) => Some(Verse { 

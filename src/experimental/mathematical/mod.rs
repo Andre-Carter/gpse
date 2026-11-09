@@ -2,6 +2,7 @@ pub mod algebra;
 pub mod calculus;
 pub mod combinatorics;
 pub mod discrete;
+pub mod logic;
 pub mod probability;
 pub mod sequences;
 pub mod statistics;

@@ -16,8 +16,6 @@ use crate::systems::command::tools::calculator::cli_calc;
 use crate::systems::command::tools::calculator::cli_sqrt;
 use crate::systems::command::tools::math::math_cli;
 
-use crate::mathematical::logic::switch::switch_cli;
-
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -142,10 +140,6 @@ pub fn cli_commands() {
 
             "rpg" => {
                 rpg_engine_cli();
-            }
-
-            "switch" => {
-                switch_cli();
             }
 
             "debug" => {

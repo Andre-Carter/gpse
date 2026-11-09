@@ -1,5 +1,7 @@
 use crate::experimental::programs::checklist::checklist_cli;
 
+use crate::experimental::foundation::gagets::switch::switch_cli;
+
 use crate::foundation::terminate;
 use std::io::{Write, stdin, stdout};
 
@@ -58,6 +60,10 @@ pub fn cli_commands() {
 
             "checklist" => {
                 checklist_cli();
+            }
+
+            "switch" => {
+                switch_cli();
             }
 
             "exit" => {

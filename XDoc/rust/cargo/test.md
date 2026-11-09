@@ -1,3 +1,16 @@
+rustc --version
+(powershell: echo PATH)
+
+rustup update
+rustup self uninstall
+
+cargo --version
+
+cargo new
+
+cargo check
 cargo test
 
-cargo test test_add_usize
+cargo clean
+cargo build
+

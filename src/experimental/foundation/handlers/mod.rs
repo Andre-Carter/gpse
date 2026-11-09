@@ -6,12 +6,10 @@ pub fn alpha_index(characters: char) -> i32 {
 }
 
 pub fn alphaenumerate(part: &str) {
-    let characters: Vec<_> = part.chars().collect();
-
-    
+    let _characters: Vec<_> = part.chars().collect();
 }
 
-pub fn alphabetically_order<T>(vec: Vec<T>) {
+pub fn alphabetically_order<T>(_vec: Vec<T>) {
     
 }
 

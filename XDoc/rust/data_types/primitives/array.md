@@ -16,7 +16,9 @@ for value in numbers {
     
 array: Vec<>, slice, iterator 
 
-METHODS
+METHODS	                PURPOSE
+
+.emit
 .chars()
 .len()
 .is_empty()
@@ -34,5 +36,9 @@ METHODS
 .remove()
 .split
 .split_off
-
-.emit
+.split(',')	            Split at every comma
+.split_once(',')	    Split at the first comma
+.rsplit(',')	        Split from the right
+.split_whitespace()	    Split on whitespace
+.lines()	            Split into lines
+.split_terminator(',')	Ignore trailing empty segment
