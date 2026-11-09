@@ -105,3 +105,13 @@ stack backtrace:
   32:     0x7ffa2567dda7 - BaseThreadInitThunk
   33:     0x7ffa26dbee4c - RtlUserThreadStart
 PS C:\Users\hlvdr\rubbah\gpse>
+
+11/8/2026 6:13PM
+
+read> kjv1611> 1 kings 5:1-10
+Invalid reference.
+
+thread 'main' (276) panicked at src\systems\command\library\archive\bible\kjv1611\kjv_1611_cli.rs:389:55:
+index out of bounds: the len is 1 but the index is 1
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+error: process didn't exit successfully: `target\debug\gpse.exe` (exit code: 101)

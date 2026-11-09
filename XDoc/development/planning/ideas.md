@@ -20,7 +20,7 @@
   - nomenclature, binomial nomenclature
   - fauna/floura
 
-* gpse\logs 
+* gpse\logs record information (logs vs ledger???)
 * gpse\docs
 
 // project name: rust rust
@@ -46,12 +46,12 @@ BIBLE (kjv, nkjv, nlt, amplified)
   help
   back
 
-  READ    → retrieve / navigate information
+READ    → retrieve / navigate information
 CALC    → perform calculations
 SIM     → run simulations
 MAP     → inspect spatial information
 GAME    → interact with game systems
-LOG     → record information
+LOG     → 
 
 - COMMUNICATIONS
 COMMS
