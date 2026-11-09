@@ -1,5 +1,3 @@
-use crate::archive::ledger::ledger_cli::open_ledger;
-
 //use crate::mathematical::arithmetic::arithmetic::checked_add;
 use crate::mathematical::carter::carter_family::carter_formula_cli;
 use crate::mathematical::carter::carter_family::carter_formula_repeat;
@@ -96,10 +94,6 @@ pub fn cli_commands() {
                     }
                 }
             },
-
-            "ledger" => {
-                open_ledger();
-            }
 
             "calc" => {
                 cli_calc();

@@ -1,3 +1,5 @@
+use crate::experimental::ledger::ledger_cli::open_ledger;
+
 use crate::experimental::programs::checklist::checklist_cli;
 
 use crate::experimental::foundation::gagets::switch::switch_cli;
@@ -60,6 +62,10 @@ pub fn cli_commands() {
 
             "checklist" => {
                 checklist_cli();
+            }
+
+            "ledger" => {
+                open_ledger();
             }
 
             "switch" => {
