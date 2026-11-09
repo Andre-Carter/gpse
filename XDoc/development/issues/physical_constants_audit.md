@@ -297,3 +297,28 @@ SECOND_RADATION_CONSTANT, TAU_ELECTRON_MASS_RATION, SHIELDED_PROTON_MAGNETIC_MOM
 
 status: audited, note: most were fixed in spelling audit above
 
+audit all below: 
+
+6.6 Inconsistent unit-in-name convention
+
+Names ending in "/T" use at least three spellings in identifiers: _PER_TESLA, _PER_T, _T (for example ELECTRON_..._IN_MHZ_PER_TESLA, PROTON_..._IN_MHZ_PER_T, NEUTRON_..._IN_MHZ_T). Pick one before search is built, because a search key depends on it.
+
+7. Model-level findings (not defects, but they shape the refactor)
+si_base_units is a misnomer. Of 261 entries that have a unit, 165 (63%) use units that are not SI base units: J, Hz, eV, MeV, u, E_h, GeV, T, V, ohm, and so on. The field is really unit. Only the other 96 are pure combinations of m kg s A K mol.
+None conflates two things. 92 entries have si_base_units: None, and Display prints "Dimensionless". For ratios that is right. But the unit-error check shows one ratio wrongly given kg and one kg-valued entry given None, so None cannot currently be trusted to mean dimensionless.
+Exact constants are stored with limited digits. NIST marks 81 entries (exact), and 62 of them show only the first 9 to 12 significant digits (NIST ends them with ...). They are computed from defined constants (h, c, e, k, N_A), so f64 could hold about 16 digits. Today uncertainty None claims "exact" while the stored value is truncated at 9 to 12 significant digits, a relative error of up to about 1e-9. The //... marker comments are inconsistent: 46 have //..., 2 have //.., 14 have none, and INVERSE_METER_HARTREE_RELATIONSHIP has a marker although NIST gives it an uncertainty.
+Uncertainty is stored as an absolute number, but NIST's exponent is shared with the value. That is why exponent slips (section 4) are easy to make. The migration can keep the absolute form and still preserve every digit.
+No collection. Each constant is a standalone pub static, and Rust cannot enumerate those. Search needs one list of all entries (a slice, or a macro that builds both the statics and the list).
+Display embeds ANSI colour codes (\x1b[32m) in a science type. Terminal styling belongs in the command layer.
+Style only: one literal has an underscore before the exponent (2.350_517_570_77_e5, which is also the wrong-source entry), and the symbol and alias TODO in the file header is still open.
+8. Decisions needed before the migration
+Names: keep the expanded spellings (magnetic moment) or restore NIST's verbatim text? I suggest keeping a name in full words and storing NIST's text separately only if needed.
+The 2 missing entries: add them as part of the migration, or migrate 353 first and add them in a second commit? I suggest second, so the migration is a verifiable copy.
+What migrate preserves: I suggest the copy is byte-faithful, defects included, and fixes land afterward one class at a time (values, then uncertainties, then units, then labels), each with its own commit and a test against NIST.
+Representation of units: keep the free-text string for now and decide the typed form (tied to Dimensions and Unit in science::physical::units) later.
+9. Reproducing this audit
+
+The audit is deterministic. The comparison treats allascii.txt as the authority and uses exact decimal parsing. The fixed form of this check should become a Rust test (every constant's value, uncertainty and unit equals the NIST table) so the library keeps proving itself.
+
+- changed to megahertz, tesla, 
+
