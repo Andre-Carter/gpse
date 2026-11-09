@@ -1,4 +1,4 @@
-use crate::archive::bible::kjv1611::corpus::lookup_kjv1611;
+use crate::archive::bible::kjv1611::corpus::get;
 use crate::foundation::input::text::capitalize_first_letter;
 
 use std::io::{Write, stdin, stdout};
@@ -416,7 +416,7 @@ pub fn kjv_1611_cli_funk() {
                         }
                     };
 
-                    let result = lookup_kjv1611(book, chapter, verse);
+                    let result = get(book, chapter, verse);
 
                     match result {
                         Some(verse) => println!("{}", verse),
@@ -466,7 +466,7 @@ pub fn kjv_1611_cli_funk() {
                     }
 
                     for verse in start_verse..=end_verse {
-                        let result = lookup_kjv1611(book, chapter, verse);
+                        let result = get(book, chapter, verse);
 
                         match result {
                             Some(verse_text) => println!("{}", verse_text),

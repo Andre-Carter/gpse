@@ -11,7 +11,7 @@ impl fmt::Display for Verse {
     }
 }
 
-pub fn lookup_kjv1611(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
+pub fn get(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
     match (book, chapter, verse) {
 
         // THE BOOK OF GENESIS
