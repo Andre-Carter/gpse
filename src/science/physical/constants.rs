@@ -55,8 +55,8 @@ pub static ALPHA_PARTICLE_MASS_ENERGY_EQUIVALENT: Constant = Constant {
     uncertainty: Some(0.000_000_001_9e-10),
 };
 //4
-pub static ALPHA_PARTICLE_MASS_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
-    name: "alpha particle mass energy equivalent in MeV",
+pub static ALPHA_PARTICLE_MASS_ENERGY_EQUIVALENT_IN_MEGA_ELECTRONVOLT: Constant = Constant {
+    name: "alpha particle mass energy equivalent in mega electronvolt",
     value: 3_727.379_411_8,
     units: Some("MeV"),
     uncertainty: Some(0.000_001_2),
@@ -118,8 +118,8 @@ pub static ATOMIC_MASS_CONSTANT_ENERGY_EQUIVALENT: Constant = Constant {
     uncertainty: Some(0.000_000_000_46e-10),
 };
 //13
-pub static ATOMIC_MASS_CONSTANT_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
-    name: "atomic mass constant energy equivalent in MeV",
+pub static ATOMIC_MASS_CONSTANT_ENERGY_EQUIVALENT_IN_MEGA_ELECTRONVOLT: Constant = Constant {
+    name: "atomic mass constant energy equivalent in mega electronvolt",
     value: 931.494_103_72,
     units: Some("MeV"),
     uncertainty: Some(0.000_000_29),
@@ -349,8 +349,8 @@ pub static BOHR_MAGNETON: Constant = Constant {
     uncertainty: Some(0.000_000_002_9e-24),
 };
 //46
-pub static BOHR_MAGNETON_IN_EV_PER_TESLA: Constant = Constant {
-    name: "Bohr magneton in eV per tesla",
+pub static BOHR_MAGNETON_IN_ELECTRONVOLT_PER_TESLA: Constant = Constant {
+    name: "Bohr magneton in electronvolt per tesla",
     value: 5.788_381_798_2e-5,
     units: Some("eV T^-1"),
     uncertainty: Some(0.000_000_001_8e-5),
@@ -391,8 +391,8 @@ pub static BOLTZMANN_CONSTANT: Constant = Constant {
     uncertainty: None,
 };
 //52
-pub static BOLTZMANN_CONSTANT_IN_EV_PER_K: Constant = Constant {
-    name: "Boltzmann constant in eV/K",
+pub static BOLTZMANN_CONSTANT_IN_ELECTRONVOLT_PER_KELVIN: Constant = Constant {
+    name: "Boltzmann constant in electronvolt per kelvin",
     value: 8.617_333_262e-5, //...
     units: Some("eV K^-1"),
     uncertainty: None,
@@ -566,8 +566,8 @@ pub static DEUTERON_MASS_ENERGY_EQUIVALENT: Constant = Constant {
     uncertainty: Some(0.000_000_000_94e-10),
 };
 //77
-pub static DEUTERON_MASS_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
-    name: "deuteron mass energy equivalent in MeV",
+pub static DEUTERON_MASS_ENERGY_EQUIVALENT_IN_MEGA_ELECTRONVOLT: Constant = Constant {
+    name: "deuteron mass energy equivalent in mega-electronvolt",
     value: 1_875.612_945,
     units: Some("MeV"),
     uncertainty: Some(0.000_000_58),
@@ -2127,8 +2127,8 @@ pub static RYDBERG_CONSTANT_TIMES_C_IN_HZ: Constant = Constant {
     uncertainty: Some(0.000_000_000_003_6e15),
 };
 //300
-pub static RYDBERG_CONSTANT_TIMES_HC_IN_EV: Constant = Constant {
-    name: "Rydberg constant times hc in eV",
+pub static RYDBERG_CONSTANT_TIMES_HC_IN_ELECTRONVOLT: Constant = Constant {
+    name: "Rydberg constant times hc in electronvolt",
     value: 13.605_693_122_99,
     units: Some("eV"),
     uncertainty: Some(0.000_000_000_015),
@@ -2421,8 +2421,8 @@ pub static TRITON_MASS_ENERGY_EQUIVALENT: Constant = Constant {
     uncertainty: Some(0.000_000_001_4e-10),
 };
 //342
-pub static TRITON_MASS_ENERGY_EQUIVALENT_IN_MEV: Constant = Constant {
-    name: "triton mass energy equivalent in MeV",
+pub static TRITON_MASS_ENERGY_EQUIVALENT_IN_MEGA_ELECTRONVOLT: Constant = Constant {
+    name: "triton mass energy equivalent in mega-electronvolt",
     value: 2_808.921_136_68,
     units: Some("MeV"),
     uncertainty: Some(0.000_000_88),

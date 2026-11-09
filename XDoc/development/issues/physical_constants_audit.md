@@ -322,3 +322,131 @@ The audit is deterministic. The comparison treats allascii.txt as the authority 
 
 - changed to megahertz, tesla, 
 
+***
+### NEW AUDIT LOG (above in claude, below in chatgpt)
+***
+
+# Physical Constants Audit 002
+
+**Status:** Pending source comparison  
+**Subject:** `src/science/physical/constants.rs`  
+**Reference:** NIST Fundamental Physical Constants, 2022 CODATA adjustment  
+**Scope:** Abbreviations, names, identifiers, unit distinctions, and hyphenation.
+
+## 1. Audit objectives
+
+- Inspect every constant name and identifier.
+- Identify all abbreviations in display names.
+- Identify inconsistent expansion of unit names.
+- Verify that units appearing in names are preserved where necessary to distinguish constants.
+- Record every hyphen in display names and compare it with NIST.
+- Inspect hyphen-to-underscore handling in identifiers.
+- Check capitalization, spelling, word order, and punctuation.
+- Identify duplicate or ambiguous names and identifiers.
+
+## 2. Abbreviation checklist
+
+For every occurrence:
+
+- [ ] Identify the abbreviation.
+- [ ] Record its expanded form.
+- [ ] Compare against NIST.
+- [ ] Determine whether it is ordinary prose or a standardized scientific symbol.
+- [ ] Check consistency across all 355 entries.
+- [ ] Record the proposed correction, if any.
+
+## 3. Unit-in-name checklist
+
+- [ ] Preserve distinctions between constants expressed in different units.
+- [ ] Standardize unit-name spelling.
+- [ ] Standardize SI prefixes.
+- [ ] Check frequency units: Hz, kHz, MHz, etc.
+- [ ] Check energy units: eV, MeV, GeV, etc.
+- [ ] Check temperature, length, mass, and magnetic-field units.
+- [ ] Standardize compound unit naming.
+- [ ] Verify that identifiers accurately represent the display names.
+
+## 4. Hyphen audit
+
+For every hyphen:
+
+- [ ] Record constant number.
+- [ ] Record identifier.
+- [ ] Record exact display name.
+- [ ] Record NIST wording.
+- [ ] Classify hyphen usage.
+- [ ] Determine whether it is required, optional, or incorrect.
+- [ ] Check identifier representation.
+- [ ] Record the decision.
+
+## 5. Identifier conventions
+
+- [ ] Uppercase ASCII.
+- [ ] Underscores separate words.
+- [ ] No punctuation in identifiers.
+- [ ] Unit distinctions retained.
+- [ ] SI prefixes consistently represented.
+- [ ] No unexplained abbreviations.
+- [ ] No duplicate identifiers.
+- [ ] Identifier meaning agrees with its constant.
+
+## 6. Audit results
+
+Pending source comparison.
+
+| Category | Findings |
+|---|---|
+| Abbreviations | Pending |
+| Unit naming | Pending |
+| Unit-in-name consistency | Pending |
+| Hyphenation | Pending |
+| Identifier consistency | Pending |
+| Duplicate names | Pending |
+| Duplicate identifiers | Pending |
+
+## 7. Decisions
+
+To be established after the complete comparison.
+
+## 8. Audit log
+
+Append dated findings, decisions, and corrections here.
+
+**Audit rule:** Report discrepancies and recommendations. Do not modify the constants during the audit.
+
+Brother, I think you did very well. And I agree with the order of operations: Audit the data and naming conventions first; discuss alternate data structures second. We should not redesign the representation while the identity of each entry is still being standardized.
+
+I found your existing physical_constants_audit.md, including the original audit and your subsequent audit log. That gives us a useful baseline.
+
+Three decisions already stand out:
+- Renaming si_base_units to units was correct. The field contains units such as J, Hz, eV, MeV, T, and V, not just SI base units.
+- Keeping expanded names such as magnetic moment rather than copying NIST's abbreviated display names is a sound policy.
+- Preserving units in constant names is important where the same physical relationship is expressed in different units. We should not normalize those distinctions away.
+Preliminary naming findings
+The updated constants.rs already shows progress, but it also reveals why this second audit is worthwhile.
+
+For example:
+Entry	Current identifier/name	Audit focus
+#4	...IN_MEGA_ELECTRONVOLT	Word separation and unit naming
+#13	...IN_MEGA_ELECTRONVOLT	Same convention
+#47	...IN_HZ_PER_TESLA	Abbreviation in name
+#49	...IN_KELVIN_PER_TESLA	Mixed abbreviation/expanded wording
+#77	...IN_MEGA_ELECTRONVOLT	Hyphenation in display name
+#90	...IN_MEGAHERTZ_PER_TESLA	Expanded frequency unit
+
+These are examples to investigate, not confirmed defects. We need NIST beside the current source to classify them properly.
+My proposed naming policy
+I recommend three separate rules:
+1. Display names: Expand ordinary abbreviations into full words. For example, magnetic moment, not mag. mom..
+2. Identifiers: Use uppercase ASCII words separated by underscores. Preserve meaningful unit distinctions, and establish consistent tokens for each unit.
+3. Unit expressions: Preserve standardized unit symbols such as Hz, MeV, T, and kg. Do not turn symbols into ordinary words inside the actual unit expression.
+One important nuance: a unit symbol is not merely an abbreviation. Hz is the internationally standardized symbol for hertz. We should preserve it where the field represents a unit symbol.
+
+For hyphens, I want to distinguish:
+- Hyphens in compound scientific names: fine-structure, electron-muon.
+- Hyphens connecting units or quantities: electron volt-hartree relationship.
+- Hyphens in historical designations: ampere-90.
+- Hyphens in mathematical expressions and exponents: T^-1, m^-2.
+We should record every occurrence, compare its source wording, and decide whether it belongs in the display name, identifier, or unit expression. No blanket replacement.
+
+(continue in chatgpt: the grand architecture chat)
