@@ -23,8 +23,15 @@ pub mod kjv1611;
   - nomenclature, binomial nomenclature
   - fauna/floura
 
-* gpse\logs record information (logs vs ledger???)
+* gpse\logs 
 * gpse\docs
+* gpse\journal
+
+* experimental/records
+  - docs
+  - logs
+  - ledger
+  - journal
 
 // project name: rust rust
 // description: rust compiled rust reference handbook

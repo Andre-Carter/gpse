@@ -12,6 +12,7 @@ pub mod interfaces;
 pub mod lang;
 pub mod mathematical;
 pub mod programs;
+pub mod rust_rust;
 pub mod science;
 pub mod simulation;
 pub mod systems;

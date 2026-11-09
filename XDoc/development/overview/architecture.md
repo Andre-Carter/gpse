@@ -684,3 +684,21 @@ physical owns physical definitions, measurements, dimensional analysis, and phys
 mathematical owns mathematical operations and abstractions.
 
 simulation owns simulation-specific progression and scheduling.
+
+// section 
+
+Name	Purpose	Example
+logs	Records events as they happen	Application started; calculation failed
+ledger	Maintains an organized, deliberate record	Architecture decision; module completed
+archive	Preserves historical material	Old designs, snapshots, research
+journal	Records chronological observations and thoughts	Development notes, experiments
+
+gpse/records/
+
+This is a proposed umbrella for information-management systems, not a directory we're creating now.
+Future component	Proposed home	Responsibility
+Documentation	docs/	Manuals, guides, technical documentation
+Journal	records/journal/	Chronological observations and development entries
+Logs	records/logs/	Operational events, errors and execution history
+Ledger	records/ledger/	Structured records and accounting of information
+Research	records/research/	Research findings and supporting references

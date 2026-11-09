@@ -138,3 +138,7 @@ experiments/ isn’t for code that has bugs, it’s for code that’s unproven i
 Empty scaffolding (algebra, calculus, chess, crypto, and so on): moving an empty folder just relocates it. Either keep it as a planned placeholder or delete it.
 
 thinking: ghost_gpse: for empty structures
+
+D-001 Simulation should be a top-level module
+
+D-002 Relocate ledger to experimental
