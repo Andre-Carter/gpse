@@ -702,3 +702,68 @@ Journal	records/journal/	Chronological observations and development entries
 Logs	records/logs/	Operational events, errors and execution history
 Ledger	records/ledger/	Structured records and accounting of information
 Research	records/research/	Research findings and supporting references
+
+// gpse::systems::communication
+
+src/
+└── systems/
+    └── communication/
+        ├── mod.rs
+        │
+        ├── identity/
+        │   ├── mod.rs
+        │   ├── user.rs
+        │   └── address.rs
+        │
+        ├── messaging/
+        │   ├── mod.rs
+        │   ├── message.rs
+        │   ├── conversation.rs
+        │   ├── participant.rs
+        │   └── attachment.rs
+        │
+        ├── protocol/
+        │   ├── mod.rs
+        │   ├── packet.rs
+        │   ├── serialization.rs
+        │   └── routing.rs
+        │
+        ├── transport/
+        │   ├── mod.rs
+        │   ├── network.rs
+        │   └── connection.rs
+        │
+        ├── security/
+        │   ├── mod.rs
+        │   ├── encryption.rs
+        │   ├── authentication.rs
+        │   └── permissions.rs
+        │
+        └── storage/
+            ├── mod.rs
+            ├── message_store.rs
+            └── conversation_store.rs
+1. messaging
+    - A conventional messaging application: conversations, contacts, messages, timestamps, attachments, read status, and notifications.
+2. communication infrastructure
+    - The underlying engine: message delivery, routing, identity, addressing, protocols, serialization, encryption, and transport.
+3. machine-to-machine communication
+    - GPSE instances communicating with other GPSE instances, simulation entities, external programs, and eventually autonomous agents.
+
+Build level 2 as the foundation, level 1 as the first application and level 3 as a longer-term capability
+
+Identity	Who is communicating?
+Messaging	What is being communicated?
+Protocol	How is information represented and interpreted?
+Transport	How does information travel?
+Security	Who can access or modify information?
+Storage	What information is retained?
+
+pub struct Message {
+    pub id: MessageId,
+    pub sender: UserId,
+    pub content: String,
+    pub timestamp: Timestamp,
+}
+
+Later, the protocol layer can serialize that message, the transport layer can deliver it, and the storage layer can preserve it.
