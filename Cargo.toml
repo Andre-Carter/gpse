@@ -1,8 +1,10 @@
-# GPSE - General Purpose Simulation Engine
-
 [package]
 name = "gpse"
 version = "0.1.0"
+description = "general purpose simulation engine"
+authors = ["Andre Carter"]
+license = ""
+repository = "https://github.com/Andre-Carter/gpse"
 edition = "2024"
 
 # General dependancies

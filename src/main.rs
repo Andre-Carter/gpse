@@ -1,10 +1,16 @@
+// IMPORTS
+
+
+// COMMAND SYSTEMS
 use gpse::systems::command::kernel::dispatch::command_system;
 use gpse::experimental::systems::command::kernal::dispatch::experimental_command_system;
 
+// TEST MODULES
 use gpse::programs::date_time::time::seconds_since_unix_epoc;
 use gpse::foundation::data_types::numeric::NumericType;
 use gpse::mathematical::arithmetic::arithmetic::add_u8;
 
+// STANDARD LIBRARY
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {

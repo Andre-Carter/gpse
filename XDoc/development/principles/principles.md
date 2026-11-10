@@ -1093,3 +1093,16 @@ The objective is not maximum abstraction. It is clear ownership, controlled depe
 **Build GPSE as a collection of well-defined systems, not as an inseparable application.**
 
 A system should be useful within GPSE today and capable of becoming an independent project tomorrow, provided its real dependencies are made explicit and managed deliberately.
+
+// METADATA
+
+GPSE Metadata — Initial Architectural Decisions
+1. Metadata describes the identity, characteristics, and presentation of a project, application, subsystem, or package.
+2. Metadata should have a clear owner and a single authoritative source.
+3. Static metadata should use simple compile-time representations where practical.
+4. Dynamic registries should only be introduced when runtime discovery or lookup is required.
+5. Public metadata should be deliberately exposed through Rust's module interfaces and re-exports.
+6. Independently reusable components should own their portable metadata.
+7. Extracted packages must not depend on the identity or presentation metadata of their former parent project.
+8. Package metadata should integrate with Cargo rather than unnecessarily duplicate manifest information.
+9. Metadata must remain distinct from configuration, scientific constants, and runtime data.
