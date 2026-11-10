@@ -1,5 +1,9 @@
 * MODULES *
 
+every function can be used by an interface, every interface can be have a directory, every directory can belong to a top-level system, every top-level system can be accessed through the command system. every system has a directory, can directory can have sub-directories, subdirectories map out subsystems to all of gpse functions. 
+
+every module should own its relevant cli, metadata, registry, and whatever it needs to be independant, portable. preserving both modularity, and organization. (note: refactor command system library?)
+
 #[path = "1611.rs"]
 pub mod kjv1611;
 
