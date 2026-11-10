@@ -1,182 +1,108 @@
-Rust-Rust documents Rust... in Rust.
+# WAR PANEL
+# RUST-RUST
+## Documentation Architecture & Development
+
+**Project:** GPSE  
+**Location:** `experimental::rust_rust`  
+**Classification:** Experimental Module  
+**Status:** Active Development  
+**Panel:** 001 — Initial Architecture
+
+---
+
+# PART I — SYSTEMATIC REFERENCE
+
+## 1. Vision & Identity
+
+### 1.1 Project Description
+
+Rust-Rust is an independently developed, compiled, structured technical reference handbook for the Rust programming language.
+
+It is a compiled knowledge system intended to organize, represent, preserve, and provide access to technical knowledge concerning:
+
+- The Rust programming language.
+- The Rust Standard Library.
+- Cargo and the Rust development ecosystem.
+- The Rust compiler.
+- Rust development environments.
+- Technical specifications and reference material.
+- Troubleshooting and diagnostics.
+
+### 1.2 Motto
+
+**Rust-Rust — A compiled, structured reference handbook for the Rust programming language.**
 
 A handbook written in Rust, compiled by Rust, documenting Rust.
 
-pub const OWNERSHIP: &str =
-    include_str!("documents/ownership.md");
+### 1.3 Guiding Principle
 
-Rust Rust — A compiled, structured reference handbook for the Rust programming language.
+> Rust-Rust documents Rust, in Rust.
 
-compiled knowledge system: a structured, locally accessible handbook of the Rust programming language, its standard library, its tooling, and its technical documentation.
+Rust-Rust does not seek to replace official Rust documentation, reproduce existing textbooks, or become another implementation of the Rust language.
 
-Character / sequence	Meaning	            Representation
-"	                    String delimiter	\"
-\	                    Escape character	\\
-Newline	                Line break	        \n
-Carriage return	        Carriage return	    \r
-Tab	                    Horizontal tab	    \t
-Null	                Null character	    \0
-Unicode	Unicode         code point	        \u{...}
-ASCII byte	            Hexadecimal byte	\xNN
+Its purpose is to develop an original, structured representation of Rust knowledge through Rust itself.
 
-# Delimiter:
+### 1.4 Project Boundaries
 
-let text = r#"
-Rust is interesting.
+Rust-Rust is:
 
-Example:
-let message = "Hello, Rust!";
-println!("{}", message);
-"#;
+- A technical documentation project.
+- An independently authored reference handbook.
+- A structured knowledge system.
+- A Rust implementation of its own documentation infrastructure.
+- An experimental GPSE module.
 
-Notice:
-- No \n required.
-- No escaping quotation marks.
-- Backslashes remain literal.
-- Braces remain literal.
-- Most programming syntax remains untouched.
+Rust-Rust is not:
 
-The delimiter is r#" ... "#
+- A replacement for official Rust documentation.
+- A reproduction of The Rust Programming Language book.
+- A Rust compiler or alternative programming language.
+- Primarily an introductory programming course.
 
-let text = r##"
-This contains the sequence "# without ending the string.
-"##;
+---
 
-# architecture
-src/
-└── archive/
-    └── rust_rust/
-        ├── mod.rs
-        ├── language/
-        ├── standard_library/
-        ├── cargo/
-        └── reference/
+## 2. Guiding Principles
 
-pub enum RustDivision {
-    Language,
-    StandardLibrary,
-    Cargo,
-    Reference,
-}
+1. **Technical accuracy:** Prioritize correct, verifiable technical information.
+2. **Original authorship:** Develop original definitions, descriptions, explanations, and examples.
+3. **Source accountability:** Preserve source attribution and applicable licensing information.
+4. **Structured knowledge:** Organize information into identifiable, classifiable records.
+5. **Modularity:** Keep documentation divisions and internal systems independently organized.
+6. **Portability:** Account for different operating systems, architectures, and toolchains.
+7. **Longevity:** Preserve useful technical information across Rust releases.
+8. **Separation of concerns:** Distinguish knowledge, representation, metadata, processing, and presentation.
+9. **Maintainability:** Avoid unnecessary complexity and premature infrastructure.
+10. **Experimental development:** Allow architectural concepts to be investigated before becoming permanent standards.
 
-pub fn lookup_rust(division: RustDivision) {
-    // Retrieve the requested division.
-}
+---
 
-lookup_rust(Language)
-lookup_rust(Language::Ownership)
-lookup_rust(StandardLibrary::Collections)
-lookup_rust(Cargo::Commands)
+## 3. Module Identity & Architecture
 
-One important consideration: Rust itself changes over time. Rust Rust should identify the Rust version it documents, distinguish stable from experimental features, and retain source references. Otherwise, the handbook could become misleading as the language evolves.
+**Decision: APPROVED**
 
-1. What is the Rust Reference?
-The Rust Reference is an official technical reference manual for Rust.
+Rust-Rust is an independent module within GPSE.
 
-It covers things such as:
-- Syntax and grammar.
-- Variables, types, and expressions.
-- Functions and closures.
-- Traits and implementations.
-- Ownership-related language rules.
-- Lifetimes.
-- Macros.
-- Modules and visibility.
-- Unsafe Rust.
-- Concurrency and memory behavior.
+It maintains its own internal organization and exposes an interface to the wider GPSE environment.
 
-Think of it this way:
-Resource	Purpose
-The Rust Book	Learn Rust
-Rust Reference	Look up precise language rules
-Standard Library documentation	Look up built-in types, functions, and APIs
-Cargo documentation	Understand the build and package manager
+### 3.1 Initial Module Responsibilities
 
-The Reference is particularly useful when you need precise answers rather than introductory explanations.
+| Component | Responsibility |
+|---|---|
+| `mod.rs` | Module declarations and public organization |
+| `cli.rs` | Rust-Rust command-line interface |
+| `metadata.rs` | Handbook and document metadata |
+| Division modules | Subject-specific organization |
+| Internal structures | Documentation representation and processing |
 
-* Language
-The Rust programming language itself: concepts, syntax, constructs, and behavior.
+### 3.2 Architectural Independence
 
-* StandardLibrary
-Built-in modules, types, traits, functions, collections, and utilities.
+Rust-Rust should remain independent of GPSE command infrastructure wherever practical.
 
-* Cargo
-Project management, dependencies, compilation, testing, workspaces, and packages.
+It may integrate with shared GPSE systems, but its internal documentation logic should not depend unnecessarily on the GPSE CLI or presentation layer.
 
-* Reference
-Precise technical documentation, formal language rules, specifications, and authoritative lookup material.
+### 3.3 Proposed Directory Structure
 
-One important architectural distinction:
-- language is our organized handbook of language concepts.
-- reference is our technical lookup division, organized around precise rules and authoritative documentation.
-They will overlap in subject matter, but serve different purposes.
-
-For example, ownership could be explained pedagogically in language, while its precise technical rules and associated language behavior are documented in reference.
-
-QUESTION?
-
-What exactly do we want reference to contain?
-
-There are two possible approaches:
-1. Technical Reference: A structured, detailed reference to Rust's language rules, syntax, semantics, and specifications.
-2. Source Reference: A collection of external documentation, source links, citations, official manuals, and research materials supporting all three other divisions.
-My preference is option 1. Source references can be maintained as metadata within each division or in a separate documentation system later.
-
-That gives Rust-Rust a clear identity: a compiled, structured Rust handbook with both educational and technical reference capabilities.
-
-What do you think, brother? I would settle this distinction before designing the individual folders.
-
-// section
-
-1. What Rust-Rust should contain
-I would expand our thinking beyond the original four divisions.
-
-You identified two important missing areas: installation and troubleshooting. I'd also include compiler diagnostics, environment configuration, language editions, and development workflows.
-
-Here is my proposed division of responsibilities:
-Division	Responsibility
-Language	Syntax, types, ownership, traits, generics, etc.
-Standard Library	std, modules, types, traits, functions
-Cargo	Installation, packages, dependencies, builds, tests
-Reference	Formal language rules and technical specifications
-Compiler	rustc, compilation, diagnostics, compiler options
-Environment	Toolchains, targets, operating systems, configuration
-Troubleshooting	Errors, warnings, common problems, solutions
-
-A distinction worth preserving:
-- Compiler describes the compiler and its operation.
-- Troubleshooting describes how to diagnose and resolve problems.
-- Environment describes the conditions in which Rust operates.
-- Cargo describes the project and package-management ecosystem.
-For example, a Windows application-control restriction preventing an executable from running is an environment/system restriction, not necessarily a Rust compiler error.
-
-This distinction will matter as we document our own GPSE development experiences.
-2. What does pedagogical mean?
-Pedagogical means relating to teaching or the methods and principles of teaching.
-
-For example:
-- Pedagogical: Explaining ownership through progressively harder examples.
-- Technical: Defining ownership rules, borrowing constraints, and lifetime behavior.
-- Reference: Providing a precise lookup for the relevant syntax, rules, and terminology.
-Your preference is clear: Rust-Rust should lean toward technical documentation and reference material, rather than becoming another introductory textbook.
-
-I would adopt this principle:
-
-Document the technology first. Explain only where explanation improves technical understanding.
-
-We can write our own explanations, examples, definitions, and clarifications. We don't need to reproduce the Rust Book's teaching structure.
-3. Rust-Rust's identity and module structure
-Let's confirm the implementation decisions.
-Recommended architecture
-Rust-Rust is an independent GPSE module.
-
-It should have its own:
-- mod.rs — module declarations.
-- cli.rs — command-line interface.
-- metadata.rs — structured information about the handbook and its contents.
-- Data files — external text-based documentation.
-- Internal Rust code — parsing, indexing, searching, displaying, and eventually compiling the handbook into a usable reference.
-For example:
+```text
 experimental/
 └── rust_rust/
     │
@@ -191,281 +117,558 @@ experimental/
     ├── compiler/
     ├── environment/
     └── troubleshooting/
+```
 
+The divisions are proposed organizational boundaries. Their final responsibilities and internal structures remain subject to architectural review.
 
-I would keep the module independent of the GPSE command infrastructure wherever practical. It can expose an interface to GPSE while maintaining its own internal organization.
-What belongs in metadata.rs?
-I'd make metadata describe the handbook rather than contain the handbook itself.
+---
 
-For example:
-pub struct RustMetadata {
-    pub name: &'static str,
-    pub version: &'static str,
-    pub edition: &'static str,
-    pub source: &'static str,
-}
+## 4. Documentation Divisions
 
+### 4.1 Language
 
-And your existing enum can become a useful classification mechanism:
-pub enum RustDivision {
-    Language,
-    StandardLibrary,
-    Cargo,
-    Reference,
-    Compiler,
-    Environment,
-    Troubleshooting,
-}
+The Rust programming language itself.
 
+Subject areas include:
 
-Later, we can introduce document metadata:
-- Document identifier
-- Title
-- Division
-- Source
-- Rust version
-- Edition
-- Last reviewed
-- File location
-- Copyright/license attribution
-No need for a dynamic registry yet. Static metadata is sufficient for the initial architecture.
-4. File formats: what should we use?
-This is an important decision, particularly because you want portability across Windows, Linux, and macOS.
+- Syntax and grammar.
+- Variables and mutability.
+- Types and expressions.
+- Ownership and borrowing.
+- Lifetimes.
+- Functions and closures.
+- Traits and generics.
+- Modules and visibility.
+- Macros.
+- Concurrency.
+- Unsafe Rust.
 
-My recommendation is UTF-8 plain text as the foundation.
-Format	Purpose	Recommendation
-.txt	Plain text	Supported
-.md	Structured text and documentation	Primary
-.rs	Executable/reference Rust examples	Supported
-.json	Structured machine-readable metadata	Later
-.pdf	External publications	Avoid as primary content
-.html	Web documentation	Optional import/export
+Language serves as the organized handbook of Rust language concepts and behavior.
 
-Why UTF-8?
-UTF-8 is a Unicode text encoding supported across modern operating systems.
+### 4.2 Standard Library
 
-It allows us to store:
-- Rust syntax.
-- Mathematical symbols.
-- Unicode characters.
-- Technical terminology.
-- Multilingual documentation.
-A .txt file is not automatically UTF-8, so we should explicitly establish the encoding.
+The Rust Standard Library and its public interfaces.
 
-My proposed file standard:
+Subject areas include:
 
-Recommended
- UTF-8, without BOM, with LF (\n) line endings.
+- `std` modules.
+- Primitive types.
+- Collections.
+- Traits.
+- Functions.
+- Utilities.
+- I/O.
+- Memory management interfaces.
+- Concurrency utilities.
 
-This is portable, Git-friendly, and easy to parse in Rust.
+### 4.3 Cargo
 
-Markdown is also plain text. Its formatting conventions don't make it a proprietary or binary format.
+Rust's package and project management ecosystem.
 
-I would use .md for almost all handbook content and .rs for code examples. We can support .txt without making it our primary format.
-5. Establishing our authoritative sources
-This is probably the most important decision for the longevity of Rust-Rust.
+Subject areas include:
 
-I recommend establishing a source hierarchy.
-Primary authority
+- Project creation.
+- Packages and crates.
+- Dependencies.
+- Compilation and builds.
+- Testing.
+- Workspaces.
+- Configuration.
+- Publishing.
+- Cargo commands.
 
-The Rust Project official documentation
-1. Rust Documentation
-   
-   Central documentation directory.
-2. The Rust Reference
-   
-   Our primary technical language reference.
-3. The Rust Programming Language
-   
-   The official book, useful for concepts, examples, and cross-checking.
-4. Standard Library
-   
-   Authoritative API documentation.
-5. The Cargo Book
-   
-   Cargo documentation.
-6. The rustc Book
-   
-   Compiler documentation.
+### 4.4 Reference
 
-Secondary sources
-- Rust project source repositories.
-- Official release notes.
-- Official Edition Guide.
-- Official error-code documentation.
+Precise technical lookup material, formal language rules, and specifications.
 
-The official documentation directory already distinguishes learning material, the Reference, compiler documentation, Cargo, Clippy, Rustdoc, and error listings. This is a useful foundation for our division structure. 
-Rust Documentation+1
+Reference overlaps with Language in subject matter but serves a different organizational purpose.
 
-What about your 2021 edition of the Rust Book?
-Keep it!
+For example, Language may contain an organized explanation of ownership, while Reference contains precise technical rules and language specifications relating to ownership.
 
-However, we need to distinguish three things:
-1. The book's publication/version.
-2. The Rust language edition (2021 or 2024).
-3. The installed compiler/toolchain version.
-They are not interchangeable.
+### 4.5 Compiler
 
-Your 2021 book remains a useful historical and technical resource. But we should not treat its contents as automatically current.
+The Rust compiler and its operation.
 
-The current online book assumes Rust 1.97.0 or later and the 2024 Edition. 
-The Rust Programming Language
+Subject areas include:
 
-Copyright policy
-I strongly recommend establishing these rules:
-1. Write original documentation in our own words.
-2. Do not reproduce entire chapters or substantial passages from the Rust Book.
-3. Use short quotations only when technically useful, with attribution.
-4. Preserve source links and applicable license information.
-5. Record the Rust version and edition relevant to each technical entry.
-6. Keep our original examples and experiments distinguishable from official examples.
-The Rust project uses MIT and Apache-2.0 licensing for much of its repository, but individual documentation sources and assets must be checked for their applicable licensing. Rust trademarks also have separate protections. 
-rust.googlesource.com+1
+- `rustc`.
+- Compilation stages.
+- Compiler options.
+- Diagnostics.
+- Warnings.
+- Error codes.
+- Compiler configuration.
+- Target-specific compilation.
 
+### 4.6 Environment
 
-Our handbook should be independently authored, not a repackaged Rust publication.
-6. One more thing: installation
-I would actually put installation under environment, with Cargo documenting its own installation-related commands and configuration.
+The conditions and infrastructure in which Rust operates.
 
-The distinction is that Rust installation normally involves rustup, which manages toolchains and installs components including rustc and Cargo.
+Subject areas include:
 
-Official starting point: Install Rust.
-
-We should document:
-- Windows installation.
-- Linux installation.
-- macOS installation.
-- Toolchain management.
-- Updating and uninstalling.
-- Components and targets.
-- Verification commands.
+- Installation.
+- Windows, Linux, and macOS.
+- `rustup`.
+- Toolchains.
+- Targets.
+- Components.
 - Environment variables.
-- Platform-specific prerequisites.
-This gives us a portable installation reference without making Cargo responsible for the entire Rust environment.
+- System prerequisites.
+- Configuration.
+- Updating and uninstalling Rust.
 
-7. Foundational decisions to record
-Here is the architecture I would propose adopting.
-Decision	Proposed standard
-Identity	Independent GPSE module
-Implementation	Rust
-Interface	cli.rs
-Metadata	metadata.rs
-Module declarations	mod.rs
-Primary documentation	Markdown
-Text encoding	UTF-8 without BOM
-Line endings	LF
-Code examples	.rs
-Machine metadata	Rust structs initially
-Primary authority	Official Rust documentation
-Documentation style	Technical, concise, independently authored
-Copyright	Original writing, attribution, license awareness
+### 4.7 Troubleshooting
 
-8. Before we build: three architectural questions
-I want to settle three things with you rather than prematurely construct the module.
+The diagnosis and resolution of Rust development problems.
 
-A. Should Reference remain its own division?
+Subject areas include:
 
-I lean toward yes. It can hold technical language rules and cross-referenced specifications, while Language holds our organized technical entries.
+- Compilation failures.
+- Compiler errors.
+- Warnings.
+- Cargo failures.
+- Dependency conflicts.
+- Toolchain problems.
+- Environment restrictions.
+- Linking errors.
+- Common configuration problems.
+- Diagnostic procedures.
 
-B. Should Compiler, Environment, and Troubleshooting each be separate directories?
+**Classification distinction:**
 
-I lean toward yes. They're substantial enough to warrant independent ownership.
+- Compiler documents compiler behavior.
+- Environment documents operating conditions.
+- Troubleshooting documents diagnostic and corrective procedures.
+- Cargo documents project and package management.
 
-C. What does compiled mean for Rust-Rust?
+A Windows application-control restriction preventing execution of a compiled program, for example, is an environment or system restriction rather than necessarily a compiler error.
 
-I see two possible interpretations:
-- Compiled handbook: Markdown and text files are processed into a searchable, structured reference accessible through our CLI.
-- Compiled documentation: The handbook itself is primarily represented as Rust data structures and constants, with external text files serving as source material.
-My recommendation is the first, with the second available for selected metadata and fixed reference data.
+---
 
-I particularly want to avoid embedding thousands of lines of documentation directly into Rust source files.
+## 5. Documentation Design & Organization
 
-My guiding principle for this project:
-Rust-Rust documents Rust. It does not attempt to become Rust, replace Rust's official documentation, or reproduce someone else's textbook.
+### 5.1 Documentation Philosophy
 
-Let's establish the architecture, brother. Then we can build the foundation without having to reorganize everything later.
+Rust-Rust prioritizes technical documentation and reference material over conventional textbook instruction.
 
-# WAR PANEL
+Guiding statement:
 
-# WAR PANEL — RUST-RUST
-## Documentation Architecture & Identity
+> Document the technology first. Explain only where explanation improves technical understanding.
 
-**Status:** APPROVED / UNDER REVIEW  
-**Project:** GPSE — Experimental  
-**Subject:** Rust-Rust
+Pedagogical material may be included where useful, but lessons and exercises are not mandatory organizational structures.
 
-### 1. Vision
+### 5.2 Document Types
 
-Rust-Rust is an independently developed, compiled, structured technical reference handbook for the Rust programming language.
+| Type | Purpose |
+|---|---|
+| Introduction | Introduces a subject |
+| Overview | Provides a general technical overview |
+| Reference | Records precise technical information |
+| Definition | Establishes terminology |
+| Specification | Documents formal requirements or behavior |
+| Example | Demonstrates a technical concept |
+| Guide | Documents a procedure or workflow |
+| Appendix | Provides supplementary information |
 
-**Guiding principle:**
+These are proposed document classifications.
 
-> Rust-Rust documents Rust, in Rust.
+### 5.3 Handbook Hierarchy
 
-Rust-Rust does not seek to replace official Rust documentation, reproduce existing textbooks, or become another implementation of the Rust language.
+Proposed hierarchy:
 
-Its purpose is to organize, represent, preserve, and provide access to technical knowledge about Rust through Rust itself.
+```text
+Rust-Rust
+    │
+    ├── Division
+    │     │
+    │     └── Document
+    │             │
+    │             └── Section
+    │                     │
+    │                     └── Subsection
+    │                             │
+    │                             └── Content
+```
 
-### 2. Module Identity — APPROVED
+Not every document requires sections or subsections.
 
-Rust-Rust remains an independent module within GPSE.
+### 5.4 Introduction
 
-It maintains its own:
-- `mod.rs`
-- `cli.rs`
-- `metadata.rs`
-- Documentation divisions.
-- Internal data structures and constants.
+Two distinct introductory documents are proposed.
 
-### 3. Documentation Representation — UNDER REVIEW
+**Rust-Rust Introduction**
 
-The handbook should primarily be represented through Rust data structures, constants, and structured information.
+Introduces the handbook itself:
 
-External text files may serve as source material, but Markdown will not be adopted merely for convenience.
+- Identity and purpose.
+- Scope.
+- Organization.
+- Documentation principles.
+- Sources and attribution.
+- Navigation.
 
-The objective is to develop a documentation system that is native to Rust-Rust's architecture.
+**Rust Language Introduction**
 
-A separate project, provisionally named **RustMD**, may investigate Markdown processing in the future. This is not a current development priority.
+Introduces the Rust programming language:
 
-### 4. Documentation Authorship — APPROVED
+- What Rust is.
+- Design objectives.
+- Compilation model.
+- Principal characteristics.
+- Ecosystem.
 
-Rust-Rust will prioritize independently authored technical documentation.
+The Rust-Rust Introduction is a handbook-level document rather than a document belonging to the Language division.
 
-Principles:
+---
+
+## 6. Sources & Authority
+
+### 6.1 Primary Authority
+
+The Rust Project's official documentation is the primary technical authority.
+
+1. Rust Documentation — https://doc.rust-lang.org/stable/
+2. Rust Reference — https://doc.rust-lang.org/stable/reference/
+3. The Rust Programming Language — https://doc.rust-lang.org/stable/book/
+4. Standard Library — https://doc.rust-lang.org/stable/std/
+5. The Cargo Book — https://doc.rust-lang.org/cargo/
+6. The rustc Book — https://doc.rust-lang.org/rustc/
+
+### 6.2 Secondary Sources
+
+- Official Rust project repositories.
+- Official release notes.
+- Rust Edition Guide.
+- Official compiler error-code documentation.
+- Other authoritative technical resources where appropriate.
+
+### 6.3 Source Hierarchy
+
+The official documentation establishes the primary reference hierarchy, but individual technical claims should be traced to the most relevant authoritative source.
+
+The Rust Book is a reference for learning and cross-checking, not a template to reproduce.
+
+### 6.4 Copyright & Attribution
+
+**Decision: APPROVED**
+
+Rust-Rust will prioritize independently authored documentation.
+
+Requirements:
+
+- Original writing.
 - Original explanations and definitions.
-- Concise technical descriptions.
 - Original code examples where practical.
-- Attribution of authoritative sources.
-- Respect for copyright and applicable licenses.
-- Clear distinction between official specifications and original commentary.
+- Attribution of external sources.
+- Respect for applicable licenses.
+- Clear differentiation between official material and original commentary.
 
-The Rust programming language and its official documentation serve as primary references, not material to reproduce wholesale.
+The licensing terms of each source must be checked individually. Rust project licensing does not automatically grant permission to reproduce every external resource or asset.
 
-### 5. Presentation — APPROVED
+Rust trademarks and branding must also be respected.
 
-Initial interface: CLI.
+---
 
-Future presentation: HTML.
+## 7. Presentation
 
-The underlying documentation representation should remain independent of its presentation.
+**Decision: APPROVED**
 
-### 6. Research & Technical Considerations — UNDER REVIEW
+Initial presentation:
 
-The following require further investigation:
+- Command-line interface.
 
-- Internal document representation.
-- Rust constants versus structured document types.
+Future presentation:
+
+- HTML.
+
+The documentation representation should remain independent of its presentation.
+
+The same underlying knowledge should eventually be accessible through different presentation systems without requiring a separate copy of the documentation.
+
+---
+
+# PART II — DEVELOPMENT WORKSPACE
+
+## 8. Knowledge Architecture
+
+**Status: UNDER REVIEW**
+
+A major architectural objective is to represent the handbook through structured Rust records rather than an unorganized collection of strings.
+
+### 8.1 Proposed Knowledge Components
+
+**RustDocument**
+
+Represents an identifiable handbook document.
+
+Potential properties:
+
+- Document identifier.
+- Title.
+- Division.
+- Document type.
+- Rust version.
+- Edition.
+- Source.
+- Content.
+
+**RustSection**
+
+Represents an organizational component within a document.
+
+Potential properties:
+
+- Section identifier.
+- Title.
+- Position.
+- Content.
+
+**RustContent**
+
+Represents the information contained within a section.
+
+Potential content categories:
+
+- Paragraphs.
+- Definitions.
+- Code examples.
+- Tables.
+- Lists.
+- Technical notes.
+- Citations.
+
+### 8.2 Proposed Classification Types
+
+- `RustDivision` — classifies subject matter.
+- `DocumentKind` — classifies document purpose.
+- `RustMetadata` — describes the handbook.
+- `RustSource` — records documentation provenance.
+
+### 8.3 Proposed Metadata
+
+Potential document metadata:
+
+- Document identifier.
+- Title.
+- Division.
+- Document type.
+- Source.
+- Rust version.
+- Edition.
+- Last reviewed.
+- File location.
+- Copyright and license attribution.
+
+Metadata should describe and identify documentation, not replace the documentation itself.
+
+Initially, static metadata is preferred over a dynamic registry.
+
+---
+
+## 9. Technical Investigation
+
+**Status: UNDER REVIEW**
+
+### 9.1 Documentation Representation
+
+Investigate:
+
+- Rust structs and enums.
+- Constants and static data.
+- Structured content types.
+- String representation.
+- Raw string literals.
+- Compile-time inclusion of external files.
+- `include_str!`.
+- Document indexing.
+- Search and retrieval.
+
+The objective is to develop a native Rust representation of the handbook.
+
+External text files may be investigated as source material, but Markdown is not adopted as the primary handbook format.
+
+### 9.2 Rust String Considerations
+
+Conventional string literals use escaping for special characters.
+
+| Character or sequence | Escape |
+|---|---|
+| Double quotation mark | `\"` |
+| Backslash | `\\` |
+| Newline | `\n` |
+| Carriage return | `\r` |
+| Horizontal tab | `\t` |
+| Null character | `\0` |
+| Unicode code point | `\u{...}` |
+| ASCII hexadecimal byte | `\xNN` |
+
+Raw string literals (`r#"..."#`) allow quotation marks, backslashes, braces, and actual line breaks without conventional escaping.
+
+The number of delimiter `#` characters can be increased when necessary.
+
+These are technical options, not yet a final decision about how the handbook will represent its content.
+
+### 9.3 File Format & Portability
+
+**Status: UNDER REVIEW**
+
+Investigate a consistent cross-platform text representation.
+
+Considerations:
+
+- Character encoding.
+- Unicode support.
+- Line endings.
+- File extensions.
+- Compile-time versus runtime access.
+- External file distribution.
+- Operating-system compatibility.
+
+UTF-8 is the preferred encoding candidate.
+
+Markdown is not approved as the primary documentation format.
+
+### 9.4 RustMD
+
+A separate experimental project provisionally named RustMD may investigate Markdown processing.
+
+RustMD is not part of the current Rust-Rust development priority.
+
+---
+
+## 10. Technical Interface & Functions
+
+**Status: UNDER REVIEW**
+
+### 10.1 Lookup Concept
+
+Proposed conceptual interface:
+
+```rust
+pub fn lookup_rust(division: RustDivision) {
+    // Retrieve the requested division.
+}
+```
+
+Potential future lookups:
+
+```rust
+lookup_rust(Language);
+lookup_rust(Language::Ownership);
+lookup_rust(StandardLibrary::Collections);
+lookup_rust(Cargo::Commands);
+```
+
+These examples represent the desired lookup experience, not finalized Rust syntax or implemented APIs.
+
+The actual interface will need to distinguish division selection from document and section identification.
+
+### 10.2 Functional Objectives
+
+Potential capabilities:
+
+- Document retrieval.
+- Division retrieval.
+- Section navigation.
+- Document search.
+- Metadata lookup.
+- Source lookup.
+- Version filtering.
+- CLI presentation.
+- HTML presentation.
+
+---
+
+## 11. Foundation & Build Plan
+
+**Status: PROPOSED**
+
+Suggested development sequence:
+
+1. Establish the Rust-Rust module structure.
+2. Finalize handbook identity and documentation principles.
+3. Define the metadata architecture.
+4. Investigate structured document representation.
+5. Establish document classification.
+6. Establish source and attribution records.
+7. Design the Rust-Rust Introduction.
+8. Implement the first document representation.
+9. Implement basic document retrieval.
+10. Develop the CLI interface.
+11. Expand the handbook divisions.
+12. Investigate HTML presentation.
+
+This sequence is provisional and may be revised as architectural research progresses.
+
+---
+
+## 12. Open Questions & Research Register
+
+The following matters remain unresolved:
+
+1. Should the document architecture use a hierarchical, independent-record, or hybrid model?
+2. What should the finalized `RustDocument` structure contain?
+3. Should every section and content entry have an independent identifier?
+4. How should document versions relate to Rust releases and language editions?
+5. How should source attribution and licensing be represented?
+6. How should structured documentation be compiled?
+7. What external text-file format, if any, should be supported?
+8. Should content be represented as enums, structs, constants, or a combination?
+9. How should the handbook perform searching and indexing?
+10. How should CLI and HTML presentation share the same underlying data?
+
+---
+
+## 13. Development Decisions Register
+
+### Approved
+
+- Independent GPSE module.
+- Own `mod.rs`, `cli.rs`, and `metadata.rs`.
+- Original technical documentation.
+- Source attribution and copyright awareness.
+- CLI as the initial presentation.
+- HTML as a future presentation.
+- Independent documentation identity.
+
+### Under Review
+
+- Seven proposed documentation divisions.
+- Internal document and section architecture.
+- Structured Rust knowledge representation.
 - External text-file integration.
-- Character encoding and cross-platform compatibility.
-- Metadata and document identification.
-- Rust version and edition tracking.
-- Source attribution and licensing.
-- Compilation and indexing strategy.
+- Encoding and portability standards.
+- Metadata schema.
+- Compilation and indexing.
+- Search and retrieval architecture.
 
-### 7. Architectural Principle
+### Future Considerations
 
-Separate knowledge, representation, metadata, and presentation.
+- RustMD.
+- Expanded HTML presentation.
+- More advanced search.
+- Version-aware documentation.
+- Additional interfaces and export capabilities.
 
-Rust-Rust should remain maintainable as its documentation grows, without becoming an unstructured collection of strings or a reproduction of external publications.
+---
 
-**End of panel entry.**
+## 14. Immediate Starting Point
+
+**First documentation milestone: Rust-Rust Introduction.**
+
+Before substantial documentation production, establish:
+
+- Handbook identity.
+- Scope.
+- Organization.
+- Documentation conventions.
+- Source and attribution conventions.
+- Document representation.
+
+**Closing Principle**
+
+Rust-Rust documents Rust, in Rust.
+
+The project should remain a maintainable, independently authored, structured technical knowledge system, built with the same care and engineering principles that govern GPSE.
+
+**END OF WAR PANEL — RUST-RUST / 001**

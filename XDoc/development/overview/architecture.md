@@ -767,3 +767,13 @@ pub struct Message {
 }
 
 Later, the protocol layer can serialize that message, the transport layer can deliver it, and the storage layer can preserve it.
+
+// SECTION
+
+Establish systems/command/ as the shared command-system home.
+Keep library beside core.
+Preserve mathematical_cli() -> numeric_cli() as the handler hierarchy.
+Keep the double-mirror concept documented as deferred.
+Update module declarations and verify the refactor with cargo fmt -- --check and cargo check.
+
+// SECTION

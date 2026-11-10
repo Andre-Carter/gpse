@@ -14,3 +14,16 @@ The identity and foundational philosophy of GPSE.
 - motto.md
 - objectives.md
 - strategy.md
+
+long-lived digital artifact
+
+Rust-native, self-contained, long-lived environment.
+
+Own the foundation. Understand the dependencies. Respect the ecosystem. Build deliberately.
+
+Research deeply.
+Think boldly.
+Build deliberately.
+Own the foundation.
+
+Build an application that demonstrates the need for infrastructure. Build the infrastructure so other applications can benefit from it.

@@ -315,3 +315,47 @@ The purpose of this procedure is not to eliminate complexity or require unnecess
 Evaluate the dimensions. Name the components accurately. Consider safety. Think about the wider system. Implement, verify, document, and improve.
 
 One cog at a time.
+
+// SECTION
+
+GPSE feeds itself.
+
+A new mathematical tool can improve the simulation.
+
+A simulation can reveal a need for new mathematics.
+
+Science can require new dimensional systems.
+
+The dimensional system can improve physical equations.
+
+The equations can feed simulation.
+
+The simulation can produce data.
+
+The data can require new visualization.
+
+The visualization can reveal patterns.
+
+The patterns can become research.
+
+And research becomes documentation.
+
+And documentation tells us what to build next.
+
+But remember the law of the forge:
+
+GROWTH ≠ RUSH.
+
+One folder.
+
+One system.
+
+One function.
+
+One experiment.
+
+One cargo check.
+
+One commit.
+
+One push.

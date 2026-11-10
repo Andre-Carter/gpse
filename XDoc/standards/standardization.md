@@ -40,6 +40,18 @@ can be trusted. Define terms here only; other documents link to this file.
 
 ## Status (lifecycle)
 
+Standards and lifecycle
+The standardization document contains a useful three-axis model:
+Axis	                    Examples	                                                        What it answers
+
+Implementation lifecycle	[Planned, Experimental, Implemented, Retired]	                    What stage is this component in?
+Trust	                    [Compiles only, Tested, Audited]	                                How much confidence do we have?
+Decision/research status	[Approved, Proposed, Rejected; Known, Hypothesis, Disproven]	    What do we know and what have we decided?
+
+This is a strong design.
+
+It means an implementation can be complete but only compile-tested. A proposed architecture can have a prototype. A tested implementation can still be experimental.
+
 | Value | Meaning |
 |---|---|
 | Planned | Intended, not yet started. |
