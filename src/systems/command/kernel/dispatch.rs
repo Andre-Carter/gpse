@@ -17,7 +17,7 @@ fn read(input: &mut String) {
     stdin().read_line(input).expect("failed to read");
 }
 
-pub fn cli_commands() {
+pub fn command_system() {
     println!();
     println!("COMMAND SYSTEMS ONLINE!");
     println!("Enter \"help\" for commands.");

@@ -1,9 +1,8 @@
+use gpse::systems::command::kernel::dispatch::command_system;
+use gpse::experimental::systems::command::kernal::dispatch::experimental_command_system;
+
 use gpse::programs::date_time::time::seconds_since_unix_epoc;
-
-use gpse::systems::command::kernel::dispatch::cli_commands;
-
 use gpse::foundation::data_types::numeric::NumericType;
-
 use gpse::mathematical::arithmetic::arithmetic::add_u8;
 
 use std::io::{Write, stdin, stdout};
@@ -45,7 +44,11 @@ fn main() {
 
         match command.as_str() {
             "command" => {
-                cli_commands();
+                command_system();
+            }
+
+            "experimental" => {
+                experimental_command_system();
             }
 
             "exit" => {

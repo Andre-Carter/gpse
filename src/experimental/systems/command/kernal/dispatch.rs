@@ -8,6 +8,8 @@ use crate::experimental::mathematical::carter::carter_family::carter_formula_rep
 
 use crate::experimental::systems::command::library::rpg_engine::rpg_engine_cli::rpg_engine_cli;
 
+use crate::experimental::rust_rust::cli::rust_rust_interface;
+
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -15,7 +17,7 @@ fn read(input: &mut String) {
     stdin().read_line(input).expect("failed to read");
 }
 
-pub fn cli_commands() {
+pub fn experimental_command_system() {
     println!();
     println!("* EXPERIMENTAL * COMMAND SYSTEMS ONLINE!");
     println!("Enter \"help\" for commands.");
@@ -63,6 +65,10 @@ pub fn cli_commands() {
 
             "rpg" => {
                 rpg_engine_cli();
+            }
+
+            "rust-rust" => {
+                rust_rust_interface();
             }
 
             "exit" => {

@@ -11,6 +11,10 @@ pub fn initialize() {
     println!("GPSE online");
 }
 
+//pub static TERMINATION: String = "use to shutdown the system";
+
 pub fn terminate() -> ! {
     panic!("System terminated");
 }
+
+//pub static TERMINATED: String = "system terminated!";
