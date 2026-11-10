@@ -1,6 +1,3 @@
-//use crate::foundation::TERMINATED;
-//use crate::foundation::TERMINATION;
-use crate::foundation::terminate;
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -15,15 +12,15 @@ pub fn rust_rust_interface() {
     println!();
 
     loop {
-        print!("GPSE> COMMAND> RUST RUST>");
+        print!("RUST-RUST>");
 
         let mut command: String = String::new();
 
         read(&mut command);
 
-        let command = command.trim().to_lowercase();
+        let command = command.trim();
 
-        match command.as_str() {
+        match command {
             "help" => {
                 println!();
                 println!("GPSE COMMANDS:");
@@ -38,12 +35,12 @@ pub fn rust_rust_interface() {
             
 
             "exit" => {
-                println!("Exiting GPSE COMMAND SYSTEM...");
+                println!("Exiting Rust-Rust");
                 break;
             }
 
             "terminate" => {
-                terminate();
+                panic!("Terminated");
             }
 
             _ => {
