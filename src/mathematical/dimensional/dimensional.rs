@@ -1,10 +1,12 @@
 //use crate::science::physical::units::Units;
 //use crate::science::physical::constants::SPEED_OF_LIGHT_IN_VACUUM;
+use::std::fmt;
 
 pub struct Mass {
 
 }
 
+#[derive(Debug)]
 pub struct Dimensions {
     pub mass: i8,
     pub length: i8,
@@ -18,6 +20,12 @@ impl Dimensions {
 
     pub fn mass() {
         Self::new(1, 0, 0);
+    }
+}
+
+impl fmt::Display for Dimensions {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        write!(f, "M^{}, L^{}, T^{}", self.mass, self.length, self.time)
     }
 }
 

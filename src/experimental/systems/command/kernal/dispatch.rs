@@ -26,7 +26,7 @@ pub fn experimental_command_system() {
     println!();
 
     loop {
-        print!("GPSE> COMMAND> EXPERIMENTAL>");
+        print!("GPSE> COMMAND> EXPERIMENTAL> ");
 
         let mut input: String = String::new();
 

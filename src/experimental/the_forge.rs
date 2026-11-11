@@ -1,5 +1,5 @@
 pub fn test_suite() {
-let generic = Dimensions::mass();
+let generic = Dimensions::new(1, 1, -2);
 
 println!("{:?}", generic);
 }
