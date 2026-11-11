@@ -1,5 +1,7 @@
 use crate::foundation::terminate;
 
+use crate::experimental::the_forge::test_suite;
+
 use crate::experimental::foundation::gagets::switch::switch_cli;
 use crate::experimental::ledger::ledger_cli::open_ledger;
 use crate::experimental::programs::checklist::checklist_cli;
@@ -41,6 +43,10 @@ pub fn experimental_command_system() {
                 println!("{:<20} (back directory)", "exit");
                 println!("{:<20} (close gpse)", "terminate");
                 println!();
+            }
+
+            "test" => {
+                test_suite();
             }
 
             "carter" => {
