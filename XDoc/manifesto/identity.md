@@ -1,6 +1,6 @@
 Manifesto: What does GPSE believe, value, and aspire to become?
 
-project name ideas: agape, dragon, orca, prizm, light, void,  
+project name ideas: lua, luna, luana, agape, dragon, orca, prizm, light, void,  
 
 - fruits of the spirit
 - abbeviation combination

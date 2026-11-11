@@ -414,3 +414,91 @@ Prompt 3:
 Dimensional analysis beyond mechanics, plus how it is used in real research
 
 Extend dimensional analysis beyond M, L, T. Cover temperature (Θ), electric current (I), amount of substance (N), and luminous intensity (J), and show how electromagnetism, thermodynamics, and chemistry quantities are expressed in the full SI dimensional system. Then explain natural units and Planck units, how physicists set c = ħ = G = 1, and how Fermi estimation and order-of-magnitude reasoning use dimensions. Include historical examples where dimensional reasoning produced real discoveries (such as G. I. Taylor's estimate of the Trinity explosion energy from photographs), and explain how to recognize when dimensional analysis will and will not work. Please flag any citations or historical details I should double check, since I need to verify them independently.
+
+// SECTION 3
+
+fn superscript(n: i8) -> String {
+    n.to_string()
+        .chars()
+        .map(|c| match c {
+            '-' => '⁻',
+            '0' => '⁰', '1' => '¹', '2' => '²', '3' => '³', '4' => '⁴',
+            '5' => '⁵', '6' => '⁶', '7' => '⁷', '8' => '⁸', '9' => '⁹',
+            other => other,
+        })
+        .collect()
+}
+
+impl fmt::Display for Dimensions {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        let parts = [("M", self.mass), ("L", self.length), ("T", self.time)];
+        let mut wrote_any = false;
+
+        for (symbol, exp) in parts {
+            if exp == 0 {
+                continue;
+            }
+            if wrote_any {
+                write!(f, " ")?;
+            }
+            write!(f, "{symbol}")?;
+            if exp != 1 {
+                write!(f, "{}", superscript(exp))?;
+            }
+            wrote_any = true;
+        }
+
+        if !wrote_any {
+            write!(f, "1")?;
+        }
+        Ok(())
+    }
+}
+
+Some sample output:
+
+Dimensions	Prints
+new(1, 1, -2)	M L T⁻²
+new(1, 2, -3)	M L² T⁻³
+new(0, 0, 0)	1
+
+The ? after each write! passes along any formatting error. The final Ok(()) signals success.
+
+Fixing the constructors
+
+rust
+impl Dimensions {
+    pub const fn new(mass: i8, length: i8, time: i8) -> Self {
+        Self { mass, length, time }
+    }
+
+    pub const DIMENSIONLESS: Self = Self::new(0, 0, 0);
+    pub const MASS: Self = Self::new(1, 0, 0);
+    pub const LENGTH: Self = Self::new(0, 1, 0);
+    pub const TIME: Self = Self::new(0, 0, 1);
+}
+
+Associated constants fit better than mass() functions, because the values are fixed and can be used in other constants:
+
+rust
+pub const VELOCITY: Dimensions = Dimensions::new(0, 1, -1);
+pub const FORCE: Dimensions = Dimensions::new(1, 1, -2);
+
+Object design: where we can go next
+
+Your struct already maps directly onto the lesson, because the exponent rules become operator overloads:
+
+Multiply adds exponents, so impl Mul for Dimensions.
+Divide subtracts exponents, so impl Div for Dimensions.
+Power multiplies exponents, so a powi(n) method.
+Add and subtract require equal dimensions (Rule 4), which raises the question of how to handle mismatches.
+Derives: #[derive(Debug, Clone, Copy, PartialEq, Eq, Hash)] gives you equality checks and the ability to use dimensions as map keys.
+Fractional exponents: sqrt needs exponents like ½, which i8 can’t hold. That’s the pendulum result (√(l/g)), so you may want a small rational type instead.
+
+The biggest design question is when mismatches get caught. A runtime check is simple: add returns a Result and fails if the dimensions differ. A compile-time check puts the dimensions in the type system, so meters + seconds won’t compile at all. That route is more powerful but much more complex in Rust. It’s what the uom crate does, and stable const generics can’t yet do arithmetic on exponents.
+
+Which direction do you want to explore first: a runtime-checked Quantity { value: f64, dims: Dimensions } with operators, or the compile-time approach?
+
+// SECTION 4
+
+// SECTION 5
