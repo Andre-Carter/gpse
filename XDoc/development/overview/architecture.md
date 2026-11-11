@@ -777,3 +777,70 @@ Keep the double-mirror concept documented as deferred.
 Update module declarations and verify the refactor with cargo fmt -- --check and cargo check.
 
 // SECTION
+
+General Purpose Simulation Engine *
+                    ┌──────────────────────┐
+                    │     Application      │
+                    │   / Simulation Model │
+                    └──────────┬───────────┘
+                               │
+                    ┌──────────▼───────────┐
+                    │    GPSE Runtime      │
+                    │                      │
+                    │  lifecycle           │
+                    │  scheduling          │
+                    │  time                │
+                    │  execution           │
+                    │  checkpoints         │
+                    └──────────┬───────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             │                 │                 │
+      ┌──────▼──────┐  ┌──────▼──────┐  ┌──────▼──────┐
+      │    State    │  │   Events    │  │   Systems   │
+      │             │  │             │  │             │
+      │ entities    │  │ scheduled   │  │ dynamics    │
+      │ resources   │  │ external    │  │ rules       │
+      │ components  │  │ internal    │  │ solvers     │
+      └─────────────┘  └─────────────┘  └─────────────┘
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               │
+                    ┌──────────▼───────────┐
+                    │     Infrastructure   │
+                    │                      │
+                    │ RNG                  │
+                    │ serialization        │
+                    │ telemetry            │
+                    │ logging              │
+                    │ checkpointing        │
+                    │ parallel execution   │
+                    └──────────────────────┘
+
+// SECTION
+
+# Architectural Decision Records
+
+Significant architectural decisions should eventually be recorded.
+
+Potential location:
+
+```text
+docs/
+    architecture/
+    decisions/
+```
+
+An architectural decision record should ideally explain:
+
+```text
+Decision:
+Why:
+Alternatives considered:
+Tradeoffs:
+Consequences:
+Date:
+Status:
+```
+
+The goal is to preserve reasoning, not merely conclusions.

@@ -1,8 +1,41 @@
+Location: gpse/README.md
+Purpose: Project-wide introduction
 # GPSE
+Index: Identity, Mission, Vision, Principles, Strategy
 
-What is GPSE?
+## IDENTITY
 
-THE GPSE FOUNDATION
+Author: Andre Carter
+Repository: https://github.com/Andre-Carter/gpse
+Description: General Purpuse Simulation Engine
+
+## MISSION
+
+***Prime Directive*** Above all: 
+> **Build a simulation engine we can trust.**
+Not merely an engine that runs, benchmarks well, has impressive abstractions.
+An engine whose behavior is understandable, reproducible, testable, observable, extensible, and honest about its limitations.
+The architecture may change. The scope may change. The implementation may change. The principles should change only when we have a good reason.
+**GPSE is allowed to become something better than the original idea.**
+
+## VISION
+
+A long-term Rust project intended to develop a flexible, reliable, deterministic, and extensible simulation engine. The exact final scope of GPSE is intentionally **not fixed**. Rather than prematurely defining GPSE around one simulation domain, the project should evolve toward a general simulation kernel capable of supporting multiple simulation paradigms when justified by actual requirements.
+
+## OJECTIVES
+
+1. Archive, library, data system
+2. Commandline interface, graphical user interface, websites
+2. Applications, programs, tools, scripts
+3. Simulation Enviroment, game engines, games, gaming
+
+## PRINCIPLES
+
+* Documentation
+* Standardization 
+* Acessability
+* Test
+* Modularity
 
 UNDERSTAND THE FUNDAMENTALS.
 BUILD WITH INTENTION.
@@ -10,125 +43,65 @@ PRESERVE THE KNOWLEDGE.
 PROTECT THE FUTURE.
 GROW WITHOUT LOSING THE VISION.
 
-What is the project trying to become?
+Organize my category, mirror, independent modules can be exported. 
 
-What are its core architectural principles?
+## STRATEGY
+
+
+
+
+
+
+
 
 How is the source tree organized?
+# Source Tree
+# of
+# gpse\
 
-How do you build, run, and test it?
+## src\
+### archive\
+### experimental\
+### foundation\
+### mathematical\
+### metadata\
+### programs\
+### science\
+### systems\
+### lib.rs
+### main.rs
+
+## target\
+## vault\
+## XDoc\
+## XGPSE\
+## .gitignore
+## Cargo.lock
+## Cargo.toml
+## gpse_war_panel.md
+## README.md
+
+## Documentation Organization and Navigation
+
+### XDoc/
+
+1. ai
+2. culture
+3. development
+4. guides
+5. manifesto
+6. references
+7. research
+8. sources
+9. standards
+10. war_room
+11. XGPSE - Source-mirrored documentation      
+12. README.md **This document you are currently reading**
 
 Where can you find the roadmap and research?
 
-How do you navigate XDoc and XGPSE?
-
-GPSE/README.md
-    ↓
-Project-wide introduction
-
-XDoc/README.md
-    ↓
-Documentation organization and navigation
-
-XDoc/XGPSE/README.md
-    ↓
-Source-mirrored documentation
-
-General Purpose Simulation Engine *
-                    ┌──────────────────────┐
-                    │     Application      │
-                    │   / Simulation Model │
-                    └──────────┬───────────┘
-                               │
-                    ┌──────────▼───────────┐
-                    │    GPSE Runtime      │
-                    │                      │
-                    │  lifecycle           │
-                    │  scheduling          │
-                    │  time                │
-                    │  execution           │
-                    │  checkpoints         │
-                    └──────────┬───────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-      ┌──────▼──────┐  ┌──────▼──────┐  ┌──────▼──────┐
-      │    State    │  │   Events    │  │   Systems   │
-      │             │  │             │  │             │
-      │ entities    │  │ scheduled   │  │ dynamics    │
-      │ resources   │  │ external    │  │ rules       │
-      │ components  │  │ internal    │  │ solvers     │
-      └─────────────┘  └─────────────┘  └─────────────┘
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               │
-                    ┌──────────▼───────────┐
-                    │     Infrastructure   │
-                    │                      │
-                    │ RNG                  │
-                    │ serialization        │
-                    │ telemetry            │
-                    │ logging              │
-                    │ checkpointing        │
-                    │ parallel execution   │
-                    └──────────────────────┘
-
-# GPSE — Project Charter & Continuity
-
-## What Is GPSE?
-
-GPSE stands for **General Purpose Simulation Engine**.
-
-GPSE is a long-term Rust project intended to develop a flexible, reliable, deterministic, and extensible simulation engine.
-
-The exact final scope of GPSE is intentionally **not fixed**.
-
-Rather than prematurely defining GPSE around one simulation domain, the project should evolve toward a general simulation kernel capable of supporting multiple simulation paradigms when justified by actual requirements.
-
-Potential domains may include:
-
-* Physics simulation
-* Discrete-event simulation
-* Agent-based simulation
-* Robotics
-* Orbital mechanics
-* Mechanical systems
-* Resource and logistics simulation
-* Complex systems
-* Game/sandbox simulation
-* Industrial or engineering simulation
-* Other domains discovered during development
-
-These are possibilities, not commitments.
-
-The architecture should emerge from demonstrated requirements rather than from assumptions about what a "general purpose simulation engine" ought to look like.
-
----
-
-# Project Philosophy
-
-GPSE is a legacy project being developed incrementally.
-
-The objective is **not** to rewrite everything immediately.
-
-The preferred engineering process is:
-
-> **Understand → Map → Characterize → Test → Design → Migrate → Measure → Optimize**
-
-Existing code should be treated as an archaeological site.
-
-Before replacing an existing system, determine:
-
-1. What it currently does.
-2. Why it was originally designed that way.
-3. Which assumptions it makes.
-4. Which parts are intentional.
-5. Which parts are incomplete.
-6. Which parts are incorrect.
-7. Which parts are useful despite being imperfect.
-8. What tests or measurements can establish its current behavior.
-
-Do not delete or rewrite legacy systems solely because they look unusual.
+* Check (XDoc\development\overview) for the roadmap
+* Check (XDoc\research) for research
 
 ---
 
@@ -320,27 +293,7 @@ Checkpointing and deterministic replay are desirable long-term capabilities.
 
 A future GPSE workflow may resemble:
 
-```text
-Simulation
-    |
-    v
-Checkpoint @ T=100
-    |
-    v
-Continue simulation
-    |
-    v
-Failure detected @ T=143
-    |
-    v
-Restore checkpoint
-    |
-    v
-Replay
-    |
-    v
-Investigate
-```
+Simulation -> Checkpoint @ T=100 -> Continue simulation -> Failure detected @ T=143 -> Restore checkpoint -> Replay -> Investigate
 
 This capability would be valuable for debugging, regression testing, experimentation, and long-running simulations.
 
@@ -485,34 +438,6 @@ Future maintainers—including future versions of the original developers—shou
 
 ---
 
-# Architectural Decision Records
-
-Significant architectural decisions should eventually be recorded.
-
-Potential location:
-
-```text
-docs/
-    architecture/
-    decisions/
-```
-
-An architectural decision record should ideally explain:
-
-```text
-Decision:
-Why:
-Alternatives considered:
-Tradeoffs:
-Consequences:
-Date:
-Status:
-```
-
-The goal is to preserve reasoning, not merely conclusions.
-
----
-
 # Current Development Rule
 
 At any point in development, maintain a clear distinction between:
@@ -549,83 +474,6 @@ The project should evolve through accumulated evidence.
 
 ---
 
-# Human + AI Collaboration
-
-GPSE is developed collaboratively between the human project owner and AI assistance.
-
-AI assistance may help with:
-
-* architecture
-* code review
-* debugging
-* research
-* testing strategy
-* documentation
-* performance analysis
-* refactoring
-* implementation
-* design alternatives
-* identifying hidden assumptions
-
-AI-generated suggestions are not automatically authoritative.
-
-Important architectural, safety, numerical, and dependency decisions should be reviewed critically and validated against the actual codebase and requirements.
-
-When uncertain, investigate rather than fabricate.
-
-When an assumption is uncertain, label it as uncertain.
-
-When evidence contradicts an existing design, update the design.
-
----
-
-# The GPSE Homie Protocol
-
-The collaboration style is intentionally informal and friendly.
-
-The project may be discussed as a long-term engineering expedition between homies.
-
-"Bro", "homie", "machine spirit", "Klang", and Warhammer references are welcome in conversation. Also, Marvel Rivals (love it). Specifically Rocket Raccon, Iron Man, and maybe some squirrel girl, and spider-man. You got this bro! I love you! Never lose the faith! God is Good. Amen! love Jesus. Whew. 
-
-However:
-
-> **Humor must never replace engineering rigor.**
-
-The project tone can be relaxed while the engineering standards remain serious.
-
-Praise Klang.
-
-Reject heresy.
-
-Protect the machine spirit.
-
-Verify the simulation.
-
----
-
-# Prime Directive
-
-Above all:
-
-> **Build a simulation engine we can trust.**
-
-Not merely an engine that runs.
-
-Not merely an engine that benchmarks well.
-
-Not merely an engine with impressive abstractions.
-
-An engine whose behavior is understandable, reproducible, testable, observable, extensible, and honest about its limitations.
-
-The architecture may change.
-
-The scope may change.
-
-The implementation may change.
-
-The principles should change only when we have a good reason.
-
-**GPSE is allowed to become something better than the original idea.**
 
 FOOTER NOTES 
 
@@ -663,3 +511,5 @@ NEXT INVESTIGATION
 Characterize the actual compiler/clippy warnings and determine which
 warnings originate from duplicate binary module compilation versus
 intentional unused canonical data.
+
+# 

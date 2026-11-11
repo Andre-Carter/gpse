@@ -4,6 +4,8 @@ every function can be used by an interface, every interface can be have a direct
 
 every module should own its relevant cli, metadata, registry, and whatever it needs to be independant, portable. preserving both modularity, and organization. (note: refactor command system library?)
 
+- create src/apps and src/experimental/apps? (apps, programs, scripts) (experimental, module, integrated) (prepritory, dependancy, external)
+
 #[path = "1611.rs"]
 pub mod kjv1611;
 

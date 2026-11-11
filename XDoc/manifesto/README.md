@@ -1,29 +1,46 @@
-Manifesto: What does GPSE believe, value, and aspire to become?
+# MANIFESTO
 
-project name canidates: dragon, orca, prizm, agape, rasputin, dogfin, 
+---
 
-- fruits of the spirit
-- abbeviation combination
-- unique name
+## Identity
+What is GPSE? Who is GPSE?
 
-The identity and foundational philosophy of GPSE.
-- identity.md
-- mission.md
-- vision.md
-- principles.md
-- motto.md
-- objectives.md
-- strategy.md
+Philosophy? 
+Motto?
 
-long-lived digital artifact
+---
 
-Rust-native, self-contained, long-lived environment.
+## Mission
+What does GPSE plan to accomplish?
 
-Own the foundation. Understand the dependencies. Respect the ecosystem. Build deliberately.
+---
 
-Research deeply.
-Think boldly.
-Build deliberately.
-Own the foundation.
+## Vision
+When will we get there?
 
-Build an application that demonstrates the need for infrastructure. Build the infrastructure so other applications can benefit from it.
+---
+
+## Objectives
+Where must we focus?
+
+---
+
+## Principles
+Why does GPSE make decisions?
+
+---
+
+## Strategy
+How GPSE will accomplish the mission?
+
+---
+
+
+
+
+
+
+
+
+
+

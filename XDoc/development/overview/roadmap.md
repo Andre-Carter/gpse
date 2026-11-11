@@ -383,3 +383,21 @@ The goal is not to build every application independently. It is to build the inf
 GPSE should grow through understanding, deliberate architecture, reusable foundations, and practical application.
 
 Research deeply. Think boldly. Build deliberately.
+
+Potential domains may include:
+
+* Physics simulation
+* Discrete-event simulation
+* Agent-based simulation
+* Robotics
+* Orbital mechanics
+* Mechanical systems
+* Resource and logistics simulation
+* Complex systems
+* Game/sandbox simulation
+* Industrial or engineering simulation
+* Other domains discovered during development
+
+These are possibilities, not commitments.
+
+The architecture should emerge from demonstrated requirements rather than from assumptions about what a "general purpose simulation engine" ought to look like.
