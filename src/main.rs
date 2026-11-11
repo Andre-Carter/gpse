@@ -2,6 +2,7 @@
 
 
 // COMMAND SYSTEMS
+use gpse::systems::command::kernel::confirm;
 use gpse::systems::command::kernel::dispatch::command_system;
 use gpse::experimental::systems::command::kernal::dispatch::experimental_command_system;
 
@@ -32,12 +33,11 @@ fn main() {
 
     // Refactor Test to systems::command::core
 
-    print!("GREETINGS, WELCOME BACK! ");
+    println!("\nGREETINGS, WELCOME BACK!\n");
     println!("[ DATE / {:?} ]", seconds_since_unix_epoc());
     print!("GENERAL PURPOSE SIMULATION ENGINE ");
     println!("[ VERSION: 0.0.1 ]");
-    println!("Enter \"command\" to start.");
-    println!();
+    println!("\nEnter \"help\" for commands.\n");
 
     loop {
         print!("GPSE> ");
@@ -49,6 +49,14 @@ fn main() {
         let command = command.trim().to_lowercase();
 
         match command.as_str() {
+            "help" => {
+                println!("\n{:<20} (navigate the command system)", "command");
+                println!("{:<20} (navigate experimental systems)", "experimental");
+                println!("{:<20} (you will exit the program here)", "exit");
+                println!("{:<20} (close program)", "terminate");
+                println!("");
+            }
+
             "command" => {
                 command_system();
             }
@@ -58,13 +66,18 @@ fn main() {
             }
 
             "exit" => {
-                println!("Exiting GPSE...");
-                println!("BLESSED!");
+                println!("\nYOU HAVE LEFT THE SYSTEM");
                 break;
+            }
+// If you want a clean shutdown instead of a panic, std::process::exit(0); leaves without the panic message and without exit code 101. panic! is fine as a stand-in while you build.
+            "terminate" => {
+                if confirm() {
+                    panic!("\nSYSTEM TERMINATED!\n");
+                }
             }
 
             _ => {
-                println!("unknown command.");
+                println!("\nUNKNOWN COMMAND.\n");
             }
         }
     }

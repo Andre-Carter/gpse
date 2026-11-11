@@ -21,12 +21,12 @@ fn read(input: &mut String) {
 
 pub fn experimental_command_system() {
     println!();
-    println!("* EXPERIMENTAL * COMMAND SYSTEMS ONLINE!");
+    println!("*** EXPERIMENTAL *** COMMAND SYSTEMS ONLINE!\n");
     println!("Enter \"help\" for commands.");
     println!();
 
     loop {
-        print!("GPSE> COMMAND> EXPERIMENTAL> ");
+        print!("GPSE> EXPERIMENTAL> ");
 
         let mut input: String = String::new();
 
@@ -36,13 +36,13 @@ pub fn experimental_command_system() {
 
         match command.as_str() {
             "help" => {
-                println!();
-                println!("GPSE COMMANDS:");
+                println!("\nGPSE COMMANDS:");
                 println!("-------------------------------------------------");
                 println!("{:<20} (command descriptions & instructions)", "help");
+                println!("{:<20} (ignite the forge, initiate test suite)", "test");
                 println!("{:<20} (back directory)", "exit");
-                println!("{:<20} (close gpse)", "terminate");
-                println!();
+                println!("{:<20} (close program)", "terminate");
+                println!("");
             }
 
             "test" => {
@@ -78,7 +78,7 @@ pub fn experimental_command_system() {
             }
 
             "exit" => {
-                println!("Exiting GPSE COMMAND SYSTEM...");
+                println!("\nGOING HOME\n");
                 break;
             }
 
@@ -87,7 +87,7 @@ pub fn experimental_command_system() {
             }
 
             _ => {
-                println!("Unknown command.")
+                println!("\nUNKNOWN COMMAND.\n")
             }
         }
     }

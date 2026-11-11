@@ -19,7 +19,7 @@ fn read(input: &mut String) {
 
 pub fn command_system() {
     println!();
-    println!("COMMAND SYSTEMS ONLINE!");
+    println!("COMMAND SYSTEMS ONLINE!\n");
     println!("Enter \"help\" for commands.");
     println!();
 
@@ -34,8 +34,7 @@ pub fn command_system() {
 
         match command.as_str() {
             "help" => {
-                println!();
-                println!("GPSE COMMANDS:");
+                println!("\nCOMMANDS:");
                 println!("-------------------------------------------------");
                 println!("{:<20} (command descriptions & instructions)", "help");
                 println!("{:<20} (open gpse read directory)", "read");
@@ -50,7 +49,8 @@ pub fn command_system() {
                 println!("{:<20} (cargo commands listing)", "cargo");
                 println!("{:<20} (git commands listing)", "git"); //pending removal
                 println!("{:<20} (exit gpse cli program)", "exit");
-                println!();
+                println!("{:<20} (close the program)", "terminate");
+                println!("");
             }
 
             "read" => loop {
@@ -171,12 +171,16 @@ pub fn command_system() {
             }
 
             "exit" => {
-                println!("Exiting GPSE COMMAND SYSTEM...");
+                println!("\nGOING HOME\n");
                 break;
             }
 
+            "terminate" => {
+                panic!("\nSYSTEM TERMINATED!\n")
+            }
+
             _ => {
-                println!("Unknown command.")
+                println!("\nUNKNOW COMMAND.\n")
             }
         }
     }

@@ -1,34 +1,64 @@
 use crate::mathematical::dimensional::dimensional::Dimensions;
 
 pub fn test_suite() {
-let generic = Dimensions::new(1, 1, -2);
+    
+    println!("\nTHE TEST SUITE\n");
+    
 
-println!("{:?}", generic);
+    let functions: [fn(); 9] = [
+        one, two, three, four, five, six, seven, eight, nine];
+
+    for f in functions {
+        f();
+        println!("\n");
+    }
+
+    println!("");
 }
 
-
 fn one() {
-
+    let one = Dimensions::new(1, 1, -2);
+    println!("{:?}", one)
 }
 
 fn two() {
-
+    let two = 2;
+    println!("{:?}", two);
 }
 
 fn three() {
-
+    let three = 3;
+    println!("{:?}", three);
 }
 
-pub fn main() {
-    let functions: [fn() ; 3] = [
-        one,
-        two,
-        three
-    ];
+fn four() {
+    let four = 4;
+    println!("{:?}", four);
+}
 
-    for functions in functions {
-        println!("{:?}", functions())
-    }
+fn five() {
+    let five = 5;
+    println!("{:?}", five);
+}
+
+fn six() {
+    let six = 6;
+    println!("{:?}", six);
+}
+
+fn seven() {
+    let seven = 7;
+    println!("{:?}", seven);
+}
+
+fn eight() {
+    let eight = 8;
+    println!("{:?}", eight);
+}
+
+fn nine() {
+    let nine = 9;
+    println!("{:?}", nine);
 }
 
 /*
