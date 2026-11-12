@@ -1,3 +1,4 @@
+// TOP: SOLANA GALAXY
 use std::fmt;
 
 #[derive(Debug)]
@@ -55,10 +56,7 @@ Here is the order I recommend. Each stage should be reviewed before we proceed.
 
 impl fmt::Display for Constant {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
-        const GREEN: &str = "\x1b[32m";
-        const RESET: &str = "\x1b[0m";
-
-        writeln!(f, "{}Constant: {}{}", GREEN, self.name, RESET)?;
+        writeln!(f, "{}", self.name)?;
         
         match self.symbol {
             Some(symbol) => writeln!(f, "Symbol: {}", symbol)?,
@@ -3296,3 +3294,17 @@ pub static CONSTANTS: [&Constant; 355] = [
     &WIEN_WAVELENGTH_DISPLACEMENT_LAW_CONSTANT, //354
     &W_TO_Z_MASS_RATIO, //355
 ];
+
+// TEST
+
+/*
+pub fn validate_identifier(id: &str) -> bool {
+    !id.is_empty()
+        && id.starts_with("physical.constant.")
+}
+
+#[test]
+fn constant_identifiers_are_unique() {
+    // Check every constant ID against every other ID.
+}
+*/
