@@ -6,11 +6,7 @@ pub struct TimeOfDay {
 }
 
 impl TimeOfDay {
-    pub const fn new(
-        hour: u8,
-        minute: u8,
-        second: u8,
-    ) -> Option<Self> {
+    pub const fn new(hour: u8, minute: u8, second: u8) -> Option<Self> {
         if hour >= 24 || minute >= 60 || second >= 60 {
             return None;
         }
@@ -35,9 +31,7 @@ impl TimeOfDay {
     }
 
     pub const fn seconds_since_midnight(self) -> u32 {
-        (self.hour as u32 * 3_600)
-            + (self.minute as u32 * 60)
-            + self.second as u32
+        (self.hour as u32 * 3_600) + (self.minute as u32 * 60) + self.second as u32
     }
 }
 

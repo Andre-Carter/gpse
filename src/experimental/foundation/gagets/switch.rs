@@ -31,7 +31,7 @@ pub fn switch_cli() {
 
         println!("Switch state: {}", state.state());
     }
-        
+
     //test_switch();
 }
 
@@ -45,9 +45,7 @@ impl Switch {
     pub const OFF: Self = Self { logic: FALSE };
 
     pub fn new(self) -> Self {
-        Self {
-            logic: self.logic,
-        }
+        Self { logic: self.logic }
     }
 
     // SWITCH ON
@@ -61,9 +59,7 @@ impl Switch {
     }
 
     pub fn switch(self) -> Self {
-        Self {
-            logic: !self.logic,
-        }
+        Self { logic: !self.logic }
     }
 
     pub fn state(self) -> &'static str {
@@ -71,7 +67,7 @@ impl Switch {
             TRUE => "ON",
             FALSE => "OFF",
         }
-    }  
+    }
 }
 
 pub fn test_switch() {

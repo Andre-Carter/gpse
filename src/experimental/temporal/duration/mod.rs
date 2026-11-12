@@ -2,11 +2,9 @@ pub const SECONDS_PER_MINUTE: u64 = 60;
 pub const MINUTES_PER_HOUR: u64 = 60;
 pub const HOURS_PER_DAY: u64 = 24;
 
-pub const SECONDS_PER_HOUR: u64 =
-    SECONDS_PER_MINUTE * MINUTES_PER_HOUR;
+pub const SECONDS_PER_HOUR: u64 = SECONDS_PER_MINUTE * MINUTES_PER_HOUR;
 
-pub const SECONDS_PER_STANDARD_DAY: u64 =
-    SECONDS_PER_HOUR * HOURS_PER_DAY;
+pub const SECONDS_PER_STANDARD_DAY: u64 = SECONDS_PER_HOUR * HOURS_PER_DAY;
 
 pub const fn whole_minutes(seconds: u64) -> u64 {
     seconds / SECONDS_PER_MINUTE

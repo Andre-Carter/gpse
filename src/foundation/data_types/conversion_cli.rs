@@ -1,6 +1,5 @@
 use crate::foundation::data_types::conversion::convert_to_u32;
 
-
 //use crate::foundation::data_types::conversion::f32_to_f64;
 //use crate::foundation::data_types::conversion::i32_to_i64;
 use crate::foundation::data_types::conversion::u32_to_u64;
@@ -33,7 +32,7 @@ pub fn conversion_cli() {
 
             "u32 to u64" => {
                 let mut command: String = String::new();
-                
+
                 print!("Enter a u32: ");
                 read(&mut command);
 
@@ -51,13 +50,9 @@ pub fn conversion_cli() {
                 }
             }
 
-            "i32 to i64" => {
-                
-            }
+            "i32 to i64" => {}
 
-            "f32 to f64" => {
-                
-            }
+            "f32 to f64" => {}
 
             "exit" => {
                 println!("exiting the numeric...");

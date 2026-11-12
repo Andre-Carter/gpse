@@ -1,4 +1,3 @@
-
 use crate::foundation::data_types::conversion_cli::conversion_cli;
 use crate::foundation::data_types::numeric_cli::numeric_cli;
 
@@ -27,7 +26,6 @@ pub fn data_types_cli() {
             "numeric" => {
                 numeric_cli();
             }
-
 
             "exit" => {
                 println!("exiting the numeric...");

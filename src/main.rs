@@ -1,15 +1,14 @@
 // IMPORTS
 
-
 // COMMAND SYSTEMS
+use gpse::experimental::systems::command::kernal::dispatch::experimental_command_system;
 use gpse::systems::command::kernel::confirm;
 use gpse::systems::command::kernel::dispatch::command_system;
-use gpse::experimental::systems::command::kernal::dispatch::experimental_command_system;
 
 // TEST MODULES
-use gpse::programs::date_time::time::seconds_since_unix_epoc;
 use gpse::foundation::data_types::numeric::NumericType;
 use gpse::mathematical::arithmetic::arithmetic::add_u8;
+use gpse::programs::date_time::time::seconds_since_unix_epoc;
 
 // STANDARD LIBRARY
 use std::io::{Write, stdin, stdout};
@@ -29,7 +28,7 @@ fn main() {
 
     println!("{:?}", add_u8(u8::MAX, 1));
 
-    // End of Tests (Implementation Phase) 
+    // End of Tests (Implementation Phase)
 
     // Refactor Test to systems::command::core
 
@@ -69,7 +68,7 @@ fn main() {
                 println!("\nYOU HAVE LEFT THE SYSTEM");
                 break;
             }
-// If you want a clean shutdown instead of a panic, std::process::exit(0); leaves without the panic message and without exit code 101. panic! is fine as a stand-in while you build.
+            // If you want a clean shutdown instead of a panic, std::process::exit(0); leaves without the panic message and without exit code 101. panic! is fine as a stand-in while you build.
             "terminate" => {
                 if confirm() {
                     panic!("\nSYSTEM TERMINATED!\n");

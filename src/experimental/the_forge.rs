@@ -1,12 +1,9 @@
 use crate::mathematical::dimensional::dimensional::Dimensions;
 
 pub fn test_suite() {
-    
     println!("\nTHE TEST SUITE\n");
-    
 
-    let functions: [fn(); 9] = [
-        one, two, three, four, five, six, seven, eight, nine];
+    let functions: [fn(); 9] = [one, two, three, four, five, six, seven, eight, nine];
 
     for f in functions {
         f();

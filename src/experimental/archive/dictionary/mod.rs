@@ -19,8 +19,8 @@ impl DictionListing {
 
 // word = diction_array[0]
 // definition = diction_array[1]
-// etc. something a bit more dynamic if we expand 
-// the information of a single word we don't have to 
+// etc. something a bit more dynamic if we expand
+// the information of a single word we don't have to
 // refactor the entire dictionary codebase
 
 // expand this idea towards archive::nomenclature

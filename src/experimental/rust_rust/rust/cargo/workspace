@@ -1,0 +1,198 @@
+1. Example: GPSE as a workspace
+Imagine eventually organizing GPSE like this:
+GPSE/
+├── Cargo.toml
+│
+├── gpse_core/
+│   ├── Cargo.toml
+│   └── src/
+│       └── lib.rs
+│
+├── gpse_physical/
+│   ├── Cargo.toml
+│   └── src/
+│       ├── lib.rs
+│       └── constants.rs
+│
+├── gpse_archive/
+│   ├── Cargo.toml
+│   └── src/
+│       ├── lib.rs
+│       └── bible.rs
+│
+└── applications/
+    └── cli/
+        ├── Cargo.toml
+        └── src/
+            └── main.rs
+
+
+Each Cargo.toml describes an individual package. The root Cargo.toml coordinates them.
+2. How the connection works
+The root Cargo.toml could contain:
+[workspace]
+resolver = "3"
+members = [
+    "gpse_core",
+    "gpse_physical",
+    "gpse_archive",
+    "applications/cli",
+]
+
+
+Then gpse_archive/Cargo.toml:
+[package]
+name = "gpse_archive"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+gpse_core = { path = "../gpse_core" }
+
+
+And the CLI package could depend on the archive:
+[dependencies]
+gpse_archive = { path = "../../gpse_archive" }
+
+
+Now the CLI can use the archive library:
+use gpse_archive::bible;
+
+fn main() {
+    let verse = bible::get("genesis", 1, 1);
+
+    if let Some(verse) = verse {
+        println!("{verse}");
+    }
+}
+
+
+The important point: Cargo handles package dependencies; Rust handles the modules and items inside each crate.
+3. Creating another crate
+From the GPSE root directory:
+cargo new gpse_archive --lib
+
+
+This creates a new library package. You then add it to the workspace and configure any dependencies it needs.
+
+You can build and test it independently:
+cargo build -p gpse_archive
+cargo test -p gpse_archive
+
+
+Or build and test the entire workspace:
+cargo build --workspace
+cargo test --workspace
+cargo fmt --all
+
+
+4. Package versus crate — an important distinction
+Rust terminology:
+- Package: A Cargo-managed unit with a Cargo.toml.
+- Crate: A Rust compilation unit, usually a library or executable.
+- Workspace: A collection of related packages managed together.
+A package can contain both a library crate and one or more binary crates.
+
+So when we say "create another crate," we're generally creating another Cargo package that provides a library crate.
+5. What this could mean for GPSE
+This opens up some interesting possibilities:
+Package	Potential responsibility
+gpse_core	Shared foundations
+gpse_physical	Physical constants, dimensions, equations
+gpse_chemical	Elements and chemical data
+gpse_archive	Bible and other archival collections
+gpse_mathematical	Mathematical systems
+gpse_cli	Command-line interface
+
+These are possible boundaries, not a recommendation to split everything immediately.
+
+One important rule: packages do not automatically share their contents. Dependencies must be declared, and we should avoid circular dependency designs.
+
+My architectural position: GPSE can remain one overall project while containing multiple independently organized libraries. We don't need to choose between one enormous crate and dozens of unrelated repositories.
+
+I particularly like this direction for GPSE because it gives us the option to eventually extract a mature library into its own repository without having to redesign its entire identity.
+
+For now, we can explore workspaces without migrating the existing project.
+
+// 
+
+Building GPSE as one crate first gave us room to discover its architecture. We could experiment, establish domain boundaries, develop shared structures, and learn where the responsibilities naturally belong.
+
+Now we have a better basis for deciding which parts deserve independent packages.
+
+I would treat the migration as an architectural evolution, not a wholesale rebuild.
+The benefits we're moving toward
+- Isolation: Each major library has a defined responsibility.
+- Reusability: Libraries can be consumed by other GPSE applications.
+- Independent testing: Test a subsystem without building every application.
+- Dependency management: Make relationships between subsystems explicit.
+- Maintainability: Smaller compilation units and clearer ownership.
+- Extractability: Mature libraries can eventually become independent repositories.
+One benefit I particularly like is that workspace boundaries can reinforce GPSE's standards: each package has to expose a deliberate public API rather than allowing everything to depend on everything else.
+1. Don't migrate everything at once
+I would establish migration criteria before creating packages.
+
+A major GPSE module becomes a candidate for extraction when it has:
+- A reasonably stable domain boundary.
+- A clear public API.
+- Limited dependencies on unrelated GPSE modules.
+- Its own meaningful tests.
+- A reason to be independently reusable, maintained, or developed.
+A module doesn't need to become a crate simply because it has a directory.
+2. Migrate in stages
+I suggest this sequence:
+Stage	Work
+1	Establish the root Cargo workspace
+2	Identify candidate modules
+3	Map dependencies between modules
+4	Extract one mature module
+5	Repair imports and dependencies
+6	Test and format the workspace
+7	Document the migration and repeat
+
+I would migrate one package at a time, preserving the existing implementation wherever possible.
+3. Establish dependency direction
+This is particularly important.
+
+For example:
+gpse_core
+Shared foundational types and interfaces
+
+gpse_physical
+
+
+gpse_chemical
+
+
+gpse_archive
+
+
+gpse_mathematical
+
+
+
+
+GPSE applications
+CLI, simulation programs, interfaces, and other consumers
+Illustrative dependency architecture. Actual dependencies must be determined from the domain requirements.
+One warning: don't let gpse_core become a dumping ground for everything. It should contain genuinely shared foundations, not every type that two modules happen to use.
+
+Also, avoid circular dependencies. If physical depends on mathematical, mathematical should not automatically depend back on physical.
+4. What happens to our existing GPSE?
+We don't have to discard the work we've already done.
+
+We can preserve:
+- Existing Rust implementations.
+- Existing naming conventions.
+- Existing tests.
+- Existing documentation.
+- Existing Git history.
+The migration primarily changes package boundaries, manifests, imports, and dependency declarations.
+5. A decision worth recording
+I would propose this as a GPSE architectural principle:
+GPSE is developed as a modular software ecosystem. Major domains may be organized as independent Cargo packages within a shared workspace when their responsibilities, interfaces, and dependencies justify separation. Package extraction should be incremental and preserve established functionality wherever practical.
+
+Proposed direction
+I would keep the existing GPSE crate operational while we prepare for this transition. No need to turn today's development into a migration project prematurely.
+
+The next architectural exercise I'd recommend is a dependency map of GPSE's current modules. That will help us discover the natural package boundaries rather than imposing them based on folder names.

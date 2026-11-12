@@ -20,9 +20,7 @@ use crate::foundation::input::text::characters;
 //pub const VOI: u8 = 0;
 //pub const ONE: u8 = 1;
 
-
 // a,e,i,o,u
-
 
 pub fn alphabet() {
     let alphabet = "abcdefghijklmnopqrstuvwxyz".to_string();

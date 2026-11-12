@@ -27,10 +27,7 @@ pub const fn is_gregorian_leap_year(year: u32) -> bool {
     year % 4 == 0 && (year % 100 != 0 || year % 400 == 0)
 }
 
-pub const fn gregorian_days_in_month(
-    year: u32,
-    month: u8,
-) -> Option<u8> {
+pub const fn gregorian_days_in_month(year: u32, month: u8) -> Option<u8> {
     match month {
         1 | 3 | 5 | 7 | 8 | 10 | 12 => Some(31),
         4 | 6 | 9 | 11 => Some(30),

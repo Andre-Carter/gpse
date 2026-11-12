@@ -9,13 +9,9 @@ pub fn alphaenumerate(part: &str) {
     let _characters: Vec<_> = part.chars().collect();
 }
 
-pub fn alphabetically_order<T>(_vec: Vec<T>) {
-    
-}
+pub fn alphabetically_order<T>(_vec: Vec<T>) {}
 
-pub fn split_by() {
-
-}
+pub fn split_by() {}
 
 pub fn vector<T>() {
     let _vector: Vec<T> = Vec::new();

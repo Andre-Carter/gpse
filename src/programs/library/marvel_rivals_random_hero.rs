@@ -76,7 +76,7 @@ pub fn marvel_rivals_random_hero() {
             "Winter Soldier",
             "Wolverine",
         ];
-        
+
         let strategist: Vec<&str> = vec![
             "Adam Warlock",
             "Cloak & Dagger",

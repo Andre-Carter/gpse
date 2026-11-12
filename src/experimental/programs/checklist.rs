@@ -13,4 +13,3 @@ pub fn checklist_cli() {
 
     checklist(&input);
 }
-

@@ -7,7 +7,7 @@ pub const ACRONYM: &str = "g.p.s.e";
 pub const CAP_ACRONYM: &str = "G.P.S.E";
 
 //pub const APPLICATION_DESCRIPTION: &str =
-    //"General Purpose Simulation Engine";
+//"General Purpose Simulation Engine";
 pub const FULL_NAME: &str = "general purpose simulation engine";
 pub const FULL_DISPLAY_NAME: &str = "GENERAL PURPOSE SIMULATION ENGINE";
 

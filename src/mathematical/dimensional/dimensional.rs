@@ -1,10 +1,8 @@
 //use crate::science::physical::units::Units;
 //use crate::science::physical::constants::SPEED_OF_LIGHT_IN_VACUUM;
-use::std::fmt;
+use ::std::fmt;
 
-pub struct Mass {
-
-}
+pub struct Mass {}
 
 #[derive(Debug)]
 pub struct Dimensions {
@@ -33,14 +31,21 @@ impl Dimensions {
     pub const PRESSURE: Self = Self::new(1, -1, -2);
 }
 
-
 fn superscript(n: i8) -> String {
     n.to_string()
         .chars()
         .map(|c| match c {
             '-' => '⁻',
-            '0' => '⁰', '1' => '¹', '2' => '²', '3' => '³', '4' => '⁴',
-            '5' => '⁵', '6' => '⁶', '7' => '⁷', '8' => '⁸', '9' => '⁹',
+            '0' => '⁰',
+            '1' => '¹',
+            '2' => '²',
+            '3' => '³',
+            '4' => '⁴',
+            '5' => '⁵',
+            '6' => '⁶',
+            '7' => '⁷',
+            '8' => '⁸',
+            '9' => '⁹',
             other => other,
         })
         .collect()
@@ -74,13 +79,7 @@ impl fmt::Display for Dimensions {
 
 //FUNDAMENTAL DIMENSIONS
 
-
-
-
-
 //DIMENSION
-
-
 
 /*
 // test
@@ -102,7 +101,7 @@ pub fn _dimensions(dimensions: Dimensions) {
 pub fn _dimension(value: f64, dimensions: Dimensions) {
     DIMENSION(SPEED_OF_LIGHT_IN_VACUUM.value, VELOCITY);
 
-     
+
 }
 
 pub fn _dimensionless(Units) {
@@ -118,5 +117,3 @@ pub struct Dimensionless {
     value: Dimensions,
 }
 */
-
-

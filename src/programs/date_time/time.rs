@@ -1,4 +1,4 @@
-use std::time::SystemTime; 
+use std::time::SystemTime;
 //use std::time::Duration
 //use std::time::{ SystemTime, Duration };
 //use std::thread::sleep;
@@ -15,8 +15,29 @@ pub const SECONDS_PER_DAY: u64 = 86_400;
 pub const DAYS_PER_WEEK: u64 = 7;
 pub const DAYS_PER_YEAR: u64 = 365;
 
-pub const DAYS: [&str; 7] = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-pub const MONTHS: [&str; 12] = ["January", "Febuary", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+pub const DAYS: [&str; 7] = [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+];
+pub const MONTHS: [&str; 12] = [
+    "January",
+    "Febuary",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+];
 
 // do something with this
 
@@ -59,7 +80,7 @@ pub fn seconds_per_year() -> u64 {
 
 pub fn minutes_since(seconds: u64) -> u64 {
     let calc = seconds / SECONDS_PER_MINUTE;
-    
+
     calc
 }
 
@@ -73,7 +94,7 @@ pub fn hours_since(seconds: u64) -> u64 {
 
 pub fn days_since(seconds: u64) -> u64 {
     let seconds_per_day = seconds_per_day();
-    
+
     let calc = seconds / seconds_per_day;
 
     calc
@@ -127,4 +148,3 @@ pub fn tick() {
     println!("{difference:?}");
 }
 */
-

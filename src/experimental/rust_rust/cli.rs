@@ -26,13 +26,11 @@ pub fn rust_rust_interface() {
                 println!("GPSE COMMANDS:");
                 println!("-------------------------------------------------");
                 println!("{:<20} (command descriptions & instructions)", "help");
-                
+
                 println!("{:<20} (exit gpse cli program)", "exit");
                 println!("{:<20} (SHUTDOWN GPSE PROGRAM)", "terminate");
                 println!();
             }
-
-            
 
             "exit" => {
                 println!("Exiting Rust-Rust");
