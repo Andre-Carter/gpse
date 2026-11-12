@@ -10,6 +10,8 @@ use crate::systems::command::tools::calculator::cli_calc;
 use crate::systems::command::tools::calculator::cli_sqrt;
 use crate::systems::command::tools::math::math_cli;
 
+use crate::science::physical::cli::print_constants;
+
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -93,6 +95,10 @@ pub fn command_system() {
 
             "calc" => {
                 cli_calc();
+            }
+
+            "all physical constants" => {
+                print_constants();
             }
 
             "data types" => {

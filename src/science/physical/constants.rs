@@ -8,28 +8,45 @@ pub enum Uncertainty {
     NotApplicable,
 }
 
+// Revisit symbol/alias metadata once the constant API is established.
 #[derive(Debug)]
 pub struct Constant {
-    // identifier
+    // pub id: &'static str,
     pub name: &'static str,
-    // TODO: Revisit symbol/alias metadata once the constant API is established.
     pub symbol: Option<&'static str>,
     pub value: f64,
     pub units: Option<&'static str>,
     pub uncertainty: Uncertainty,
-    //pub uncertainty: Option<f64>,
 }
 
 /*
+Step 2 — Small incremental improvements
+Here is the order I recommend. Each stage should be reviewed before we proceed.
+1. Establish identity
+   Add an identifier to each of the 355 constants. Establish naming rules and verify uniqueness.
 
+2. Establish names and aliases
+   Distinguish canonical names from alternative names and source-provided terminology.
 
-example: uncertainty: Uncertainty,
+3. Establish symbols
+   Improve symbol representation, including symbol priority and context where necessary.
+   
+4. Establish uncertainty
+   Replace ambiguous Option<f64> semantics with an explicit uncertainty representation. Distinguish exact, known, not provided, and not yet determined.
 
-e.g Uncertainty::Exact,
-e.g Uncertainty::Known(0.00015e-11),
-Uncertainty::Known(),
+5. Establish units
+   Audit unit notation, case sensitivity, dimensional meaning, and missing or inapplicable units.
 
-pub enum Symbol {
+6. Establish provenance
+    Record where values originate, including source, edition, reference, and relevant source terminology.
+
+7. Establish validation
+   Introduce automated checks for identifiers, required fields, units, uncertainty, and catalogue integrity.
+
+8. Establish maintenance
+   Create tools and processes for adding, updating, reviewing, and auditing constants.
+
+   pub enum Symbol {
     Primary,
     Secondary,
     NotEstablished,
