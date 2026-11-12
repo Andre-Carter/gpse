@@ -35544,83 +35544,83 @@ pub fn get(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("1 kings", 4, 33) => Some(Verse { 
-            content: "", 
+            content: "And hee spake of trees, from the Cedar tree that is in Lebanon, euen vnto the Hyssope that springeth out of the wall: hee spake also of beasts, and of foule, and of creeping things, and of fishes.", 
         }),
 
         ("1 kings", 4, 34) => Some(Verse { 
-            content: "", 
+            content: "And there came of all people to heare the wisedome of Solomon, from all kings of the earth, which had heard of his wisedome.", 
         }),
 
         ("1 kings", 5, 1) => Some(Verse { 
-            content: "", 
+            content: "And Hiram king of Tyre sent his seruants vnto Solomon: (for hee had heard that they had anointed him King in the roume of his father,) for Hiram was euer a louer of Dauid.", 
         }),
 
         ("1 kings", 5, 2) => Some(Verse { 
-            content: "", 
+            content: "And Solomon sent to Hiram, saying,", 
         }),
 
         ("1 kings", 5, 3) => Some(Verse { 
-            content: "", 
+            content: "Thou knowest how that Dauid my father could not build an house vnto the Name of the Lord his God, for the warres which were about him on euery side, vntill the Lord put them vnder the soles of his feet.", 
         }),
 
         ("1 kings", 5, 4) => Some(Verse { 
-            content: "", 
+            content: "But now the Lord my God hath giuen me rest on euery side, so that there is neither aduersary, nor euill occurrent.", 
         }),
 
         ("1 kings", 5, 5) => Some(Verse { 
-            content: "", 
+            content: "And behold, I purpose to build an house vnto the Name of the Lord my God, as the Lord spake vnto Dauid my father, saying, Thy sonne, whom I will set vpon thy throne in thy roume, he shall build an house vnto my Name.", 
         }),
 
         ("1 kings", 5, 6) => Some(Verse { 
-            content: "", 
+            content: "Now therefore command thou, that they hew me Cedar trees out of Lebanon, and my seruants shall bee with thy seruants: and vnto thee will I giue hire for thy seruants, according to all that thou shalt appoint: for thou knowest that there is not among vs, any that can skill to hew timber, like vnto the Sidonians.", 
         }),
 
         ("1 kings", 5, 7) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe when Hiram heard the wordes of Solomon, that hee reioyced greatly, and said, Blessed be the Lord this day, which hath giuen vnto Dauid a wise sonne ouer this great people.", 
         }),
 
         ("1 kings", 5, 8) => Some(Verse { 
-            content: "", 
+            content: "And Hiram sent to Solomon, saying, I haue considered the things which thou sentest to me for: and I will doe all thy desire concerning timber of Cedar, and concerning timber of firre.", 
         }),
 
         ("1 kings", 5, 9) => Some(Verse { 
-            content: "", 
+            content: "My seruants shall bring them downe from Lebanon vnto the Sea: and I wil conuey them by sea in flotes, vnto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receiue them: and thou shalt accomplish my desire, in giuing food for my houshold.", 
         }),
 
         ("1 kings", 5, 10) => Some(Verse { 
-            content: "", 
+            content: "So Hiram gaue Solomon Cedar trees, and Firre trees, according to all his desire.", 
         }),
 
         ("1 kings", 5, 11) => Some(Verse { 
-            content: "", 
+            content: "And Solomon gaue Hiram twentie thousand measures of wheate for food to his houshold, and twentie measures of pure oile: thus gaue Solomon to Hiram yeere by yeere.", 
         }),
 
         ("1 kings", 5, 12) => Some(Verse { 
-            content: "", 
+            content: "And the Lord gaue Solomon wisedome, as hee promised him: and there was peace betweene Hiram and Solomon, and they two made a league together.", 
         }),
 
         ("1 kings", 5, 13) => Some(Verse { 
-            content: "", 
+            content: "And King Solomon raised a leuie out of all Israel, and the leuie was thirtie thousand men.", 
         }),
 
         ("1 kings", 5, 14) => Some(Verse { 
-            content: "", 
+            content: "And hee sent them to Lebanon, ten thousand a moneth by courses: a moneth they were in Lebanon, and two moneths at home: and Adoniram was ouer the leuie.", 
         }),
 
         ("1 kings", 5, 15) => Some(Verse { 
-            content: "", 
+            content: "And Solomon had threescore and ten thousand that bare burdens, and fourescore thousand hewers in the mountaines:", 
         }),
 
         ("1 kings", 5, 16) => Some(Verse { 
-            content: "", 
+            content: "Besides the chiefe of Solomons officers which were ouer the worke, three thousand and three hundred, which ruled ouer the people that wrought in the worke.", 
         }),
 
         ("1 kings", 5, 17) => Some(Verse { 
-            content: "", 
+            content: "And the king commanded, and they brought great stones, costly stones, and hewed stones, to lay the foundation of the house.", 
         }),
 
         ("1 kings", 5, 18) => Some(Verse { 
-            content: "", 
+            content: "And Solomons builders, and Hirams builders, did hewe them, and the stone-squarers: so they prepared timber and stones to build the house.", 
         }),
 
         ("1 kings", 6, 1) => Some(Verse { 
