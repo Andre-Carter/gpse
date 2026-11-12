@@ -984,3 +984,227 @@ My recommendation: use these three checks as the foundation of the physical cons
 One principle worth carrying forward:
 
 Standards govern the rules. Structures govern the representation. Identity establishes what the data is.
+
+// SECTION FOUR
+
+Brother, this is exactly the right time to pause before adding more records. We should decide how GPSE stores, exposes, and retrieves data, not just what fields a constant has.
+
+One distinction first: impl does not itself store data. A Rust struct defines the data shape; impl defines methods and associated functions that operate on or construct that data.
+1. Our current model
+The latest recorded Constant shape I have is:
+pub struct Constant {
+    pub name: &'static str,
+    pub value: f64,
+    pub si_base_units: &'static str,
+    pub uncertainty: f64,
+}
+
+
+I couldn't verify the current file against the public GitHub main snapshot—the expected source paths weren't found. So treat this as the latest recorded structure, not a fresh source inspection.
+
+This structure separates the fields of a constant, but it doesn't yet settle how the actual constant records are declared or retrieved.
+2. Four ways we could organize the records
+Option A — Individual const records
+pub const SPEED_OF_LIGHT: Constant = Constant {
+    name: "speed of light in vacuum",
+    value: 299_792_458.0,
+    si_base_units: "m s^-1",
+    uncertainty: 0.0,
+};
+
+
+Advantages
+- Simple and readable.
+- Compile-time data.
+- Easy to reference from other modules.
+- Fits deterministic, fixed scientific data.
+Disadvantages
+- No centralized collection or automatic lookup.
+- Searching requires a separate mechanism.
+- Each record is declared independently.
+Option B — Associated constants inside impl
+impl Constant {
+    pub const SPEED_OF_LIGHT: Self = Self {
+        name: "speed of light in vacuum",
+        value: 299_792_458.0,
+        si_base_units: "m s^-1",
+        uncertainty: 0.0,
+    };
+}
+
+
+Access:
+let c = Constant::SPEED_OF_LIGHT;
+
+
+Advantages
+- Groups constants under the Constant type.
+- Convenient namespace.
+- Still compile-time data.
+Disadvantages
+- The impl becomes a container for a potentially enormous catalogue.
+- Less separation between the type's behavior and the actual dataset.
+- Doesn't inherently provide searching or metadata management.
+Option C — Functions that construct or return constants
+pub fn speed_of_light() -> Constant {
+    Constant {
+        name: "speed of light in vacuum",
+        value: 299_792_458.0,
+        si_base_units: "m s^-1",
+        uncertainty: 0.0,
+    }
+}
+
+
+Advantages
+- Can calculate or select values dynamically.
+- Can eventually accept parameters or configuration.
+- Useful when construction requires processing.
+Disadvantages
+- Reconstructs the value on each call.
+- Less suitable for fixed, authoritative scientific records.
+- Can hide the fact that the underlying data is immutable.
+For a fixed physical constant, a function is probably unnecessary.
+Option D — Centralized collection
+pub const CONSTANTS: &[Constant] = &[
+    SPEED_OF_LIGHT,
+    GRAVITATIONAL_CONSTANT,
+    PLANCK_CONSTANT,
+];
+
+
+Advantages
+- Central catalogue.
+- Supports iteration and searching.
+- Makes auditing and validating the dataset easier.
+- Provides a natural starting point for registries and parsers.
+Disadvantages
+- Requires maintaining the collection.
+- Lookup needs an explicit strategy.
+- A single catalogue could become unwieldy as GPSE expands.
+3. Comparison
+Approach	Best use	Main drawback
+Individual const	Fixed records	No central catalogue
+impl constants	Type-level grouping	Can become bloated
+Functions	Dynamic construction	Unnecessary for fixed data
+Collection	Discovery and lookup	Catalogue maintenance
+
+4. My recommendation for GPSE
+Recommended direction
+I would combine A + D, with impl reserved for behavior.
+- struct Constant defines the data structure.
+- Individual const declarations hold the actual records.
+- A collection provides catalogue access.
+- impl Constant provides useful methods, validation, or behavior.
+- Functions handle operations that genuinely need computation or dynamic selection.
+For example:
+impl Constant {
+    pub fn has_uncertainty(&self) -> bool {
+        self.uncertainty > 0.0
+    }
+}
+
+
+The important point is that the data itself remains independent of the methods operating on it.
+5. The larger architectural consideration
+I would not make this decision solely around physical constants.
+
+GPSE will eventually have many kinds of data: elements, celestial bodies, dimensions, units, equations, temporal data, simulation entities, and user-created records.
+
+We should evaluate each data category against the same questions:
+1. How is the data defined?
+2. Where is the authoritative record stored?
+3. How is it accessed and searched?
+4. How is its identity established?
+5. How are metadata and provenance preserved?
+6. Is it immutable, calculated, or user-defined?
+One important distinction: not all GPSE data should necessarily be const. Fixed scientific reference data is a good candidate. Runtime-created entities, user data, and mutable simulation state have different requirements.
+
+My preferred direction is therefore a shared GPSE data standard, with domain-appropriate data structures and storage strategies—not one universal storage mechanism forced onto everything.
+
+That gives us a good foundation for your three QA checks: standards, structure, and identity.
+
+// SECTION FIVE
+
+es, brother — changing static to const is syntactically simple, but there are a few important differences in what Rust guarantees and how the data behaves.
+
+Your current model is already a reasonable starting point:
+pub static ALPHA_PARTICLE_MASS: Constant = Constant {
+    name: "alpha particle mass",
+    symbol: None,
+    value: 6.644_657_345_0e-27,
+    units: Some("kg"),
+    uncertainty: Some(0.000_000_002_1e-27),
+};
+
+
+You can change it to:
+pub const ALPHA_PARTICLE_MASS: Constant = Constant {
+    name: "alpha particle mass",
+    symbol: None,
+    value: 6.644_657_345_0e-27,
+    units: Some("kg"),
+    uncertainty: Some(0.000_000_002_1e-27),
+};
+
+
+Both are valid. But const and static have different semantics.
+const vs static
+Property	const	static
+Immutable	Yes	Yes, unless declared mut
+Compile-time value	Yes	Initialised at compile time
+Guaranteed single memory location	No	Yes
+Stable address	No	Yes
+Suitable for fixed data	Yes	Yes
+
+The important distinction is that a const is effectively a value substituted wherever it is used. A static represents one allocation with a stable memory address.
+What I recommend
+For your physical constants catalogue, I lean toward retaining static for individual records.
+
+Why?
+- Each record has one stable location.
+- You can reference records throughout GPSE.
+- A central catalogue can reference those records.
+- It gives you a clear distinction between named records and ordinary compile-time values.
+For example:
+pub static ALPHA_PARTICLE_MASS: Constant = Constant {
+    name: "alpha particle mass",
+    symbol: None,
+    value: 6.644_657_345_0e-27,
+    units: Some("kg"),
+    uncertainty: Some(0.000_000_002_1e-27),
+};
+
+pub static CONSTANTS: [&Constant; 1] = [
+    &ALPHA_PARTICLE_MASS,
+];
+
+
+Now you have both a named record and a central collection referencing it.
+
+const would also work for the individual records, but you lose the guarantee of one shared allocation.
+Two things worth correcting in the current model
+Before we expand the catalogue:
+
+1. None for units does not necessarily mean dimensionless.
+
+It could mean units were not provided, have not been established, or genuinely do not apply. Those are different meanings.
+
+2. None for uncertainty does not necessarily mean exact.
+
+Your proposed Uncertainty enum is a better direction:
+pub enum Uncertainty {
+    Exact,
+    Known(f64),
+    NotProvided,
+    NotApplicable,
+}
+
+
+These are data-quality distinctions, not merely display preferences.
+
+One additional thought: your Constant currently has name but no stable identifier. We should keep that issue open as part of the data identity review.
+
+My current position: don't remodel the entire catalogue just to replace static with const. The existing static Constant approach is perfectly viable. We should decide the data structure and identity policy before changing the declarations.
+
+And one architectural principle I would preserve: the data record should describe scientific information; the Display implementation should describe how that information is presented. Eventually, even the ANSI colouring in Display may belong in the CLI presentation layer rather than the data type itself.
