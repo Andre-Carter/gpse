@@ -1,6 +1,6 @@
 
-use crate::systems::command::library::core::data_types::conversion::conversion_cli;
-use crate::systems::command::library::core::data_types::numeric::numeric_cli;
+use crate::foundation::data_types::conversion_cli::conversion_cli;
+use crate::foundation::data_types::numeric_cli::numeric_cli;
 
 use std::io::{Write, stdin, stdout};
 

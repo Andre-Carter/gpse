@@ -4,8 +4,8 @@ use crate::experimental::mathematical::test_mathematical::test_mathematical;
 
 #[cfg(feature = "marvel-rivals")]
 use crate::programs::library::marvel_rivals_random_hero::marvel_rivals_random_hero;
-use crate::systems::command::library::archive::bible::kjv1611::cli::kjv_1611_interface;
-use crate::systems::command::library::core::data_types::data_types_cli::data_types_cli;
+use crate::archive::bible::kjv1611::cli::kjv_1611_interface;
+use crate::foundation::data_types::data_types_cli::data_types_cli;
 use crate::systems::command::tools::calculator::cli_calc;
 use crate::systems::command::tools::calculator::cli_sqrt;
 use crate::systems::command::tools::math::math_cli;
