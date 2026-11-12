@@ -1,6 +1,7 @@
 use std::fmt;
 #[derive(Debug)]
 pub struct Constant {
+    // identifier
     pub name: &'static str,
     // TODO: Revisit symbol/alias metadata once the constant API is established.
     pub symbol: Option<&'static str>,
@@ -8,6 +9,26 @@ pub struct Constant {
     pub units: Option<&'static str>,
     pub uncertainty: Option<f64>,
 }
+
+/*
+pub enum {
+    Exact,
+    Known(f64),
+    NotProvided,
+    NotApplicable,
+}
+
+example: uncertainty: Uncertainty,
+
+e.g Uncertainty::Exact,
+e.g Uncertainty::Known(0.00015e-11),
+
+pub enum Symbol {
+    Primary,
+    Secondary,
+    NotEstablished,
+}
+*/
 
 impl fmt::Display for Constant {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
