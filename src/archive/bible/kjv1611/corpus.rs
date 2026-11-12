@@ -35304,243 +35304,243 @@ pub fn get(book: &str, chapter: u8, verse: u8) -> Option<Verse> {
         }),
 
         ("1 kings", 3, 1) => Some(Verse { 
-            content: "", 
+            content: "And Solomon made affinitie with Pharaoh king of Egypt, and tooke Pharaohs daughter, and brought her into the citie of Dauid, vntill he had made an end of building his owne house, and the house of the Lord, and the wall of Ierusalem round about.", 
         }),
 
         ("1 kings", 3, 2) => Some(Verse { 
-            content: "", 
+            content: "Only the people sacrificed in high places, because there was no house built vnto the Name of the Lord vntill those dayes.", 
         }),
 
         ("1 kings", 3, 3) => Some(Verse { 
-            content: "", 
+            content: "And Solomon loued the Lord, walking in the statutes of Dauid his father: onely he sacrificed and burnt incense in high places.", 
         }),
 
         ("1 kings", 3, 4) => Some(Verse { 
-            content: "", 
+            content: "And the king went to Gibeon to sacrifice there; for that was the great high place: a thousand burnt offerings did Solomon offer vp on that Altar.", 
         }),
 
         ("1 kings", 3, 5) => Some(Verse { 
-            content: "", 
+            content: "In Gibeon the Lord appeared to Solomon in a dreame by night: and God sayd, Aske what I shall giue thee.", 
         }),
 
         ("1 kings", 3, 6) => Some(Verse { 
-            content: "", 
+            content: "And Solomon said, Thou hast shewed vnto thy seruant Dauid my father great mercy, according as he walked before thee in trueth, and in righteousnesse, and in vprightnesse of heart with thee, and thou hast kept for him this great kindnesse, that thou hast giuen him a sonne to sit on his throne, as it is this day.", 
         }),
 
         ("1 kings", 3, 7) => Some(Verse { 
-            content: "", 
+            content: "And now, O Lord my God, thou hast made thy seruant King in stead of Dauid my father: and I am but a litle childe: I know not how to goe out or come in.", 
         }),
 
         ("1 kings", 3, 8) => Some(Verse { 
-            content: "", 
+            content: "And thy seruant is in the midst of thy people which thou hast chosen, a great people, that cannot be numbred, nor counted for multitude.", 
         }),
 
         ("1 kings", 3, 9) => Some(Verse { 
-            content: "", 
+            content: "Giue therefore thy seruant an understanding heart, to iudge thy people, that I may discerne betweene good and bad: for who is able to iudge this thy so great a people?", 
         }),
 
         ("1 kings", 3, 10) => Some(Verse { 
-            content: "", 
+            content: "And the speach pleased the Lord, that Solomon had asked this thing.", 
         }),
 
         ("1 kings", 3, 11) => Some(Verse { 
-            content: "", 
+            content: "And God said vnto him, Because thou hast asked this thing, and hast not asked for thy selfe long life, neither hast asked riches for thy selfe, nor hast asked the life of thine enemies, but hast asked for thy selfe vnderstanding to discerne iudgement;", 
         }),
 
         ("1 kings", 3, 12) => Some(Verse { 
-            content: "", 
+            content: "Behold, I haue done according to thy word: loe, I haue giuen thee a wise and an vnderstanding heart, so that there was none like thee before thee, neither after thee shall any arise like vnto thee.", 
         }),
 
         ("1 kings", 3, 13) => Some(Verse { 
-            content: "", 
+            content: "And I haue also giuen thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the Kings like vnto thee, all thy dayes.", 
         }),
 
         ("1 kings", 3, 14) => Some(Verse { 
-            content: "", 
+            content: "And if thou wilt walke in my wayes, to keepe my Statutes and my Commandements, as thy father Dauid did walke, then I will lengthen thy dayes.", 
         }),
 
         ("1 kings", 3, 15) => Some(Verse { 
-            content: "", 
+            content: "And Solomon awoke, and behold, it was a dreame: and he came to Ierusalem, and stood before the Arke of the Couenant of the Lord, and offered vp burnt offerings, and offered peace offerings, and made a feast to all his seruants.", 
         }),
 
         ("1 kings", 3, 16) => Some(Verse { 
-            content: "", 
+            content: "Then came there two women that were harlots, vnto the king, and stood before him.", 
         }),
 
         ("1 kings", 3, 17) => Some(Verse { 
-            content: "", 
+            content: "And the one woman said, O my lord, I and this woman dwell in one house, and I was deliuered of a childe, with her in the house.", 
         }),
 
         ("1 kings", 3, 18) => Some(Verse { 
-            content: "", 
+            content: "And it came to passe the third day after that I was deliuered, that this woman was deliuered also: and wee were together; there was no stranger with vs in the house, saue we two in the house.", 
         }),
 
         ("1 kings", 3, 19) => Some(Verse { 
-            content: "", 
+            content: "And this womans childe died in the night: because she ouerlaid it.", 
         }),
 
         ("1 kings", 3, 20) => Some(Verse { 
-            content: "", 
+            content: "And shee arose at midnight, and tooke my sonne from beside me, while thine handmaid slept, and layd it in her bosome, and layd her dead childe in my bosome.", 
         }),
 
         ("1 kings", 3, 21) => Some(Verse { 
-            content: "", 
+            content: "And when I rose in the morning to giue my childe sucke, behold, it was dead: but when I had considered it in the morning, beholde, it was not my sonne, which I did beare.", 
         }),
 
         ("1 kings", 3, 22) => Some(Verse { 
-            content: "", 
+            content: "And the other woman said, Nay, but the liuing is my sonne, and the dead is thy sonne: And this said, No, but the dead is thy sonne, and the liuing is my sonne. Thus they spake before the king.", 
         }),
 
         ("1 kings", 3, 23) => Some(Verse { 
-            content: "", 
+            content: "Then said the King, The one saith, This is my sonne, that liueth, and thy sonne is the dead: and the other saith Nay: but thy sonne is the dead, and my sonne is the liuing.", 
         }),
 
         ("1 kings", 3, 24) => Some(Verse { 
-            content: "", 
+            content: "And the King said, Bring mee a sword. And they brought a sword before the king:", 
         }),
 
         ("1 kings", 3, 25) => Some(Verse { 
-            content: "", 
+            content: "And the king said, Diuide the liuing childe in two, and giue halfe to the one, and halfe to the other.", 
         }),
 
         ("1 kings", 3, 26) => Some(Verse { 
-            content: "", 
+            content: "Then spake the woman whose the liuing childe was, vnto the king, (for her bowels yerned vpon her sonne) and she said, O my lord, giue her the liuing childe, and in no wise slay it: But the other said, Let it be neither mine nor thine, but diuide it.", 
         }),
 
         ("1 kings", 3, 27) => Some(Verse { 
-            content: "", 
+            content: "Then the King answered and said, Giue her the liuing child, and in no wise slay it: she is the mother thereof.", 
         }),
 
         ("1 kings", 3, 28) => Some(Verse { 
-            content: "", 
+            content: "And all Israel heard of the Iudgement which the king had iudged, and they feared the King: for they saw that the wisedome of God was in him, to doe Iudgement.", 
         }),
 
         ("1 kings", 4, 1) => Some(Verse { 
-            content: "", 
+            content: "So King Solomon was king ouer all Israel.", 
         }),
 
         ("1 kings", 4, 2) => Some(Verse { 
-            content: "", 
+            content: "And these were the Princes which he had, Azariah the sonne of Zadok, the Priest,", 
         }),
 
         ("1 kings", 4, 3) => Some(Verse { 
-            content: "", 
+            content: "Elihoreph, and Ahiah the sonnes of Shisha, Scribes: Iehoshaphat the sonne of Ahilud the Recorder;", 
         }),
 
         ("1 kings", 4, 4) => Some(Verse { 
-            content: "", 
+            content: "And Benaiah the sonne of Iehoiada was ouer the host: And Zadok and Abiathar were the Priests:", 
         }),
 
         ("1 kings", 4, 5) => Some(Verse { 
-            content: "", 
+            content: "And Azariah the sonne of Nathan was ouer the officers: and Zabud the sonne of Nathan was principall officer, and the kings friend.", 
         }),
 
         ("1 kings", 4, 6) => Some(Verse { 
-            content: "", 
+            content: "And Ahishar was ouer the houshold: and Adoniram the sonne of Abda was ouer the tribute.", 
         }),
 
         ("1 kings", 4, 7) => Some(Verse { 
-            content: "", 
+            content: "And Solomon had twelue officers ouer all Israel, which prouided victuals for the king and his houshold: each man his moneth in a yeere made prouision.", 
         }),
 
         ("1 kings", 4, 8) => Some(Verse { 
-            content: "", 
+            content: "And these are their names: the sonne of Hur in mount Ephraim,", 
         }),
 
         ("1 kings", 4, 9) => Some(Verse { 
-            content: "", 
+            content: "The sonne of Dekar in Makaz, and in Shaalbim, and Bethshemesh, and Elon-Bethhanan.", 
         }),
 
         ("1 kings", 4, 10) => Some(Verse { 
-            content: "", 
+            content: "The sonne of Heseb in Aruboth, to him pertained Sochoh, and all the land of Hepher;", 
         }),
 
         ("1 kings", 4, 11) => Some(Verse { 
-            content: "", 
+            content: "The sonne of Abinadab in all the region of Dor, which had Taphath the daughter of Solomon to wife:", 
         }),
 
         ("1 kings", 4, 12) => Some(Verse { 
-            content: "", 
+            content: "Baana the sonne of Ahilud, to him pertained Taanach and Megiddo, and all Beth-shean, which is by Zartanah beneath Iezreel, from Beth-shean to Abel-Meholah, euen vnto the place that is beyond Iokneam:", 
         }),
 
         ("1 kings", 4, 13) => Some(Verse { 
-            content: "", 
+            content: "The sonne of Geber in Ramoth Gilead, to him pertained the townes of Iair the sonne of Manasseh, which are in Gilead: to him also pertained the region of Argob, which is in Bashan, threescore great cities, with walles, and brasen barres.", 
         }),
 
         ("1 kings", 4, 14) => Some(Verse { 
-            content: "", 
+            content: "Ahinadab the sonne of Iddo had Mahanaim.", 
         }),
 
         ("1 kings", 4, 15) => Some(Verse { 
-            content: "", 
+            content: "Ahimaaz was in Naphtali; he also tooke Basmath the daughter of Solomon to wife.", 
         }),
 
         ("1 kings", 4, 16) => Some(Verse { 
-            content: "", 
+            content: "Baanah the sonne of Hushai was in Asher and in Aloth:", 
         }),
 
         ("1 kings", 4, 17) => Some(Verse { 
-            content: "", 
+            content: "Iehoshaphat the sonne of Paruah in Issachar:", 
         }),
 
         ("1 kings", 4, 18) => Some(Verse { 
-            content: "", 
+            content: "Shimei the sonne of Elah in Beniamin:", 
         }),
 
         ("1 kings", 4, 19) => Some(Verse { 
-            content: "", 
+            content: "Geber the sonne of Uri was in the countrey of Gilead, in the countrey of Sihon king of the Amorites, and of Og king of Bashan; and hee was the onely officer which was in the land.", 
         }),
 
         ("1 kings", 4, 20) => Some(Verse { 
-            content: "", 
+            content: "Iudah and Israel were many, as the sand which is by the sea in multitude, eating and drinking and making merrie.", 
         }),
 
         ("1 kings", 4, 21) => Some(Verse { 
-            content: "", 
+            content: "And Solomon reigned ouer all kingdoms from the riuer vnto the land of the Philistines, and vnto the border of Egypt: they brought presents, and serued Solomon all the dayes of his life.", 
         }),
 
         ("1 kings", 4, 22) => Some(Verse { 
-            content: "", 
+            content: "And Solomons prouision for one day, was thirtie measures of fine floure, and threescore measures of meale,", 
         }),
 
         ("1 kings", 4, 23) => Some(Verse { 
-            content: "", 
+            content: "Ten fat oxen, and twentie oxen out of the pastures, and an hundred sheepe, beside Harts, and Roe-buckes, and fallow Deere, and fatted foule.", 
         }),
 
         ("1 kings", 4, 24) => Some(Verse { 
-            content: "", 
+            content: "For he had dominion ouer all the region on this side the Riuer, from Tiphsah euen to Azzah ouer all the kings on this side the Riuer: and he had peace on all sides round about him.", 
         }),
 
         ("1 kings", 4, 25) => Some(Verse { 
-            content: "", 
+            content: "And Iudah and Israel dwelt safely, euery man vnder his Uine, and vnder his Figtree, from Dan euen to Beer-sheba, all the dayes of Solomon.", 
         }),
 
         ("1 kings", 4, 26) => Some(Verse { 
-            content: "", 
+            content: "And Solomon had fourtie thousand stalles of horses for his charets, and twelue thousand horsemen.", 
         }),
 
         ("1 kings", 4, 27) => Some(Verse { 
-            content: "", 
+            content: "And those officers prouided victuall for king Solomon, and for all that came vnto king Solomons table, euery man in his moneth: they lacked nothing.", 
         }),
 
         ("1 kings", 4, 28) => Some(Verse { 
-            content: "", 
+            content: "Barley also and straw for the horses and dromedaries, brought they vnto the place where the officers were, euery man according to his charge.", 
         }),
 
         ("1 kings", 4, 29) => Some(Verse { 
-            content: "", 
+            content: "And God gaue Solomon wisdome, and vnderstanding, exceeding much, and largenesse of heart, euen as the sand that is on the sea shoare.", 
         }),
 
         ("1 kings", 4, 30) => Some(Verse { 
-            content: "", 
+            content: "And Solomons wisedome excelled the wisedome of all the children of the East countrey, and all the wisedome of Egypt.", 
         }),
 
         ("1 kings", 4, 31) => Some(Verse { 
-            content: "", 
+            content: "For hee was wiser then all men; then Ethan the Ezrahite, and Heman, and Chalcol, and Darda the sonnes of Mahol: and his fame was in all nations round about.", 
         }),
 
         ("1 kings", 4, 32) => Some(Verse { 
-            content: "", 
+            content: "And he spake three thousand prouerbes: and his songs were a thousand and fiue.", 
         }),
 
         ("1 kings", 4, 33) => Some(Verse { 
