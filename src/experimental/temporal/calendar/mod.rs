@@ -24,7 +24,7 @@ pub const GREGORIAN_MONTHS: [&str; 12] = [
 ];
 
 pub const fn is_gregorian_leap_year(year: u32) -> bool {
-    year.is_multiple_of(4) == true && (!year.is_multiple_of(100) || year.is_multiple_of(400))
+    year.is_multiple_of(4) && (!year.is_multiple_of(100) || year.is_multiple_of(400))
 }
 
 pub const fn gregorian_days_in_month(year: u32, month: u8) -> Option<u8> {

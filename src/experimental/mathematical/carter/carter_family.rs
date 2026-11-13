@@ -95,7 +95,6 @@ pub fn carter_formula_repeat() {
     //let iterations = 1;
 
     for h in 1..=iterations {
-        let h = h as u32;
         carter_formula(h.into());
     }
 }

@@ -53,7 +53,7 @@ fn main() {
                 println!("{:<20} (navigate experimental systems)", "experimental");
                 println!("{:<20} (you will exit the program here)", "exit");
                 println!("{:<20} (close program)", "terminate");
-                println!("");
+                println!();
             }
 
             "command" => {

@@ -13,7 +13,7 @@ pub fn sequence_cli() {
 
     read(&mut input);
 
-    let sequence_code: Vec<_> = input.trim().split_whitespace().collect();
+    let sequence_code: Vec<_> = input.split_whitespace().collect();
 
     let coefficient = sequence_code[0].parse::<i32>().unwrap();
     let start = sequence_code[1].parse::<i32>().unwrap();

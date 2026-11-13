@@ -80,25 +80,19 @@ pub fn minutes_since(seconds: u64) -> u64 {
 pub fn hours_since(seconds: u64) -> u64 {
     let seconds_per_hour = seconds_per_hour();
 
-    let calc = seconds / seconds_per_hour;
-
-    calc
+    seconds / seconds_per_hour
 }
 
 pub fn days_since(seconds: u64) -> u64 {
     let seconds_per_day = seconds_per_day();
 
-    let calc = seconds / seconds_per_day;
-
-    calc
+    seconds / seconds_per_day
 }
 
 pub fn years_since(seconds: u64) -> u64 {
     let seconds_per_year = seconds_per_year();
 
-    let calc = seconds / seconds_per_year;
-
-    calc
+    seconds / seconds_per_year
 }
 
 pub fn seconds_since_unix_epoc() {
