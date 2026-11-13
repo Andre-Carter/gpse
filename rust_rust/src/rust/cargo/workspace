@@ -70,12 +70,13 @@ fn main() {
 The important point: Cargo handles package dependencies; Rust handles the modules and items inside each crate.
 3. Creating another crate
 From the GPSE root directory:
-cargo new gpse_archive --lib
 
+cargo new gpse_archive --lib
 
 This creates a new library package. You then add it to the workspace and configure any dependencies it needs.
 
 You can build and test it independently:
+
 cargo build -p gpse_archive
 cargo test -p gpse_archive
 

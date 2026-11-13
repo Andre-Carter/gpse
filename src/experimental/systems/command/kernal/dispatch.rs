@@ -10,8 +10,6 @@ use crate::experimental::programs::checklist::checklist_cli;
 
 use crate::experimental::rpg_engine::rpg_engine_cli::rpg_engine_interface;
 
-use crate::experimental::rust_rust::cli::rust_rust_interface;
-
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -71,10 +69,6 @@ pub fn experimental_command_system() {
 
             "rpg" => {
                 rpg_engine_interface();
-            }
-
-            "rust-rust" => {
-                rust_rust_interface();
             }
 
             "exit" => {

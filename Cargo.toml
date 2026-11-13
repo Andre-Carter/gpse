@@ -1,15 +1,17 @@
 [package]
 name = "gpse"
 version = "0.1.0"
+edition = "2024"
 description = "general purpose simulation engine"
 authors = ["Andre Carter"]
 license = ""
 repository = "https://github.com/Andre-Carter/gpse"
-edition = "2024"
 
 # General dependancies
 
 [dependencies]
+db = { version = "0.1.0", path = "db" }
+rust_rust = { version = "0.1.0", path = "rust_rust" }
 
 # temp placeholder till optional dependencies gets green
 #rand = "0.10.3"

@@ -15,11 +15,10 @@ pub mod mathematical;
 pub mod pigeon;
 pub mod programs;
 pub mod rpg_engine;
-pub mod rust_rust;
 pub mod science;
 pub mod simulation;
 pub mod systems;
 pub mod temporal;
 
-pub mod quarter_deck;
+//pub mod quarter_deck;
 pub mod the_forge;
