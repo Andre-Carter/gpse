@@ -11,6 +11,7 @@ repository = "https://github.com/Andre-Carter/gpse"
 
 [dependencies]
 db = { version = "0.1.0", path = "db" }
+pigeon = { version = "0.1.0", path = "pigeon" }
 rust_rust = { version = "0.1.0", path = "rust_rust" }
 
 # temp placeholder till optional dependencies gets green

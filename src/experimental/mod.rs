@@ -12,7 +12,6 @@ pub mod interfaces;
 pub mod lang;
 pub mod ledger;
 pub mod mathematical;
-pub mod pigeon;
 pub mod programs;
 pub mod rpg_engine;
 pub mod science;
