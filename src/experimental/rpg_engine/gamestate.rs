@@ -5,12 +5,12 @@ pub struct GameState {
 }
 
 impl GameState {
-     pub fn new() -> Self {
+    pub fn new() -> Self {
         Self {
             player: Player::new("Andre"),
         }
     }
-    
+
     pub fn player(&self) -> &Player {
         &self.player
     }

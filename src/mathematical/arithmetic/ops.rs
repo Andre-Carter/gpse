@@ -727,8 +727,7 @@ pub fn pow_u16(left: u16, right: u16) -> Result<u16, ArithmeticError> {
 }
 
 pub fn pow_u32(left: u32, right: u32) -> Result<u32, ArithmeticError> {
-    left.checked_pow(right)
-        .ok_or(ArithmeticError::Overflow)
+    left.checked_pow(right).ok_or(ArithmeticError::Overflow)
 }
 
 pub fn pow_u64(left: u64, right: u64) -> Result<u64, ArithmeticError> {
