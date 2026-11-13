@@ -7,6 +7,22 @@ fn read(input: &mut String) -> io::Result<()> {
     Ok(())
 }
 
+fn write_file() -> io::Result<()> {
+    let mut file = File::create("pig.txt")?;
+    file.write_all(b"I love Rust!")?;
+    Ok(())
+}
+
+fn read_file() -> io::Result<()> {
+    let mut file = File::open("pig.txt")?;
+    let mut content = String::new();
+
+    file.read_to_string(&mut content)?;
+    println!("{content}");
+
+    Ok(())
+}
+
 fn main() -> io::Result<()> {
     loop {
         let mut input = String::new();
@@ -14,32 +30,19 @@ fn main() -> io::Result<()> {
         print!("pigeon> ");
         read(&mut input)?;
 
-        let command = input.trim();
+        match input.trim() {
+            "write" => write_file()?,
 
-        match command {
-            "write" => {
-                fn write_file() -> io::Result<()> {
-                    let mut file = File::create("pig.txt")?;
-                    file.write_all(b"I love Rust!")?;
-                    Ok(())
-                }
-            }
-
-            "read" => {
-                fn read_file() -> io::Result<()> {
-                    let mut file = File::open("pig.txt")?;
-                    let mut content = String::new();
-                    file.read_to_string(&mut content)?;
-                    println!("{content}");
-                    Ok(())
-                }
-            }
+            "read" => read_file()?,
 
             "<" => {
                 println!("exiting pigeon");
+                break;
             }
 
             _ => println!("unknown command"),
         }
     }
+
+    Ok(())
 }
