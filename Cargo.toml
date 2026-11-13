@@ -7,19 +7,28 @@ authors = ["Andre Carter"]
 license = ""
 repository = "https://github.com/Andre-Carter/gpse"
 
-# General dependancies
-
 [dependencies]
 db = { version = "0.1.0", path = "db" }
 pigeon = { version = "0.1.0", path = "pigeon" }
 rust_rust = { version = "0.1.0", path = "rust_rust" }
+rand = { version = "0.10.3", optional = true }
+
+[workspace]
+resolver = "3"
+members = [
+    "db",
+    "pigeon",
+    "rust_rust",
+]
+
+
 
 # temp placeholder till optional dependencies gets green
 #rand = "0.10.3"
 
 # Optional dependancies for specialized programs
 
-rand = { version = "0.10.3", optional = true }
+
 
 # Features configuration
 
