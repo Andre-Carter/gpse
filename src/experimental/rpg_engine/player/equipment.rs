@@ -31,6 +31,12 @@ impl<Item> Equipment<Item> {
     }
 }
 
+impl<Item> Default for Equipment<Item> {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl<Item: std::fmt::Display> std::fmt::Display for Equipment<Item> {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
         writeln!(f, "EQUIPMENT")?;

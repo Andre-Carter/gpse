@@ -1,4 +1,4 @@
-use crate::mathematical::dimensional::dimensional::Dimensions;
+use crate::mathematical::dimensional::dim::Dimensions;
 
 pub fn test_suite() {
     println!("\nTHE TEST SUITE\n");
@@ -10,7 +10,7 @@ pub fn test_suite() {
         println!("\n");
     }
 
-    println!("");
+    println!();
 }
 
 fn one() {

@@ -7,7 +7,7 @@ use gpse::systems::command::kernel::dispatch::command_system;
 
 // TEST MODULES
 use gpse::foundation::data_types::numeric::NumericType;
-use gpse::mathematical::arithmetic::arithmetic::add_u8;
+use gpse::mathematical::arithmetic::ops::add_u8;
 use gpse::programs::date_time::time::seconds_since_unix_epoc;
 
 // STANDARD LIBRARY

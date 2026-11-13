@@ -45,6 +45,12 @@ impl Mind {
     }
 }
 
+impl Default for Mind {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl Body {
     pub fn new() -> Self {
         Self {
@@ -56,6 +62,12 @@ impl Body {
     }
 }
 
+impl Default for Body {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl Spirit {
     pub fn new() -> Self {
         Self {
@@ -64,6 +76,12 @@ impl Spirit {
             endurance: 0,
             perception: 0,
         }
+    }
+}
+
+impl Default for Spirit {
+    fn default() -> Self {
+        Self::new()
     }
 }
 
@@ -86,6 +104,12 @@ impl PlayerStats {
                 spirit: Spirit::new(),
             },
         }
+    }
+}
+
+impl Default for PlayerStats {
+    fn default() -> Self {
+        Self::new()
     }
 }
 

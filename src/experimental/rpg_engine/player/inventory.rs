@@ -14,6 +14,12 @@ impl<Item> Inventory<Item> {
     }
 }
 
+impl<Item> Default for Inventory<Item> {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl Item {
     pub fn new(name: &str) -> Self {
         Self {

@@ -24,6 +24,12 @@ impl<T> Skills<T> {
     }
 }
 
+impl<T> Default for Skills<T> {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl std::fmt::Display for Skill {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
         let _ = write!(f, "{}", self.name);

@@ -1,6 +1,6 @@
 use crate::experimental::rpg_engine::gamestate::GameState;
-use crate::experimental::rpg_engine::player::player::player_set_name;
-use crate::experimental::systems::command::library::rpg_engine::player::player_cli::print_player;
+use crate::experimental::rpg_engine::player::ready_player::player_set_name;
+use crate::experimental::rpg_engine::player::player_cli::print_player;
 
 use std::io::{Write, stdin, stdout};
 
@@ -9,7 +9,7 @@ fn read(input: &mut String) {
     stdin().read_line(input).expect("failed to read");
 }
 
-pub fn rpg_engine_cli() {
+pub fn rpg_engine_interface() {
     let mut state = GameState::new();
 
     println!();

@@ -52,7 +52,7 @@ pub fn command_system() {
                 println!("{:<20} (git commands listing)", "git"); //pending removal
                 println!("{:<20} (exit gpse cli program)", "exit");
                 println!("{:<20} (close the program)", "terminate");
-                println!("");
+                println!();
             }
 
             "read" => loop {

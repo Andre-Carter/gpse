@@ -24,9 +24,7 @@ impl Ledger {
 
 impl Default for Ledger {
     fn default() -> Self {
-        Self {
-            entries: Vec::new(),
-        }
+        Ledger::new()   
     }
 }
 

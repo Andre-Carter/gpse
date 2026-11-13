@@ -18,13 +18,11 @@ pub fn formula_volume(dimension_1: f64, dimension_2: f64, dimension_3: f64) {
 // ex. length: data_value, width: data_value
 
 pub fn square_area(dimension: f64) -> f64 {
-    let sum_area_square = dimension.powi(2);
-    sum_area_square
+    dimension.powi(2)
 }
 
 pub fn square_perimeter(dimension: f64) -> f64 {
-    let square_perimeter = dimension * 4.0;
-    square_perimeter
+    dimension * 4.0
 }
 
 pub fn rectangle() {}

@@ -18,5 +18,5 @@ pub fn vector<T>() {
 }
 
 pub fn test_vector<T>() {
-    let _vector = vector::<T>();
+    vector::<T>();
 }

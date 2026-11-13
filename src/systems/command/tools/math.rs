@@ -147,8 +147,8 @@ pub fn math_parser(tokens: &[Token]) -> &Token {
 
 pub fn math_debug(raw_input_chars: &[char], math_array: &[&str], tokens: &[Token]) {
     if DEBUG {
-        print_math_chars(&raw_input_chars);
-        print_math_array(&math_array);
+        print_math_chars(raw_input_chars);
+        print_math_array(math_array);
         print_tokens(tokens);
     }
 }

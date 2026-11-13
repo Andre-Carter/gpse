@@ -24,6 +24,12 @@ impl<T> Titles<T> {
     }
 }
 
+impl<T> Default for Titles<T> {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl std::fmt::Display for Title {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
         let _ = write!(f, "{}", self.name);

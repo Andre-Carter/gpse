@@ -1,4 +1,4 @@
-use crate::mathematical::arithmetic::arithmetic::add_i32;
+use crate::mathematical::arithmetic::ops::add_i32;
 
 pub fn test_mathematical() {
     //test fn

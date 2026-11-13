@@ -8,7 +8,7 @@ use crate::experimental::mathematical::carter::carter_family::carter_formula_cli
 use crate::experimental::mathematical::carter::carter_family::carter_formula_repeat;
 use crate::experimental::programs::checklist::checklist_cli;
 
-use crate::experimental::systems::command::library::rpg_engine::rpg_engine_cli::rpg_engine_cli;
+use crate::experimental::rpg_engine::rpg_engine_cli::rpg_engine_interface;
 
 use crate::experimental::rust_rust::cli::rust_rust_interface;
 
@@ -42,7 +42,7 @@ pub fn experimental_command_system() {
                 println!("{:<20} (ignite the forge, initiate test suite)", "test");
                 println!("{:<20} (back directory)", "exit");
                 println!("{:<20} (close program)", "terminate");
-                println!("");
+                println!();
             }
 
             "test" => {
@@ -70,7 +70,7 @@ pub fn experimental_command_system() {
             }
 
             "rpg" => {
-                rpg_engine_cli();
+                rpg_engine_interface();
             }
 
             "rust-rust" => {

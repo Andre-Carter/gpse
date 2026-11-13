@@ -58,30 +58,23 @@ pub fn physical_time(_distance: f64) -> f64 {
 // work in progress: time
 
 pub fn system_time() -> SystemTime {
-    let system_time_now = SystemTime::now();
-
-    system_time_now
+    SystemTime::now()
 }
 
 pub fn seconds_per_hour() -> u64 {
-    let seconds_per_hour = SECONDS_PER_MINUTE * MINUTES_PER_HOUR;
-    seconds_per_hour
+    SECONDS_PER_MINUTE * MINUTES_PER_HOUR
 }
 
 pub fn seconds_per_day() -> u64 {
-    let seconds_per_day = SECONDS_PER_MINUTE * MINUTES_PER_HOUR * HOURS_PER_DAY;
-    seconds_per_day
+    SECONDS_PER_MINUTE * MINUTES_PER_HOUR * HOURS_PER_DAY
 }
 
 pub fn seconds_per_year() -> u64 {
-    let seconds_per_year = SECONDS_PER_MINUTE * MINUTES_PER_HOUR * HOURS_PER_DAY * DAYS_PER_YEAR;
-    seconds_per_year
+    SECONDS_PER_MINUTE * MINUTES_PER_HOUR * HOURS_PER_DAY * DAYS_PER_YEAR
 }
 
 pub fn minutes_since(seconds: u64) -> u64 {
-    let calc = seconds / SECONDS_PER_MINUTE;
-
-    calc
+    seconds / SECONDS_PER_MINUTE
 }
 
 pub fn hours_since(seconds: u64) -> u64 {

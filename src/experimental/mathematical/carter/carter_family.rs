@@ -38,7 +38,7 @@ pub const CC_C: f64 = 1.0 - PI_SIXTH;
 //CC OPERATIONS
 
 pub const CC_ADD: f64 = CC + CC;
-pub const CC_SUB: f64 = CC - CC;
+// pub const CC_SUB: f64 = CC - CC; // cargo clippy
 pub const CC_SQ: f64 = CC * CC;
 pub const CC_SQ_EQ: f64 = (1.0 - PI_FOURTH) * (1.0 - PI_FOURTH);
 

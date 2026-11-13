@@ -1,21 +1,27 @@
-use crate::experimental::rpg_engine::player::player::Player;
+use crate::experimental::rpg_engine::player::ready_player::Player;
 
 pub struct GameState {
     pub player: Player,
 }
 
 impl GameState {
-    pub fn new() -> Self {
+     pub fn new() -> Self {
         Self {
             player: Player::new("Andre"),
         }
     }
-
+    
     pub fn player(&self) -> &Player {
         &self.player
     }
 
     pub fn player_mut(&mut self) -> &mut Player {
         &mut self.player
+    }
+}
+
+impl Default for GameState {
+    fn default() -> Self {
+        Self::new()
     }
 }

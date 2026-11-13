@@ -15,7 +15,5 @@ pub fn capitalize_first_letter(input: &str) -> String {
 }
 
 pub fn characters(input: &str) -> Chars<'_> {
-    let characters = input.chars();
-
-    characters
+    input.chars()
 }
