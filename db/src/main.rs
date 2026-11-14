@@ -77,6 +77,7 @@ pub enum X {
     Isize,
     F32,
     F64,
+    Str,
 }
 
 pub enum Dt {
@@ -94,6 +95,7 @@ pub enum Dt {
     Isize(isize),
     F32(f32),
     F64(f64),
+    Str(String),
 }
 
 pub struct Data<'a> {
@@ -107,7 +109,7 @@ pub struct Col<'a> {
 }
 
 pub struct Row<'a> {
-    id: u64, 
+    id: usize, 
     col: Vec<Col<'a>>, 
 }
 
