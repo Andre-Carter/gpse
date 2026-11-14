@@ -2,16 +2,6 @@ pub struct U8 {
     value: u8,
 }
 
-impl U8 {
-    pub fn new(value: u8) -> Self {
-        Self { value }
-    }
-}
-
-fn main() {
-    let test = U8::new(33);
-}
-
 pub struct U16 {
     value: u16,
 }
@@ -68,34 +58,3 @@ pub struct Str {
     value: String,
 }
 
-pub enum Dt {
-    U8,
-    U16,
-    U32,
-    U64,
-    U128,
-    Usize,
-    I8,
-    I16,
-    I32,
-    I64,
-    I128,
-    Isize,
-    F32,
-    F64,
-    Str,
-}
-
-pub struct Data {
-    id: String,
-    data: Dt,
-}
-
-impl Data {
-    pub fn new(id: String, data: Dt) -> Self {
-        Self { 
-            id,
-            data,
-        }
-    }
-}

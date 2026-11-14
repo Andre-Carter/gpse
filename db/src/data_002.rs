@@ -1,21 +1,3 @@
-pub enum D {
-    U8,
-    U16,
-    U32,
-    U64,
-    U128,
-    Usize,
-    I8,
-    I16,
-    I32,
-    I64,
-    I128,
-    Isize,
-    F32,
-    F64,
-    Str,
-}
-
 pub enum Dt {
     U8(u8),
     U16(u16),
@@ -34,31 +16,43 @@ pub enum Dt {
     Str(String),
 }
 
-pub struct Data<'a> {
-    id: &'a str,
-    dt: Dt,
+pub struct Data {
+    id: String,
+    data: Dt,
 }
 
-impl<'a> Data<'a> {
-    pub fn new(id: &'a str, dt: Dt) -> Self {
-        Self { 
-            id, 
-            dt,
-        }
+impl Data {
+    pub fn new(id: String, data: Dt) -> Self {
+        Self { id, data }
     }
 }
 
-pub struct Col<'a> {
-    id: &'a str,
-    data: Data<'a>,
+pub struct DataRow {
+    id: usize,
+    record: Vec<Data>,
 }
 
-pub struct Row<'a> {
-    id: usize, 
-    col: Vec<Col<'a>>, 
+impl DataRow {
+    pub fn new(id: usize) -> Self { DataRow {
+        id: 0,
+        record: Vec::new(),
+    } }
+
+    pub fn add(&mut self, record: Data) {
+        self.record.push(record);
+    }
+
+    pub fn len(&self) -> usize {
+        self.record.len()
+    }
+
+    pub fn is_empty(&self) -> bool {
+        self.record.is_empty()
+    }
 }
 
-pub struct DataTable<'a> {
-    id: &'a str,
-    rows: Vec<Row<'a>>,
+pub struct DataTable {
+    id: String,
+    rows: Vec<DataRow>,
 }
+

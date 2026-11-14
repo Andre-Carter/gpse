@@ -8,10 +8,8 @@ fn read(input: &mut String) {
 }
 
 fn main() {
-    println!("I love Rust!");
-
     loop {
-        print!("GPSE> ");
+        print!("GPSE> DB>");
 
         let mut command: String = String::new();
 
