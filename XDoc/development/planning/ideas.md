@@ -49,6 +49,8 @@ pub mod kjv1611;
 
 * END MODULES *
 
+- REGISTRY
+
 - gpse scientific console... INSTRUMENTS... calc, measure, constants, spectrum, convert, simulate, analyze
 
 BIBLE (kjv, nkjv, nlt, amplified)

@@ -2,7 +2,6 @@ fn main() {
     println!("I love Rust!");
 }
 
-
 use std::collections::HashMap;
 
 pub struct DataBase<'a, K, V> {
@@ -55,4 +54,64 @@ pub fn hangar_one() {
     if let Some(value) = gpse.get(&"one") {
         println!("Value: {value}");
     }
+}
+
+// SECTION DATA TABLE
+// col: name
+// row: number u64
+
+// more data type primitives
+
+pub enum X {
+    U8,
+    U16,
+    U32,
+    U64,
+    U128,
+    Usize,
+    I8,
+    I16,
+    I32,
+    I64,
+    I128,
+    Isize,
+    F32,
+    F64,
+}
+
+pub enum Dt {
+    U8(u8),
+    U16(u16),
+    U32(u32),
+    U64(u64),
+    U128(u128),
+    Usize(usize),
+    I8(i8),
+    I16(i16),
+    I32(i32),
+    I64(i64),
+    I128(i128),
+    Isize(isize),
+    F32(f32),
+    F64(f64),
+}
+
+pub struct Data<'a> {
+    id: &'a str,
+    dt: Dt,
+}
+
+pub struct Col<'a> {
+    id: &'a str,
+    data: Data<'a>,
+}
+
+pub struct Row<'a> {
+    id: u64, 
+    col: Vec<Col<'a>>, 
+}
+
+pub struct DataTable<'a> {
+    id: &'a str,
+    rows: Vec<Row<'a>>,
 }
