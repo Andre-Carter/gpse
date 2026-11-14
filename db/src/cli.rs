@@ -1,3 +1,5 @@
+use crate::data_002::main;
+
 use std::io::{Write, stdin, stdout};
 
 fn read(input: &mut String) {
@@ -36,11 +38,11 @@ pub fn command_system() {
             }
 
             "db 002" => {
-
+                main();
             }
 
             "db 003" => {
-                
+
             }
 
             "exit" => {

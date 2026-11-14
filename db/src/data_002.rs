@@ -29,25 +29,27 @@ impl Data {
 
 pub struct DataRow {
     id: usize,
-    record: Vec<Data>,
+    records: Vec<Data>,
 }
 
 impl DataRow {
-    pub fn new(id: usize) -> Self { DataRow {
-        id: 0,
-        record: Vec::new(),
-    } }
+    pub fn new(id: usize) -> Self {
+        Self {
+            id,
+            records: Vec::new(),
+        }
+    }
 
-    pub fn add(&mut self, record: Data) {
-        self.record.push(record);
+    pub fn add(&mut self, records: Data) {
+        self.records.push(records);
     }
 
     pub fn len(&self) -> usize {
-        self.record.len()
+        self.records.len()
     }
 
     pub fn is_empty(&self) -> bool {
-        self.record.is_empty()
+        self.records.is_empty()
     }
 }
 
@@ -56,3 +58,43 @@ pub struct DataTable {
     rows: Vec<DataRow>,
 }
 
+impl DataTable {
+    pub fn new(id: String) -> Self {
+        Self {
+            id,
+            rows: Vec::new(),
+        }
+    }
+
+    pub fn add(&mut self, row: DataRow) {
+        self.rows.push(row);
+    }
+
+    pub fn len(&self) -> usize {
+        self.rows.len()
+    }
+
+    pub fn is_empty(&self) -> bool {
+        self.rows.is_empty()
+    }
+}
+
+pub fn main() {
+    let mut table = DataTable::new("GPSE".into());
+
+    let mut row = DataRow::new(1);
+
+    row.add(Data::new(
+        "temperature".into(),
+        Dt::F64(273.15),
+    ));
+
+    row.add(Data::new(
+        "name".into(),
+        Dt::Str("Earth".into()),
+    ));
+
+    table.add(row);
+
+    println!("Rows: {}", table.len());
+}
