@@ -7,7 +7,6 @@
 pub mod archive;
 pub mod audio;
 pub mod foundation;
-pub mod graphics;
 pub mod interfaces;
 pub mod lang;
 pub mod ledger;

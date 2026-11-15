@@ -82,7 +82,7 @@ impl DataTable {
 pub fn main() {
     let mut table = DataTable::new("GPSE".into());
 
-    let mut row = DataRow::new(1);
+    let mut row = DataRow::new(2);
 
     row.add(Data::new(
         "temperature".into(),
@@ -97,4 +97,6 @@ pub fn main() {
     table.add(row);
 
     println!("Rows: {}", table.len());
+
+
 }

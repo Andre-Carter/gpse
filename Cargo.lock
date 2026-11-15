@@ -49,10 +49,15 @@ name = "gpse"
 version = "0.1.0"
 dependencies = [
  "db",
+ "gui",
  "pigeon",
  "rand",
  "rust_rust",
 ]
+
+[[package]]
+name = "gui"
+version = "0.1.0"
 
 [[package]]
 name = "libc"

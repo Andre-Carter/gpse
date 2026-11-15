@@ -12,11 +12,12 @@ db = { version = "0.1.0", path = "db" }
 pigeon = { version = "0.1.0", path = "pigeon" }
 rust_rust = { version = "0.1.0", path = "rust_rust" }
 rand = { version = "0.10.3", optional = true }
+gui = { version = "0.1.0", path = "gui" }
 
 [workspace]
 resolver = "3"
 members = [
-    "db",
+    "db", "gui",
     "pigeon",
     "rust_rust",
 ]
