@@ -20,6 +20,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "cli"
+version = "0.1.0"
+
+[[package]]
 name = "cpufeatures"
 version = "0.3.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -48,11 +52,15 @@ dependencies = [
 name = "gpse"
 version = "0.1.0"
 dependencies = [
+ "cli",
  "db",
  "gui",
+ "math",
+ "physical",
  "pigeon",
  "rand",
  "rust_rust",
+ "sim",
 ]
 
 [[package]]
@@ -64,6 +72,14 @@ name = "libc"
 version = "0.2.190"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "ce5d3ddc6d3fa000eb1536d85e147bfe31aacaba692ed6a876f95cb7c855be78"
+
+[[package]]
+name = "math"
+version = "0.1.0"
+
+[[package]]
+name = "physical"
+version = "0.1.0"
 
 [[package]]
 name = "pigeon"
@@ -94,4 +110,8 @@ checksum = "63b8176103e19a2643978565ca18b50549f6101881c443590420e4dc998a3c69"
 
 [[package]]
 name = "rust_rust"
+version = "0.1.0"
+
+[[package]]
+name = "sim"
 version = "0.1.0"

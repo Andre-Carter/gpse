@@ -13,13 +13,17 @@ pigeon = { version = "0.1.0", path = "pigeon" }
 rust_rust = { version = "0.1.0", path = "rust_rust" }
 rand = { version = "0.10.3", optional = true }
 gui = { version = "0.1.0", path = "gui" }
+cli = { version = "0.1.0", path = "cli" }
+math = { version = "0.1.0", path = "math" }
+physical = { version = "0.1.0", path = "physical" }
+sim = { version = "0.1.0", path = "sim" }
 
 [workspace]
 resolver = "3"
-members = [
-    "db", "gui",
+members = ["cli",
+    "db", "gui", "math", "physical",
     "pigeon",
-    "rust_rust",
+    "rust_rust", "sim",
 ]
 
 
