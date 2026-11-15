@@ -56,7 +56,7 @@ dependencies = [
  "db",
  "gui",
  "math",
- "physical",
+ "physic",
  "pigeon",
  "rand",
  "rust_rust",
@@ -78,7 +78,7 @@ name = "math"
 version = "0.1.0"
 
 [[package]]
-name = "physical"
+name = "physic"
 version = "0.1.0"
 
 [[package]]

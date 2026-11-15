@@ -8,7 +8,6 @@ pub mod archive;
 pub mod audio;
 pub mod foundation;
 pub mod interfaces;
-pub mod lang;
 pub mod ledger;
 pub mod mathematical;
 pub mod programs;

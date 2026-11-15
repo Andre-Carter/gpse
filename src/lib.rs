@@ -1,9 +1,13 @@
 pub mod archive;
+pub mod compiler;
 pub mod experimental;
+pub mod filesystem;
 pub mod foundation;
+pub mod lang;
 pub mod mathematical;
 pub mod metadata;
 pub mod programs;
 pub mod science;
 pub mod simulation;
 pub mod systems;
+pub mod terminal;

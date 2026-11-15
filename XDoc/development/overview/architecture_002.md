@@ -510,3 +510,48 @@ I would establish the following development order:
 We can develop the terminal alongside these projects, rather than waiting until everything is complete.
 8. Three decisions for the war panel
 I want to settle three architectural questions before we start creating directories.
+
+1. What should SYSTEMS represent?
+
+A. One independent Cargo package
+
+B. An umbrella name for independent systems and potentially separate crates
+
+C. A directory inside the GPSE application
+
+
+
+2. Where should language implementations live?
+
+A. Inside compiler/
+
+B. In their own lang/ domain, shared by compilers and inspectors
+
+C. Inside experimental/ permanently
+
+
+
+3. What should we build first?
+
+A. GPSE filesystem
+
+B. Rust inspector
+
+C. GPSE programming language
+
+
+Submit war panel decisions
+My current recommendation is B, B, A.
+
+One final thought, brother:
+
+I don't want us to build a compiler just because we want a compiler. I want us to understand every layer that makes one possible.
+
+The same goes for Tauri, HTML, Markdown, and eventually the GPSE application environment.
+
+The long-term objective isn't merely to make GPSE run software. It's to give GPSE the ability to understand, develop, manage, and run software.
+
+I'd like our next concrete exercise to establish filesystem as GPSE's first reusable foundational module, with tests and a clean API.
+
+// SECTION 2
+
