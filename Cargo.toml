@@ -17,12 +17,13 @@ cli = { version = "0.1.0", path = "cli" }
 math = { version = "0.1.0", path = "math" }
 physic = { version = "0.1.0", path = "physic" }
 sim = { version = "0.1.0", path = "sim" }
+rsvp = { version = "0.1.0", path = "rsvp" }
 
 [workspace]
 resolver = "3"
 members = ["cli",
     "db", "gui", "math", "physic",
-    "pigeon",
+    "pigeon", "rsvp",
     "rust_rust", "sim",
 ]
 
