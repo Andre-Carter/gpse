@@ -1621,3 +1621,49 @@ I would record that as our leading architectural proposal, not an approved stand
 One thing I'd like to debate next: should pc-0001 be assigned based on the original NIST catalogue order, or should we establish a GPSE-owned ordering and treat the NIST order purely as source metadata? That decision will affect how we initially allocate all 355 identifiers.
 
 # SECTION NINE
+
+I’ve finished reading audit 003, which is design discussion, not findings. I’m now checking the new constants_108298.rs to see what has changed in the data itself.
+
+The extra pub static is a new CONSTANTS: [&Constant; 355] catalogue array, which is good. Two entries didn’t parse cleanly, so I’m checking those and running the NIST comparison.
+
+The data is in good shape and I understand 003 now. For the first problem you named, the exact unit spellings, I need to rebuild the unit inventory my earlier run produced.
+
+Audit 003 is design discussion rather than findings, and it’s more settled-looking than it is. It reads as a separate conversation with proposals, and a few conflict. Identifiers go from hierarchical (physical.constant.speed_of_light) to sequential (pc-0001). Units are “preserve symbols” in one section but spelled out in its own examples. Nothing in it is decided until you decide it.
+
+Where the file stands
+
+Data: all four NIST fields match for all 355 entries, including #107, which is now fixed.
+Catalogue: CONSTANTS holds 355 references, in declaration order, with no duplicates.
+Uncertainty: the new enum is in use (81 Exact, 274 Known), and NotProvided and NotApplicable are unused so far.
+Symbols: 7 of 355 are filled, in two styles. Five are plain (k, e, G, h, c), and two are LaTeX-wrapped (r"\(m_u\)", r"\(N_A\)"). That’s a later problem.
+
+Order, one at a time: (1) unit spelling, (2) apply it to names and finish the small name defects, (3) symbols, (4) identifiers, (5) record structure and provenance. That puts units first, as you wanted. Audit 003 puts identity first, but units only affect names.
+
+Problem 1: exact unit spellings
+
+These are my spellings, from what I know of the BIPM SI Brochure and NIST SP 811. I can’t open either from here, so please check each against the primary source before approving.
+
+Symbol	Spelled	NIST names using it
+MeV	megaelectronvolt	13
+eV	electronvolt	8
+GeV	gigaelectronvolt	1
+K	kelvin	10
+T	tesla	11
+Hz	hertz	4
+MHz	megahertz	6
+kPa	kilopascal	6
+J	joule	1
+u	unified atomic mass unit	10
+fm	femtometer	1
+
+Prefixes join the unit with no hyphen or space, so mega-electronvolt (#77, #342) is wrong. Unit names are lowercase even when named after a person. Products use a space: megaelectronvolt femtometer.
+
+Five decisions inside this problem
+
+electronvolt or electron volt? SI style is one word. NIST’s own table uses two in 15 names (the ...-electron volt relationship ones). If you keep a separate source-name field for NIST’s exact wording, canonical names can use SI spelling and nothing is lost. Without that field, the dataset carries both spellings.
+atomic mass unit versus unified atomic mass unit. NIST uses the short form in 14 relationship names and the long form once (#348). Both denote the same value, 1.66053906892e-27 kg. If u becomes the long form, you have two spellings of one unit unless the 14 change too.
+meter. NIST writes the US spelling in all 17 names that use it (0 metre). I’d keep meter and femtometer.
+c is not a unit. It appears in MeV/c and (GeV/c^2)^-2 as the speed of light. Keep it as c: megaelectronvolt per c.
+hartree is lowercase as a unit (NIST: hartree-joule relationship) but capitalized in Hartree energy, which names the constant. I’d keep NIST’s case in both.
+
+Which of these would you like to settle first? And could you attach your nist_physical_constants conventions file? It still hasn’t come through, so I haven’t seen what you wrote there.
