@@ -1,11 +1,11 @@
-use std::f32::consts::E;
+use core::f32;
 use std::time::{Duration, SystemTime};
 use std::thread::sleep;
 
 fn main() {
     let words: Vec<&str> = GPSE_TECHNICAL_ESSAY.split_whitespace().collect();
 
-    let now = SystemTime::now();
+    let now: SystemTime = SystemTime::now();
 
     sleep(Duration::new(1, 0));
     match now.elapsed() {
