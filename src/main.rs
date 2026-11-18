@@ -1,4 +1,6 @@
 // IMPORTS
+use std::fs;
+use std::io;
 
 // COMMAND SYSTEMS
 use gpse::experimental::systems::command::kernal::dispatch::experimental_command_system;
@@ -27,6 +29,17 @@ fn main() {
     println!();
 
     println!("{:?}", add_u8(u8::MAX, 1));
+
+    // TEST HTML
+
+    fn html() -> io::Result<()> {
+
+        let html = fs::read_to_string("test.html")?;
+
+        println!("{html}");
+
+        Ok(())
+    }
 
     // End of Tests (Implementation Phase)
 
